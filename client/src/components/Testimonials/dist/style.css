@@ -1,0 +1,29 @@
+.testimonials {
+  background-color: #f4f4f4;
+}
+.testimonials .card {
+  border-radius: 0;
+  box-shadow: rgba(0, 0, 0, 0.1) 5px 1px 5px;
+}
+.testimonials .card-body .card-text {
+  font-family: "Open-Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  color: #727272;
+}
+.testimonials .card-footer {
+  border: none;
+  background-color: inherit;
+}
+.testimonials .card-footer .card-img-top {
+  width: 40%;
+}
+.testimonials .card-footer .card-text {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+}

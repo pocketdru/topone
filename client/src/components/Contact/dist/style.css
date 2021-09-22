@@ -1,0 +1,147 @@
+.faqPage #contact {
+  height: fit-content;
+  padding-bottom: 2rem;
+}
+
+.contact-background {
+  background-color: transparent;
+}
+
+#contact {
+  background: linear-gradient(-45deg, #479528, #4f844f, #6BAA53, #3F8624);
+  background-size: 400% 400%;
+  animation: gradient 7s ease infinite;
+}
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+#contact .card .img-fluid {
+  padding-top: 0.75rem;
+  float: left;
+  opacity: 0.6;
+  width: 15%;
+}
+#contact .card-body {
+  padding: 1.25rem 0rem;
+}
+#contact .card, #contact .list-group, #contact .list-group-item {
+  background: inherit;
+  border: none;
+}
+#contact .card-body .list-group #header {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+#contact .card-body .list-group .list-group-item {
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  padding: 0.75rem 0.75rem;
+  font-size: 11px;
+}
+#contact .align-self-center .btn {
+  margin: 0 auto;
+}
+#contact .align-self-center .btn {
+  background-color: #599F3D;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+#contact .align-self-center .btn:hover {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  top: -1px;
+}
+#contact .align-self-center .btn:active {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  top: -2px;
+}
+@media (max-width: 769px) {
+  #contact .card-deck .card .img-fluid {
+    width: 11%;
+  }
+  #contact .card-deck .card-body .list-group #header {
+    font-size: 10px;
+  }
+  #contact .card-deck .card-body .list-group .list-group-item {
+    font-size: 9px;
+    padding: 0.25rem 0rem 0.25rem 0.5rem;
+  }
+  #contact .card-deck .btn {
+    font-size: 7px;
+  }
+}
+@media (max-width: 640px) {
+  #contact .card-deck {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+  #contact .card-deck .card {
+    margin: 0px;
+  }
+}
+@media (max-width: 575px) {
+  #contact .card-deck {
+    display: flex;
+  }
+  #contact .card-deck .card-body {
+    display: flex;
+    flex-direction: row;
+  }
+  #contact .card-deck .card {
+    flex: auto;
+    width: 100%;
+  }
+  #contact .card-deck .card .img-fluid {
+    width: 20px;
+    height: 32px;
+  }
+  #contact .card-deck .card .btn {
+    width: inherit;
+  }
+}
+@media (max-width: 414px) {
+  #contact .card-deck {
+    padding-top: 0.5rem;
+  }
+  #contact .card .card-body {
+    display: block;
+    padding: 0rem 0rem 0rem 0rem;
+  }
+  #contact .card-deck .card .img-fluid {
+    width: 17px;
+    height: 29px;
+  }
+}
+@media (max-width: 320px) {
+  #contact .card-deck .card .img-fluid {
+    width: 13px;
+    height: 25px;
+  }
+  #contact .card-deck .card-body .list-group #header {
+    font-size: 8px;
+  }
+  #contact .card-deck .card-body .list-group .list-group-item {
+    font-size: 7px;
+    padding: 0.25rem 0rem 0.25rem 0.5rem;
+  }
+}

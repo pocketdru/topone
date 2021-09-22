@@ -1,0 +1,64 @@
+.faqPage {
+  background: url("../../assets/images/fullFaq/2.jpg");
+}
+.faqPage .nav-background {
+  position: static;
+}
+
+.siteMap .container {
+  background-color: #f9f8f4;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+.siteMap .container #contact {
+  margin-top: 0rem;
+}
+.siteMap .container #contact .card-deck {
+  display: block;
+}
+.siteMap .container #contact .btn {
+  background-color: #599F3D;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+.siteMap .container #contact .btn:hover {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  top: -1px;
+}
+.siteMap .container #contact .btn:active {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  top: -2px;
+}
+.siteMap .container #contact .btn {
+  display: block;
+  width: fit-content;
+  margin: 0.25rem auto;
+}
+@media (max-width: 991px) {
+  .siteMap .container #contact .card {
+    margin: 0rem;
+  }
+}
+@media (max-width: 767px) {
+  .siteMap .container #contact {
+    padding: 0rem;
+  }
+  .siteMap .container #contact .card-deck {
+    display: flex;
+  }
+  .siteMap .container #contact .card-deck .card-body {
+    padding: 1.25rem 0rem 0rem 0rem;
+  }
+}
+@media (max-width: 640px) {
+  .siteMap .container #contact {
+    padding: 0rem;
+  }
+}

@@ -1,0 +1,80 @@
+#faq {
+  background-color: #f4f4f4; }
+  @media (max-width: 2000px) {
+    #faq .card-title {
+      margin-top: 3rem; } }
+  @media (max-width: 1200px) {
+    #faq .card-title {
+      margin-top: 2rem;
+      font-size: 0.75rem; } }
+  @media (max-width: 992px) {
+    #faq .card-title {
+      margin-top: 0.5rem; } }
+  @media (max-width: 768px) {
+    #faq .card-title {
+      margin-top: 0.25rem;
+      font-size: 0.6rem; }
+    #faq .btn {
+      font-size: 8px !important; } }
+  @media (max-width: 576px) {
+    #faq .card-group {
+      display: flex; }
+    #faq .card-title {
+      margin-top: 0rem;
+      font-size: 0.5rem; }
+    #faq .btn {
+      font-size: 4px !important;
+      padding: 1px !important; } }
+  @media (max-width: 426px) {
+    #faq .card-group {
+      display: block; }
+      #faq .card-group .card-title {
+        margin-top: 2rem;
+        font-size: 1rem; }
+    #faq .second-row:nth-last-child(-n+3) {
+      display: none; }
+    #faq .btn {
+      font-size: 8px !important; } }
+  @media (max-width: 391px) {
+    #faq .card-group .card-title {
+      margin-top: 0rem;
+      font-size: 0.75rem; }
+    #faq .btn {
+      padding: 2px 5px !important; } }
+  @media (max-width: 375px) {
+    #faq .card-group .card-title {
+      margin-top: 0.75rem;
+      font-size: 0.75rem; } }
+  #faq .card, #faq .card-group, #faq .card-img {
+    border: none;
+    border-radius: 0; }
+  #faq .card-img-overlay {
+    background-color: rgba(80, 161, 48, 0.3); }
+    #faq .card-img-overlay .card-title {
+      text-align: center;
+      font-family: Montserrat;
+      color: #f9f8f4;
+      text-transform: uppercase;
+      font-weight: 700; }
+    #faq .card-img-overlay .btn {
+      width: fit-content; }
+    #faq .card-img-overlay .btn {
+      background-color: #599F3D;
+      font-family: Montserrat;
+      color: #f9f8f4;
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 13px; }
+    #faq .card-img-overlay .btn:hover {
+      background-color: #f9f8f4;
+      color: #599F3D;
+      position: relative;
+      top: -1px; }
+    #faq .card-img-overlay .btn:active {
+      background-color: #f9f8f4;
+      color: #599F3D;
+      position: relative;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+      top: -2px; }
+
+/*# sourceMappingURL=style.css.map */

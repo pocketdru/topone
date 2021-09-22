@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url("./fonts/Montserrat/Montserrat-Regular.ttf") format("truetype");
+  font-weight: normal; }
+@font-face {
+  font-family: 'Montserrat';
+  src: url("./fonts/Montserrat/Montserrat-Black.ttf") format("truetype");
+  font-weight: bold; }
+@font-face {
+  font-family: 'Open Sans';
+  src: url("./fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype");
+  font-weight: bold; }
+@font-face {
+  font-family: 'Open Sans';
+  src: url("./fonts/Open_Sans/OpenSans-Light.ttf") format("truetype");
+  font-weight: lighter; }
+@font-face {
+  font-family: 'Open Sans';
+  src: url("./fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
+  font-weight: normal; }
+
+/*# sourceMappingURL=fonts.css.map */

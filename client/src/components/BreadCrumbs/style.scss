@@ -1,0 +1,14 @@
+@import "../../main.scss";
+.breadcrumb {
+    padding: 0.25rem 1rem;
+    margin: 0rem;
+        background-color: rgba(71, 149, 40, 0.7);
+        .breadcrumb-item a {
+        @include Open-Sans-par();
+        }
+        .breadcrumb-item.active {
+            @include Open-Sans-par();
+            color: #6c757d;
+        }
+
+}

@@ -1,0 +1,29 @@
+@import "../../main.scss";
+.footer {
+    background-color: #479528;
+    .nav .nav-link, .nav-item {
+        @include Open-Sans-par;
+        font-size: 11px;
+    }
+    .card-img-top {
+        width: 20%;
+    }
+    @media (max-width: 769px) {
+         .align-items-end {
+            flex-wrap: nowrap;
+            .nav-item, .nav-link {
+            font-size: 8px;
+            }
+        }
+    }
+    @media (max-width: 500px) {
+        .col-md-3 {
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+        .nav-item, .nav-link {
+            text-align: center;
+            padding: .5rem 0rem;
+        }
+    }
+}

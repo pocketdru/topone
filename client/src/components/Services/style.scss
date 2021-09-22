@@ -1,0 +1,87 @@
+@import "../../main.scss";
+
+.services {
+    @keyframes spin {
+        from {transform:rotate(0deg);}
+        to {transform:rotate(360deg);}
+      }
+    background-color: #f4f4f4;
+    .card-deck {
+        margin: 1rem;
+    }
+    .card-body {
+        padding-bottom: 0rem;
+        }
+    .card {
+        transition: top ease 0.5s;
+        border: 0px;
+        box-shadow: rgba(0, 0, 0, 0.1) 5px 1px 5px;
+    }
+    .card:hover {
+        transition: top ease 0.5s;
+        top: -10px;
+        position: relative;
+        box-shadow: rgba(55, 138, 72, 0.322) 10px 10px 5px;
+    }
+    .card-title.title-steps {
+        @include Component-title();
+    }
+    .card-title {
+        @include Montserrat-title();
+        color: #000;
+        font-size: 15px;
+    }
+    .card-text {
+        @include Open-Sans-par();
+        color: #000;
+    }
+    .card-footer {
+        border: none;
+        background: inherit;
+        padding: 0px;
+    }
+    .dollars {
+        margin-bottom: 0px;
+        display: inline;
+        color: #599F3D;
+    }
+    .tire {
+        padding: 1.25rem;
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        align-items: baseline;
+        animation: spin 2s linear infinite;
+        width: 70px;
+        height: 70px;
+    }
+    @media (max-width: 640px) {
+        .card-body {
+        padding: 0.5rem;
+        }
+        .tire {
+            width: 35px;
+            height: 35px;
+            padding: 0.5rem;
+        }
+    }
+    @media (max-width: 575px) {
+        .card-deck {
+            margin: 0px!important;
+            display: flex;
+            flex-wrap: wrap;
+          
+        .card {
+            flex: auto;
+            width: 40%;
+            margin: 0.25rem;
+            }
+        }
+        .card-title {
+            font-size: 11px
+        }
+        .card-text {
+            font-size: 9px;
+        }
+    }
+}

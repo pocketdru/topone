@@ -1,0 +1,47 @@
+@import "../../main.scss";
+
+.steps {
+    background-color: #f4f4f4;
+    .card-title.title-steps {
+        @include Component-title();
+    }
+    .card {
+        overflow: hidden;
+        background-color: inherit;
+        border: none;
+    }
+    .card-title {
+        @include Montserrat-title();
+        color: #000;
+    }
+    .card-text {
+        @include Open-Sans-par();
+        color: #000;
+    }
+    .details {
+        padding: 1rem;
+        margin-top: 2rem;
+        border-left: 5px solid #599F3D;
+    }
+    .fw-bold {
+        font-weight: bold;
+    }
+    .img-fluid {
+        padding-top: 2rem;
+        width: 80%;
+    }
+    .link {
+        color: #599F3D;
+    }
+    @media (max-width: 769px) {
+        .card-body {
+            padding: 0.25rem;
+        }
+        .card-title {
+            font-size: 11px;
+         }
+         .card-text {
+             font-size: 9px;
+         }
+    }
+}

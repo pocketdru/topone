@@ -1,0 +1,106 @@
+#email {
+  background-color: #ffffff;
+}
+@media (max-width: 769px) {
+  #email .container .card-title {
+    font-size: 18px !important;
+    margin-top: 0px !important;
+  }
+}
+#email .container {
+  background-color: #f4f4f4;
+}
+#email .container .card-title {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+}
+#email .container .contact-form {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+}
+#email .container .contact-form .form-group {
+  padding: 1rem 2rem;
+}
+#email .container .contact-form .form-group label {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+  color: #969696;
+}
+#email .container .contact-form .form-group input.form-control {
+  background-color: #ffffff;
+  border: 1px solid #d9d9d9;
+  border-radius: 0;
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  color: #c7c7c7;
+}
+#email .container .contact-form .form-group .form-control:focus {
+  color: #495057;
+  background-color: #fff;
+  border-color: #0d5195;
+  box-shadow: 10px 10px 2px 1px rgba(0, 0, 255, 0.2);
+}
+#email .container .contact-form .form-group textarea {
+  display: block;
+  padding: 1rem;
+  width: 100%;
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  color: #c7c7c7;
+}
+#email .container .contact-form .btn {
+  background-color: #599F3D;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+#email .container .contact-form .btn:hover {
+  background-color: #f9f8f4;
+  color: #599F3D;
+}
+#email iframe {
+  height: 700px;
+}
+
+.modal-content {
+  background: #f4f4f4;
+}
+.modal-content .modal-title {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #969696;
+}
+.modal-content .modal-body {
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  color: #969696;
+}
+.modal-content .btn {
+  background-color: #599F3D;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+.modal-content .btn:hover {
+  background-color: #f9f8f4;
+  color: #599F3D;
+}

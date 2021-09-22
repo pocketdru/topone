@@ -1,0 +1,155 @@
+.jumbotron-carousel {
+  padding-bottom: 12rem;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url("../../assets/images/jumbotron/2.webP");
+}
+.jumbotron-carousel .jumbotron {
+  margin-bottom: 0;
+  background: none;
+}
+.jumbotron-carousel .carousel-caption {
+  position: inherit;
+}
+.jumbotron-carousel .nav {
+  justify-content: flex-end;
+}
+.jumbotron-carousel .nav .nav-link a, .jumbotron-carousel .nav .btn a {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+.jumbotron-carousel .nav .btn {
+  background-color: #599F3D;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+.jumbotron-carousel .nav .btn:hover {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  top: -1px;
+}
+.jumbotron-carousel .nav .btn:active {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  top: -2px;
+}
+.jumbotron-carousel .nav .nav-link a:hover {
+  text-shadow: 1px 1px 3px #514646;
+}
+.jumbotron-carousel .nav .nav-link a.btn:hover {
+  text-shadow: none;
+}
+.jumbotron-carousel .text-right {
+  text-transform: uppercase;
+}
+.jumbotron-carousel .text-right h1 {
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  font-size: 40px;
+  margin-top: 8rem;
+}
+.jumbotron-carousel .text-right p {
+  margin-bottom: 8rem;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 13px;
+}
+@media (max-width: 2000px) {
+  .jumbotron-carousel {
+    padding-bottom: 30rem;
+  }
+}
+@media (max-width: 1600px) {
+  .jumbotron-carousel {
+    padding-bottom: 24rem;
+  }
+}
+@media (max-width: 992px) {
+  .jumbotron-carousel {
+    background-attachment: scroll;
+    background-position: 25% center;
+    padding-bottom: 4rem;
+  }
+}
+@media (max-width: 769px) {
+  .jumbotron-carousel {
+    padding-bottom: 0rem;
+    background-image: url("../../assets/images/jumbotron/mobile-1.webP");
+  }
+  .jumbotron-carousel .jumbotron .text-right h1 {
+    font-size: 30px;
+    margin-top: 4rem;
+  }
+  .jumbotron-carousel .home-mobile {
+    display: none;
+  }
+  .jumbotron-carousel .offset-3 .carousel-caption .nav {
+    flex-direction: column;
+  }
+}
+@media (max-width: 414px) {
+  .jumbotron-carousel .jumbotron {
+    padding-bottom: 0.25rem !important;
+  }
+  .jumbotron-carousel .jumbotron .text-right h1 {
+    font-size: 25px;
+  }
+  .jumbotron-carousel .text-right p {
+    margin-bottom: 2rem;
+    font-size: 10px;
+  }
+}
+@media (max-width: 376px) {
+  .jumbotron-carousel .container {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  .jumbotron-carousel .container .offset-3 {
+    margin-left: 11%;
+  }
+  .jumbotron-carousel .container .offset-3 .carousel-caption {
+    padding-bottom: 0px;
+  }
+  .jumbotron-carousel .container .offset-3 .carousel-caption .nav {
+    flex-direction: column;
+    margin-top: 1rem;
+  }
+  .jumbotron-carousel .container .offset-3 .jumbotron .text-right p {
+    display: none;
+  }
+  .jumbotron-carousel .navbar {
+    padding: 0.5rem 0.25rem;
+  }
+  .jumbotron-carousel .jumbotron .text-right h1 {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 0rem;
+    margin-right: 0rem !important;
+  }
+  .jumbotron-carousel .jumbotron .text-right p {
+    font-size: 10px;
+  }
+  .jumbotron-carousel .btn {
+    font-size: 11px !important;
+    padding: 0.5rem 0.75rem !important;
+  }
+}
+@media (max-width: 321px) {
+  .jumbotron-carousel .nav-background .navbar-brand {
+    right: 33%;
+  }
+}

@@ -1,0 +1,41 @@
+@mixin Montserrat-title {
+    font-family: Montserrat;
+    color: #f9f8f4;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+@mixin Open-Sans-par {
+    font-family: "Open Sans";
+    font-weight: 300;
+    color: #f9f8f4;
+    font-size: 13px;
+}
+
+@mixin btn {
+    .btn {
+        background-color: #599F3D;
+        @include Montserrat-title();
+        font-size: 13px; 
+       }
+    .btn:hover {
+        background-color:#f9f8f4;
+        color: #599F3D;
+        position: relative;
+        top: -1px;
+    }
+    .btn:active {
+        background-color:#f9f8f4;
+        color: #599F3D;
+        position: relative;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+        top: -2px;
+    }
+}
+
+@mixin Component-title {
+    @include Montserrat-title();
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+}

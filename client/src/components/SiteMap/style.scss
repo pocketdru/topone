@@ -1,0 +1,49 @@
+@import "../../main.scss";
+
+.faqPage {
+    background: url("../../assets/images/fullFaq/2.jpg");
+    .nav-background {
+        position: static;
+    }
+}
+
+.siteMap .container{
+    background-color: #f9f8f4;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+    #contact {
+        margin-top: 0rem;
+        .card-deck {
+            display: block;
+        }
+        @include btn();
+        .btn {
+            display: block;
+            width: fit-content;
+            margin: 0.25rem auto;
+        }
+    }
+    @media (max-width: 991px) {
+        #contact {
+            .card {
+                margin: 0rem;
+            }
+        }
+    }
+    @media (max-width: 767px) {
+        #contact {
+            padding: 0rem;
+             .card-deck {
+            display: flex;
+            .card-body {
+                padding: 1.25rem 0rem 0rem 0rem;
+            }
+             }
+        }    
+    }
+    @media (max-width: 640px) {
+        #contact {
+            padding: 0rem;
+        }
+    }
+}
+

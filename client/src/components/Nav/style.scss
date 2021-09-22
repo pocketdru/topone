@@ -1,0 +1,63 @@
+@import "../../main.scss";
+.nav-background {
+    @keyframes spin {
+        from {transform:rotate(0deg);}
+        to {transform:rotate(360deg);}
+      }
+    background: transparent;
+    position: absolute;
+    width: 100%;
+    img {
+        width: 110px;
+        height: 110px;
+    }
+    .navbar-brand {
+        top: 10px;    
+        background-color: rgba(71, 149, 40, 0.9);
+        z-index: 15;
+    }
+    .navbar-brand a {
+        @include Montserrat-title();
+        line-height: 80%;
+        font-size: 20px;
+        text-shadow: 1px 1px 3px #514646;
+        text-align: center;
+        span.transportation {
+            font-size: 50%;
+        }
+    }
+    .navbar-brand a:hover {
+        text-decoration: none;
+    }
+    @media (max-width: 414px) {
+        img.d-block {
+            margin-top: 0.25rem!important;
+            height: 55px;
+            width: 55px;
+        }
+        .navbar-brand.position-absolute {
+            padding: 0.5rem 1rem 0rem 1rem!important;
+        }
+    }
+    @media (max-width: 376px) {
+        .container {
+            padding-right: 0px;
+            padding-left: 0px;
+        }
+        .navbar-brand {
+            right: 35%;
+        a.d-block {
+            line-height: 16px;
+            font-size: 14px;
+            span.transportation {
+                font-size: 50%;
+            }
+            }
+        }
+    }
+    @media (max-width: 340px) {
+        .navbar-brand {
+            right: 32%;
+        }
+    }
+}

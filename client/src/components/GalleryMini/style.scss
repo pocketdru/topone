@@ -1,0 +1,75 @@
+@import "../../main.scss";
+
+    @media (max-width: 1600px) {
+        .galleryMini .card {
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        }
+        .galleryMini .card-deck {
+            margin-top: 3rem;    
+            margin-left: -8em;
+        }
+    }
+    @media (max-width: 992px) {
+        .galleryMini .card {
+            margin-top: 0.75rem;
+            margin-bottom: 0.75rem;
+        }
+    }
+    @media (max-width: 769px) {
+        .galleryMini .card {
+            margin-top: 0rem;
+            margin-bottom: 0rem;
+        }
+        .galleryMini .card-deck {
+        margin-top: 0rem;
+           margin-left: 0rem; 
+           display: flex;
+        }
+    }
+
+.galleryMini {
+    .card {
+        border: none;
+    }
+    .card-background {
+        background-color: #599F3D;
+        .card {
+            background-color: inherit;
+            .card-title {
+                @include Montserrat-title();
+                font-size: 24px;
+                text-align: center;
+                text-shadow: rgba(0, 0, 0, 0.5) 5px 1px 5px;
+            }
+            .btn {
+                @include Montserrat-title();
+                font-size: 13px;
+                color: #000000;
+                margin: auto;
+                display: block;
+                background-color: #f9f8f4;    
+                border-radius: 0;   
+                box-shadow: rgba(0, 0, 0, 0.5) 5px 1px 5px;
+            }
+
+            .btn:hover {
+                color: #f9f8f4;
+                background-color: #000000;
+                box-shadow: rgba(0, 0, 0, 0.1) 5px 1px 5px;
+            }
+        }
+    }
+
+    .card-deck {
+        .card {
+        box-shadow: rgba(0, 0, 0, 0.5) 5px 1px 5px;
+        margin: 0em 1em;
+        border-radius: 0;
+            .card-img-top {
+                border-top-left-radius: 0;
+                border-top-right-radius: 0;
+            }
+        }
+    }
+}

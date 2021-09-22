@@ -1,0 +1,46 @@
+.steps {
+  background-color: #f4f4f4; }
+  .steps .card-title.title-steps {
+    font-family: Montserrat;
+    color: #f9f8f4;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #000000;
+    font-size: 24px;
+    text-align: center; }
+  .steps .card {
+    overflow: hidden;
+    background-color: inherit;
+    border: none; }
+  .steps .card-title {
+    font-family: Montserrat;
+    color: #f9f8f4;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #000; }
+  .steps .card-text {
+    font-family: "Open Sans";
+    font-weight: 300;
+    color: #f9f8f4;
+    font-size: 13px;
+    color: #000; }
+  .steps .details {
+    padding: 1rem;
+    margin-top: 2rem;
+    border-left: 5px solid #599F3D; }
+  .steps .fw-bold {
+    font-weight: bold; }
+  .steps .img-fluid {
+    padding-top: 2rem;
+    width: 80%; }
+  .steps .link {
+    color: #599F3D; }
+  @media (max-width: 769px) {
+    .steps .card-body {
+      padding: 0.25rem; }
+    .steps .card-title {
+      font-size: 11px; }
+    .steps .card-text {
+      font-size: 9px; } }
+
+/*# sourceMappingURL=style.css.map */

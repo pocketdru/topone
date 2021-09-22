@@ -1,0 +1,61 @@
+@import "../../main.scss";
+
+.fullFaq {
+    @media (max-width: 576px) {
+        .card-title.text-center {
+            margin-top: 2rem;
+        }
+    }
+    .card-title.title {
+        text-align: center;
+        margin-top: 3rem;
+        @include Montserrat-title();
+        color: #000000;
+    }
+    .nav-item, .flex-column .nav-item .nav-link  {
+        @include Montserrat-title();
+        color: #000000;
+        font-weight: 700;
+    }
+    .nav-item {
+        font-weight: 500;
+    }
+
+    .nav-item .active {
+        border-left: 5px solid #599F3D;
+        background-color: #ffffff;
+    }
+    .tab-pane { 
+        .card-title {
+        @include Montserrat-title();
+        background-color: rgba(71, 149, 40, 0.7);
+        padding: 0rem 1rem;
+        }
+        .tab-paragraph {
+            @include Open-Sans-par();
+            color: #000000;
+            padding: .5rem 1rem;
+        }
+    }
+    @media (max-width: 640px) {
+        .nav-item .nav-link, .tab-pane .card-title {
+            font-size: 0.75rem;
+        }
+        .nav-tabs .nav-link {
+            font-size: 0.5rem;
+        }
+        .tab-pane .tab-paragraph {
+            font-size: 0.5rem;
+        }
+    }
+    @media (max-width: 575px) {
+        .card-title.title {
+        text-align: right;
+        }
+    }
+    @media (max-width: 375px) {
+        flex-direction: column;
+        align-content: flex-end;
+
+    }
+}

@@ -1,0 +1,91 @@
+.services {
+  background-color: #f4f4f4;
+}
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.services .card-deck {
+  margin: 1rem;
+}
+.services .card-body {
+  padding-bottom: 0rem;
+}
+.services .card {
+  transition: top ease 0.5s;
+  border: 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 5px 1px 5px;
+}
+.services .card:hover {
+  transition: top ease 0.5s;
+  top: -10px;
+  position: relative;
+  box-shadow: rgba(55, 138, 72, 0.322) 10px 10px 5px;
+}
+.services .card-title.title-steps {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  text-align: center;
+}
+.services .card-title {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000;
+  font-size: 15px;
+}
+.services .card-text {
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  color: #000;
+}
+.services .card-footer {
+  border: none;
+  background: inherit;
+  padding: 0px;
+}
+.services .dollars {
+  margin-bottom: 0px;
+  display: inline;
+  color: #599F3D;
+}
+.services .tire {
+  align-items: baseline;
+  animation: spin 2s linear infinite;
+  width: 30px;
+  height: 30px;
+}
+@media (max-width: 640px) {
+  .services .card-body {
+    padding: 0.5rem;
+  }
+}
+@media (max-width: 575px) {
+  .services .card-deck {
+    margin: 0px !important;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .services .card-deck .card {
+    flex: auto;
+    width: 40%;
+    margin: 0.25rem;
+  }
+  .services .card-title {
+    font-size: 11px;
+  }
+  .services .card-text {
+    font-size: 9px;
+  }
+}

@@ -1,0 +1,64 @@
+@media (max-width: 576px) {
+  .fullFaq .card-title.text-center {
+    margin-top: 2rem;
+  }
+}
+.fullFaq .card-title.title {
+  text-align: center;
+  margin-top: 3rem;
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+}
+.fullFaq .nav-item, .fullFaq .nav-item .nav-link {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000000;
+  font-weight: 500;
+}
+.fullFaq .nav-item .active {
+  border-left: 5px solid #599F3D;
+  background-color: #ffffff;
+}
+.fullFaq .tab-pane .card-title {
+  font-family: Montserrat;
+  color: #f9f8f4;
+  text-transform: uppercase;
+  font-weight: 700;
+  background-color: rgba(71, 149, 40, 0.7);
+  padding: 0rem 1rem;
+}
+.fullFaq .tab-pane .tab-paragraph {
+  font-family: "Open Sans";
+  font-weight: 300;
+  color: #f9f8f4;
+  font-size: 13px;
+  color: #000000;
+  padding: 0.5rem 1rem;
+}
+@media (max-width: 640px) {
+  .fullFaq .nav-item .nav-link, .fullFaq .tab-pane .card-title {
+    font-size: 0.75rem;
+  }
+  .fullFaq .nav-tabs .nav-link {
+    font-size: 0.5rem;
+  }
+  .fullFaq .tab-pane .tab-paragraph {
+    font-size: 0.5rem;
+  }
+}
+@media (max-width: 575px) {
+  .fullFaq .card-title.title {
+    text-align: right;
+  }
+}
+@media (max-width: 375px) {
+  .fullFaq {
+    flex-direction: column;
+    align-content: flex-end;
+  }
+}

@@ -1,0 +1,52 @@
+.nav-background {
+  background: transparent;
+  position: absolute;
+  width: 100%; }
+@keyframes spin {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+  .nav-background img {
+    width: 110px;
+    height: 110px; }
+  .nav-background .navbar-brand {
+    top: 10px;
+    background-color: rgba(71, 149, 40, 0.9);
+    z-index: 15; }
+  .nav-background .navbar-brand a {
+    font-family: Montserrat;
+    color: #f9f8f4;
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 80%;
+    font-size: 20px;
+    text-shadow: 1px 1px 3px #514646;
+    text-align: center; }
+    .nav-background .navbar-brand a span.transportation {
+      font-size: 50%; }
+  .nav-background .navbar-brand a:hover {
+    text-decoration: none; }
+  @media (max-width: 414px) {
+    .nav-background img.d-block {
+      margin-top: 0.25rem !important;
+      height: 55px;
+      width: 55px; }
+    .nav-background .navbar-brand.position-absolute {
+      padding: 0.5rem 1rem 0rem 1rem !important; } }
+  @media (max-width: 376px) {
+    .nav-background .container {
+      padding-right: 0px;
+      padding-left: 0px; }
+    .nav-background .navbar-brand {
+      right: 35%; }
+      .nav-background .navbar-brand a.d-block {
+        line-height: 16px;
+        font-size: 14px; }
+        .nav-background .navbar-brand a.d-block span.transportation {
+          font-size: 50%; } }
+  @media (max-width: 340px) {
+    .nav-background .navbar-brand {
+      right: 32%; } }
+
+/*# sourceMappingURL=style.css.map */

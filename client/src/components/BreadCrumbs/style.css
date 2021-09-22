@@ -1,0 +1,17 @@
+.breadcrumb {
+  padding: 0.25rem 1rem;
+  margin: 0rem;
+  background-color: rgba(71, 149, 40, 0.7); }
+  .breadcrumb .breadcrumb-item a {
+    font-family: "Open Sans";
+    font-weight: 300;
+    color: #f9f8f4;
+    font-size: 13px; }
+  .breadcrumb .breadcrumb-item.active {
+    font-family: "Open Sans";
+    font-weight: 300;
+    color: #f9f8f4;
+    font-size: 13px;
+    color: #6c757d; }
+
+/*# sourceMappingURL=style.css.map */
