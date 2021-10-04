@@ -10,7 +10,7 @@ import Steps from "../components/Steps";
 import Testimonials from "../components/Testimonials";
 import Services from "../components/Services";
 import Faq from "../components/Faq";
-// import Quote from "../components/Quote";
+import Quote from "../components/Quote";
 import Footer from "../components/Footer";
 
 class Home extends Component {
@@ -31,7 +31,7 @@ class Home extends Component {
             </section>
             <Advantages />
             <Steps />
-            {/* <Quote/> */}
+            <Quote/>
             <Testimonials/>
             <Services />
             <Faq />
