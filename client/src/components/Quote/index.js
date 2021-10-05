@@ -18,18 +18,24 @@ class Quote extends Component {
       handleFormSubmit = event => {
         event.preventDefault();
         var zipCodeToString = String(this.refs.puZip.value);
-        console.log(zones.zone_126[0]);
-        console.log(zipCodeToString.slice(0,3));
-        var areaCode = zipCodeToString.slice(0,3);
-        console.log(areaCode);
-        if (zones.zone_126[0] == areaCode) {
-            console.log("It's a zone 126!")
-        } else {
-            console.log("Wrong Area");
+        // console.log(zones.zones[0]);
+        // console.log(zipCodeToString.slice(0,3));
+        // var areaCode = zipCodeToString.slice(0,3);
+        // console.log(areaCode);
+        // if (zones.zone_126[0] == areaCode) {
+        //     console.log("It's a zone 126!")
+        // } else {
+        //     console.log("Wrong Area");
+        // }
+console.log(zones.zones[0].areaCodes.filter(checkArea));
+    
+        // for (var i=0 ; i < zones.zones.length ; i++)
+        // {
+        //     console.log(zones.zones[0].areaCodes[i].filter(checkArea));
+        // }
+        function checkArea(code) {
+            return code = 804;
         }
-        var results = [];
-        var searchField = ""
-        // console.log(slo)
         // const collections = [];
         // var newAddress ={
         //     pickUp: this.refs.puZip.value,
