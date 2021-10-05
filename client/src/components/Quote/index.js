@@ -27,6 +27,8 @@ class Quote extends Component {
         } else {
             console.log("Wrong Area");
         }
+        var results = [];
+        var searchField = ""
         // console.log(slo)
         // const collections = [];
         // var newAddress ={
