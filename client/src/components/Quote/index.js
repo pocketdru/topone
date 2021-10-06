@@ -27,14 +27,27 @@ class Quote extends Component {
         // } else {
         //     console.log("Wrong Area");
         // }
-console.log(zones.zones[0].areaCodes.filter(checkArea));
+console.log(zones.zones[0].areaCodes.lenght);
     
         // for (var i=0 ; i < zones.zones.length ; i++)
         // {
         //     console.log(zones.zones[0].areaCodes[i].filter(checkArea));
         // }
+        var keys = Object.keys(zones);
+        console.log(keys.lenght);
         function checkArea(code) {
-            return code = 804;
+            return code < 804;
+        }
+        for (var i = 0; zones.zones.length > i; i += 1) {
+            // console.log(zones.zones[i].areaCodes);
+
+            for (var k in zones.zones[i].areaCodes ) {
+                
+                console.log(zones.zones[i].areaCodes[k])
+                if (zones.zones[i].areaCodes[k] == "806") {
+                    return console.log(zones.zones[i].zone);
+                }
+            }
         }
         // const collections = [];
         // var newAddress ={
