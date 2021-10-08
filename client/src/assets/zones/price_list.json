@@ -1,0 +1,7 @@
+{
+    "prices": [
+        {"zone": "zone_102", "price" : 409},
+        {"zone": "zone_107", "price" : 456},
+        {"zone": "zone_126", "price" : 699}
+    ]
+}
