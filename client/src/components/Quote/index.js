@@ -22,7 +22,7 @@ class Quote extends Component {
         var puPrice = "";
         var delPrice = "";
         this.areaCodeGet(puAreaCode);
-        puPrice = price;
+        // puPrice = price;
         this.areaCodeGet(delAreaCode);
         // const collections = [];
         // var newAddress ={
@@ -114,7 +114,7 @@ class Quote extends Component {
                 </div>
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
-                <p>{this.state.price}</p>
+                {/* <p>{this.state.price}</p> */}
                 </div>
         </section>
     )
