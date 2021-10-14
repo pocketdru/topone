@@ -28,13 +28,12 @@ export default function QuoteEmail() {
 // }
 
 // var cars = [
-//   {make: "Acura", model: ["ILX", "MDX", "NSX", "RDX", "RLX", "TLX"]},
+//   {make: "Acura", model: [
+//     {ILX: "sedan"}, "MDX", "NSX", "RDX", "RLX", "TLX"]},
 //   {make: "Alfa Romeo", model: ["4C", "Giulia", "Giulia Quadrifoglio", "Stelvio", "Stelvio Quadrifoglio"]},
 //   {make: "Aston Martin", model: ["DB11", "DBS", "Vantage"]},
 //   {make: "Audi", model: ["A4", "A4 allroad", "A5", "A5 Sportback", "A6", "A6 allroad", "A7", "A8 L", "e-tron", "Q3", "Q5", "Q5 Sportback", "Q7", "Q8", "R8", "RS 5", "RS 5 Sportback", "RS 6", "RS 7", "RS Q8", "S4", "S5", "S5 sportback", "S6", "S7", "S8", "SQ5", "SQ5 Sportback", "SQ7", "SQ8", "TT", "TT RS", "TTS"]},
 //   {make: "Bentley", model: ["Bentayga", "Continental", "Flying Spur", "Mulsanne"]},
-
-  
 // ]
   return (
     <section id="email" animation="false">

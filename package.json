@@ -21,6 +21,7 @@
     "emailjs-com": "^3.2.0",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
+    "parse": "^3.3.1",
     "production": "0.0.2",
     "react-bootstrap": "^2.0.0-beta.4",
     "react-router-sitemap": "^1.2.0",

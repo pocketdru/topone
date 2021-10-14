@@ -1,29 +1,44 @@
 import { raw } from "body-parser";
 import React, { Component } from "react";
-import API from "../utils/Api";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
 
 import "./style.css";
+import API from "../utils/Api";
+const Parse = require('parse/node');
 
+Parse.serverURL = 'https://parseapi.back4app.com'; // This is your Server URL
+// Remember to inform BOTH the Back4App Application ID AND the JavaScript KEY
+Parse.initialize(
+  'CJjAdomSS5bVBLni5O8HKHQW3qkzo0LWxDXj7One', // This is your Application ID
+  'ZwD9iYseS8vdTTrpwyHpnN62gWs1q8Yl7Ub6vZRY', // This is your Javascript key
+  'M5H6raG8AIsbU1KZsqUcwMMdwjD4vTDWLGoMMH31' // This is your Master key (never use it in the frontend)
+);
 class Quote extends Component {
 
     componentDidMount() {
         // const apiURL = ""
     }
 
+    state = {
+        puZone: null,
+        delZoen: null,
+        puPrice: null,
+        delProce: null
+    }
       handleFormSubmit = event => {
         event.preventDefault();
-        var puZipCodeToString = String(this.refs.puZip.value);
-        var delZipCodeToString = String(this.refs.delZip.value);
-        var puAreaCode = puZipCodeToString.slice(0,3);
-        var delAreaCode = delZipCodeToString.slice(0,3);
-        console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
-        var puPrice = "";
-        var delPrice = "";
-        this.areaCodeGet(puAreaCode);
+        this.api();
+        // var puZipCodeToString = String(this.refs.puZip.value);
+        // var delZipCodeToString = String(this.refs.delZip.value);
+        // var puAreaCode = puZipCodeToString.slice(0,3);
+        // var delAreaCode = delZipCodeToString.slice(0,3);
+        // console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
+        // var puPrice = "";
+        // var delPrice = "";
+        // this.areaCodeGet(puAreaCode);
         // puPrice = price;
-        this.areaCodeGet(delAreaCode);
+        // this.areaCodeGet(delAreaCode);
         // const collections = [];
         // var newAddress ={
         //     pickUp: this.refs.puZip.value,
@@ -34,6 +49,31 @@ class Quote extends Component {
         // this.setState({address: newAddress})
         // this.apiCall();
 
+    }
+
+    api = () => {
+        (async () => {
+            const Car_Model_List_BMW = Parse.Object.extend('Car_Model_List_BMW');
+            const query = new Parse.Query(Car_Model_List_BMW);
+            // You can also query by using a parameter of an object
+            // query.equalTo('objectId', 'xKue915KBG');
+            try {
+              const results = await query.find();
+              for (const object of results) {
+                // Access the Parse Object attributes using the .GET method
+                const Make = object.get('Make')
+                const Year = object.get('Year')
+                const Category = object.get('Category')
+                const Model = object.get('Model')
+                console.log(Make);
+                console.log(Year);
+                console.log(Category);
+                console.log(Model);
+              }
+            } catch (error) {
+              console.error('Error while fetching Car_Model_List_BMW', error);
+            }
+          })();
     }
     areaCodeGet = (code) => {
         var code = code;
