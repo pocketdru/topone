@@ -39,22 +39,67 @@ class Quote extends Component {
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
-        var puPrice = "";
-        var delPrice = "";
-        this.areaCodeGet(puAreaCode, delAreaCode);
+
+        this.areaZoneGet(puAreaCode, delAreaCode);
         // this.areaCodeGet(delAreaCode);
-        // const collections = [];
-        // var newAddress ={
-        //     pickUp: this.refs.puZip.value,
-        //     deliivery: this.refs.delZip.value
-        // }
-        // collections.push(newAddress)
-        // console.log(newAddress);
-        // this.setState({address: newAddress})
+        const collections = [];
+        var newAddress ={
+            pickUp: this.refs.puZip.value,
+            deliivery: this.refs.delZip.value
+        }
+        collections.push(newAddress)
+        console.log(newAddress);
+        this.setState({address: newAddress})
         // this.apiCall();
 
     }
-
+   areaZoneGet = (puAreaCode, delAreaCode) => {
+       var puAreaCode = puAreaCode;
+        var delAreaCode = delAreaCode;
+        for (var i = 0; zones.zones.length > i; i += 1) {
+            for (var k in zones.zones[i].areaCodes ) {
+                // console.log(zones.zones[i].areaCodes[k])
+                if (zones.zones[i].areaCodes[k] === puAreaCode) {
+                    puAreaCode = zones.zones[i].zone;
+                    console.log(puAreaCode);
+                    // this.priceGet(code);
+                    this.setState({
+                        puZone: zones.zones[i].zone 
+                    })
+                    // return puAreaCode;
+                }   
+            }
+        }
+        for (var m = 0; zones.zones.length > m; m += 1) {
+            for (var n in zones.zones[m].areaCodes ) {
+                // console.log(zones.zones[i].areaCodes[k])
+                if (zones.zones[m].areaCodes[n] === delAreaCode) {
+                    delAreaCode = zones.zones[m].zone;
+                    console.log(delAreaCode);
+                    this.setState({
+                        delZone: zones.zones[m].zone 
+                    })
+                }   
+            }
+        }
+        console.log(this.state.puZone, this.state.delZone);
+        // this.priceGet(puAreaCode, delAreaCode);
+    }
+    priceGet = (puAreaCode, delAreaCode) => {
+        var puZone = puZone;
+        var delZone = delZone;
+        for (var i = 0; prices.prices.length > i; i += 1) {
+            if (prices.prices[i].zone === puZone) {
+                console.log(prices.prices[i].price);
+                var price = prices.prices[i].price;
+                this.setState({
+                    puPrice: prices.prices[i].price
+                })
+                return price;
+            }
+        }
+        console.log(this.state.puPrice);
+    }
     api = () => {
         (async () => {
             const Car_Model_List_BMW = Parse.Object.extend('Car_Model_List_BMW');
@@ -78,52 +123,6 @@ class Quote extends Component {
               console.error('Error while fetching Car_Model_List_BMW', error);
             }
           })();
-    }
-    areaCodeGet = (code) => {
-        var code = code;
-        for (var i = 0; zones.zones.length > i; i += 1) {
-            for (var k in zones.zones[i].areaCodes ) {
-                // console.log(zones.zones[i].areaCodes[k])
-                if (zones.zones[i].areaCodes[k] == puAreaCode) {
-                    puAreaCode = zones.zones[i].zone;
-                    // console.log(puareaCode);
-                    // this.priceGet(code);
-                    this.setState({
-                        puAreaCode: 
-                    })
-                    return puAreaCode;
-                }   
-            }
-        }
-        for (var i = 0; zones.zones.length > i; i += 1) {
-            for (var k in zones.zones[i].delAreaCode ) {
-                // console.log(zones.zones[i].areaCodes[k])
-                if (zones.zones[i].areaCodes[k] == delAreaCode) {
-                    delAreaCode = zones.zones[i].zone;
-                    // console.log(puareaCode);
-                    // this.priceGet(code);
-                    return delAreaCode;
-                }   
-            }
-        }
-        console.log(puAreaCode, delAreaCode);
-        this.priceGet(puAreaCode, delAreaCode);
-    }
-    priceGet = (puAreaCode, delAreaCode) => {
-        console.log(puAreaCode, delAreaCode);
-        var puZone = puZone;
-        var delZone = delZone;
-        for (var i = 0; prices.prices.length > i; i += 1) {
-            if (prices.prices[i].zone == puZone) {
-                console.log(prices.prices[i].price);
-                var price = prices.prices[i].price;
-                this.setState({
-                    puPrice: prices.prices[i].price
-                })
-                return price;
-            }
-        }
-        console.log(this.state.puPrice);
     }
     // apiCall = () => {
 //         console.log(this.refs.puZip.value);
