@@ -8,6 +8,12 @@ import "./style.css";
 
 class Quote extends Component {
 
+    state = {
+        puPrice: null,
+        delPrice: null,
+        puAreaCode: null, 
+        delAreaCode: null
+    }
     componentDidMount() {
         // const apiURL = ""
     }
@@ -21,9 +27,8 @@ class Quote extends Component {
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
         var puPrice = "";
         var delPrice = "";
-        this.areaCodeGet(puAreaCode);
-        // puPrice = price;
-        this.areaCodeGet(delAreaCode);
+        this.areaCodeGet(puAreaCode, delAreaCode);
+        // this.areaCodeGet(delAreaCode);
         // const collections = [];
         // var newAddress ={
         //     pickUp: this.refs.puZip.value,
@@ -35,31 +40,52 @@ class Quote extends Component {
         // this.apiCall();
 
     }
-    areaCodeGet = (code) => {
-        var code = code;
+    areaCodeGet = (puAreaCode, delAreaCode) => {
+        var puAreaCode = puAreaCode;
+        var delAreaCode = delAreaCode;
         for (var i = 0; zones.zones.length > i; i += 1) {
             for (var k in zones.zones[i].areaCodes ) {
                 // console.log(zones.zones[i].areaCodes[k])
-                if (zones.zones[i].areaCodes[k] == code) {
-                    code = zones.zones[i].zone;
+                if (zones.zones[i].areaCodes[k] == puAreaCode) {
+                    puAreaCode = zones.zones[i].zone;
                     // console.log(puareaCode);
-                    this.priceGet(code);
-                    return code;
+                    // this.priceGet(code);
+                    this.setState({
+                        puAreaCode: 
+                    })
+                    return puAreaCode;
                 }   
             }
         }
+        for (var i = 0; zones.zones.length > i; i += 1) {
+            for (var k in zones.zones[i].delAreaCode ) {
+                // console.log(zones.zones[i].areaCodes[k])
+                if (zones.zones[i].areaCodes[k] == delAreaCode) {
+                    delAreaCode = zones.zones[i].zone;
+                    // console.log(puareaCode);
+                    // this.priceGet(code);
+                    return delAreaCode;
+                }   
+            }
+        }
+        console.log(puAreaCode, delAreaCode);
+        this.priceGet(puAreaCode, delAreaCode);
     }
-    priceGet = (zone) => {
-        console.log(zone);
-        var zone = zone;
+    priceGet = (puAreaCode, delAreaCode) => {
+        console.log(puAreaCode, delAreaCode);
+        var puZone = puZone;
+        var delZone = delZone;
         for (var i = 0; prices.prices.length > i; i += 1) {
-            if (prices.prices[i].zone == zone) {
+            if (prices.prices[i].zone == puZone) {
                 console.log(prices.prices[i].price);
                 var price = prices.prices[i].price;
+                this.setState({
+                    puPrice: prices.prices[i].price
+                })
                 return price;
             }
         }
-        return price;
+        console.log(this.state.puPrice);
     }
     // apiCall = () => {
 //         console.log(this.refs.puZip.value);
@@ -114,7 +140,7 @@ class Quote extends Component {
                 </div>
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
-                {/* <p>{this.state.price}</p> */}
+                <p>{this.state.puPrice}</p>
                 </div>
         </section>
     )
