@@ -15,13 +15,16 @@ Parse.initialize(
   'M5H6raG8AIsbU1KZsqUcwMMdwjD4vTDWLGoMMH31' // This is your Master key (never use it in the frontend)
 );
 class Quote extends Component {
-
-    state = {
-        puPrice: null,
-        delPrice: null,
-        puAreaCode: null, 
-        delAreaCode: null
-    }
+    constructor(props) {
+        super(props)
+    
+        this.state = {
+            puPrice: null,
+            delPrice: null,
+            puAreaCode: null, 
+            delAreaCode: null
+        }
+      }
     componentDidMount() {
         // const apiURL = ""
     }
@@ -48,7 +51,6 @@ class Quote extends Component {
             deliivery: this.refs.delZip.value
         }
         collections.push(newAddress)
-        console.log(newAddress);
         this.setState({address: newAddress})
         // this.apiCall();
 
@@ -58,47 +60,51 @@ class Quote extends Component {
         var delAreaCode = delAreaCode;
         for (var i = 0; zones.zones.length > i; i += 1) {
             for (var k in zones.zones[i].areaCodes ) {
-                // console.log(zones.zones[i].areaCodes[k])
                 if (zones.zones[i].areaCodes[k] === puAreaCode) {
                     puAreaCode = zones.zones[i].zone;
-                    console.log(puAreaCode);
-                    // this.priceGet(code);
                     this.setState({
                         puZone: zones.zones[i].zone 
                     })
-                    // return puAreaCode;
                 }   
             }
         }
         for (var m = 0; zones.zones.length > m; m += 1) {
             for (var n in zones.zones[m].areaCodes ) {
-                // console.log(zones.zones[i].areaCodes[k])
                 if (zones.zones[m].areaCodes[n] === delAreaCode) {
                     delAreaCode = zones.zones[m].zone;
-                    console.log(delAreaCode);
                     this.setState({
                         delZone: zones.zones[m].zone 
                     })
                 }   
             }
         }
-        console.log(this.state.puZone, this.state.delZone);
-        // this.priceGet(puAreaCode, delAreaCode);
+        console.log(puAreaCode, delAreaCode);
+        this.priceforZoneGet(puAreaCode, delAreaCode);
     }
-    priceGet = (puAreaCode, delAreaCode) => {
-        var puZone = puZone;
-        var delZone = delZone;
+    priceforZoneGet = (puAreaCode, delAreaCode) => {
+        var puZone = puAreaCode;
+        var delZone = delAreaCode;
+        var puPrice = null;
+        var delPrice = null;
+        var finalPrice = null;
         for (var i = 0; prices.prices.length > i; i += 1) {
             if (prices.prices[i].zone === puZone) {
                 console.log(prices.prices[i].price);
-                var price = prices.prices[i].price;
-                this.setState({
-                    puPrice: prices.prices[i].price
-                })
-                return price;
+                 puPrice = prices.prices[i].price;
             }
         }
-        console.log(this.state.puPrice);
+        for (var m = 0; prices.prices.length > m; m += 1) {
+            if (prices.prices[m].zone === delZone) {
+                console.log(prices.prices[m].price);
+                delPrice = prices.prices[m].price;
+            }
+        }
+        if (puPrice > delPrice) {
+            finalPrice = puPrice;
+            console.log(finalPrice);
+        }
+        console.log(puPrice, delPrice);
+        console.log(finalPrice);
     }
     api = () => {
         (async () => {
