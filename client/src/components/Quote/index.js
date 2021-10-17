@@ -95,12 +95,12 @@ class Quote extends Component {
         var finalPrice;
         if (puPrice > delPrice) {
             extraCharge = (delPrice/100)*15;
-            finalPrice = ((puPrice + delPrice + extraCharge)/100)*63;
+            finalPrice = ((puPrice + delPrice + extraCharge)/100)*150;
 
             console.log(Math.round(finalPrice));
         } else if (puPrice < delPrice) {
             extraCharge = (puPrice/100)*15;
-            finalPrice = ((puPrice + delPrice + extraCharge)/100)*63;
+            finalPrice = ((puPrice + delPrice + extraCharge)/100)*134;
             console.log(Math.round(finalPrice));
             return finalPrice;
         }
