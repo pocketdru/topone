@@ -32,11 +32,14 @@ class Quote extends Component {
         event.preventDefault();
         var puZipCodeToString = String(this.refs.puZip.value);
         var delZipCodeToString = String(this.refs.delZip.value);
+        var year = String(this.refs.year.value);
+        var model = String(this.refs.model.value);
+        var make = String(this.refs.make.value);
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
 
-        this.areaZoneGet(puAreaCode, delAreaCode);
+        // this.areaZoneGet(puAreaCode, delAreaCode);
         const collections = [];
         var newAddress ={
             pickUp: this.refs.puZip.value,
@@ -44,6 +47,7 @@ class Quote extends Component {
         }
         collections.push(newAddress)
         this.setState({address: newAddress})
+        this.carApiCall(year, model, make);
         // this.milePriceApiCall();
 
     }
@@ -107,7 +111,12 @@ class Quote extends Component {
         console.log(puPrice, delPrice);
         console.log(finalPrice);
     }
-    carApiCall = () => {
+    carApiCall = (year, model, make) => {
+        var carYear = year.toLowerCase();
+        var carModel = model.toLowerCase();
+        var carMake = make.toLowerCase();
+        console.log(carYear, carModel, carMake);
+        
         (async () => {
             const Car_Model_List_BMW = Parse.Object.extend('Car_Model_List_BMW');
             const query = new Parse.Query(Car_Model_List_BMW);
@@ -121,10 +130,14 @@ class Quote extends Component {
                 const Year = object.get('Year')
                 const Category = object.get('Category')
                 const Model = object.get('Model')
-                console.log(Make);
-                console.log(Year);
-                console.log(Category);
-                console.log(Model);
+                if ((carMake === Model.toLowerCase()) && (carYear = Year)) {
+                    console.log(Category);
+                    return;
+                }
+                // console.log(Make);
+                // console.log(Year);
+                // console.log(Category);
+                // console.log(Model);
               }
             } catch (error) {
               console.error('Error while fetching Car_Model_List_BMW', error);
@@ -194,6 +207,18 @@ class Quote extends Component {
                 <div className="form-group">
                     <label htmlFor="exampleInputPassword1">delivery zip</label>
                     <input ref="delZip" type="text" className="form-control" id="exampleInputPassword1" placeholder="delivery zip"/>
+                </div>
+                <div className="form-group">
+                <label htmlFor="exampleInputPassword1">year</label>
+                    <input ref="year" type="text" className="form-control" id="exampleInputPassword1" placeholder="year"/>
+                </div>
+                <div className="form-group">
+                <label htmlFor="exampleInputPassword1">model</label>
+                    <input ref="model" type="text" className="form-control" id="exampleInputPassword1" placeholder="year"/>
+                </div>
+                <div className="form-group">
+                <label htmlFor="exampleInputPassword1">make</label>
+                    <input ref="make" type="text" className="form-control" id="exampleInputPassword1" placeholder="car"/>
                 </div>
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
