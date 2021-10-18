@@ -1,7 +1,0 @@
-{
-    "cars": [
-        {"make": "Acura", "body": [
-            {"sedan": [ "CSX", "EL", "ILX", "Legend", "RL", "RLX", "TL", "TLX", "TSX"]}
-        ]}
-    ]
-}

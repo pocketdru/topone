@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
+import * as XLSX  from "xlsx"; 
 import "./style.css";
 
 const Parse = require('parse/node');
@@ -23,12 +24,13 @@ class Quote extends Component {
         }
       }
     state = {
+        year: null,
         puZone: null,
         delZoen: null,
         puPrice: null,
         delProce: null
     }
-      handleFormSubmit = event => {
+    handleFormSubmit = event => {
         event.preventDefault();
         var puZipCodeToString = String(this.refs.puZip.value);
         var delZipCodeToString = String(this.refs.delZip.value);
@@ -118,8 +120,8 @@ class Quote extends Component {
         console.log(carYear, carModel, carMake);
         
         (async () => {
-            const Car_Model_List_BMW = Parse.Object.extend('Car_Model_List_BMW');
-            const query = new Parse.Query(Car_Model_List_BMW);
+            const Car_Model_List = Parse.Object.extend('Car_Model_List');
+            const query = new Parse.Query(Car_Model_List);
             // You can also query by using a parameter of an object
             // query.equalTo('objectId', 'xKue915KBG');
             try {
@@ -137,7 +139,7 @@ class Quote extends Component {
                 // console.log(Make);
                 // console.log(Year);
                 // console.log(Category);
-                // console.log(Model);
+                console.log(Model);
               }
             } catch (error) {
               console.error('Error while fetching Car_Model_List_BMW', error);
@@ -190,31 +192,61 @@ class Quote extends Component {
         .then(response => response.text())
         .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
         .catch(error => console.log('error', error));
-
-   this.newAddress = () => {
-        console.log("here")
     }
+    readExel = (file) => {
+        const promise = new Promise((resolve, reject) => {
+            const fileReader = new FileReader();
+            fileReader.readAsArrayBuffer(file);
+            fileReader.onload=(e)=> {
+                const bufferArray = e.target.result;
+                const wb=XLSX.read(bufferArray, {type: "buffer"});
+                const wsname = wb.SheetNames[0];
+                const ws = wb.Sheets[wsname];
+                const data = XLSX.utils.sheet_add_json(ws);
+                resolve(data);
+            }
+            fileReader.onerror((error)=> {
+                reject(error);
+            })
+        })
+        promise.then((d) => {
+            console.log(d);
+        })
     }
     render() {
+        var yearsArr = [];
+        for (let i = 2022; i >= 1991; i--) {
+            yearsArr.push(i)
+        }
+        var carModels = ["Acura", "Alfa Romeo", ""];
+
     return (
         <section className="quoute">
             <div className="container">
             <form>
                 <div className="form-group">
-                    <label htmlFor="exampleInputEmail1">pu zip code</label>
-                    <input ref="puZip" type="text" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="pick up zip"/>
+                    <label htmlFor="puZip">pu zip code</label>
+                    <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
                 </div>
                 <div className="form-group">
-                    <label htmlFor="exampleInputPassword1">delivery zip</label>
-                    <input ref="delZip" type="text" className="form-control" id="exampleInputPassword1" placeholder="delivery zip"/>
+                    <label htmlFor="delZip">delivery zip</label>
+                    <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
                 </div>
                 <div className="form-group">
-                <label htmlFor="exampleInputPassword1">year</label>
-                    <input ref="year" type="text" className="form-control" id="exampleInputPassword1" placeholder="year"/>
-                </div>
-                <div className="form-group">
-                <label htmlFor="exampleInputPassword1">model</label>
-                    <input ref="model" type="text" className="form-control" id="exampleInputPassword1" placeholder="year"/>
+                <label htmlFor="year">Year</label>
+                <select className="select-board-size" id="year" ref="year">
+                     {
+                         yearsArr.map((value, index) => {
+                            return <option key={index}>{value}</option>
+                          })
+                    }
+                </select>
+                <label htmlFor="model">Model</label>
+                <select className="select-board-size" id="model" ref="model">
+                
+                    <option value="BMW">BMW</option>
+                    <option value="Mazda">Mazda</option>
+                </select>
                 </div>
                 <div className="form-group">
                 <label htmlFor="exampleInputPassword1">make</label>
