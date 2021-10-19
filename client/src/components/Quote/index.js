@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
-import * as XLSX  from "xlsx"; 
+import * as XLSX  from "xlsx";
+import DropDown from "./dropDowns"; 
 import "./style.css";
 
 const Parse = require('parse/node');
