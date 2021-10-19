@@ -1,11 +1,10 @@
-import { func } from "prop-types";
+import $ from 'jquery';
 import React from "react";
-// const CarQuery = require("http://www.carqueryapi.com/js/jquery.min.js");
+import $
 import "./style.css";
+const { JSDOM } = require( "jsdom" );
 
 function DropDown() {
-
-
     var carquery = new CarQuery();
     carquery.init();
     carquery.setFilters( {sold_in_us:true} );
