@@ -1,9 +1,8 @@
 import React, { Component } from "react";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
-import * as XLSX  from "xlsx";
-import DropDown from "./dropDowns.jsx"; 
 import "./style.css";
+import DropDown from "./dropDowns";
 
 const Parse = require('parse/node');
 
@@ -15,15 +14,14 @@ Parse.initialize(
   'M5H6raG8AIsbU1KZsqUcwMMdwjD4vTDWLGoMMH31' // This is your Master key (never use it in the frontend)
 );
 class Quote extends Component {
-    constructor(props) {
-        super(props)
-        this.state = {
-            puPrice: null,
-            delPrice: null,
-            puAreaCode: null, 
-            delAreaCode: null
-        }
-      }
+    // constructor(props) {
+    //     super(props)
+    //     this.state = {
+    //         puPrice: null,
+    //         delPrice: null,
+    //         puAreaCode: null, 
+    //     }
+    //   }
     state = {
         year: null,
         puZone: null,
@@ -194,26 +192,6 @@ class Quote extends Component {
         .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
         .catch(error => console.log('error', error));
     }
-    readExel = (file) => {
-        const promise = new Promise((resolve, reject) => {
-            const fileReader = new FileReader();
-            fileReader.readAsArrayBuffer(file);
-            fileReader.onload=(e)=> {
-                const bufferArray = e.target.result;
-                const wb=XLSX.read(bufferArray, {type: "buffer"});
-                const wsname = wb.SheetNames[0];
-                const ws = wb.Sheets[wsname];
-                const data = XLSX.utils.sheet_add_json(ws);
-                resolve(data);
-            }
-            fileReader.onerror((error)=> {
-                reject(error);
-            })
-        })
-        promise.then((d) => {
-            console.log(d);
-        })
-    }
     render() {
         var yearsArr = [];
         for (let i = 2022; i >= 1991; i--) {
@@ -257,6 +235,7 @@ class Quote extends Component {
                 </form>
                 <p>{this.state.puPrice}</p>
                 </div>
+                <DropDown />
         </section>
     )
     }
