@@ -30,12 +30,13 @@ class Quote extends Component {
         delProce: null
     }
     handleFormSubmit = event => {
+        console.log(this.refs);
         event.preventDefault();
         var puZipCodeToString = String(this.refs.puZip.value);
         var delZipCodeToString = String(this.refs.delZip.value);
-        var year = String(this.refs.year.value);
-        var model = String(this.refs.model.value);
-        var make = String(this.refs.make.value);
+        // var year = String(this.refs.year.value);
+        // var model = String(this.refs.model.value);
+        // var make = String(this.refs.make.value);
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
@@ -48,7 +49,7 @@ class Quote extends Component {
         }
         collections.push(newAddress)
         this.setState({address: newAddress})
-        this.carApiCall(year, model, make);
+        // this.carApiCall(year, model, make);
         // this.milePriceApiCall();
 
     }
@@ -197,7 +198,7 @@ class Quote extends Component {
         for (let i = 2022; i >= 1991; i--) {
             yearsArr.push(i)
         }
-        var carModels = ["Acura", "Alfa Romeo", ""];
+
 
     return (
         <section className="quoute">
@@ -206,36 +207,15 @@ class Quote extends Component {
                 <div className="form-group">
                     <label htmlFor="puZip">pu zip code</label>
                     <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
-                </div>
-                <div className="form-group">
                     <label htmlFor="delZip">delivery zip</label>
                     <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
+                    <DropDown />
                 </div>
-                <div className="form-group">
-                <label htmlFor="year">Year</label>
-                <select className="select-board-size" id="year" ref="year">
-                     {
-                         yearsArr.map((value, index) => {
-                            return <option key={index}>{value}</option>
-                          })
-                    }
-                </select>
-                <label htmlFor="model">Model</label>
-                <select className="select-board-size" id="model" ref="model">
-                
-                    <option value="BMW">BMW</option>
-                    <option value="Mazda">Mazda</option>
-                </select>
-                </div>
-                <div className="form-group">
-                <label htmlFor="exampleInputPassword1">make</label>
-                    <input ref="make" type="text" className="form-control" id="exampleInputPassword1" placeholder="car"/>
-                </div>
+
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
                 <p>{this.state.puPrice}</p>
                 </div>
-                <DropDown />
         </section>
     )
     }

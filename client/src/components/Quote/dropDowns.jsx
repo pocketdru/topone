@@ -4,6 +4,7 @@ import "./style.css";
 
 class DropDown extends Component {
 
+    
     componentDidMount() {
     //If jQuery is being used instead of $ temporarily re-assign the variable name
     // if(typeof jQuery == 'function')
@@ -1274,11 +1275,11 @@ class DropDown extends Component {
             //    $('#cq-search-btn').click( function(){ carquery.search(); } );
     render () {
         return(
-            <div>
-            <select name="car-years" id="car-years"></select>  
-            <select name="car-makes" id="car-makes"></select> 
-            <select name="car-models" id="car-models"></select>
-            <select name="car-model-trims" id="car-model-trims"></select> 
+            <div className="dropDowns">
+            <select name="car-years" ref="year" id="car-years"></select>  
+            <select name="car-makes" ref="make" id="car-makes"></select> 
+            <select name="car-models" ref="model" id="car-models"></select>
+            <select name="car-model-trims" ref="trim" id="car-model-trims"></select> 
             </div>
         )
     }
