@@ -9,6 +9,7 @@ import Quote from "../components/Quote";
 import Testimonials from "../components/Testimonials";
 import Services from "../components/Services";
 import Faq from "../components/Faq";
+import CarsData from "../components/Reader";
 import Footer from "../components/Footer";
 
 class Home extends Component {
@@ -30,6 +31,7 @@ class Home extends Component {
             <Advantages />
             <Steps />
             <Quote/>
+            <CarsData />
             <Testimonials/>
             <Services />
             <Faq />

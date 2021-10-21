@@ -30,7 +30,7 @@ class Quote extends Component {
         delProce: null
     }
     handleFormSubmit = event => {
-        console.log(this.refs);
+        console.log(this.refs.year.value);
         event.preventDefault();
         var puZipCodeToString = String(this.refs.puZip.value);
         var delZipCodeToString = String(this.refs.delZip.value);
@@ -209,7 +209,7 @@ class Quote extends Component {
                     <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
                     <label htmlFor="delZip">delivery zip</label>
                     <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
-                    <DropDown />
+                    <DropDown handleFormSubmit={this.handleFormSubmit} />
                 </div>
 
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>

@@ -6,6 +6,7 @@ class DropDown extends Component {
 
     
     componentDidMount() {
+        console.log(this.ref)
     //If jQuery is being used instead of $ temporarily re-assign the variable name
     // if(typeof jQuery == 'function')
     // {
@@ -20,7 +21,7 @@ class DropDown extends Component {
 
     CarQuery.prototype = {
 
-        base_url: 		"https://www.carqueryapi.com/api/0.3/",
+        base_url: 		"https://www.carqueryapi.com/api/0.3.4/",
         body:		"",
         body_id:		"cq-body",
         color_ext_select_id:null,
@@ -547,9 +548,9 @@ class DropDown extends Component {
 
             //Get Car Model JSON for the selected make
         $.getJSON(this.base_url+"?callback=?", {cmd:"getTrims", make:make_id, year:-1, model:model_name, sold_in_us:this.sold_in_us, full_results:0}, function(data) {
-            
+            console.log(data);
             if(!sender.responseError(data))
-            {		
+            {		console.log(data);
                     var trims = data.Trims;
                     var ul = document.createElement('ul');
                 
@@ -1276,10 +1277,10 @@ class DropDown extends Component {
     render () {
         return(
             <div className="dropDowns">
-            <select name="car-years" ref="year" id="car-years"></select>  
-            <select name="car-makes" ref="make" id="car-makes"></select> 
-            <select name="car-models" ref="model" id="car-models"></select>
-            <select name="car-model-trims" ref="trim" id="car-model-trims"></select> 
+            <select name="car-years" ref="year" id="car-years"><option>Year</option></select>  
+            <select name="car-makes" ref="make" id="car-makes"><option>Model</option></select> 
+            <select name="car-models" ref="model" id="car-models"><option>Make</option></select>
+            <select name="car-model-trims" ref="trim" id="car-model-trims"><option>Trim</option></select> 
             </div>
         )
     }
