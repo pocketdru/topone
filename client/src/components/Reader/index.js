@@ -92,26 +92,40 @@ class Droppp extends Component {
     constructor() {
         super();
         this.state = { 
-        DDL1: []
-    }
+        DDL1: [],
+        DDL2: [],
+        selectddl: ""
+        }
     }
 
     componentDidMount() {
         this.setState({
-            DDL1: [{
-                year: "abarh",
-                year: "alfa-romeo",
-                year: "fiat",
-                year: "ford"
-            }] 
+            DDL1: [
+                {model: "alfa-romeo", DDL2: ["Saloon", "Berlina", "Fregate", "GT Coupe"]},
+                {model: "fiat", DDL2: ["Doblo", "Brava", "Panda", "Grand Break"]},
+                {model: "ford", DDL2: ["Fiesta", "Probe", "Mustang", "Capri"]}
+            ] 
         })
+    }
+    selectDDL(e) {
+        this.setState({selectddl: e.target.value});
+        this.setState({DDL2: this.state.DDL1.find( x=> x.model === e.target.value).DDL2})
     }
 
     render() {
         return (
             <div>
+                <select value={this.state.selectddl} onChange={this.selectDDL.bind(this)}>
+                    <option>Select model</option>
+                    {this.state.DDL1.map(x=> {
+                        return <option key={x.model}>{x.model}</option>
+                    })}
+                </select>
                 <select>
-                    <option>Select</option>
+                <option >Select make</option>
+                    {this.state.DDL2.map(x=> {
+                        return <option key={x}>{x}</option>
+                    })}
                 </select>
             </div>
         )
