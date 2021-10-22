@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
 import "./style.css";
-import DropDown from "./dropDowns";
+// import DropDown from "./dropDowns";
 
 const Parse = require('parse/node');
 
@@ -209,7 +209,7 @@ class Quote extends Component {
                     <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
                     <label htmlFor="delZip">delivery zip</label>
                     <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
-                    <DropDown handleFormSubmit={this.handleFormSubmit} />
+                    {/* <DropDown handleFormSubmit={this.handleFormSubmit} /> */}
                 </div>
 
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
