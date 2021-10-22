@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
 import "./style.css";
-// import DropDown from "./dropDowns";
+import DropDown from "../DropDown";
 
 const Parse = require('parse/node');
 
@@ -211,7 +211,7 @@ class Quote extends Component {
                     <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
                     {/* <DropDown handleFormSubmit={this.handleFormSubmit} /> */}
                 </div>
-
+                <DropDown />
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
                 <p>{this.state.puPrice}</p>
