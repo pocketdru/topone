@@ -9,13 +9,16 @@ class Droppp extends Component {
         DDL2: [],
         DDL3: [],
         selectYear: "",
-        selectModel: ""
+        selectModel: "",
+        carModels: [],
+        carMakes: [],
+        JsonData: JsonData
         }
     }
 
     componentDidMount() {
         // const JsonData = JsonData;
-        // console.log(JsonData);
+        console.log(JsonData);
         function findArrayElementByTitle(JsonData, model_make_id) {
             return JsonData.find((element) => {
               return element.model_make_id === model_make_id;
@@ -25,22 +28,24 @@ class Droppp extends Component {
         //     console.log(element.model_make_id);
         // }); 
         
-        var years = [];
-        for (var i=2022; i>1941; i--) {
-            years.push(i);
-        } 
+        var model = [];
+        const found  = JsonData.find(({model_make_id}) => model_make_id === "bentley");
+        var result = JsonData.filter(x => x.model_year === 2020);
+
         this.setState({
             DDL1: [
-                {"year": years, DDL2:
+                {year: "2020", DDL2:
                 [
-                    {}
+                    {model: JsonData.filter(x=>x.model_year === 2022 && x.model_make_id === "Ram")}
                 ]
             }
             ], 
         }, 
             () => {
-            console.log(this.state.DDL1[0].year);
-        })
+            // console.log(this.state.DDL1[0].DDL2[0]);
+            // console.log(this.state.DDL1[0].DDL2[0].model[0].model_make_id);
+
+        });
    //     console.log(JsonData.find(model_year => model_year > 2023   ));
 
     //     const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
@@ -81,46 +86,91 @@ class Droppp extends Component {
     //     })
     //     console.log(this.state.DDL1[0]);
     // }
-    // selectYear(e) {
-    //     console.log(e.target.value);
-    //     this.setState({selectYear: e.target.value});
-    //     this.setState({DDL2: this.state.DDL1.find( x=> x.year === e.target.value).DDL2}, () => {
-    //         for (var i = 0; i < this.state.DDL2.length; i++) {
-    //             // console.log(this.state.DDL2[i].model)
-    //         }
-    //     })
-    // }
-    // selectModel(e) {
-    //     this.setState({selectModel: e.target.value});
-    //     this.setState({DDL3: this.state.DDL2.find( x=> x.model === e.target.value).DDL3}, () => {
-    //         for (var i = 0; i < this.state.DDL3.length; i++) {
-    //             // console.log(this.state.DDL3[i])
-    //         }
-    //     })
     }
-    
+    // JsonData.filter(x=>x.model_year === 2022 && x.model_make_id === "Ram")
+    selectYear(e) {
+        var year = e.target.value
+        // console.log(year);
+        this.setState({selectYear: e.target.value});
+            const filter = this.state.JsonData.filter(x=>x.model_year == year)
+            // console.log(filter);
+            this.setState({DDL2: filter}, () => {
+                // console.log(this.state.DDL2);
+                var models = [];
+                for (var i = 0; i < this.state.DDL2.length; i++) {
+                    models.push(this.state.DDL2[i].model_make_id)
+                }
+                // console.log(models);
+                var newArray = models.filter(function(elem, pos) {
+                    return models.indexOf(elem) == pos;
+            });
+            // console.log(newArray);
+            this.setState({
+                carModels: newArray
+            }, () => {
+                console.log(this.state.carModels)
+            })
+            })
+        // this.setState({DDL2: newArray.sort()}, ()=> {
+        //     console.log(this.state.DDL2.sort());
 
-    render() {
+        // })
+    }
+
+selectModel(e) {
+    console.log(this.state.DDL2[0].model_name);
+    this.setState({selectModel: e.target.value});
+
+    const filter = this.state.DDL2.filter(x=>x.model_name == e.target.value)
+
+    this.setState({DDL3: filter}, () => {
+    console.log(this.state.DDL3);
+    var makes = [];
+    for (var i = 0; i < this.state.DDL2.length; i++) {
+        makes.push(this.state.DDL2[i].model_name)
+    }
+
+    var newArray = makes.filter(function(elem, pos) {
+        return makes.indexOf(elem) == pos;
+    
+        // console.log(this.state.selectYear, this.state.selectModel);
+        // const filter = this.state.DDL2.filter(x=>x.model_make_id === e.target.value);
+        // console.log(filter[0].model_name);
+    });
+    console.log(newArray);
+});
+    // console.log(this.state.DDL2[0].model_make_id);
+    // this.setState({DDL3: this.state.DDL2.find( x=> x.model === e.target.value).DDL3}, () => {
+    //     for (var i = 0; i < this.state.DDL3.length; i++) {
+    //         // console.log(this.state.DDL3[i])
+    //     }
+    // })
+}
+render() {
+    var years = [];
+    for (var i=2022; i>1941; i--) {
+        years.push(i);
+    } 
         return (
             <div>
-                 {/* <select value={this.state.selectYear} onChange={this.selectYear.bind(this)}>
+                 <select value={this.state.selectYear} onChange={this.selectYear.bind(this)}>
                     <option>Select Year</option>
-                    {this.DDL1.map(x=> {
+                    {years.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
-                </select> */}
-              {/*  <select value={this.state.selectModel} onChange={this.selectModel.bind(this)}>
-                <option>Select model</option>
-                    {this.state.DDL2.map(x=> {
-                        return <option key={x.model}>{x.model}</option>
-                    })}
                 </select>
-                <select>
+               <select value={this.state.selectModel} onChange={this.selectModel.bind(this)}>
+                <option>Select model</option>
+                    {this.state.carModels.map(x=> {
+                        return <option key={x}>{x}</option>
+                    })}
+                </select> 
+                {/* <select>
                 <option>Select Make</option>
                     {this.state.DDL3.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
-                </select> */}
+                </select>  */}
             </div>
         )
     }
