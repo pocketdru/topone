@@ -10,6 +10,7 @@ class Droppp extends Component {
         DDL3: [],
         selectYear: "",
         selectModel: "",
+        selectMake: "",
         carModels: [],
         carMakes: [],
         JsonData: JsonData
@@ -121,30 +122,28 @@ selectModel(e) {
     console.log(this.state.DDL2[0].model_name);
     this.setState({selectModel: e.target.value});
 
-    const filter = this.state.DDL2.filter(x=>x.model_name == e.target.value)
+    const filter = this.state.DDL2.filter(x=>x.model_make_id == e.target.value)
 
     this.setState({DDL3: filter}, () => {
     console.log(this.state.DDL3);
     var makes = [];
-    for (var i = 0; i < this.state.DDL2.length; i++) {
-        makes.push(this.state.DDL2[i].model_name)
+    for (var i = 0; i < this.state.DDL3.length; i++) {
+        makes.push(this.state.DDL3[i].model_name)
     }
 
     var newArray = makes.filter(function(elem, pos) {
         return makes.indexOf(elem) == pos;
-    
         // console.log(this.state.selectYear, this.state.selectModel);
         // const filter = this.state.DDL2.filter(x=>x.model_make_id === e.target.value);
         // console.log(filter[0].model_name);
     });
     console.log(newArray);
+    this.setState({carMakes: newArray})
 });
-    // console.log(this.state.DDL2[0].model_make_id);
-    // this.setState({DDL3: this.state.DDL2.find( x=> x.model === e.target.value).DDL3}, () => {
-    //     for (var i = 0; i < this.state.DDL3.length; i++) {
-    //         // console.log(this.state.DDL3[i])
-    //     }
-    // })
+}
+
+selectMake(e) {
+    this.setState({selectMake: e.target.value});
 }
 render() {
     var years = [];
@@ -165,12 +164,12 @@ render() {
                         return <option key={x}>{x}</option>
                     })}
                 </select> 
-                {/* <select>
+                <select value={this.state.selectMake}>
                 <option>Select Make</option>
-                    {this.state.DDL3.map(x=> {
+                    {this.state.carMakes.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
-                </select>  */}
+                </select> 
             </div>
         )
     }
