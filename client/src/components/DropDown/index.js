@@ -121,7 +121,6 @@ class Droppp extends Component {
 selectModel(e) {
     console.log(this.state.DDL2[0].model_name);
     this.setState({selectModel: e.target.value});
-
     const filter = this.state.DDL2.filter(x=>x.model_make_id == e.target.value)
 
     this.setState({DDL3: filter}, () => {
@@ -144,6 +143,10 @@ selectModel(e) {
 
 selectMake(e) {
     this.setState({selectMake: e.target.value});
+    console.log(this.state.DDL3[0].model_trim);
+    for (var i = 0; i < this.state.DDL3; i++) {
+        console.log(this.state.DDL3[i])
+    }
 }
 render() {
     var years = [];
@@ -164,7 +167,7 @@ render() {
                         return <option key={x}>{x}</option>
                     })}
                 </select> 
-                <select value={this.state.selectMake}>
+                <select value={this.state.selectMake} onChange={this.selectMake.bind(this)}>
                 <option>Select Make</option>
                     {this.state.carMakes.map(x=> {
                         return <option key={x}>{x}</option>
