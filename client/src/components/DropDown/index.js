@@ -8,11 +8,13 @@ class Droppp extends Component {
         DDL1: [],
         DDL2: [],
         DDL3: [],
+        DDL4: [],
         selectYear: "",
         selectModel: "",
         selectMake: "",
         carModels: [],
         carMakes: [],
+        carTrims: [],
         JsonData: JsonData
         }
     }
@@ -28,25 +30,6 @@ class Droppp extends Component {
         // findArrayElementByTitle(JsonData, ()=> {
         //     console.log(element.model_make_id);
         // }); 
-        
-        var model = [];
-        const found  = JsonData.find(({model_make_id}) => model_make_id === "bentley");
-        var result = JsonData.filter(x => x.model_year === 2020);
-
-        this.setState({
-            DDL1: [
-                {year: "2020", DDL2:
-                [
-                    {model: JsonData.filter(x=>x.model_year === 2022 && x.model_make_id === "Ram")}
-                ]
-            }
-            ], 
-        }, 
-            () => {
-            // console.log(this.state.DDL1[0].DDL2[0]);
-            // console.log(this.state.DDL1[0].DDL2[0].model[0].model_make_id);
-
-        });
    //     console.log(JsonData.find(model_year => model_year > 2023   ));
 
     //     const names = ['John', 'Paul', 'George', 'Ringo', 'John'];
@@ -91,35 +74,25 @@ class Droppp extends Component {
     // JsonData.filter(x=>x.model_year === 2022 && x.model_make_id === "Ram")
     selectYear(e) {
         var year = e.target.value
-        // console.log(year);
         this.setState({selectYear: e.target.value});
             const filter = this.state.JsonData.filter(x=>x.model_year == year)
-            // console.log(filter);
             this.setState({DDL2: filter}, () => {
-                // console.log(this.state.DDL2);
                 var models = [];
                 for (var i = 0; i < this.state.DDL2.length; i++) {
                     models.push(this.state.DDL2[i].model_make_id)
                 }
-                // console.log(models);
                 var newArray = models.filter(function(elem, pos) {
                     return models.indexOf(elem) == pos;
             });
-            // console.log(newArray);
             this.setState({
                 carModels: newArray
             }, () => {
                 console.log(this.state.carModels)
             })
             })
-        // this.setState({DDL2: newArray.sort()}, ()=> {
-        //     console.log(this.state.DDL2.sort());
-
-        // })
     }
 
 selectModel(e) {
-    console.log(this.state.DDL2[0].model_name);
     this.setState({selectModel: e.target.value});
     const filter = this.state.DDL2.filter(x=>x.model_make_id == e.target.value)
 
@@ -137,16 +110,35 @@ selectModel(e) {
         // console.log(filter[0].model_name);
     });
     console.log(newArray);
-    this.setState({carMakes: newArray})
+    this.setState({carMakes: newArray.sort()})
 });
 }
 
 selectMake(e) {
     this.setState({selectMake: e.target.value});
-    console.log(this.state.DDL3[0].model_trim);
-    for (var i = 0; i < this.state.DDL3; i++) {
-        console.log(this.state.DDL3[i])
-    }
+    const filter = this.state.DDL3.filter(x=>x.model_name == e.target.value)
+    console.log(filter);
+    this.setState({DDL4: filter}, () => {
+        console.log(this.state.DDL4);
+        var trims = [];
+        for (var i = 0; i < this.state.DDL4.length; i++) {
+            trims.push(this.state.DDL4[i].model_trim)
+        }
+        var newArray = trims.filter(function(elem, pos) {
+            return trims.indexOf(elem) == pos;
+            // console.log(this.state.selectYear, this.state.selectModel);
+            // const filter = this.state.DDL2.filter(x=>x.model_make_id === e.target.value);
+            // console.log(filter[0].model_name);
+    });
+    console.log(newArray);
+    this.setState({carTrims: newArray.sort()}, ()=> {
+        console.log(this.state.carTrims);
+    })
+    // for (var i = 0; i < this.state.DDL3.length; i++) {
+    //     console.log(this.state.DDL3[i].model_trim);
+    // }
+
+});
 }
 render() {
     var years = [];
@@ -172,7 +164,13 @@ render() {
                     {this.state.carMakes.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
-                </select> 
+                </select>
+                <select>
+                <option>Select trim</option>
+                    {this.state.carTrims.map(x=> {
+                        return <option key={x}>{x}</option>
+                    })}
+                </select>  
             </div>
         )
     }
