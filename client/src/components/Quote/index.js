@@ -148,11 +148,6 @@ class Quote extends Component {
         .catch(error => console.log('error', error));
     }
     render() {
-        var yearsArr = [];
-        for (let i = 2022; i >= 1991; i--) {
-            yearsArr.push(i)
-        }
-
 
     return (
         <section className="quoute">
@@ -164,7 +159,7 @@ class Quote extends Component {
                     <label htmlFor="delZip">delivery zip</label>
                     <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
                 </div>
-                {/* <DropDown /> */}
+                <DropDown />
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
                 <p>{this.state.puPrice}</p>

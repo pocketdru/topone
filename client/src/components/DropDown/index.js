@@ -73,7 +73,7 @@ selectMake(e) {
 }
 render() {
     var years = [];
-    for (var i=2022; i>1941; i--) {
+    for (var i=2022; i>1940; i--) {
         years.push(i);
     } 
         return (
