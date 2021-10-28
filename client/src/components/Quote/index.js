@@ -4,24 +4,15 @@ import prices from "../../assets/zones/price_list.json";
 import "./style.css";
 import DropDown from "../DropDown";
 
-const Parse = require('parse/node');
-
-Parse.serverURL = 'https://parseapi.back4app.com'; // This is your Server URL
-// Remember to inform BOTH the Back4App Application ID AND the JavaScript KEY
-Parse.initialize(
-  'CJjAdomSS5bVBLni5O8HKHQW3qkzo0LWxDXj7One', // This is your Application ID
-  'ZwD9iYseS8vdTTrpwyHpnN62gWs1q8Yl7Ub6vZRY', // This is your Javascript key
-  'M5H6raG8AIsbU1KZsqUcwMMdwjD4vTDWLGoMMH31' // This is your Master key (never use it in the frontend)
-);
 class Quote extends Component {
-    // constructor(props) {
-    //     super(props)
-    //     this.state = {
-    //         puPrice: null,
-    //         delPrice: null,
-    //         puAreaCode: null, 
-    //     }
-    //   }
+    constructor(props) {
+        super(props)
+        this.state = {
+            puPrice: null,
+            delPrice: null,
+            puAreaCode: null, 
+        }
+      }
     state = {
         year: null,
         puZone: null,
@@ -30,18 +21,15 @@ class Quote extends Component {
         delProce: null
     }
     handleFormSubmit = event => {
-        console.log(this.refs.year.value);
         event.preventDefault();
         var puZipCodeToString = String(this.refs.puZip.value);
         var delZipCodeToString = String(this.refs.delZip.value);
-        // var year = String(this.refs.year.value);
-        // var model = String(this.refs.model.value);
-        // var make = String(this.refs.make.value);
+
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
 
-        // this.areaZoneGet(puAreaCode, delAreaCode);
+        this.areaZoneGet(puAreaCode, delAreaCode);
         const collections = [];
         var newAddress ={
             pickUp: this.refs.puZip.value,
@@ -49,7 +37,6 @@ class Quote extends Component {
         }
         collections.push(newAddress)
         this.setState({address: newAddress})
-        // this.carApiCall(year, model, make);
         // this.milePriceApiCall();
 
     }
@@ -112,39 +99,6 @@ class Quote extends Component {
         }
         console.log(puPrice, delPrice);
         console.log(finalPrice);
-    }
-    carApiCall = (year, model, make) => {
-        var carYear = year.toLowerCase();
-        var carModel = model.toLowerCase();
-        var carMake = make.toLowerCase();
-        console.log(carYear, carModel, carMake);
-        
-        (async () => {
-            const Car_Model_List = Parse.Object.extend('Car_Model_List');
-            const query = new Parse.Query(Car_Model_List);
-            // You can also query by using a parameter of an object
-            // query.equalTo('objectId', 'xKue915KBG');
-            try {
-              const results = await query.find();
-              for (const object of results) {
-                // Access the Parse Object attributes using the .GET method
-                const Make = object.get('Make')
-                const Year = object.get('Year')
-                const Category = object.get('Category')
-                const Model = object.get('Model')
-                if ((carMake === Model.toLowerCase()) && (carYear = Year)) {
-                    console.log(Category);
-                    return;
-                }
-                // console.log(Make);
-                // console.log(Year);
-                // console.log(Category);
-                console.log(Model);
-              }
-            } catch (error) {
-              console.error('Error while fetching Car_Model_List_BMW', error);
-            }
-          })();
     }
     milePriceApiCall = () => {
         console.log(this.refs.puZip.value);
@@ -209,9 +163,8 @@ class Quote extends Component {
                     <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
                     <label htmlFor="delZip">delivery zip</label>
                     <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
-                    {/* <DropDown handleFormSubmit={this.handleFormSubmit} /> */}
                 </div>
-                <DropDown />
+                {/* <DropDown /> */}
                 <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
                 </form>
                 <p>{this.state.puPrice}</p>
