@@ -10,7 +10,6 @@ class Quote extends Component {
         this.state = {
             puPrice: null,
             delPrice: null,
-            puAreaCode: null, 
         }
       }
     state = {
@@ -18,7 +17,8 @@ class Quote extends Component {
         puZone: null,
         delZoen: null,
         puPrice: null,
-        delProce: null
+        delProce: null,
+        finalPrice: null
     }
     handleFormSubmit = event => {
         event.preventDefault();
@@ -99,54 +99,57 @@ class Quote extends Component {
         }
         console.log(puPrice, delPrice);
         console.log(finalPrice);
+        this.setState({finalPrice: finalPrice}, ()=> {
+            console.log(this.state.finalPrice);
+        })
     }
-    milePriceApiCall = () => {
-        console.log(this.refs.puZip.value);
-        console.log(this.refs.delZip.value);
+    // milePriceApiCall = () => {
+    //     console.log(this.refs.puZip.value);
+    //     console.log(this.refs.delZip.value);
 
-        var myHeaders = new Headers();
-        myHeaders.append("Host", "api.shipengine.com");
-        myHeaders.append("API-Key", "TEST_WKICVdlwCQPVDQk5EDv2pZaTX8myOr62GOOeT7jxO1c");
-        myHeaders.append("Content-Type", "application/json");
-        myHeaders.append("Access-Control-Allow-Origin", "*");
-        myHeaders.append("Origin","https://api.shipengine.com");
-        myHeaders.append("Access-Control-Allow-Credentials" , "true");
-        myHeaders.append('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
-        myHeaders.append("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-         var raw = JSON.stringify({
-            "carrier_ids": [
-              "se-656576"
-            ],
-            "from_country_code": "US",
-            "from_postal_code": "90012",
-            "to_country_code": "US",
-            "to_postal_code": "32541",
-            "weight": {
-              "value": 1,
-              "unit": "ounce"
-            },
-            "dimensions": {
-              "unit": "inch",
-              "length": 5,
-              "width": 5,
-              "height": 5
-            },
-            "confirmation": "none",
-            "address_residential_indicator": "no"
-          })
+    //     var myHeaders = new Headers();
+    //     myHeaders.append("Host", "api.shipengine.com");
+    //     myHeaders.append("API-Key", "TEST_WKICVdlwCQPVDQk5EDv2pZaTX8myOr62GOOeT7jxO1c");
+    //     myHeaders.append("Content-Type", "application/json");
+    //     myHeaders.append("Access-Control-Allow-Origin", "*");
+    //     myHeaders.append("Origin","https://api.shipengine.com");
+    //     myHeaders.append("Access-Control-Allow-Credentials" , "true");
+    //     myHeaders.append('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
+    //     myHeaders.append("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    //      var raw = JSON.stringify({
+    //         "carrier_ids": [
+    //           "se-656576"
+    //         ],
+    //         "from_country_code": "US",
+    //         "from_postal_code": "90012",
+    //         "to_country_code": "US",
+    //         "to_postal_code": "32541",
+    //         "weight": {
+    //           "value": 1,
+    //           "unit": "ounce"
+    //         },
+    //         "dimensions": {
+    //           "unit": "inch",
+    //           "length": 5,
+    //           "width": 5,
+    //           "height": 5
+    //         },
+    //         "confirmation": "none",
+    //         "address_residential_indicator": "no"
+    //       })
              
-        var requestOptions = {
-          method: 'POST',
-          headers: myHeaders,
-          body: raw,
-          redirect: 'follow'
-        };
+    //     var requestOptions = {
+    //       method: 'POST',
+    //       headers: myHeaders,
+    //       body: raw,
+    //       redirect: 'follow'
+    //     };
         
-        fetch("/v1/rates/estimate", requestOptions)
-        .then(response => response.text())
-        .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
-        .catch(error => console.log('error', error));
-    }
+    //     fetch("/v1/rates/estimate", requestOptions)
+    //     .then(response => response.text())
+    //     .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
+    //     .catch(error => console.log('error', error));
+    // }
     render() {
 
     return (

@@ -12,6 +12,7 @@ class Droppp extends Component {
         selectYear: "",
         selectModel: "",
         selectMake: "",
+        selectTrim: "",
         carModels: [],
         carMakes: [],
         carTrims: [],
@@ -71,7 +72,32 @@ selectMake(e) {
 
 });
 }
-render() {
+selectTrim(e) {
+    console.log(e.target.value)
+    this.setState({selectTrim: e.target.value});
+    console.log(this.state.DDL4);
+    var trim = e.target.value.split(" ");
+    var percent;
+    // console.log(trim);
+    for (var i = 0; i < trim.length; i++) {
+        // console.log(trim[i]);
+        if (trim[i] === "Sedan") {
+            console.log("sedan")
+            percent = 8;
+        } else if (trim[i] === "Wagon") {
+            console.log("wagon")
+        } else if (trim[i] === "Convertible") {
+            console.log("Convertible")
+        } else if (trim[i] === "Coupe") {
+            console.log("Coupe")
+        } else if (trim[i] === "Hatchback") {
+            console.log("Hatchback")
+        } else if (trim[i] === "SUV") {
+            console.log("suv")
+        } 
+    }
+}
+render() { 
     var years = [];
     for (var i=2022; i>1940; i--) {
         years.push(i);
@@ -96,7 +122,7 @@ render() {
                         return <option key={x}>{x}</option>
                     })}
                 </select>
-                <select>
+                <select value={this.state.selectTrim} onChange={this.selectTrim.bind(this)}>
                 <option>Select trim</option>
                     {this.state.carTrims.map(x=> {
                         return <option key={x}>{x}</option>
