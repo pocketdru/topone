@@ -35,7 +35,7 @@ class Droppp extends Component {
                     return models.indexOf(elem) === pos;
             });
             this.setState({
-                carModels: newArray
+                carModels: newArray.sort()
             },)
             })
     }
@@ -94,7 +94,9 @@ selectTrim(e) {
             console.log("Hatchback")
         } else if (trim[i] === "SUV") {
             console.log("suv")
-        } 
+        } else if (trim[i] === ""){
+            console.log("old")
+        }
     }
 }
 render() { 
