@@ -24,7 +24,18 @@ class Droppp extends Component {
     }
     selectYear(e) {
         var year = e.target.value
-        this.setState({selectYear: e.target.value});
+        this.setState({selectYear: e.target.value,
+                        selectModel: "",
+                        selectMake: "",
+                        selectTrim: "",
+                        DDL2: [],
+                        DDL3: [],
+                        DDL4: [],
+                        carModels: [],
+                        carMakes: [],
+                        carTrims: []
+                    }
+            );
             const filter = this.state.JsonData.filter(x=>x.model_year == year)
             this.setState({DDL2: filter}, () => {
                 var models = [];
@@ -41,8 +52,15 @@ class Droppp extends Component {
     }
 
 selectModel(e) {
-    this.setState({selectModel: e.target.value});
-    const filter = this.state.DDL2.filter(x=>x.model_make_id === e.target.value)
+    this.setState({
+        selectModel: e.target.value,
+        selectMake: "",
+        selectTrim: "",
+        DDL3: [],
+        DDL4: [],
+        carTrims: []
+    });
+    const filter = this.state.DDL2.filter(x=>x.model_make_id == e.target.value)
 
     this.setState({DDL3: filter}, () => {
     var makes = [];
@@ -58,9 +76,16 @@ selectModel(e) {
 }
 
 selectMake(e) {
-    this.setState({selectMake: e.target.value});
-    const filter = this.state.DDL3.filter(x=>x.model_name === e.target.value)
+    this.setState({
+        selectMake: e.target.value,
+        selectTrim: "",
+        DDL4: [],
+        carTrims: []
+    });
+    const filter = this.state.DDL3.filter(x=>x.model_name == e.target.value)
+    console.log(filter);
     this.setState({DDL4: filter}, () => {
+        console.log(this.state.DDL4);
         var trims = [];
         for (var i = 0; i < this.state.DDL4.length; i++) {
             trims.push(this.state.DDL4[i].model_trim)
@@ -80,9 +105,8 @@ selectTrim(e) {
     console.log(this.state.DDL4);
     var trim = e.target.value.split(" ");
     var percent;
-    // console.log(trim);
+    console.log(trim);
     for (var i = 0; i < trim.length; i++) {
-        console.log(trim[i]);
         if (trim[i] === "Sedan") {
             console.log("sedan")
             percent = 8;
