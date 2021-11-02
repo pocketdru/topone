@@ -68,7 +68,9 @@ selectMake(e) {
         var newArray = trims.filter(function(elem, pos) {
             return trims.indexOf(elem) === pos;;
     });
-    this.setState({carTrims: newArray.sort()})
+    this.setState({carTrims: newArray.sort()}, ()=> {
+        console.log(this.state.carTrims)
+    })
 
 });
 }
@@ -80,7 +82,7 @@ selectTrim(e) {
     var percent;
     // console.log(trim);
     for (var i = 0; i < trim.length; i++) {
-        // console.log(trim[i]);
+        console.log(trim[i]);
         if (trim[i] === "Sedan") {
             console.log("sedan")
             percent = 8;
@@ -96,6 +98,8 @@ selectTrim(e) {
             console.log("suv")
         } else if (trim[i] === ""){
             console.log("old")
+        } else if (trim[i] === "Minivan") {
+            console.log("Minivan");
         }
     }
 }
