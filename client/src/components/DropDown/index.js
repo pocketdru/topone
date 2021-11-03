@@ -2,8 +2,8 @@ import React, {Component} from "react";
 import JsonData from "./csvjson.json";
 
 class Droppp extends Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
         this.state = { 
         DDL1: [],
         DDL2: [],
@@ -16,13 +16,17 @@ class Droppp extends Component {
         carModels: [],
         carMakes: [],
         carTrims: [],
-        JsonData: JsonData
+        JsonData: JsonData,
+        carPrice: this.props.carPrice
         }
     }
 
     componentDidMount() {
+
     }
     selectYear(e) {
+        console.log(this.state.carPrice)
+
         var year = e.target.value
         this.setState({selectYear: e.target.value,
                         selectModel: "",
@@ -104,36 +108,91 @@ selectTrim(e) {
     this.setState({selectTrim: e.target.value});
     console.log(this.state.DDL4);
     var trim = e.target.value.split(" ");
-    var percent;
     console.log(trim);
     for (var i = 0; i < trim.length; i++) {
         if (trim[i] === "Sedan") {
             console.log("sedan")
-            percent = 8;
+            this.setState({
+                carPrice: 8
+            })
         } else if (trim[i] === "Wagon") {
             console.log("wagon")
+            this.setState({
+                carPrice: 6
+            })
         } else if (trim[i] === "Convertible") {
             console.log("Convertible")
+            this.setState({
+                carPrice: 3
+            })
         } else if (trim[i] === "Coupe") {
             console.log("Coupe")
+            this.setState({
+                carPrice: 2
+            })
         } else if (trim[i] === "Hatchback") {
             console.log("Hatchback")
+            this.setState({
+                carPrice: 1
+            })
         } else if (trim[i] === "SUV") {
             console.log("suv")
+            this.setState({
+                carPrice: 15
+            })
         } else if (trim[i] === ""){
             console.log("old")
+            this.setState({
+                carPrice: 30
+            })
         } else if (trim[i] === "Minivan") {
             console.log("Minivan");
+            this.setState({
+                carPrice: 20
+            })
         } else if (trim[i] === "Van") {
             console.log("Van")
+            this.setState({
+                carPrice: 50
+            })
         } else if (trim[i] === "Crew") {
             console.log("Crew Cab")
+            this.setState({
+                carPrice: 21
+            })
         } else if (trim[i] === "Extended") {
             console.log("Extended Cab")
+            this.setState({
+                carPrice: 25
+            })
         } else if (trim[i] === "Regular") {
             console.log("Regular Cab")
-        }
+            this.setState({
+                carPrice: 20
+            })
+        } else if (trim[i] === "Double") {
+            console.log("Double Cab")
+            this.setState({
+                carPrice: 25
+            })
+        } else if (trim[i] === "SuperCrew") {
+            console.log("SuperCrew")
+            this.setState({
+                carPrice: 27
+            })
+        } else if (trim[i] === "SuperCab") {
+            console.log("SuperCab")
+            this.setState({
+                carPrice: 27
+            })
+        } else {
+            // console.log("old")
+            // this.setState({
+            //     carPrice: 30
+            // })
+        } 
     }
+    console.log(this.state.carPrice);
 }
 render() { 
     var years = [];
@@ -165,7 +224,8 @@ render() {
                     {this.state.carTrims.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
-                </select>  
+                </select> 
+                <p>{this.state.carPrice}</p> 
             </div>
         )
     }
