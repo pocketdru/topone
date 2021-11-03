@@ -124,6 +124,14 @@ selectTrim(e) {
             console.log("old")
         } else if (trim[i] === "Minivan") {
             console.log("Minivan");
+        } else if (trim[i] === "Van") {
+            console.log("Van")
+        } else if (trim[i] === "Crew") {
+            console.log("Crew Cab")
+        } else if (trim[i] === "Extended") {
+            console.log("Extended Cab")
+        } else if (trim[i] === "Regular") {
+            console.log("Regular Cab")
         }
     }
 }
