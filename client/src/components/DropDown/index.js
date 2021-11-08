@@ -20,10 +20,6 @@ class Droppp extends Component {
         carPrice: this.props.carPrice
         }
     }
-
-    componentDidMount() {
-
-    }
     selectYear(e) {
         console.log(this.state.carPrice)
 

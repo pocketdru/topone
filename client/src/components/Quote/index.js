@@ -26,24 +26,80 @@ class Quote extends Component {
     handleFormSubmit = event => {
         console.log(this.state.carPrice);
         event.preventDefault();
+
         var puZipCodeToString = String(this.refs.puZip.value);
         var delZipCodeToString = String(this.refs.delZip.value);
 
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
-
-        this.areaZoneGet(puAreaCode, delAreaCode);
-        const collections = [];
-        var newAddress ={
-            pickUp: this.refs.puZip.value,
-            deliivery: this.refs.delZip.value
-        }
-        collections.push(newAddress)
-        this.setState({address: newAddress})
-        this.milePriceApiCall();
-
+        this.milePriceApiCall(puAreaCode, delAreaCode);
+        // this.areaZoneGet(puAreaCode, delAreaCode);
+        // const collections = [];
+        // var newAddress ={
+        //     pickUp: this.refs.puZip.value,
+        //     deliivery: this.refs.delZip.value
+        // }
+        // collections.push(newAddress)
+        // this.setState({address: newAddress})
     }
+    milePriceApiCall = (puAreaCode, delAreaCode) => {
+        // console.log(this.refs.puZip.value);
+        // console.log(this.refs.delZip.value);
+
+        var myHeaders = new Headers();
+        myHeaders.append("Host", "api.shipengine.com");
+        myHeaders.append("API-Key", "TEST_WKICVdlwCQPVDQk5EDv2pZaTX8myOr62GOOeT7jxO1c");
+        myHeaders.append("Content-Type", "application/json");
+        myHeaders.append("Access-Control-Allow-Origin", "*");
+        myHeaders.append("Origin","https://api.shipengine.com");
+        myHeaders.append("Access-Control-Allow-Credentials" , "true");
+        myHeaders.append('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
+        myHeaders.append("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+         var raw = JSON.stringify({
+            "carrier_ids": [
+              "se-656576"
+            ],
+            "from_country_code": "US",
+            "from_postal_code": this.refs.puZip.value,
+            "to_country_code": "US",
+            "to_postal_code": this.refs.delZip.value,
+            "weight": {
+              "value": 1,
+              "unit": "ounce"
+            },
+            "dimensions": {
+              "unit": "inch",
+              "length": 10,
+              "width": 10,
+              "height": 50
+            },
+            "confirmation": "none",
+            "address_residential_indicator": "no"
+          })
+             
+        var requestOptions = {
+          method: 'POST',
+          headers: myHeaders,
+          body: raw,
+          redirect: 'follow'
+        };
+        
+        fetch("/v1/rates/estimate", requestOptions)
+        .then(response => response.text())
+        // .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
+        .then(result => { 
+            console.log(JSON.parse(result)[3]);
+            this.setState({
+                milePrice: JSON.parse(result)[3].shipping_amount.amount*1
+            }, ()=> {
+                console.log(this.state.milePrice)
+            });
+            this.areaZoneGet(puAreaCode, delAreaCode);
+
+        })
+        .catch(error => console.log('error', error));
+    } 
    areaZoneGet = (puAreaCode, delAreaCode) => {
        var puAreaCode = puAreaCode;
         var delAreaCode = delAreaCode;
@@ -91,76 +147,23 @@ class Quote extends Component {
         var extraCharge = null;
         var finalPrice;
         if (puPrice > delPrice) {
-            extraCharge = (delPrice/100)*8;
-            finalPrice = ((puPrice + delPrice + extraCharge)/100)*140;
+            extraCharge = (delPrice/100)*10;
+            finalPrice = ((puPrice + delPrice + extraCharge)/100)*16;
 
             console.log(Math.round(finalPrice));
         } else if (puPrice < delPrice) {
-            extraCharge = (puPrice/100)*8;
-            finalPrice = ((puPrice + delPrice + extraCharge)/100)*134;
+            extraCharge = (puPrice/100)*10;
+            finalPrice = ((puPrice + delPrice + extraCharge)/100)*10;
             console.log(Math.round(finalPrice));
             return finalPrice;
         }
         console.log(puPrice, delPrice);
         console.log(finalPrice);
+        console.log(this.state.milePrice)
+        finalPrice = finalPrice + this.state.milePrice;
         this.setState({finalPrice: finalPrice}, ()=> {
             console.log(this.state.finalPrice);
         })
-    }
-    milePriceApiCall = () => {
-        // console.log(this.refs.puZip.value);
-        // console.log(this.refs.delZip.value);
-
-        var myHeaders = new Headers();
-        myHeaders.append("Host", "api.shipengine.com");
-        myHeaders.append("API-Key", "TEST_WKICVdlwCQPVDQk5EDv2pZaTX8myOr62GOOeT7jxO1c");
-        myHeaders.append("Content-Type", "application/json");
-        myHeaders.append("Access-Control-Allow-Origin", "*");
-        myHeaders.append("Origin","https://api.shipengine.com");
-        myHeaders.append("Access-Control-Allow-Credentials" , "true");
-        myHeaders.append('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
-        myHeaders.append("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-         var raw = JSON.stringify({
-            "carrier_ids": [
-              "se-656576"
-            ],
-            "from_country_code": "US",
-            "from_postal_code": this.refs.puZip.value,
-            "to_country_code": "US",
-            "to_postal_code": this.refs.delZip.value,
-            "weight": {
-              "value": 1,
-              "unit": "ounce"
-            },
-            "dimensions": {
-              "unit": "inch",
-              "length": 15,
-              "width": 15,
-              "height": 50
-            },
-            "confirmation": "none",
-            "address_residential_indicator": "no"
-          })
-             
-        var requestOptions = {
-          method: 'POST',
-          headers: myHeaders,
-          body: raw,
-          redirect: 'follow'
-        };
-        
-        fetch("/v1/rates/estimate", requestOptions)
-        .then(response => response.text())
-        // .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
-        .then(result => { 
-            console.log(JSON.parse(result)[3]);
-            this.setState({
-                milePrice: JSON.parse(result)[3].shipping_amount.amount
-            }, ()=> {
-                console.log(this.state.milePrice)
-            })
-        })
-        .catch(error => console.log('error', error));
     }
     render() {
 
