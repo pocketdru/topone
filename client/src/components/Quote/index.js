@@ -89,11 +89,11 @@ class Quote extends Component {
         .then(response => response.text())
         // .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
         .then(result => { 
-            console.log(JSON.parse(result)[3]);
+            console.log(JSON.parse(result));
             this.setState({
-                milePrice: JSON.parse(result)[3].shipping_amount.amount*2
+                milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
             }, ()=> {
-                console.log(this.state.milePrice)
+                console.log("mile price " +this.state.milePrice)
             });
             this.areaZoneGet(puAreaCode, delAreaCode);
 
@@ -147,19 +147,30 @@ class Quote extends Component {
         var extraCharge = null;
         var finalPrice;
         if (puPrice > delPrice) {
-            extraCharge = (delPrice/100)*5;
-            finalPrice = ((puPrice + delPrice + extraCharge)/100)*20;
+            extraCharge = (delPrice/100)*55;
+            console.log("extra charge " + extraCharge);
+            finalPrice = (puPrice*2 + delPrice + extraCharge)/15;
+            console.log("final price " + finalPrice);
             console.log(Math.round(finalPrice));
+            if (this.state.milePrice > 600) {
+                this.setState({
+                    milePrice: this.state.milePrice*1.75
+                })
+            }
             var finalPrice1 = finalPrice + this.state.milePrice;
             this.setState({finalPrice: finalPrice1}, ()=> {
-                console.log(this.state.finalPrice);
+                console.log("finalprie1 " +this.state.finalPrice);
             })
             return finalPrice;
         } else if (puPrice < delPrice) {
             extraCharge = (puPrice/100)*15;
-            finalPrice = ((puPrice + delPrice + extraCharge)/100)*5;
-
+            finalPrice = ((puPrice + delPrice + extraCharge)/100)*35;
             console.log(Math.round(finalPrice));
+            if (this.state.milePrice > 600) {
+                this.setState({
+                    milePrice: this.state.milePrice*2
+                })
+            }
             var finalPrice1 = finalPrice + this.state.milePrice;
             this.setState({finalPrice: finalPrice1}, ()=> {
                 console.log(this.state.finalPrice);
