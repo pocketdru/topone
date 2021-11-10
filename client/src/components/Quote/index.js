@@ -156,6 +156,16 @@ class Quote extends Component {
                 this.setState({
                     milePrice: this.state.milePrice*1.75
                 })
+            } else 
+            if (this.state.milePrice > 300 && this.state.milePrice < 400) {
+                this.setState({
+                    milePrice: this.state.milePrice*1.75
+                })
+            } else 
+            if (this.state.milePrice > 150 && this.state.milePrice < 200) {
+                this.setState({
+                    milePrice: this.state.milePrice*1
+                })
             }
             var finalPrice1 = finalPrice + this.state.milePrice;
             this.setState({finalPrice: finalPrice1}, ()=> {
@@ -166,9 +176,19 @@ class Quote extends Component {
             extraCharge = (puPrice/100)*15;
             finalPrice = ((puPrice + delPrice + extraCharge)/100)*35;
             console.log(Math.round(finalPrice));
-            if (this.state.milePrice > 600) {
+            if (this.state.milePrice > 660) {
                 this.setState({
-                    milePrice: this.state.milePrice*2
+                    milePrice: this.state.milePrice*2.2
+                })
+            } else 
+            if (this.state.milePrice > 300 && this.state.milePrice < 400) {
+                this.setState({
+                    milePrice: this.state.milePrice*1.15
+                })
+            } else 
+            if (this.state.milePrice > 150 && this.state.milePrice < 200) {
+                this.setState({
+                    milePrice: this.state.milePrice*0.4
                 })
             }
             var finalPrice1 = finalPrice + this.state.milePrice;
@@ -177,6 +197,13 @@ class Quote extends Component {
             })
             return finalPrice;
 
+        } else if (puPrice === delPrice) {
+            this.setState({
+                milePrice: this.state.milePrice
+            })
+            this.setState({finalPrice: this.state.milePrice}, ()=> {
+                console.log(this.state.finalPrice);
+            })
         }
         // console.log(puPrice, delPrice);
         // console.log(finalPrice);
