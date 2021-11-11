@@ -197,13 +197,15 @@ class Quote extends Component {
             })
             return finalPrice;
 
-        } else if (puPrice === delPrice) {
+        } else if (puPrice === delPrice && this.state.milePrice < 200) {
             this.setState({
                 milePrice: this.state.milePrice
             })
             this.setState({finalPrice: this.state.milePrice}, ()=> {
                 console.log(this.state.finalPrice);
             })
+        } else if (puPrice === delPrice && this.state.milePrice > 350) {
+            
         }
         // console.log(puPrice, delPrice);
         // console.log(finalPrice);
