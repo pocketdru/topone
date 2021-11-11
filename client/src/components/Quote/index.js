@@ -180,6 +180,10 @@ class Quote extends Component {
                 this.setState({
                     milePrice: this.state.milePrice*2.2
                 })
+            } else if (this.state.milePrice > 650 && this.state.milePrice < 660){
+                this.setState({
+                    milePrice: this.state.milePrice*1.8
+                })
             } else 
             if (this.state.milePrice > 300 && this.state.milePrice < 400) {
                 this.setState({
@@ -205,7 +209,16 @@ class Quote extends Component {
                 console.log(this.state.finalPrice);
             })
         } else if (puPrice === delPrice && this.state.milePrice > 350) {
-            
+            this.setState({
+                milePrice: this.state.milePrice*2.2
+            })
+            extraCharge = (puPrice/100)*5;
+            finalPrice = ((puPrice + delPrice + extraCharge)/100)*15;
+        var finalPrice1 = finalPrice + this.state.milePrice;
+        this.setState({finalPrice: finalPrice1}, ()=> {
+            console.log(this.state.finalPrice);
+        })
+        return finalPrice;
         }
         // console.log(puPrice, delPrice);
         // console.log(finalPrice);
