@@ -16,6 +16,7 @@ class Droppp extends Component {
         carModels: [],
         carMakes: [],
         carTrims: [],
+        specificationCarPrice: null,
         JsonData: JsonData,
         carPrice: this.props.carPrice
         }
@@ -24,6 +25,49 @@ class Droppp extends Component {
         console.log(this.state.carPrice)
 
         var year = e.target.value
+        if (year == 2022) {
+            this.setState({
+                specificationCarPrice: 5
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        } else if (year < 2022 && year > 2014) {
+            this.setState({
+                specificationCarPrice: 4
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        } else if (year < 2016 && year > 2009 ) {
+            this.setState({
+                specificationCarPrice: 3
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        } else if (year < 2010 && year > 1999) {
+            this.setState({
+                specificationCarPrice: 1
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        } else if (year < 2000 && year >= 1980 ) {
+            this.setState({
+                specificationCarPrice: 2
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        } else if (year < 1980 && year >= 1960) {
+            this.setState({
+                specificationCarPrice: 4
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        } else if (year < 1960) {
+            this.setState({
+                specificationCarPrice: 5
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        }
         this.setState({selectYear: e.target.value,
                         selectModel: "",
                         selectMake: "",
