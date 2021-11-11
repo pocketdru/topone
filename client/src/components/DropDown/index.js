@@ -96,6 +96,11 @@ class Droppp extends Component {
     }
 
 selectModel(e) {
+    console.log(e.target.value); 
+    if (e.target.value.toLowerCase() === "Bentley" || e.target.value.toLowerCase() === "Bugatti" || e.target.value.toLowerCase() === "Ferrari" || e.target.value.toLowerCase() === "Lamborghini" || e.target.value.toLowerCase() === "Maserati" || e.target.value.toLowerCase() === "Mclaren" || e.target.value.toLowerCase() === "Mclaren") {
+        console.log(e.target.value); 
+        // stopped here 
+    }
     this.setState({
         selectModel: e.target.value,
         selectMake: "",
