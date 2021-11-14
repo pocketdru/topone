@@ -18,7 +18,9 @@ class Droppp extends Component {
         carTrims: [],
         specificationCarPrice: null,
         JsonData: JsonData,
-        carPrice: this.props.carPrice
+        carPrice: this.props.carPrice,
+        modelPrice: null,
+        makePrice: null
         }
     }
     selectYear(e) {
@@ -96,14 +98,36 @@ class Droppp extends Component {
     }
 
 selectModel(e) {
-    console.log(e.target.value); 
-    if (e.target.value.toLowerCase() === "Bentley" || e.target.value.toLowerCase() === "Bugatti" || e.target.value.toLowerCase() === "Ferrari" || e.target.value.toLowerCase() === "Lamborghini" || e.target.value.toLowerCase() === "Maserati" || e.target.value.toLowerCase() === "Mclaren" || e.target.value.toLowerCase() === "Mclaren") {
+    this.setState({
+        specificationCarPrice: this.state.specificationCarPrice - this.state.modelPrice - this.state.makePrice,
+        makePrice: 0
+    }) 
+    if (e.target.value.toLowerCase() === "bentley" || e.target.value.toLowerCase() === "bugatti" || e.target.value.toLowerCase() === "ferrari" || e.target.value.toLowerCase() === "lamborghini" || e.target.value.toLowerCase() === "maserati" || e.target.value.toLowerCase() === "mclaren" || e.target.value.toLowerCase() === "rolls-royce") {
         console.log(e.target.value); 
-        // stopped here 
+        this.setState({
+            modelPrice: 20
+        }, () => {
+            this.setState({
+                specificationCarPrice: this.state.specificationCarPrice + this.state.modelPrice
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        })
+
+    } else if (e.target.value.toLowerCase() === "bmw" || e.target.value.toLowerCase() === "cadillac" || e.target.value.toLowerCase() === "infiniti" || e.target.value.toLowerCase() === "jaguar" || e.target.value.toLowerCase() === "land rover" || e.target.value.toLowerCase() === "lexus" || e.target.value.toLowerCase() === "mercedes-benz" || e.target.value.toLowerCase() === "porsche") {
+        console.log(e.target.value); 
+        this.setState({
+            modelPrice: 10
+        }, () => {
+            this.setState({
+                specificationCarPrice: this.state.specificationCarPrice + this.state.modelPrice
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        })
     }
     this.setState({
         selectModel: e.target.value,
-        selectMake: "",
         selectTrim: "",
         DDL3: [],
         DDL4: [],
@@ -125,6 +149,23 @@ selectModel(e) {
 }
 
 selectMake(e) {
+    console.log(e.target.value);
+    this.setState({
+        specificationCarPrice: this.state.specificationCarPrice - this.state.makePrice
+    })
+    if (e.target.value.toLowerCase() === "nsx" || e.target.value.toLowerCase() === "bugatti" || e.target.value.toLowerCase() === "ferrari" || e.target.value.toLowerCase() === "lamborghini" || e.target.value.toLowerCase() === "maserati" || e.target.value.toLowerCase() === "mclaren" || e.target.value.toLowerCase() === "rolls-royce") {
+        console.log(e.target.value); 
+        this.setState({
+            makePrice: 20
+        }, () => {
+            this.setState({
+                specificationCarPrice: this.state.specificationCarPrice + this.state.makePrice
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        })
+
+    } 
     this.setState({
         selectMake: e.target.value,
         selectTrim: "",
@@ -132,9 +173,7 @@ selectMake(e) {
         carTrims: []
     });
     const filter = this.state.DDL3.filter(x=>x.model_name == e.target.value)
-    console.log(filter);
     this.setState({DDL4: filter}, () => {
-        console.log(this.state.DDL4);
         var trims = [];
         for (var i = 0; i < this.state.DDL4.length; i++) {
             trims.push(this.state.DDL4[i].model_trim)
