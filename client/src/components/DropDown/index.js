@@ -29,43 +29,43 @@ class Droppp extends Component {
         var year = e.target.value
         if (year == 2022) {
             this.setState({
-                specificationCarPrice: 5
+                specificationCarPrice: 70
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
         } else if (year < 2022 && year > 2014) {
             this.setState({
-                specificationCarPrice: 4
+                specificationCarPrice: 30
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
         } else if (year < 2016 && year > 2009 ) {
             this.setState({
-                specificationCarPrice: 3
+                specificationCarPrice: 15
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
         } else if (year < 2010 && year > 1999) {
             this.setState({
-                specificationCarPrice: 1
+                specificationCarPrice: 10
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
         } else if (year < 2000 && year >= 1980 ) {
             this.setState({
-                specificationCarPrice: 2
+                specificationCarPrice: 15
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
         } else if (year < 1980 && year >= 1960) {
             this.setState({
-                specificationCarPrice: 4
+                specificationCarPrice: 50
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
         } else if (year < 1960) {
             this.setState({
-                specificationCarPrice: 5
+                specificationCarPrice: 70
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
@@ -79,7 +79,8 @@ class Droppp extends Component {
                         DDL4: [],
                         carModels: [],
                         carMakes: [],
-                        carTrims: []
+                        carTrims: [],
+                        carPrice: 0
                     }
             );
             const filter = this.state.JsonData.filter(x=>x.model_year == year)
@@ -106,12 +107,13 @@ selectModel(e) {
         carTrims: [],
         specificationCarPrice: this.state.specificationCarPrice - this.state.modelPrice - this.state.makePrice,
         modelPrice: 0,
-        makePrice: 0
+        makePrice: 0,
+        carPrice: null
     }) 
     if (e.target.value.toLowerCase() === "bentley" || e.target.value.toLowerCase() === "bugatti" || e.target.value.toLowerCase() === "ferrari" || e.target.value.toLowerCase() === "lamborghini" || e.target.value.toLowerCase() === "maserati" || e.target.value.toLowerCase() === "mclaren" || e.target.value.toLowerCase() === "rolls-royce" || e.target.value.toLowerCase() === "koenigsegg" || e.target.value.toLowerCase() === "maybach") {
         console.log(e.target.value); 
         this.setState({
-            modelPrice: 20
+            modelPrice: 200
         }, () => {
             this.setState({
                 specificationCarPrice: this.state.specificationCarPrice + this.state.modelPrice
@@ -123,7 +125,7 @@ selectModel(e) {
     } else if (e.target.value.toLowerCase() === "bmw" || e.target.value.toLowerCase() === "cadillac" || e.target.value.toLowerCase() === "infiniti" || e.target.value.toLowerCase() === "jaguar" || e.target.value.toLowerCase() === "land rover" || e.target.value.toLowerCase() === "lexus" || e.target.value.toLowerCase() === "mercedes-benz" || e.target.value.toLowerCase() === "porsche") {
         console.log(e.target.value); 
         this.setState({
-            modelPrice: 10
+            modelPrice: 70
         }, () => {
             this.setState({
                 specificationCarPrice: this.state.specificationCarPrice + this.state.modelPrice
@@ -155,12 +157,13 @@ selectMake(e) {
         carTrims: [],
         specificationCarPrice: this.state.specificationCarPrice - this.state.makePrice,
         makePrice: 0,
+        carPrice: null
     });
     console.log(e.target.value);
     if (e.target.value.toLowerCase() === "nsx" || e.target.value.toLowerCase() === "4c" || e.target.value.toLowerCase() === "8c competizione" || e.target.value.toLowerCase() === "atom" || e.target.value.toLowerCase() === "db7" || e.target.value.toLowerCase() === "db9" || e.target.value.toLowerCase() === "dbs" || e.target.value.toLowerCase() === "one-77" || e.target.value.toLowerCase() === "rapide" || e.target.value.toLowerCase() === "vanquish" || e.target.value.toLowerCase() === "vantage" || e.target.value.toLowerCase() === "r8" || e.target.value.toLowerCase() === "tt" || e.target.value.toLowerCase() === "r8" || e.target.value.toLowerCase() === "i8" || e.target.value.toLowerCase() === "m8" || e.target.value.toLowerCase() === "z3" || e.target.value.toLowerCase() === "z8" || e.target.value.toLowerCase() === "gt-r" || e.target.value.toLowerCase() === "gt-r" ) {
         console.log(e.target.value); 
         this.setState({
-            makePrice: 20
+            makePrice: 200
         }, () => {
             this.setState({
                 specificationCarPrice: this.state.specificationCarPrice + this.state.makePrice
@@ -171,7 +174,7 @@ selectMake(e) {
     } else if (e.target.value.toLowerCase() === "m5" || e.target.value.toLowerCase() === "m3") {
         console.log(e.target.value); 
         this.setState({
-            makePrice: 10
+            makePrice: 50
         }, () => {
             this.setState({
                 specificationCarPrice: this.state.specificationCarPrice + this.state.makePrice
@@ -197,94 +200,111 @@ selectMake(e) {
 }
 selectTrim(e) {
     console.log(e.target.value)
-    this.setState({selectTrim: e.target.value});
+    this.setState({
+        selectTrim: e.target.value,
+        carPrice: null
+
+    }, () => {
+        for (var i = 0; i < trim.length; i++) {
+            if (trim[i] === "Sedan") {
+                console.log("sedan")
+                console.log(this.state.carPrice);
+                this.setState({
+                    carPrice: 8 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Wagon") {
+                console.log("wagon")
+                this.setState({
+                    carPrice: 6 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Convertible") {
+                console.log("Convertible")
+                this.setState({
+                    carPrice: 3 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Coupe") {
+                console.log("Coupe")
+                this.setState({
+                    carPrice: 2 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Hatchback") {
+                console.log("Hatchback")
+                this.setState({
+                    carPrice: 1 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "SUV") {
+                console.log("suv")
+                this.setState({
+                    carPrice: 30 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === ""){
+                console.log("old")
+                this.setState({
+                    carPrice: 30 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Minivan") {
+                console.log("Minivan");
+                this.setState({
+                    carPrice: 40 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Van") {
+                console.log("Van")
+                this.setState({
+                    carPrice: 100 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Crew") {
+                console.log("Crew Cab")
+                this.setState({
+                    carPrice: 21 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Extended") {
+                console.log("Extended Cab")
+                this.setState({
+                    carPrice: 25 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Regular") {
+                console.log("Regular Cab")
+                this.setState({
+                    carPrice: 40 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "Double") {
+                console.log("Double Cab")
+                this.setState({
+                    carPrice: 50 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "SuperCrew") {
+                console.log("SuperCrew")
+                this.setState({
+                    carPrice: 50 + this.state.specificationCarPrice
+                })
+            } else if (trim[i] === "SuperCab") {
+                console.log("SuperCab")
+                this.setState({
+                    carPrice: 50 + this.state.specificationCarPrice
+                })
+            } else if ([trim[i] === "Select trim"]) {
+                this.setState({
+                    carPrice: null
+                })
+            } else {
+                console.log("old")
+                this.setState({
+                    carPrice: 30 + this.state.specificationCarPrice
+                })
+            } 
+        this.setState({
+            carPrice: this.state.carPrice + this.state.specificationCarPrice
+        })
+        console.log(this.state.carPrice);
+    
+        }
+    });
     console.log(this.state.DDL4);
     var trim = e.target.value.split(" ");
     console.log(trim);
-    for (var i = 0; i < trim.length; i++) {
-        if (trim[i] === "Sedan") {
-            console.log("sedan")
-            this.setState({
-                carPrice: 8
-            })
-        } else if (trim[i] === "Wagon") {
-            console.log("wagon")
-            this.setState({
-                carPrice: 6
-            })
-        } else if (trim[i] === "Convertible") {
-            console.log("Convertible")
-            this.setState({
-                carPrice: 3
-            })
-        } else if (trim[i] === "Coupe") {
-            console.log("Coupe")
-            this.setState({
-                carPrice: 2
-            })
-        } else if (trim[i] === "Hatchback") {
-            console.log("Hatchback")
-            this.setState({
-                carPrice: 1
-            })
-        } else if (trim[i] === "SUV") {
-            console.log("suv")
-            this.setState({
-                carPrice: 15
-            })
-        } else if (trim[i] === ""){
-            console.log("old")
-            this.setState({
-                carPrice: 30
-            })
-        } else if (trim[i] === "Minivan") {
-            console.log("Minivan");
-            this.setState({
-                carPrice: 20
-            })
-        } else if (trim[i] === "Van") {
-            console.log("Van")
-            this.setState({
-                carPrice: 50
-            })
-        } else if (trim[i] === "Crew") {
-            console.log("Crew Cab")
-            this.setState({
-                carPrice: 21
-            })
-        } else if (trim[i] === "Extended") {
-            console.log("Extended Cab")
-            this.setState({
-                carPrice: 25
-            })
-        } else if (trim[i] === "Regular") {
-            console.log("Regular Cab")
-            this.setState({
-                carPrice: 20
-            })
-        } else if (trim[i] === "Double") {
-            console.log("Double Cab")
-            this.setState({
-                carPrice: 25
-            })
-        } else if (trim[i] === "SuperCrew") {
-            console.log("SuperCrew")
-            this.setState({
-                carPrice: 27
-            })
-        } else if (trim[i] === "SuperCab") {
-            console.log("SuperCab")
-            this.setState({
-                carPrice: 27
-            })
-        } else {
-            // console.log("old")
-            // this.setState({
-            //     carPrice: 30
-            // })
-        } 
-    }
+
     console.log(this.state.carPrice);
+
 }
 render() { 
     var years = [];
@@ -319,6 +339,7 @@ render() {
                 </select> 
                 <p>{this.state.carPrice}</p> 
             </div>
+            
         )
     }
 }

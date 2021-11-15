@@ -233,18 +233,26 @@ class Quote extends Component {
     return (
         <section className="quoute">
             <div className="container">
-            <form>
-                <div className="form-group">
-                    <label htmlFor="puZip">pu zip code</label>
-                    <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
-                    <label htmlFor="delZip">delivery zip</label>
-                    <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
-                </div>
-                <DropDown carPrice={this.state.carPrice}/>
-                <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
+                <form>
+                    <div className="form-row">
+                        <div className="form-group">
+                            <label htmlFor="puZip">pu zip code</label>
+                            <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
+                        </div>
+                        <div className="form-group">
+                            <label htmlFor="delZip">delivery zip</label>
+                            <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
+                        </div>
+                        <div className="form-group">
+                            <DropDown carPrice={this.state.carPrice}/>
+                        </div>
+                        <div className="form-group">
+                            <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
+                        </div>
+                    </div>
                 </form>
                 <p>{this.state.puPrice}</p>
-                </div>
+            </div>
         </section>
     )
     }
