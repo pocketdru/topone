@@ -99,10 +99,16 @@ class Droppp extends Component {
 
 selectModel(e) {
     this.setState({
+        selectModel: e.target.value,
+        selectTrim: "",
+        DDL3: [],
+        DDL4: [],
+        carTrims: [],
         specificationCarPrice: this.state.specificationCarPrice - this.state.modelPrice - this.state.makePrice,
+        modelPrice: 0,
         makePrice: 0
     }) 
-    if (e.target.value.toLowerCase() === "bentley" || e.target.value.toLowerCase() === "bugatti" || e.target.value.toLowerCase() === "ferrari" || e.target.value.toLowerCase() === "lamborghini" || e.target.value.toLowerCase() === "maserati" || e.target.value.toLowerCase() === "mclaren" || e.target.value.toLowerCase() === "rolls-royce") {
+    if (e.target.value.toLowerCase() === "bentley" || e.target.value.toLowerCase() === "bugatti" || e.target.value.toLowerCase() === "ferrari" || e.target.value.toLowerCase() === "lamborghini" || e.target.value.toLowerCase() === "maserati" || e.target.value.toLowerCase() === "mclaren" || e.target.value.toLowerCase() === "rolls-royce" || e.target.value.toLowerCase() === "koenigsegg" || e.target.value.toLowerCase() === "maybach") {
         console.log(e.target.value); 
         this.setState({
             modelPrice: 20
@@ -126,13 +132,6 @@ selectModel(e) {
             })
         })
     }
-    this.setState({
-        selectModel: e.target.value,
-        selectTrim: "",
-        DDL3: [],
-        DDL4: [],
-        carTrims: []
-    });
     const filter = this.state.DDL2.filter(x=>x.model_make_id == e.target.value)
 
     this.setState({DDL3: filter}, () => {
@@ -149,11 +148,16 @@ selectModel(e) {
 }
 
 selectMake(e) {
-    console.log(e.target.value);
     this.setState({
-        specificationCarPrice: this.state.specificationCarPrice - this.state.makePrice
-    })
-    if (e.target.value.toLowerCase() === "nsx" || e.target.value.toLowerCase() === "bugatti" || e.target.value.toLowerCase() === "ferrari" || e.target.value.toLowerCase() === "lamborghini" || e.target.value.toLowerCase() === "maserati" || e.target.value.toLowerCase() === "mclaren" || e.target.value.toLowerCase() === "rolls-royce") {
+        selectMake: e.target.value,
+        selectTrim: "",
+        DDL4: [],
+        carTrims: [],
+        specificationCarPrice: this.state.specificationCarPrice - this.state.makePrice,
+        makePrice: 0,
+    });
+    console.log(e.target.value);
+    if (e.target.value.toLowerCase() === "nsx" || e.target.value.toLowerCase() === "4c" || e.target.value.toLowerCase() === "8c competizione" || e.target.value.toLowerCase() === "atom" || e.target.value.toLowerCase() === "db7" || e.target.value.toLowerCase() === "db9" || e.target.value.toLowerCase() === "dbs" || e.target.value.toLowerCase() === "one-77" || e.target.value.toLowerCase() === "rapide" || e.target.value.toLowerCase() === "vanquish" || e.target.value.toLowerCase() === "vantage" || e.target.value.toLowerCase() === "r8" || e.target.value.toLowerCase() === "tt" || e.target.value.toLowerCase() === "r8" || e.target.value.toLowerCase() === "i8" || e.target.value.toLowerCase() === "m8" || e.target.value.toLowerCase() === "z3" || e.target.value.toLowerCase() === "z8" || e.target.value.toLowerCase() === "gt-r" || e.target.value.toLowerCase() === "gt-r" ) {
         console.log(e.target.value); 
         this.setState({
             makePrice: 20
@@ -164,14 +168,18 @@ selectMake(e) {
                 console.log(this.state.specificationCarPrice);
             })
         })
-
-    } 
-    this.setState({
-        selectMake: e.target.value,
-        selectTrim: "",
-        DDL4: [],
-        carTrims: []
-    });
+    } else if (e.target.value.toLowerCase() === "m5" || e.target.value.toLowerCase() === "m3") {
+        console.log(e.target.value); 
+        this.setState({
+            makePrice: 10
+        }, () => {
+            this.setState({
+                specificationCarPrice: this.state.specificationCarPrice + this.state.makePrice
+            }, () => {
+                console.log(this.state.specificationCarPrice);
+            })
+        })
+    }
     const filter = this.state.DDL3.filter(x=>x.model_name == e.target.value)
     this.setState({DDL4: filter}, () => {
         var trims = [];
