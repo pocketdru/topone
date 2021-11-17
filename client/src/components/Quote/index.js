@@ -48,11 +48,13 @@ class Quote extends Component {
         // }
         // collections.push(newAddress)
         // this.setState({address: newAddress})
+    this.emailjs(event);
+
     }
     milePriceApiCall = (puAreaCode, delAreaCode) => {
         // console.log(this.refs.puZip.value);
         // console.log(this.refs.delZip.value);
-
+        
         var myHeaders = new Headers();
         myHeaders.append("Host", "api.shipengine.com");
         myHeaders.append("API-Key", "TEST_WKICVdlwCQPVDQk5EDv2pZaTX8myOr62GOOeT7jxO1c");
@@ -236,6 +238,7 @@ class Quote extends Component {
     }
 
      sendEmail = (e) => {
+         console.log(e);
         e.preventDefault();
     
         emailjs.sendForm('service_752idno', 'template_f0mcw4u', e.target, 'user_Qv5eynQ9bFuznSm26mu6r')
@@ -263,45 +266,43 @@ class Quote extends Component {
     return (
         <section className="quoute">
             <div className="container">
-            <form className="contact-form needs-validation pb-4" onSubmit={this.sendEmail}>
-          <input type="hidden" name="contact_number"/>
-          <div className="form-row">
-          <div className="form-group col-md-4">     
-            <label>Your Name</label>
-            <input type="text" name="from_name" className="form-control" required/>
-          </div>
-          <div className="form-group col-md-4">
-            <label>Your Email</label>
-            <input type="email" name="from_email" className="form-control" required/>
-          </div>
-          <div className="form-group col-md-4">
-            <label>Your phone number (optional)</label>
-            <input type="tel" name="phone" className="form-control"/>
-          </div>
-          </div>
-          <div className="form-group">
-            <label>Year, make, model of the car, and note all the modifications if any.</label>
-            <textarea name="message" required/>
-          </div>
-          <input type="submit" value="SEND MESSAGE" className="btn d-block mx-auto pl-4 pr-4 pt-3 pb-3" variant="primary" />
-        </form>
-                <form>
+                <form className="contact-form needs-validation pb-4" onSubmit={this.handleFormSubmit}>
+                    <input type="hidden" name="contact_number"/>
                     <div className="form-row">
-                        <div className="form-group">
-                            <label htmlFor="puZip">pu zip code</label>
-                            <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
-                        </div>
-                        <div className="form-group">
-                            <label htmlFor="delZip">delivery zip</label>
-                            <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
-                        </div>
+                    <div className="form-group col-md-3">     
+                        <label>Your Name</label>
+                        <input type="text" name="from_name" className="form-control" required/>
+                    </div>
+                    <div className="form-group col-md-2">
+                        <label>Your Email</label>
+                        <input type="email" name="from_email" className="form-control" required/>
+                    </div>
+                    <div className="form-group col-md-3">
+                        <label>Your phone number (optional)</label>
+                        <input type="tel" name="phone" className="form-control"/>
+                    </div>
+                    <div className="form-group col-md-2">
+                        <label htmlFor="puZip">pu zip code</label>
+                        <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip"/>
+                    </div>
+                    <div className="form-group col-md-2">
+                        <label htmlFor="delZip">delivery zip</label>
+                        <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"/>
+                    </div>
+                    <div className="form-row">
                         <div className="form-group">
                             <DropDown carPrice={this.state.carPrice}/>
                         </div>
                         <div className="form-group">
-                            <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button>
+                            {/* <button type="submit" className="btn btn-primary" onClick={this.handleFormSubmit}>submit</button> */}
                         </div>
                     </div>
+                    </div>
+                    {/* <div className="form-group">
+                        <label>Year, make, model of the car, and note all the modifications if any.</label>
+                        <textarea name="message" required/>
+                    </div> */}
+                    <input type="submit" value="SEND MESSAGE" className="btn d-block mx-auto pl-4 pr-4 pt-3 pb-3" variant="primary" />
                 </form>
                 <p>{this.state.puPrice}</p>
             </div>
