@@ -47,18 +47,6 @@ export default function QuoteEmail() {
             <input type="tel" name="phone" className="form-control"/>
           </div>
           </div>
-          {/* <div className="form-row">
-          <div className="form-group col-md-4">
-            <label htmlFor="inputState">Vehicle year</label>
-            <select id="inputState" className="form-control" name="year">
-            <option>Select</option>
-              {yearOptions.map(function(year, i){
-                return <option key={i}>{year}</option>
-              })}
-            </select>
-          </div>
-          </div> */}
-          
           <div className="form-group">
             <label>Year, make, model of the car, and note all the modifications if any.</label>
             <textarea name="message" required/>

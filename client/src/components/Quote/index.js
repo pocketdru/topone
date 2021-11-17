@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
 import "./style.css";
+import emailjs from 'emailjs-com';
+import Modal from 'react-bootstrap/Modal';
+import Button from 'react-bootstrap/Button';
 import DropDown from "../DropDown";
 
 class Quote extends Component {
@@ -10,9 +13,12 @@ class Quote extends Component {
         this.state = {
             puPrice: null,
             delPrice: null,
-            carPrice: null
-
-        }
+            carPrice: null,
+            show: true,
+            setShow: false 
+        } 
+        this.handleShow = this.handleShow.bind(this);
+        this.handleClose = this.handleClose.bind(this);  
       }
     state = {
         year: null,
@@ -228,11 +234,57 @@ class Quote extends Component {
         //     console.log(this.state.finalPrice);
         // })
     }
+
+     sendEmail = (e) => {
+        e.preventDefault();
+    
+        emailjs.sendForm('service_752idno', 'template_f0mcw4u', e.target, 'user_Qv5eynQ9bFuznSm26mu6r')
+          .then((result) => {
+              console.log(result.text);
+          }, (error) => {
+              console.log(error.text);
+          });
+          this.handleShow();
+          e.target.reset();
+      }
+      handleShow() {
+        this.setState({
+            setShow: true
+        })
+      }
+      handleClose() {
+        this.setState({
+            setShow: false
+        })
+      }
     render() {
+        
 
     return (
         <section className="quoute">
             <div className="container">
+            <form className="contact-form needs-validation pb-4" onSubmit={this.sendEmail}>
+          <input type="hidden" name="contact_number"/>
+          <div className="form-row">
+          <div className="form-group col-md-4">     
+            <label>Your Name</label>
+            <input type="text" name="from_name" className="form-control" required/>
+          </div>
+          <div className="form-group col-md-4">
+            <label>Your Email</label>
+            <input type="email" name="from_email" className="form-control" required/>
+          </div>
+          <div className="form-group col-md-4">
+            <label>Your phone number (optional)</label>
+            <input type="tel" name="phone" className="form-control"/>
+          </div>
+          </div>
+          <div className="form-group">
+            <label>Year, make, model of the car, and note all the modifications if any.</label>
+            <textarea name="message" required/>
+          </div>
+          <input type="submit" value="SEND MESSAGE" className="btn d-block mx-auto pl-4 pr-4 pt-3 pb-3" variant="primary" />
+        </form>
                 <form>
                     <div className="form-row">
                         <div className="form-group">
@@ -253,6 +305,17 @@ class Quote extends Component {
                 </form>
                 <p>{this.state.puPrice}</p>
             </div>
+            <Modal show={this.state.setShow} onHide={this.handleClose} animation="false">
+        <Modal.Header closeButton>
+          <Modal.Title>Your quote is on the way!</Modal.Title>
+        </Modal.Header>
+        <Modal.Body>Thank you for request. You will get your personalized shipping quote within one hour. If requested after business hours we will get back to you the following business day. </Modal.Body>
+        <Modal.Footer>
+          <Button variant="primary" onClick={this.handleClose}>
+            Got it!
+          </Button>
+        </Modal.Footer>
+      </Modal>
         </section>
     )
     }
