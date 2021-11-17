@@ -264,8 +264,14 @@ class Quote extends Component {
         
 
     return (
-        <section className="quoute">
+        <section id="email">
             <div className="container">
+                <div className="row">
+                    <div className="col-md-12">
+                        <h5 className="card-title mt-5 mb-5">REQUEST A QUICK QUOTE</h5>
+                    </div>
+                </div>
+                <div className="row">
                 <form className="contact-form needs-validation pb-4" onSubmit={this.handleFormSubmit}>
                     <input type="hidden" name="contact_number"/>
                     <div className="form-row">
@@ -278,8 +284,8 @@ class Quote extends Component {
                         <input type="email" name="from_email" className="form-control" required/>
                     </div>
                     <div className="form-group col-md-3">
-                        <label>Your phone number (optional)</label>
-                        <input type="tel" name="phone" className="form-control"/>
+                        <label>Your phone number</label>
+                        <input type="tel" name="phone" className="form-control" placeholder="Optional"/>
                     </div>
                     <div className="form-group col-md-2">
                         <label htmlFor="puZip">pu zip code</label>
@@ -317,6 +323,7 @@ class Quote extends Component {
           </Button>
         </Modal.Footer>
       </Modal>
+      </div>
         </section>
     )
     }

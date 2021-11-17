@@ -43,8 +43,8 @@ export default function QuoteEmail() {
             <input type="email" name="from_email" className="form-control" required/>
           </div>
           <div className="form-group col-md-4">
-            <label>Your phone number (optional)</label>
-            <input type="tel" name="phone" className="form-control"/>
+            <label>Your phone number</label>
+            <input type="tel" name="phone" className="form-control" placeholder="optional"/>
           </div>
           </div>
           <div className="form-group">
