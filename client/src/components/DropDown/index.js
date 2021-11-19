@@ -16,6 +16,7 @@ class Droppp extends Component {
         carModels: [],
         carMakes: [],
         carTrims: [],
+        yearPrice: null,
         specificationCarPrice: null,
         JsonData: JsonData,
         carPrice: this.props.carPrice,
@@ -25,64 +26,65 @@ class Droppp extends Component {
     }
     selectYear(e) {
         console.log(this.state.carPrice)
-
+        this.setState({selectYear: e.target.value,
+            selectModel: "",
+            selectMake: "",
+            selectTrim: "",
+            DDL2: [],
+            DDL3: [],
+            DDL4: [],
+            carModels: [],
+            carMakes: [],
+            carTrims: [],
+            yearPrice: null,
+            specificationCarPrice: null,
+            carPrice: null
+        }
+);
         var year = e.target.value
         if (year == 2022) {
             this.setState({
-                specificationCarPrice: 70
+                yearPrice: 50
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         } else if (year < 2022 && year > 2014) {
             this.setState({
-                specificationCarPrice: 30
+                yearPrice: 30
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         } else if (year < 2016 && year > 2009 ) {
             this.setState({
-                specificationCarPrice: 15
+                yearPrice: 15
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         } else if (year < 2010 && year > 1999) {
             this.setState({
-                specificationCarPrice: 10
+                yearPrice: 10
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         } else if (year < 2000 && year >= 1980 ) {
             this.setState({
-                specificationCarPrice: 15
+                yearPrice: 15
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         } else if (year < 1980 && year >= 1960) {
             this.setState({
-                specificationCarPrice: 50
+                yearPrice: 50
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         } else if (year < 1960) {
             this.setState({
-                specificationCarPrice: 70
+                yearPrice: 70
             }, () => {
-                console.log(this.state.specificationCarPrice);
+                console.log(this.state.yearPrice);
             })
         }
-        this.setState({selectYear: e.target.value,
-                        selectModel: "",
-                        selectMake: "",
-                        selectTrim: "",
-                        DDL2: [],
-                        DDL3: [],
-                        DDL4: [],
-                        carModels: [],
-                        carMakes: [],
-                        carTrims: [],
-                        carPrice: 0
-                    }
-            );
             const filter = this.state.JsonData.filter(x=>x.model_year == year)
             this.setState({DDL2: filter}, () => {
                 var models = [];
@@ -105,7 +107,7 @@ selectModel(e) {
         DDL3: [],
         DDL4: [],
         carTrims: [],
-        specificationCarPrice: this.state.specificationCarPrice - this.state.modelPrice - this.state.makePrice,
+        specificationCarPrice: null,
         modelPrice: 0,
         makePrice: 0,
         carPrice: null
@@ -116,7 +118,7 @@ selectModel(e) {
             modelPrice: 200
         }, () => {
             this.setState({
-                specificationCarPrice: this.state.specificationCarPrice + this.state.modelPrice
+                specificationCarPrice: this.state.yearPrice + this.state.modelPrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
@@ -128,7 +130,7 @@ selectModel(e) {
             modelPrice: 70
         }, () => {
             this.setState({
-                specificationCarPrice: this.state.specificationCarPrice + this.state.modelPrice
+                specificationCarPrice: this.state.yearPrice + this.state.modelPrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
@@ -155,8 +157,8 @@ selectMake(e) {
         selectTrim: "",
         DDL4: [],
         carTrims: [],
-        specificationCarPrice: this.state.specificationCarPrice - this.state.makePrice,
-        makePrice: 0,
+        specificationCarPrice: null,
+        makePrice: null,
         carPrice: null
     });
     console.log(e.target.value);
@@ -166,7 +168,7 @@ selectMake(e) {
             makePrice: 200
         }, () => {
             this.setState({
-                specificationCarPrice: this.state.specificationCarPrice + this.state.makePrice
+                specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
@@ -177,7 +179,7 @@ selectMake(e) {
             makePrice: 50
         }, () => {
             this.setState({
-                specificationCarPrice: this.state.specificationCarPrice + this.state.makePrice
+                specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
             })
@@ -202,7 +204,8 @@ selectTrim(e) {
     console.log(e.target.value)
     this.setState({
         selectTrim: e.target.value,
-        carPrice: null
+        carPrice: null,
+        specificationCarPrice: null
 
     }, () => {
         console.log(this.state.carPrice);
@@ -215,9 +218,12 @@ selectTrim(e) {
                 console.log("sedan")
                 console.log(this.state.carPrice);
                 this.setState({
-                    carPrice: 10 + this.state.specificationCarPrice
+                    carPrice: 10
                 }, () => {
-                    console.log(this.state.carPrice)
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.specificationCarPrice)
                 })
                 return           
              } else if (trim[i] === "Wagon") {
@@ -374,7 +380,7 @@ render() {
                         return <option key={x}>{x}</option>
                     })}
                 </select> 
-                <p>{this.state.carPrice}</p> 
+                <p>{this.state.specificationCarPrice}</p> 
             </div>
             
         )
