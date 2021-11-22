@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import FormUserDetails from './FormUserDetails'; 
 
 export class UserFrom extends Component {
     state = {
@@ -63,4 +64,4 @@ export class UserFrom extends Component {
     }
 }
 
-export default UserFrom
+export default UserFrom;
