@@ -223,7 +223,7 @@ selectTrim(e) {
                     this.setState({
                         specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
                     })
-                    console.log(this.state.specificationCarPrice)
+                    console.log(this.state.carPrice)
                 })
                 return           
              } else if (trim[i] === "Wagon") {
@@ -380,7 +380,7 @@ render() {
                         return <option key={x}>{x}</option>
                     })}
                 </select> 
-                <p>{this.state.specificationCarPrice}</p> 
+                <p>{this.state.carPrice}</p> 
             </div>
             
         )
