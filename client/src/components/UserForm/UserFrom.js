@@ -10,7 +10,8 @@ export class UserFrom extends Component {
         phone: "", 
         year: "",
         model: "",
-        make: ""
+        make: "",
+        trim: ""
     }
 
     //proceed to next step 
@@ -34,12 +35,31 @@ export class UserFrom extends Component {
         this.setState({[input]: e.target.value});
     }
     render() {
-        
-        return (
-            <div>
-                
-            </div>
+        const {step} = this.state;
+        const { puZip,  puDel, name, email, phone, year, model, make, trim} = this.state;
+        const values = { puZip,  puDel, name, email, phone, year, model, make, trim};
+        switch(step) {
+            case 1: 
+                return (
+                <FormUserDetails 
+                    nextStep={this.nextStep}
+                    handleChange={this.handleChange}
+                    values={values}
+                /> 
+            )
+            case 2: 
+                return (
+                <h1>FormPersonalDetails</h1>
+            )
+            case 3: 
+                return (
+                <h1>Confirm</h1>
+            )
+            case 4: 
+                return (
+            <h1>Success</h1>
         )
+        }
     }
 }
 
