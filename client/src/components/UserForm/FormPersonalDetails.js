@@ -14,21 +14,35 @@ export class FormPersonalDetails extends Component {
         const {values, handleChange} = this.props;
         return (
             <div>
-                <form>
+                <form onSubmit={this.continue}>
                     <div className="form-group col-md-2">
-                        <label htmlFor="puZip">pu zip code</label>
-                        <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip" onChange={handleChange("puZip")}
-                        defaultValue={values.puZip}/>
+                        <label htmlFor="name">Your name</label>
+                        <input ref="name" name="from_name" type="text" className="form-control" id="name" aria-describedby="emailHelp" placeholder="Name" required
+                        onChange={handleChange("name")}
+                        defaultValue={values.name}/>
                     </div>
                     <div className="form-group col-md-2">
-                        <label htmlFor="delZip">delivery zip</label>
-                        <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"
-                        onChange={handleChange("delZip")}
-                        defaultValue={values.delZip}/>
+                        <label htmlFor="email">Your email </label>
+                        <input ref="email" name="from_email" type="text" className="form-control" id="email" placeholder="Email"
+                        onChange={handleChange("email")}
+                        defaultValue={values.email} required/>
+                    </div>
+                    <div className="form-group col-md-2">
+                    <div className="form-group col-md-4">
+                        <label>Your phone number</label>
+                        <input type="tel" name="contact_number" className="form-control" placeholder="optional"
+                        onChange={handleChange("number")}
+                        defaultValue={values.number}/>
+                    </div>
                     </div>
                     <div className="form-group">
                         <button className="btn" onClick={this.continue}>
                             Continue
+                        </button>
+                    </div>
+                    <div className="form-group">
+                        <button className="btn" type="submit">
+                            Back
                         </button>
                     </div>
                 </form>

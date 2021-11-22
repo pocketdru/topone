@@ -1,11 +1,12 @@
 import React, { Component } from 'react'
 import FormLocationDetails from './FormLocationDetails'; 
+import FormPersonalDetails from './FormPersonalDetails';
 
 export class UserFrom extends Component {
     state = {
         step: 1,
         puZip: "",
-        puDel: "",
+        puDel: null,
         name: "",
         email: "",
         phone: "", 
@@ -37,8 +38,8 @@ export class UserFrom extends Component {
     }
     render() {
         const {step} = this.state;
-        const { puZip,  puDel, name, email, phone, year, model, make, trim} = this.state;
-        const values = { puZip,  puDel, name, email, phone, year, model, make, trim};
+        const { puZip, delZip, name, email, phone, year, model, make, trim} = this.state;
+        const values = { puZip, delZip, name, email, phone, year, model, make, trim};
         switch(step) {
             case 1: 
                 return (
@@ -50,13 +51,27 @@ export class UserFrom extends Component {
             )
             case 2: 
                 return (
-                <h1>FormPersonalDetails</h1>
+                <FormPersonalDetails 
+                    nextStep={this.nextStep}
+                    prevStep={this.prevStep}
+                    handleChange={this.handleChange}
+                    values={values}
+                />
             )
             case 3: 
+            return (
+            <FormPersonalDetails 
+                nextStep={this.nextStep}
+                prevStep={this.prevStep}
+                handleChange={this.handleChange}
+                values={values}
+            />
+        )
+            case 4: 
                 return (
                 <h1>Confirm</h1>
             )
-            case 4: 
+            case 5: 
                 return (
             <h1>Success</h1>
         )

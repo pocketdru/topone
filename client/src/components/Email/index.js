@@ -32,7 +32,6 @@ export default function QuoteEmail() {
           </div>
           <div className="col-md-12">
         <form className="contact-form needs-validation pb-4" onSubmit={sendEmail}>
-          <input type="hidden" name="contact_number"/>
           <div className="form-row">
           <div className="form-group col-md-4">     
             <label>Your Name</label>
