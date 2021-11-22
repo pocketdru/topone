@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import FormLocationDetails from './FormLocationDetails'; 
 import FormPersonalDetails from './FormPersonalDetails';
+import UserCar from './UserCar';
 
 export class UserFrom extends Component {
     state = {
@@ -60,7 +61,7 @@ export class UserFrom extends Component {
             )
             case 3: 
             return (
-            <FormPersonalDetails 
+            <UserCar 
                 nextStep={this.nextStep}
                 prevStep={this.prevStep}
                 handleChange={this.handleChange}
