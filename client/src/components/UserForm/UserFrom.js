@@ -2,8 +2,13 @@ import React, { Component } from 'react'
 import FormLocationDetails from './FormLocationDetails'; 
 import FormPersonalDetails from './FormPersonalDetails';
 import UserCar from './UserCar';
+import Confirm from './Confirm';
 
 export class UserFrom extends Component {
+    constructor(props) {
+        super(props)
+        // this.selectYear = this.selectYear.bind(this)
+      }
     state = {
         step: 1,
         puZip: "",
@@ -11,7 +16,7 @@ export class UserFrom extends Component {
         name: "",
         email: "",
         phone: "", 
-        year: "",
+        year: "22",
         model: "",
         make: "",
         trim: ""
@@ -69,8 +74,14 @@ export class UserFrom extends Component {
             />
         )
             case 4: 
-                return (
-                <h1>Confirm</h1>
+            return (
+                <Confirm
+                year={this.state.year}
+                nextStep={this.nextStep}
+                prevStep={this.prevStep}
+                handleChange={this.handleChange}
+                values={values}
+                 />
             )
             case 5: 
                 return (

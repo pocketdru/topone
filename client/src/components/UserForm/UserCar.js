@@ -2,6 +2,15 @@ import React, { Component } from 'react'
 import JsonData from "../DropDown/csvjson.json";
 
 export class UserCar extends Component {
+    continue = e => {
+        e.preventDefault();
+        this.props.nextStep();
+    }
+
+    back = e => {
+        e.preventDefault();
+        this.props.prevStep();
+    }
     constructor(props) {
         super(props);
         this.state = { 
@@ -27,7 +36,9 @@ export class UserCar extends Component {
 
 
     selectYear(e) {
-        console.log(this.state.carPrice)
+        console.log(this.state.carPrice);
+        console.log(this.props.year);
+        // this.props.handleChange(year = year, e = e.target.value);
         this.setState({selectYear: e.target.value,
             selectModel: "",
             selectMake: "",
@@ -233,6 +244,9 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 6 + this.state.specificationCarPrice
                 }, () => {
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
                     console.log(this.state.carPrice)
                 })
                 return           
@@ -241,6 +255,9 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 3 + this.state.specificationCarPrice
                 }, ()=>{
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
                     console.log(this.state.carPrice)
                 }) 
                 return           
@@ -249,6 +266,9 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 2 + this.state.specificationCarPrice
                 }, () => {
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
                     console.log(this.state.carPrice)
                 })
                 return           
@@ -257,6 +277,9 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 1 + this.state.specificationCarPrice
                 }, () => {
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
                     console.log(this.state.carPrice)
                 })
                 return
@@ -265,6 +288,9 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 30 + this.state.specificationCarPrice
                 }, () => {
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
                     console.log(this.state.carPrice)
                 })
                 return
@@ -273,7 +299,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 40 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] === "Van") {
@@ -281,7 +310,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 100 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] === "Crew") {
@@ -289,7 +321,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 21 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] === "Extended") {
@@ -297,7 +332,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 25 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] === "Regular") {
@@ -305,7 +343,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 40 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] === "Double") {
@@ -313,7 +354,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 50 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] == "SuperCrew") {
@@ -321,7 +365,10 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 50 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
             } else if (trim[i] == "SuperCab") {
@@ -329,12 +376,29 @@ selectTrim(e) {
                 this.setState({
                     carPrice: 50 + this.state.specificationCarPrice
                 }, ()=> {
-                    console.log(this.state.carPrice);
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
                 return
+            } else if (trim[i] == "") {
+                this.setState({
+                    carPrice: 10 + this.state.specificationCarPrice
+                }, () => {
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
+                })
             } else {
                 this.setState({
-                    carPrice: 30 + this.state.specificationCarPrice
+                    carPrice: 10 + this.state.specificationCarPrice
+                }, () => {
+                    this.setState({
+                        specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice + this.state.carPrice
+                    })
+                    console.log(this.state.carPrice)
                 })
             }
             // else {
@@ -365,11 +429,14 @@ selectTrim(e) {
         var years = [];
         for (var i=2022; i>1940; i--) {
             years.push(i);
-        } 
+        }
         return (
             <div>
                 <form onSubmit={this.continue}>
-                <select value={this.state.selectYear} onChange={this.selectYear.bind(this)}>
+                <select defaultValue={values.name} value={this.state.selectYear} onChange={
+                    // this.selectYear.bind(this)
+                    () => {this.selectYear.bind(this); handleChange("year")}
+                    }>
                     <option>Select Year</option>
                     {years.map(x=> {
                         return <option key={x}>{x}</option>
@@ -394,6 +461,16 @@ selectTrim(e) {
                     })}
                 </select> 
                 <p>{this.state.specificationCarPrice}</p> 
+                    <div className="form-group">
+                        <button className="btn" type="submit">
+                            Continue
+                        </button>
+                    </div>
+                    <div className="form-group">
+                        <button className="btn" onClick={this.back}>
+                            Back
+                        </button>
+                    </div>
                 </form>
             </div>
         )
