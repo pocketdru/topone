@@ -36,6 +36,7 @@ export class UserCar extends Component {
 
 
     selectYear(e) {
+        this.props.year(e.target.value);
         console.log(this.state.carPrice);
         console.log(this.props.year);
         // this.props.handleChange(year = year, e = e.target.value);
@@ -53,7 +54,7 @@ export class UserCar extends Component {
             specificationCarPrice: null,
             carPrice: null
         }
-);
+    );
         var year = e.target.value
         if (year == 2022) {
             this.setState({
@@ -114,6 +115,7 @@ export class UserCar extends Component {
     }
 
 selectModel(e) {
+    this.props.model(e.target.value);
     this.setState({
         selectModel: e.target.value,
         selectTrim: "",
@@ -165,6 +167,7 @@ selectModel(e) {
 }
 
 selectMake(e) {
+    this.props.make(e.target.value);
     this.setState({
         selectMake: e.target.value,
         selectTrim: "",
@@ -214,6 +217,7 @@ selectMake(e) {
 });
 }
 selectTrim(e) {
+    this.props.trim(e.target.value);
     console.log(e.target.value)
     this.setState({
         selectTrim: e.target.value,
@@ -433,10 +437,8 @@ selectTrim(e) {
         return (
             <div>
                 <form onSubmit={this.continue}>
-                <select defaultValue={values.name} value={this.state.selectYear} onChange={
-                    // this.selectYear.bind(this)
-                    () => {this.selectYear.bind(this); handleChange("year")}
-                    }>
+                <select defaultValue={values.name} value={this.state.selectYear} onChange={this.selectYear.bind(this)}
+                    >
                     <option>Select Year</option>
                     {years.map(x=> {
                         return <option key={x}>{x}</option>

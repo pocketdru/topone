@@ -22,6 +22,38 @@ export class UserFrom extends Component {
         trim: ""
     }
 
+    year = (selectedYear) => {
+        this.setState({
+            year: selectedYear
+        }, ()=> {
+            console.log(this.state.year)
+        })
+    }
+
+    model = (selectedModel) => {
+        this.setState({
+            model: selectedModel
+        }, ()=> {
+            console.log(this.state.model)
+        })
+    }
+
+    make = (selectedMake) => {
+        this.setState({
+            make: selectedMake
+        }, ()=> {
+            console.log(this.state.make)
+        })
+    }    
+    
+    trim = (selectedTrim) => {
+        this.setState({
+            trim: selectedTrim
+        }, ()=> {
+            console.log(this.state.trim)
+        })
+    }
+
     //proceed to next step 
     nextStep = () => {
         const {step} = this.state;
@@ -67,6 +99,10 @@ export class UserFrom extends Component {
             case 3: 
             return (
             <UserCar 
+                year={this.year}
+                model={this.model}
+                make={this.make}
+                trim={this.trim}
                 nextStep={this.nextStep}
                 prevStep={this.prevStep}
                 handleChange={this.handleChange}
@@ -76,7 +112,6 @@ export class UserFrom extends Component {
             case 4: 
             return (
                 <Confirm
-                year={this.state.year}
                 nextStep={this.nextStep}
                 prevStep={this.prevStep}
                 handleChange={this.handleChange}
