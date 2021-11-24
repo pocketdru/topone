@@ -12,11 +12,12 @@ export class UserFrom extends Component {
     state = {
         step: 1,
         puZip: "",
-        puDel: null,
+        delZip: "",
         name: "",
         email: "",
         phone: "", 
-        year: "22",
+        milePrice: "",
+        year: "",
         model: "",
         make: "",
         trim: ""
@@ -54,6 +55,14 @@ export class UserFrom extends Component {
         })
     }
 
+    milePrice = (milePrice) => {
+        this.setState({
+            milePrice: milePrice
+        }, ()=> {
+            console.log(this.state.milePrice)
+        })
+    }
+
     //proceed to next step 
     nextStep = () => {
         const {step} = this.state;
@@ -76,12 +85,13 @@ export class UserFrom extends Component {
     }
     render() {
         const {step} = this.state;
-        const { puZip, delZip, name, email, phone, year, model, make, trim} = this.state;
-        const values = { puZip, delZip, name, email, phone, year, model, make, trim};
+        const { puZip, delZip, milePrice, name, email, phone, year, model, make, trim} = this.state;
+        const values = { puZip, delZip, milePrice, name, email, phone, year, model, make, trim};
         switch(step) {
             case 1: 
                 return (
                 <FormLocationDetails
+                    milePrice={this.milePrice}
                     state={this.state}
                     nextStep={this.nextStep}
                     handleChange={this.handleChange}

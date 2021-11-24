@@ -405,15 +405,7 @@ selectTrim(e) {
                     console.log(this.state.carPrice)
                 })
             }
-            // else {
-            //     console.log("old")
-            //     this.setState({
-            //         carPrice: 30 + this.state.specificationCarPrice
-            //     })
-            // } 
-
         console.log(this.state.carPrice);
-    
         }
     });
 }
@@ -430,6 +422,7 @@ selectTrim(e) {
     }
     render() {
         const {values, handleChange} = this.props;
+        console.log(values.model);
         var years = [];
         for (var i=2022; i>1940; i--) {
             years.push(i);
@@ -437,26 +430,26 @@ selectTrim(e) {
         return (
             <div>
                 <form onSubmit={this.continue}>
-                <select defaultValue={values.name} value={this.state.selectYear} onChange={this.selectYear.bind(this)}
+                <select value={values.year} onChange={this.selectYear.bind(this)}
                     >
                     <option>Select Year</option>
                     {years.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
                 </select>
-               <select value={this.state.selectModel} onChange={this.selectModel.bind(this)}>
+               <select value={values.model} onChange={this.selectModel.bind(this)}>
                 <option>Select model</option>
                     {this.state.carModels.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
                 </select> 
-                <select value={this.state.selectMake} onChange={this.selectMake.bind(this)}>
+                <select value={values.make} onChange={this.selectMake.bind(this)}>
                 <option>Select Make</option>
                     {this.state.carMakes.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
                 </select>
-                <select value={this.state.selectTrim} onChange={this.selectTrim.bind(this)}>
+                <select value={values.trim} onChange={this.selectTrim.bind(this)}>
                 <option>Select trim</option>
                     {this.state.carTrims.map(x=> {
                         return <option key={x}>{x}</option>

@@ -3,30 +3,30 @@ import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
 
 export class FormUserDetails extends Component {
-    
+
     state = {
         puZone: null,
         delZone: null,
         puPrice: null,
-        delProce: null,
+        delPrice: null,
         finalPrice: null,
         milePrice: null
-    }
-
+        }  
     continue = e => {
         e.preventDefault();
-        this.props.nextStep();
         console.log(this.props.state.puZip);
         this.handleFormSubmit();
     }
 
-     handleFormSubmit = event => {
+     handleFormSubmit = () => {
         // console.log(this.state.carPrice);
         // event.preventDefault();
 
         var puZipCodeToString = String(this.props.state.puZip);
         var delZipCodeToString = String(this.props.state.delZip);
 
+        // var puZipCodeToString = String(this.refs.puZip.value);
+        // var delZipCodeToString = String(this.refs.delZip.value);
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
@@ -50,9 +50,9 @@ export class FormUserDetails extends Component {
               "se-656576"
             ],
             "from_country_code": "US",
-            "from_postal_code": this.refs.puZip.value,
+            "from_postal_code": this.props.state.puZip,
             "to_country_code": "US",
-            "to_postal_code": this.refs.delZip.value,
+            "to_postal_code": this.props.state.delZip,
             "weight": {
               "value": 1,
               "unit": "ounce"
@@ -116,7 +116,7 @@ export class FormUserDetails extends Component {
          console.log(puAreaCode, delAreaCode);
          this.priceforZoneGet(puAreaCode, delAreaCode);
      }
-     priceforZoneGet = (puAreaCode, delAreaCode) => {
+    priceforZoneGet = (puAreaCode, delAreaCode) => {
          var puZone = puAreaCode;
          var delZone = delAreaCode;
          var puPrice = null;
@@ -161,13 +161,15 @@ export class FormUserDetails extends Component {
              this.setState({finalPrice: finalPrice1}, ()=> {
                  console.log("finalprie1 " +this.state.finalPrice);
              })
+             this.props.milePrice(Math.round(this.state.finalPrice));
+             this.props.nextStep();
              return finalPrice;
          } else if (puPrice < delPrice) {
              extraCharge = (puPrice/100)*15;
              finalPrice = ((puPrice + delPrice + extraCharge)/100)*35;
              console.log(Math.round(finalPrice));
              if (this.state.milePrice > 660) {
-                 this.setState({
+                 this.setState({  
                      milePrice: this.state.milePrice*2.2
                  })
              } else if (this.state.milePrice > 650 && this.state.milePrice < 660){
@@ -189,6 +191,8 @@ export class FormUserDetails extends Component {
              this.setState({finalPrice: finalPrice1}, ()=> {
                  console.log(this.state.finalPrice);
              })
+             this.props.milePrice(Math.round(this.state.finalPrice));
+             this.props.nextStep();
              return finalPrice;
  
          } else if (puPrice === delPrice && this.state.milePrice < 200) {
@@ -208,6 +212,8 @@ export class FormUserDetails extends Component {
          this.setState({finalPrice: finalPrice1}, ()=> {
              console.log(this.state.finalPrice);
          })
+         this.props.milePrice(Math.round(this.state.finalPrice));
+         this.props.nextStep();
          return finalPrice;
          }
     }     
