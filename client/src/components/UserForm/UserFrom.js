@@ -81,7 +81,8 @@ export class UserFrom extends Component {
         switch(step) {
             case 1: 
                 return (
-                <FormLocationDetails 
+                <FormLocationDetails
+                    state={this.state}
                     nextStep={this.nextStep}
                     handleChange={this.handleChange}
                     values={values}

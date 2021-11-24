@@ -23,7 +23,7 @@ class Quote extends Component {
     state = {
         year: null,
         puZone: null,
-        delZoen: null,
+        delZone: null,
         puPrice: null,
         delProce: null,
         finalPrice: null,
@@ -48,7 +48,8 @@ class Quote extends Component {
         // }
         // collections.push(newAddress)
         // this.setState({address: newAddress})
-    this.emailjs(event);
+    
+        // this.emailjs(event);
 
     }
     milePriceApiCall = (puAreaCode, delAreaCode) => {
