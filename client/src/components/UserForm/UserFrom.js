@@ -63,6 +63,14 @@ export class UserFrom extends Component {
         })
     }
 
+    carPrice = (carPrice) => {
+        this.setState({
+            carPrice: carPrice
+        }, ()=> {
+            console.log(this.state.carPrice)
+        })
+    }
+
     //proceed to next step 
     nextStep = () => {
         const {step} = this.state;
@@ -85,8 +93,8 @@ export class UserFrom extends Component {
     }
     render() {
         const {step} = this.state;
-        const { puZip, delZip, milePrice, name, email, phone, year, model, make, trim} = this.state;
-        const values = { puZip, delZip, milePrice, name, email, phone, year, model, make, trim};
+        const { puZip, delZip, milePrice, name, email, phone, year, model, make, trim, carPrice} = this.state;
+        const values = { puZip, delZip, milePrice, name, email, phone, year, model, make, trim, carPrice};
         switch(step) {
             case 1: 
                 return (
@@ -114,6 +122,7 @@ export class UserFrom extends Component {
                 model={this.model}
                 make={this.make}
                 trim={this.trim}
+                carPrice={this.carPrice}
                 nextStep={this.nextStep}
                 prevStep={this.prevStep}
                 handleChange={this.handleChange}

@@ -80,7 +80,7 @@ export class FormUserDetails extends Component {
         .then(result => { 
             console.log(JSON.parse(result));
             this.setState({
-                milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
+                milePrice: JSON.parse(result)[1].shipping_amount.amount*12.25
             }, ()=> {
                 console.log("mile price " +this.state.milePrice)
             });

@@ -136,6 +136,7 @@ selectModel(e) {
                 specificationCarPrice: this.state.yearPrice + this.state.modelPrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
+                this.props.carPrice(this.state.specificationCarPrice);
             })
         })
 
@@ -148,6 +149,7 @@ selectModel(e) {
                 specificationCarPrice: this.state.yearPrice + this.state.modelPrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
+                this.props.carPrice(this.state.specificationCarPrice);
             })
         })
     }
@@ -187,6 +189,7 @@ selectMake(e) {
                 specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
+                this.props.carPrice(this.state.specificationCarPrice);
             })
         })
     } else if (e.target.value.toLowerCase() === "m5" || e.target.value.toLowerCase() === "m3") {
@@ -198,6 +201,7 @@ selectMake(e) {
                 specificationCarPrice: this.state.yearPrice + this.state.modelPrice + this.state.makePrice
             }, () => {
                 console.log(this.state.specificationCarPrice);
+                this.props.carPrice(this.state.specificationCarPrice);
             })
         })
     }
@@ -410,7 +414,6 @@ selectTrim(e) {
     });
 }
 
-
     continue = e => {
         e.preventDefault();
         this.props.nextStep();
@@ -430,14 +433,14 @@ selectTrim(e) {
         return (
             <div>
                 <form onSubmit={this.continue}>
-                <select value={values.year} onChange={this.selectYear.bind(this)}
+                <select value={this.state.selectYear} onChange={this.selectYear.bind(this)}
                     >
                     <option>Select Year</option>
                     {years.map(x=> {
                         return <option key={x}>{x}</option>
                     })}
                 </select>
-               <select value={values.model} onChange={this.selectModel.bind(this)}>
+               <select value={this.state.selectModel} onChange={this.selectModel.bind(this)}>
                 <option>Select model</option>
                     {this.state.carModels.map(x=> {
                         return <option key={x}>{x}</option>
