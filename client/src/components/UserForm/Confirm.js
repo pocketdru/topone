@@ -12,6 +12,7 @@ export class Confirm extends Component {
     }
     render() {
         const {values, handleChange, state} = this.props;
+        console.log(values.carPrice);
         var price = values.milePrice + values.carPrice;
 
         return (
@@ -22,7 +23,7 @@ export class Confirm extends Component {
                 <p>{values.make}</p>
                 <p>{values.trim}</p>
                 <p>{values.milePrice}</p> 
-                <p>{values.carPrice}</p>
+                <p>{price}</p>
                 <div className="form-group">
                         <button className="btn" type="submit">
                             Continue
