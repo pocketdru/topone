@@ -1,4 +1,5 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
+import "./style.css";
 import FormLocationDetails from './FormLocationDetails'; 
 import FormPersonalDetails from './FormPersonalDetails';
 import UserCar from './UserCar';
