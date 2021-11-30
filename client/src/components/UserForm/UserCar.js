@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import JsonData from "../DropDown/csvjson.json";
+import JsonData from "./csvjson.json";
 
 export class UserCar extends Component {
     continue = e => {

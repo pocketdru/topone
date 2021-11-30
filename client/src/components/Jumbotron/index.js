@@ -25,7 +25,7 @@ function Jumbotron() {
           </div>
           <div className="row">
             <div className="col-md-7">
-            <div className="mt-5 mb-5 text-right">
+            <div className="mt-3 mb-5 text-right">
                 <h1 className="mr-5" data-aos="fade-left">
                   High rated auto transport
                 </h1>
