@@ -24,9 +24,6 @@ export class FormUserDetails extends Component {
 
         var puZipCodeToString = String(this.props.state.puZip);
         var delZipCodeToString = String(this.props.state.delZip);
-
-        // var puZipCodeToString = String(this.refs.puZip.value);
-        // var delZipCodeToString = String(this.refs.delZip.value);
         var puAreaCode = puZipCodeToString.slice(0,3);
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
@@ -228,12 +225,12 @@ export class FormUserDetails extends Component {
                             <form onSubmit={this.continue} className="contact-form">
                                 <div className="form-group col-md-12">
                                     <label htmlFor="puZip">pu zip code</label>
-                                    <input ref="puZip" type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip" onChange={handleChange("puZip")}
+                                    <input type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip" onChange={handleChange("puZip")}
                                     defaultValue={values.puZip} required/>
                                 </div>
                                 <div className="form-group col-md-12">
                                     <label htmlFor="delZip">delivery zip</label>
-                                    <input ref="delZip" type="text" className="form-control" id="delZip" placeholder="delivery zip"
+                                    <input type="text" className="form-control" id="delZip" placeholder="delivery zip"
                                     onChange={handleChange("delZip")}
                                     defaultValue={values.delZip}
                                     required/>

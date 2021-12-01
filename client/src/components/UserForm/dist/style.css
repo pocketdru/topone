@@ -23,7 +23,7 @@
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
 }
 #email .container .contact-form .form-group {
-  padding: 1rem 2rem;
+  padding: 2rem 2rem;
 }
 #email .container .contact-form .form-group label {
   font-family: Montserrat;
@@ -70,6 +70,15 @@
 #email .container .contact-form .btn:hover {
   background-color: #f9f8f4;
   color: #599F3D;
+  position: relative;
+  top: -1px;
+}
+#email .container .contact-form .btn:active {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  top: -2px;
 }
 #email iframe {
   height: 700px;
@@ -103,4 +112,13 @@
 .modal-content .btn:hover {
   background-color: #f9f8f4;
   color: #599F3D;
+  position: relative;
+  top: -1px;
+}
+.modal-content .btn:active {
+  background-color: #f9f8f4;
+  color: #599F3D;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  top: -2px;
 }
