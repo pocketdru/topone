@@ -17,7 +17,7 @@
             .form-group {
                 padding: 0.5rem 2rem;
                 margin-top: 1rem;
-                label {
+                label, p {
                     @include Montserrat-title();
                     font-size: 13px;
                     color: #969696;

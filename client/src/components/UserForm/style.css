@@ -19,7 +19,7 @@
       #email .container .contact-form .form-group {
         padding: 0.5rem 2rem;
         margin-top: 1rem; }
-        #email .container .contact-form .form-group label {
+        #email .container .contact-form .form-group label, #email .container .contact-form .form-group p {
           font-family: Montserrat;
           color: #f9f8f4;
           text-transform: uppercase;

@@ -13,7 +13,9 @@ export class FormUserDetails extends Component {
         puPrice: null,
         delPrice: null,
         finalPrice: null,
-        milePrice: null
+        milePrice: null,
+        loading: false, 
+        setLoading: false
         }  
     continue = e => {
         e.preventDefault();
@@ -24,7 +26,9 @@ export class FormUserDetails extends Component {
      handleFormSubmit = () => {
         // console.log(this.state.carPrice);
         // event.preventDefault();
-
+        this.setState({
+            loading: true
+        })
         var puZipCodeToString = String(this.props.state.puZip);
         var delZipCodeToString = String(this.props.state.delZip);
         var puAreaCode = puZipCodeToString.slice(0,3);
@@ -85,7 +89,9 @@ export class FormUserDetails extends Component {
                 console.log("mile price " +this.state.milePrice)
             });
             this.areaZoneGet(puAreaCode, delAreaCode);
-
+            this.setState({
+                loading: true
+            })
         })
         .catch(error => console.log('error', error));
     } 
@@ -242,6 +248,7 @@ export class FormUserDetails extends Component {
                                     <button className="btn" type="submit">
                                         Vehicle details <FontAwesomeIcon icon={faArrowRight}/>
                                     </button>
+                                    {this.state.loading ? <p className="d-block mt-4">Calculating distance...</p> : <p></p>}
                                 </div>
                             </form>
                         </div>
