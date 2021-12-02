@@ -3,7 +3,6 @@ import Nav from "../components/Nav";
 import Jumbotron from "../components/Jumbotron";
 import Contact from "../components/Contact";
 import Advantages from "../components/Advantages";
-import Email from "../components/Email";
 import Steps from "../components/Steps";
 import Testimonials from "../components/Testimonials";
 import Services from "../components/Services";
@@ -16,7 +15,6 @@ class Home extends Component {
         <div>
             <Nav/>
             <Jumbotron/>
-            <Email/>
             <section className="contact-background">
                 <div className="container" id="contact">
                     <div className="row">

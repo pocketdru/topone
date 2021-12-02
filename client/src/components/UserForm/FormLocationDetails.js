@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
+
 
 export class FormUserDetails extends Component {
 
@@ -235,9 +238,9 @@ export class FormUserDetails extends Component {
                                     defaultValue={values.delZip}
                                     required/>
                                 </div>
-                                <div className="form-group">
+                                <div className="form-group button">
                                     <button className="btn" type="submit">
-                                        Continue
+                                        Vehicle details <FontAwesomeIcon icon={faArrowRight}/>
                                     </button>
                                 </div>
                             </form>

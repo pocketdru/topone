@@ -17,7 +17,8 @@
     #email .container .contact-form {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
       #email .container .contact-form .form-group {
-        padding: 2rem 2rem; }
+        padding: 0.5rem 2rem;
+        margin-top: 1rem; }
         #email .container .contact-form .form-group label {
           font-family: Montserrat;
           color: #f9f8f4;
@@ -48,6 +49,10 @@
           color: #f9f8f4;
           font-size: 13px;
           color: #c7c7c7; }
+      #email .container .contact-form .button {
+        text-align: center; }
+        #email .container .contact-form .button .svg-inline--fa.fa-w-14 {
+          width: 1.875em; }
       #email .container .contact-form .btn {
         background-color: #599F3D;
         font-family: Montserrat;
