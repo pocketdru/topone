@@ -89,9 +89,6 @@ export class FormUserDetails extends Component {
                 console.log("mile price " +this.state.milePrice)
             });
             this.areaZoneGet(puAreaCode, delAreaCode);
-            this.setState({
-                loading: true
-            })
         })
         .catch(error => console.log('error', error));
     } 

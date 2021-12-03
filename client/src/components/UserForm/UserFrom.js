@@ -109,7 +109,12 @@ export class UserFrom extends Component {
             )
             case 2: 
                 return (
-            <FormPersonalDetails 
+            <UserCar 
+                year={this.year}
+                model={this.model}
+                make={this.make}
+                trim={this.trim}
+                carPrice={this.carPrice}
                 nextStep={this.nextStep}
                 prevStep={this.prevStep}
                 handleChange={this.handleChange}
@@ -118,12 +123,7 @@ export class UserFrom extends Component {
             )
             case 3: 
             return (
-            <UserCar 
-                year={this.year}
-                model={this.model}
-                make={this.make}
-                trim={this.trim}
-                carPrice={this.carPrice}
+            <FormPersonalDetails 
                 nextStep={this.nextStep}
                 prevStep={this.prevStep}
                 handleChange={this.handleChange}
