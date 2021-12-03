@@ -109,12 +109,12 @@ export class UserFrom extends Component {
             )
             case 2: 
                 return (
-                <FormPersonalDetails 
-                    nextStep={this.nextStep}
-                    prevStep={this.prevStep}
-                    handleChange={this.handleChange}
-                    values={values}
-                />
+            <FormPersonalDetails 
+                nextStep={this.nextStep}
+                prevStep={this.prevStep}
+                handleChange={this.handleChange}
+                values={values}
+            />
             )
             case 3: 
             return (
