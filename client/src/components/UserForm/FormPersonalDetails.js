@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 
 export class FormPersonalDetails extends Component {
     continue = e => {
@@ -13,43 +15,42 @@ export class FormPersonalDetails extends Component {
     render() {
         const {values, handleChange} = this.props;
         return (
-            <div>
-                <form onSubmit={this.continue}>
-                    <div className="form-group col-md-2">
+            <section id="email">
+            <div className="container">
+                <div className="row">
+                    <div className="col-md-12">
+                        <form onSubmit={this.continue} className="contact-form">
+                    <div className="form-group col-md-12">
                         <label htmlFor="name">Your name</label>
                         <input name="from_name" type="text" className="form-control" id="name" aria-describedby="emailHelp" placeholder="Name" required
                         onChange={handleChange("name")}
                         defaultValue={values.name} required/>
                     </div>
-                    <div className="form-group col-md-2">
+                    <div className="form-group col-md-12">
                         <label htmlFor="email">Your email </label>
                         <input name="from_email" type="text" className="form-control" id="email" placeholder="Email"
                         onChange={handleChange("email")}
                         defaultValue={values.email} required/>
                     </div>
-                    <div className="form-group col-md-4">
+                    <div className="form-group col-md-12">
                         <label>Your phone number</label>
                         <input type="tel" name="contact_number" className="form-control" placeholder="optional"
                         onChange={handleChange("number")}
                         defaultValue={values.number}/>
                     </div>
-                    <div className="form-group">
+                    <div className="form-group d-flex justify-content-between">
+                        <button className="btn" onClick={this.back}>
+                            Back
+                        </button>
                         <button className="btn" type="submit">
-                            Continue
+                            Calculate price <FontAwesomeIcon icon={faArrowRight}/>
                         </button>
                     </div>
-                    <div className="form-group">
-                        <button className="btn" onClick={this.back}>
-                            Back
-                        </button>
+                        </form>
                     </div>
-                </form>
-                <div className="form-group">
-                        <button className="btn" onClick={this.back}>
-                            Back
-                        </button>
                     </div>
-            </div>
+                </div>
+           </section>
         )
     }
 }
