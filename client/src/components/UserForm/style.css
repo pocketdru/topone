@@ -26,7 +26,7 @@
           font-weight: 700;
           font-size: 13px;
           color: #969696; }
-        #email .container .contact-form .form-group input.form-control {
+        #email .container .contact-form .form-group input.form-control, #email .container .contact-form .form-group select {
           background-color: #ffffff;
           border: 1px solid #d9d9d9;
           border-radius: 0;
@@ -34,12 +34,17 @@
           font-weight: 300;
           color: #f9f8f4;
           font-size: 13px;
-          color: #c7c7c7; }
+          color: #514d4d; }
         #email .container .contact-form .form-group .form-control:focus {
           color: #495057;
           background-color: #fff;
           border-color: #0d5195;
           box-shadow: 10px 10px 2px 1px rgba(0, 0, 255, 0.2); }
+        #email .container .contact-form .form-group select {
+          display: block;
+          width: 100%;
+          padding: 0.75rem;
+          margin: 0.5rem auto; }
         #email .container .contact-form .form-group textarea {
           display: block;
           padding: 1rem;

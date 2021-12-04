@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import JsonData from "./csvjson.json";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 
 export class UserCar extends Component {
     continue = e => {
@@ -462,46 +464,51 @@ selectTrim(e) {
             years.push(i);
         }
         return (
-            <div>
-                <form onSubmit={this.continue}>
-                <select value={this.state.selectYear} onChange={this.selectYear.bind(this)}
-                    >
-                    <option>Select Year</option>
-                    {years.map(x=> {
-                        return <option key={x}>{x}</option>
-                    })}
-                </select>
-               <select value={this.state.selectModel} onChange={this.selectModel.bind(this)}>
-                <option>Select model</option>
-                    {this.state.carModels.map(x=> {
-                        return <option key={x}>{x}</option>
-                    })}
-                </select> 
-                <select value={values.make} onChange={this.selectMake.bind(this)}>
-                <option>Select Make</option>
-                    {this.state.carMakes.map(x=> {
-                        return <option key={x}>{x}</option>
-                    })}
-                </select>
-                <select value={values.trim} onChange={this.selectTrim.bind(this)}>
-                <option>Select trim</option>
-                    {this.state.carTrims.map(x=> {
-                        return <option key={x}>{x}</option>
-                    })}
-                </select> 
-                <p>{this.state.specificationCarPrice}</p> 
-                    <div className="form-group">
-                        <button className="btn" type="submit">
-                            Continue
-                        </button>
+    <section id="email">
+        <div className="container">
+            <div className="row">
+                <div className="col-md-12">
+                    <form onSubmit={this.continue} className="contact-form">
+                    <div className="form-group col-md-12">
+                        <select value={this.state.selectYear} onChange={this.selectYear.bind(this)}
+                            >
+                            <option>Select Year</option>
+                            {years.map(x=> {
+                                return <option key={x}>{x}</option>
+                            })}
+                        </select>
+                        <select value={this.state.selectModel} onChange={this.selectModel.bind(this)}>
+                            <option>Select model</option>
+                                {this.state.carModels.map(x=> {
+                                    return <option key={x}>{x}</option>
+                                })}
+                            </select> 
+                            <select value={values.make} onChange={this.selectMake.bind(this)}>
+                            <option>Select Make</option>
+                                {this.state.carMakes.map(x=> {
+                                    return <option key={x}>{x}</option>
+                                })}
+                            </select>
+                            <select value={values.trim} onChange={this.selectTrim.bind(this)}>
+                            <option>Select trim</option>
+                                {this.state.carTrims.map(x=> {
+                                    return <option key={x}>{x}</option>
+                                })}
+                            </select> 
+                            <div className="form-group d-flex justify-content-between">
+                                <button className="btn" onClick={this.back}>
+                                    Back
+                                </button>
+                                <button className="btn" type="submit">
+                                    Confirmation details <FontAwesomeIcon icon={faArrowRight}/>
+                                </button>
+                            </div>
+                            </div>
+                        </form>
+                        </div>
                     </div>
-                    <div className="form-group">
-                        <button className="btn" onClick={this.back}>
-                            Back
-                        </button>
-                    </div>
-                </form>
-            </div>
+                </div>
+           </section>
         )
     }
 }

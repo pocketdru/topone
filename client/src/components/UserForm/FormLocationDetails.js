@@ -80,7 +80,6 @@ export class FormUserDetails extends Component {
         
         fetch("/v1/rates/estimate", requestOptions)
         .then(response => response.text())
-        // .then(result => console.log(JSON.parse(result)[3].shipping_amount.amount))
         .then(result => { 
             console.log(JSON.parse(result));
             this.setState({

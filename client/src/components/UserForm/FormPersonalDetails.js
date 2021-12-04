@@ -17,13 +17,13 @@ export class FormPersonalDetails extends Component {
                 <form onSubmit={this.continue}>
                     <div className="form-group col-md-2">
                         <label htmlFor="name">Your name</label>
-                        <input ref="name" name="from_name" type="text" className="form-control" id="name" aria-describedby="emailHelp" placeholder="Name" required
+                        <input name="from_name" type="text" className="form-control" id="name" aria-describedby="emailHelp" placeholder="Name" required
                         onChange={handleChange("name")}
                         defaultValue={values.name} required/>
                     </div>
                     <div className="form-group col-md-2">
                         <label htmlFor="email">Your email </label>
-                        <input ref="email" name="from_email" type="text" className="form-control" id="email" placeholder="Email"
+                        <input name="from_email" type="text" className="form-control" id="email" placeholder="Email"
                         onChange={handleChange("email")}
                         defaultValue={values.email} required/>
                     </div>
