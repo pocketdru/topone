@@ -494,7 +494,16 @@ selectTrim(e) {
                                 {this.state.carTrims.map(x=> {
                                     return <option key={x}>{x}</option>
                                 })}
-                            </select> 
+                            </select>
+                            <div className="form-group col-md-12 d-flex justify-content-around">
+                                <p className="card-text">Is it operable?</p>
+                                <input type="radio" id="yes" value="yes"
+                                name="type" onChange={handleChange("operable")} required/>
+                                <label htmlFor="yes">Yes</label>
+                                <input type="radio" id="no" value="no"
+                                name="type" required onChange={handleChange("operable")}/>
+                                <label htmlFor="no" >No</label>
+                            </div>
                             <div className="form-group d-flex justify-content-between">
                                 <button className="btn" onClick={this.back}>
                                     Back

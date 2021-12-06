@@ -23,6 +23,9 @@
             .form-group {
                 padding: 0.25rem 2rem;
                 margin-top: 1rem;
+                ul.list-group {
+                    list-style: none;
+                }
                 label, p {
                     @include Montserrat-title();
                     font-size: 13px;

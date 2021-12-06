@@ -44,8 +44,8 @@ export class FormPersonalDetails extends Component {
                     <div className="form-group col-md-12">
                         <label>Your phone number</label>
                         <input type="tel" name="contact_number" className="form-control" placeholder="optional"
-                        onChange={handleChange("number")}
-                        defaultValue={values.number}/>
+                        onChange={handleChange("phone")}
+                        defaultValue={values.phone}/>
                     </div>
                     <div className="form-group d-flex justify-content-between">
                         <button className="btn" onClick={this.back}>

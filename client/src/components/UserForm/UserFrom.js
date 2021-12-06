@@ -23,22 +23,14 @@ export class UserFrom extends Component {
         year: "",
         model: "",
         make: "",
-        trim: ""
-    }
-
-    transportType = (selectedType) => {
-        this.setState({
-            transportType: selectedType
-        }, ()=> {
-            console.log(this.state.transportType);
-        })
+        trim: "",
+        operable: ""
     }
 
     year = (selectedYear) => {
         this.setState({
             year: selectedYear
         }, ()=> {
-            console.log(this.state.year)
         })
     }
 
@@ -78,7 +70,6 @@ export class UserFrom extends Component {
         this.setState({
             carPrice: carPrice
         }, ()=> {
-            console.log(this.state.carPrice)
         })
     }
 
@@ -100,14 +91,12 @@ export class UserFrom extends Component {
 
     //handle fields change 
     handleChange = input => e => {
-        this.setState({[input]: e.target.value}, ()=>{
-            console.log(this.state)
-        });
+        this.setState({[input]: e.target.value});
     }
     render() {
         const {step} = this.state;
-        const { puZip, delZip, transportType, milePrice, name, email, date, phone, year, model, make, trim, carPrice} = this.state;
-        const values = { puZip, delZip, transportType, milePrice, name, email, date, phone, year, model, make, trim, carPrice};
+        const { puZip, delZip, transportType, milePrice, name, email, date, phone, year, model, make, trim, operable, carPrice} = this.state;
+        const values = { puZip, delZip, transportType, milePrice, name, email, date, phone, year, model, make, trim, operable, carPrice};
         switch(step) {
             case 1: 
                 return (

@@ -26,6 +26,7 @@ export class Confirm extends Component {
     render() {
         const {values, handleChange, state} = this.props;
         console.log(values.date);
+        console.log(values.operable);
         var price = values.milePrice + values.carPrice;
         if (values.transportType === "enclosed") {
             price = price+530;
@@ -37,6 +38,12 @@ export class Confirm extends Component {
         } else if (values.date === "later") {
             price = price - 25;
         }
+        if (values.operable === "no" ) {
+            price = price + 150;
+        }
+        console.log(values.milePrice);
+        console.log(price);
+        console.log(values.phone);
 
         return (
             <section id="email">
@@ -45,17 +52,15 @@ export class Confirm extends Component {
                     <div className="col-md-12">
                     <div className="form-group contact-form mt-3 mb-3 pt-3">
                         <h3 className="card-title">Shipment details</h3>
-                        <p>{values.milePrice}</p> 
-                        <p>{price}</p>
+                        <p className="card-text">Confirm the information you entered</p>
                         <ul className="list-group">
                             <li className="card-text">{values.name}</li>
-                            <li className="card-text">{values.puZip}</li>
-                            <li className="card-text">{values.delZip}</li>
-                            <li className="card-text">{values.year}</li>
-                            <li className="card-text">{values.model}</li>
-                            <li className="card-text">{values.make}</li>
-                            <li className="card-text">{values.trim}</li>
-                            <li className="card-text">{values.transportType}</li>
+                            <li className="card-text">Pick up from: {values.puZip}</li>
+                            <li className="card-text">Delivery: {values.delZip}</li>
+                            <li className="card-text">{values.year} {values.model} {values.make}</li>
+                            <li className="card-text">Transport type: {values.transportType}</li>
+                            <li className="card-text">Sending a copy of a quote to: {values.email}</li>
+                            <li className="card-text">Phone number: {values.phone ? values.phone : "Not provided"}</li>
 
                         </ul>
                         <form className="needs-validation pb-4" onSubmit={this.sendEmail}>
@@ -69,12 +74,14 @@ export class Confirm extends Component {
                             <input defaultValue={values.make} type="tel" name="make" className="form-control" placeholder="optional" required hidden/>
                             <input defaultValue={values.trim} type="tel" name="trim" className="form-control" placeholder="optional" required hidden/>
                             <input defaultValue={price} type="tel" name="price" className="form-control" placeholder="optional" required hidden/>
-                        <div className="form-group d-flex justify-content-between">
+                            <div className="form-group d-flex justify-content-center">
+                            <button className="btn" type="submit">
+                                Confirm!
+                            </button>
+                        </div>
+                        <div className="form-group d-flex justify-content-center">
                             <button className="btn" onClick={this.back}>
                                 Back
-                            </button>
-                            <button className="btn" type="submit">
-                                Submit
                             </button>
                         </div>
                         </form>
