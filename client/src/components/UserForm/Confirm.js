@@ -52,7 +52,7 @@ export class Confirm extends Component {
                     <div className="col-md-12">
                     <div className="form-group contact-form mt-3 mb-3 pt-3">
                         <h3 className="card-title">Shipment details</h3>
-                        <p className="card-text">Confirm the information you entered</p>
+                        <p className="card-list">Confirm the information you entered</p>
                         <ul className="list-group">
                             <li className="card-text">{values.name}</li>
                             <li className="card-text">Pick up from: {values.puZip}</li>
@@ -63,7 +63,7 @@ export class Confirm extends Component {
                             <li className="card-text">Phone number: {values.phone ? values.phone : "Not provided"}</li>
 
                         </ul>
-                        <form className="needs-validation pb-4" onSubmit={this.sendEmail}>
+                        <form className="needs-validation pb-1" onSubmit={this.sendEmail}>
                             <input defaultValue={values.name} type="text" name="from_name" className="form-control" required hidden/>
                             <input defaultValue={values.email} type="email" name="from_email" className="form-control" required hidden/>
                             <input defaultValue={values.phone} type="tel" name="phone" className="form-control" placeholder="optional" hidden/>
@@ -74,13 +74,11 @@ export class Confirm extends Component {
                             <input defaultValue={values.make} type="tel" name="make" className="form-control" placeholder="optional" required hidden/>
                             <input defaultValue={values.trim} type="tel" name="trim" className="form-control" placeholder="optional" required hidden/>
                             <input defaultValue={price} type="tel" name="price" className="form-control" placeholder="optional" required hidden/>
-                            <div className="form-group d-flex justify-content-center">
-                            <button className="btn" type="submit">
+                            <div className="form-group">
+                            <button className="btn d-block mx-auto mb-2" type="submit">
                                 Confirm!
                             </button>
-                        </div>
-                        <div className="form-group d-flex justify-content-center">
-                            <button className="btn" onClick={this.back}>
+                            <button className="btn d-block m-auto" onClick={this.back}>
                                 Back
                             </button>
                         </div>

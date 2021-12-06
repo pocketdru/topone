@@ -12,20 +12,25 @@
         .card-title {
             @include Component-title();
         }
+        .card-list {
+            @include Open-Sans-par();
+            color: #495057;
+            text-align: center;
+        }
         .card-text {
             @include Montserrat-title();
             font-size: 13px;
             color: #969696;
             text-align: center;
         }
+        ul.list-group {
+            list-style: none;
+        }
         .contact-form {
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
             .form-group {
                 padding: 0.25rem 2rem;
                 margin-top: 1rem;
-                ul.list-group {
-                    list-style: none;
-                }
                 label, p {
                     @include Montserrat-title();
                     font-size: 13px;
