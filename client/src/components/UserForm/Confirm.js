@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import emailjs from 'emailjs-com';
 
 export class Confirm extends Component {
+
     continue = e => {
         e.preventDefault();
         this.props.nextStep();
@@ -26,6 +27,10 @@ export class Confirm extends Component {
         const {values, handleChange, state} = this.props;
         console.log(values.carPrice);
         var price = values.milePrice + values.carPrice;
+        if (values.transportType === "enclosed") {
+            price = price+530;
+        }
+        console.log(price);
 
         return (
             <section id="email">
