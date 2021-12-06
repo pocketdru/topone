@@ -25,12 +25,18 @@ export class Confirm extends Component {
       }
     render() {
         const {values, handleChange, state} = this.props;
-        console.log(values.carPrice);
+        console.log(values.date);
         var price = values.milePrice + values.carPrice;
         if (values.transportType === "enclosed") {
             price = price+530;
         }
-        console.log(price);
+        if (values.date === "week") {
+            price = price - 10;
+        } else if (values.date === "month") {
+            price = price - 20;
+        } else if (values.date === "later") {
+            price = price - 25;
+        }
 
         return (
             <section id="email">

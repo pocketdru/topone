@@ -17,6 +17,7 @@ export class UserFrom extends Component {
         transportType: "",
         name: "",
         email: "",
+        date: "",
         phone: "", 
         milePrice: "",
         year: "",
@@ -105,8 +106,8 @@ export class UserFrom extends Component {
     }
     render() {
         const {step} = this.state;
-        const { puZip, delZip, transportType, milePrice, name, email, phone, year, model, make, trim, carPrice} = this.state;
-        const values = { puZip, delZip, transportType, milePrice, name, email, phone, year, model, make, trim, carPrice};
+        const { puZip, delZip, transportType, milePrice, name, email, date, phone, year, model, make, trim, carPrice} = this.state;
+        const values = { puZip, delZip, transportType, milePrice, name, email, date, phone, year, model, make, trim, carPrice};
         switch(step) {
             case 1: 
                 return (

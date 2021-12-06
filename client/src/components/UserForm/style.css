@@ -25,7 +25,7 @@
     #email .container .contact-form {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
       #email .container .contact-form .form-group {
-        padding: 0.5rem 2rem;
+        padding: 0.25rem 2rem;
         margin-top: 1rem; }
         #email .container .contact-form .form-group label, #email .container .contact-form .form-group p {
           font-family: Montserrat;
