@@ -14,6 +14,14 @@
       color: #000000;
       font-size: 24px;
       text-align: center; }
+    #email .container .card-text {
+      font-family: Montserrat;
+      color: #f9f8f4;
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 13px;
+      color: #969696;
+      text-align: center; }
     #email .container .contact-form {
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.25); }
       #email .container .contact-form .form-group {

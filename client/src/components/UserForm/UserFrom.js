@@ -14,6 +14,7 @@ export class UserFrom extends Component {
         step: 1,
         puZip: "",
         delZip: "",
+        transportType: "",
         name: "",
         email: "",
         phone: "", 
@@ -22,6 +23,14 @@ export class UserFrom extends Component {
         model: "",
         make: "",
         trim: ""
+    }
+
+    transportType = (selectedType) => {
+        this.setState({
+            transportType: selectedType
+        }, ()=> {
+            console.log(this.state.transportType);
+        })
     }
 
     year = (selectedYear) => {
@@ -90,17 +99,20 @@ export class UserFrom extends Component {
 
     //handle fields change 
     handleChange = input => e => {
-        this.setState({[input]: e.target.value});
+        this.setState({[input]: e.target.value}, ()=>{
+            console.log(this.state)
+        });
     }
     render() {
         const {step} = this.state;
-        const { puZip, delZip, milePrice, name, email, phone, year, model, make, trim, carPrice} = this.state;
-        const values = { puZip, delZip, milePrice, name, email, phone, year, model, make, trim, carPrice};
+        const { puZip, delZip, transportType, milePrice, name, email, phone, year, model, make, trim, carPrice} = this.state;
+        const values = { puZip, delZip, transportType, milePrice, name, email, phone, year, model, make, trim, carPrice};
         switch(step) {
             case 1: 
                 return (
                 <FormLocationDetails
                     milePrice={this.milePrice}
+                    transportType={this.transportType}
                     state={this.state}
                     nextStep={this.nextStep}
                     handleChange={this.handleChange}

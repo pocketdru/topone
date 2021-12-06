@@ -83,7 +83,7 @@ export class FormUserDetails extends Component {
         .then(result => { 
             console.log(JSON.parse(result));
             this.setState({
-                milePrice: JSON.parse(result)[1].shipping_amount.amount*12.25
+                milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
             }, ()=> {
                 console.log("mile price " +this.state.milePrice)
             });
@@ -227,6 +227,7 @@ export class FormUserDetails extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
+                            <h3 className="card-text mt-4">Get a quote or call <u>+1 (303) 353 8362</u></h3>
                             <form onSubmit={this.continue} className="contact-form">
                                 <div className="form-group col-md-12">
                                     <label htmlFor="puZip">pu zip code</label>
@@ -239,6 +240,16 @@ export class FormUserDetails extends Component {
                                     onChange={handleChange("delZip")}
                                     defaultValue={values.delZip}
                                     required/>
+                                </div>
+                                <div className="form-group col-md-12 d-flex justify-content-around">
+                                    <p className="card-text">Transport type</p>
+                                    <input type="radio" id="Open" value="open"
+                                    name="type" onChange={handleChange("transportType")} required/>
+                                    <label htmlFor="Open">Open</label>
+
+                                    <input type="radio" id="enclosed" value="enclosed"
+                                    name="type" required onChange={handleChange("transportType")}/>
+                                    <label htmlFor="enclosed" >Enclosed</label>
                                 </div>
                                 <div className="form-group button">
                                     <button className="btn" type="submit">

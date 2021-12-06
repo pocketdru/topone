@@ -36,14 +36,16 @@ export class Confirm extends Component {
                         <h3 className="card-title">Shipment details</h3>
                         <p>{values.milePrice}</p> 
                         <p>{price}</p>
-                        <ul class="list-group">
-                            <li class="card-text">{values.name}</li>
-                            <li class="card-text">{values.puZip}</li>
-                            <li class="card-text">{values.delZip}</li>
-                            <li class="card-text">{values.year}</li>
-                            <li class="card-text">{values.model}</li>
-                            <li class="card-text">{values.make}</li>
-                            <li class="card-text">{values.trim}</li>
+                        <ul className="list-group">
+                            <li className="card-text">{values.name}</li>
+                            <li className="card-text">{values.puZip}</li>
+                            <li className="card-text">{values.delZip}</li>
+                            <li className="card-text">{values.year}</li>
+                            <li className="card-text">{values.model}</li>
+                            <li className="card-text">{values.make}</li>
+                            <li className="card-text">{values.trim}</li>
+                            <li className="card-text">{values.transportType}</li>
+
                         </ul>
                         <form className="needs-validation pb-4" onSubmit={this.sendEmail}>
                             <input defaultValue={values.name} type="text" name="from_name" className="form-control" required hidden/>
