@@ -483,13 +483,13 @@ selectTrim(e) {
                                     return <option key={x}>{x}</option>
                                 })}
                             </select> 
-                            <select value={values.make} onChange={this.selectMake.bind(this)} required>
+                            <select value={this.state.selectMake} onChange={this.selectMake.bind(this)} required>
                             <option value="">Select Make</option>
                                 {this.state.carMakes.map(x=> {
                                     return <option key={x}>{x}</option>
                                 })}
                             </select>
-                            <select value={values.trim} onChange={this.selectTrim.bind(this)} required>
+                            <select value={this.state.selectTrim} onChange={this.selectTrim.bind(this)} required>
                             <option value="">Select trim</option>
                                 {this.state.carTrims.map(x=> {
                                     return <option key={x}>{x}</option>
