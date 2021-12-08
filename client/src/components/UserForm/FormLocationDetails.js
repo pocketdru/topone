@@ -146,21 +146,21 @@ export class FormUserDetails extends Component {
              console.log(Math.round(finalPrice));
              if (this.state.milePrice > 600) {
                  this.setState({
-                     milePrice: this.state.milePrice*1.75
+                     milePrice: this.state.milePrice*1.95
                  }, () => {
                     console.log(this.state.milePrice);
                 })
              } else 
              if (this.state.milePrice > 300 && this.state.milePrice < 400) {
                  this.setState({
-                     milePrice: this.state.milePrice*1.75
+                     milePrice: this.state.milePrice*1.95
                  }, () => {
                     console.log(this.state.milePrice);
                 })
              } else 
              if (this.state.milePrice > 150 && this.state.milePrice < 200) {
                  this.setState({
-                     milePrice: this.state.milePrice*1
+                     milePrice: this.state.milePrice*1.2
                  }, () => {
                     console.log(this.state.milePrice);
                 })
@@ -178,27 +178,27 @@ export class FormUserDetails extends Component {
              console.log(Math.round(finalPrice));
              if (this.state.milePrice > 660) {
                  this.setState({  
-                     milePrice: this.state.milePrice*2.4
+                     milePrice: this.state.milePrice*2.6
                  }, () => {
                     console.log(this.state.milePrice);
                 })
              } else if (this.state.milePrice > 650 && this.state.milePrice < 660){
                  this.setState({
-                     milePrice: this.state.milePrice*2
+                     milePrice: this.state.milePrice*1.25
                  }, () => {
                     console.log(this.state.milePrice);
                 })
              } else 
              if (this.state.milePrice > 300 && this.state.milePrice < 400) {
                  this.setState({
-                     milePrice: this.state.milePrice*1.35
+                     milePrice: this.state.milePrice*1.1
                  }, () => {
                     console.log(this.state.milePrice);
                 } )
              } else 
              if (this.state.milePrice > 150 && this.state.milePrice < 200) {
                  this.setState({
-                     milePrice: this.state.milePrice*0.4
+                     milePrice: this.state.milePrice*0.6
                  }, () => {
                      console.log(this.state.milePrice);
                  })
