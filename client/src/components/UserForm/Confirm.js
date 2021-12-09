@@ -43,8 +43,6 @@ export class Confirm extends Component {
         }
         console.log(values.milePrice);
         console.log(price);
-        console.log(values.phone);
-
         return (
             <section id="email">
                 <div className="container">
