@@ -254,7 +254,7 @@ export class FormUserDetails extends Component {
          this.props.nextStep();
          return finalPrice;
          } else if (puPrice === delPrice) {
-            if (this.state.milePrice > 200 && this.state.milePrice < 350) {
+            if ( this.state.milePrice > 350) {
                 
             }
          }
