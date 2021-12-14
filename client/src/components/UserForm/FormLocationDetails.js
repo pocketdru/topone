@@ -184,7 +184,6 @@ export class FormUserDetails extends Component {
          } else if (puPrice < delPrice) {
              extraCharge = (puPrice/100)*15;
              finalPrice = ((puPrice + delPrice + extraCharge)/100)*35;
-             console.log(this.state.milePrice);
              if (this.state.milePrice > 660) {
                  this.setState({  
                      milePrice: this.state.milePrice*2.6
@@ -216,6 +215,12 @@ export class FormUserDetails extends Component {
                  }, () => {
                     console.log(this.state.milePrice);
                 } )
+             } else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
+                this.setState({
+                    milePrice: this.state.milePrice*0.08
+                }, () => {
+                   console.log(this.state.milePrice);
+               } )
              } else 
              if (this.state.milePrice > 150 && this.state.milePrice < 200) {
                  this.setState({
