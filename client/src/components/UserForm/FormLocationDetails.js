@@ -202,14 +202,20 @@ export class FormUserDetails extends Component {
                 }, () => {
                    console.log(this.state.milePrice);
                })
-             }else if (this.state.milePrice > 620 && this.state.milePrice < 630) {
+             } else if (this.state.milePrice > 620 && this.state.milePrice < 630) {
                 this.setState({
                     milePrice: this.state.milePrice*1.5
                 }, () => {
                    console.log(this.state.milePrice);
                })
-             }else 
-             if (this.state.milePrice > 300 && this.state.milePrice < 400) {
+             } else if (this.state.milePrice > 500 && this.state.milePrice < 600) {
+                this.setState({
+                    milePrice: this.state.milePrice*1.5
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+             } 
+             else if (this.state.milePrice > 300 && this.state.milePrice < 400) {
                  this.setState({
                      milePrice: this.state.milePrice*1.1
                  }, () => {
