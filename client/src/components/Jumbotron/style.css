@@ -3,7 +3,7 @@
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
-  background-image: url("../../assets/images/jumbotron/2.webP"); }
+  background-image: url("../../assets/images/jumbotron/3.jpg"); }
   .jumbotron-carousel .jumbotron {
     margin-bottom: 0;
     background: none; }
@@ -69,7 +69,7 @@
   @media (max-width: 769px) {
     .jumbotron-carousel {
       padding-bottom: 0rem;
-      background-image: url("../../assets/images/jumbotron/mobile-1.webP"); }
+      background-image: url("../../assets/images/jumbotron/3.jpg"); }
       .jumbotron-carousel .jumbotron .text-right h1 {
         font-size: 30px;
         margin-top: 4rem; }
