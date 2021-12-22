@@ -219,21 +219,42 @@ export class FormUserDetails extends Component {
                 }, () => {
                    console.log(this.state.milePrice);
                })
-             } 
-             else if (this.state.milePrice > 300 && this.state.milePrice < 400) {
+             } else if (this.state.milePrice > 370 && this.state.milePrice < 400) {
+                this.setState({
+                    milePrice: this.state.milePrice
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+             }
+             else if (this.state.milePrice > 350 && this.state.milePrice < 370) {
                  this.setState({
-                     milePrice: this.state.milePrice*1.1
+                     milePrice: this.state.milePrice*1.6
                  }, () => {
                     console.log(this.state.milePrice);
-                } )
-             } else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
+                })
+             } 
+             else if (this.state.milePrice > 300 && this.state.milePrice < 350) {
+                this.setState({
+                    milePrice: this.state.milePrice*1.1
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+             } 
+             else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
                 this.setState({
                     milePrice: this.state.milePrice*0.08
                 }, () => {
                    console.log(this.state.milePrice);
                } )
-             } else 
-             if (this.state.milePrice > 150 && this.state.milePrice < 200) {
+             } else if (this.state.milePrice > 190 && this.state.milePrice < 200) {
+                this.setState({
+                    milePrice: this.state.milePrice*0.1
+                }, () => {
+                    console.log(this.state.milePrice);
+                })
+                finalPrice = finalPrice*0.85;
+             }
+             else if (this.state.milePrice > 150 && this.state.milePrice < 190) {
                  this.setState({
                      milePrice: this.state.milePrice*0.6
                  }, () => {
