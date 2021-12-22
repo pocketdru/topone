@@ -83,7 +83,7 @@ export class FormUserDetails extends Component {
         .then(result => { 
             console.log(JSON.parse(result));
             this.setState({
-                milePrice: JSON.parse(result)[1].shipping_amount.amount*13.25
+                milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
             }, ()=> {
                 console.log("mile price " +this.state.milePrice)
             });
@@ -159,14 +159,19 @@ export class FormUserDetails extends Component {
                     console.log(this.state.milePrice);
                 })
              } else 
-             if (this.state.milePrice > 200 && this.state.milePrice < 300){
+             if (this.state.milePrice > 250 && this.state.milePrice < 300){
                 this.setState({
                     milePrice: this.state.milePrice*2.25
                 }, () => {
                    console.log(this.state.milePrice);
                })
-             }
-             else 
+             } else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
+                this.setState({
+                    milePrice: this.state.milePrice*3.25
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+             } else
              if (this.state.milePrice > 150 && this.state.milePrice < 200) {
                  this.setState({
                      milePrice: this.state.milePrice*1.2
