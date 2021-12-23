@@ -167,7 +167,7 @@ export class FormUserDetails extends Component {
                })
              } else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
                 this.setState({
-                    milePrice: this.state.milePrice*3.25
+                    milePrice: this.state.milePrice*3
                 }, () => {
                    console.log(this.state.milePrice);
                })
@@ -276,12 +276,18 @@ export class FormUserDetails extends Component {
                 }, ()=> {
                     console.log(this.state.milePrice);
                 })
-            } else if (this.state.milePrice < 200) {
+            } else if (this.state.milePrice > 175 && this.state.milePrice < 200) {
                 this.setState({
                     milePrice: this.state.milePrice*0.01
                 })
                 this.setState({finalPrice: this.state.milePrice}, ()=> {
                     console.log(this.state.finalPrice);
+                })
+            } else if (this.state.milePrice > 150 && this.state.milePrice < 175) {
+                this.setState({
+                    milePrice: this.state.milePrice*0.3
+                }, ()=> {
+                    console.log(this.state.milePrice);
                 })
             }
             extraCharge = (puPrice/100)*5;
