@@ -3,6 +3,7 @@ import zones from "../../assets/zones/zones.json";
 import prices from "../../assets/zones/price_list.json";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
+import { json } from 'body-parser';
 
 
 export class FormUserDetails extends Component {
@@ -36,6 +37,10 @@ export class FormUserDetails extends Component {
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
         this.milePriceApiCall(puAreaCode, delAreaCode);    
         // this.emailjs(event);
+        puZipCodeToString = null; 
+        delZipCodeToString = null;
+        puAreaCode = null; 
+        delAreaCode = null;
     }
 
     milePriceApiCall = (puAreaCode, delAreaCode) => {
@@ -82,12 +87,21 @@ export class FormUserDetails extends Component {
         .then(response => response.text())
         .then(result => { 
             console.log(JSON.parse(result));
-            this.setState({
-                milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
-            }, ()=> {
-                console.log("mile price " +this.state.milePrice)
-            });
-            this.areaZoneGet(puAreaCode, delAreaCode);
+            console.log(JSON.parse(result).length);
+            const resultLenght = JSON.parse(result).length;
+            for (var i = 0; resultLenght > i; i++) {
+                console.log(JSON.parse(result)[i].service_code)
+                if (JSON.parse(result)[i].service_code === "fedex_ground") {
+                    console.log("1");
+                    this.setState({
+                        milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
+                    }, ()=> {
+                        console.log("mile price " +this.state.milePrice);
+                    });
+                    this.areaZoneGet(puAreaCode, delAreaCode);
+                    return
+                }
+            }
         })
         .catch(error => console.log('error', error));
     } 
@@ -340,6 +354,14 @@ export class FormUserDetails extends Component {
             this.props.nextStep();
             return finalPrice;
          }
+         this.setState({
+            milePrice: null,
+            puZone: null,
+            delZone: null,
+            finalPrice: null
+        }, () => {
+            console.log(this.state);
+        })                 
     }     
 
     render() {
@@ -353,12 +375,12 @@ export class FormUserDetails extends Component {
                             <form onSubmit={this.continue} className="contact-form">
                                 <div className="form-group col-md-12">
                                     <label htmlFor="puZip">pu zip code</label>
-                                    <input type="text" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip" onChange={handleChange("puZip")}
+                                    <input type="number" className="form-control" id="puZip" aria-describedby="emailHelp" placeholder="pick up zip" onChange={handleChange("puZip")}
                                     defaultValue={values.puZip} required/>
                                 </div>
                                 <div className="form-group col-md-12">
                                     <label htmlFor="delZip">delivery zip</label>
-                                    <input type="text" className="form-control" id="delZip" placeholder="delivery zip"
+                                    <input type="number" className="form-control" id="delZip" placeholder="delivery zip"
                                     onChange={handleChange("delZip")}
                                     defaultValue={values.delZip}
                                     required/>
