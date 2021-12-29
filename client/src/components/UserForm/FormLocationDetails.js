@@ -90,11 +90,9 @@ export class FormUserDetails extends Component {
             console.log(JSON.parse(result).length);
             const resultLenght = JSON.parse(result).length;
             for (var i = 0; resultLenght > i; i++) {
-                console.log(JSON.parse(result)[i].service_code)
                 if (JSON.parse(result)[i].service_code === "fedex_ground") {
-                    console.log("1");
                     this.setState({
-                        milePrice: JSON.parse(result)[1].shipping_amount.amount*2.25
+                        milePrice: JSON.parse(result)[i].shipping_amount.amount*11.4
                     }, ()=> {
                         console.log("mile price " +this.state.milePrice);
                     });
@@ -174,14 +172,21 @@ export class FormUserDetails extends Component {
             }
             else if (this.state.milePrice > 600 && this.state.milePrice < 650) {
                 this.setState({
-                    milePrice: this.state.milePrice*1.7
+                    milePrice: this.state.milePrice*2.1
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+            } else 
+            if (this.state.milePrice > 500 && this.state.milePrice < 600) {
+                this.setState({
+                    milePrice: this.state.milePrice*2.35
                 }, () => {
                    console.log(this.state.milePrice);
                })
             } else
-             if (this.state.milePrice > 450 && this.state.milePrice < 600) {
+             if (this.state.milePrice > 450 && this.state.milePrice < 500) {
                  this.setState({
-                     milePrice: this.state.milePrice*1.95
+                     milePrice: this.state.milePrice*2.2
                  }, () => {
                     console.log(this.state.milePrice);
                 })
@@ -202,7 +207,7 @@ export class FormUserDetails extends Component {
              } else
              if (this.state.milePrice > 300 && this.state.milePrice < 350) {
                  this.setState({
-                     milePrice: this.state.milePrice*1.95
+                     milePrice: this.state.milePrice*3.9
                  }, () => {
                     console.log(this.state.milePrice);
                 })
@@ -275,7 +280,7 @@ export class FormUserDetails extends Component {
                })
              } else if (this.state.milePrice > 370 && this.state.milePrice < 400) {
                 this.setState({
-                    milePrice: this.state.milePrice*1.3
+                    milePrice: this.state.milePrice*2.4
                 }, () => {
                    console.log(this.state.milePrice);
                })
@@ -330,7 +335,13 @@ export class FormUserDetails extends Component {
                 }, ()=> {
                     console.log(this.state.milePrice);
                 })
-            } else if (this.state.milePrice > 175 && this.state.milePrice < 200) {
+            } else if (this.state.milePrice > 300 && this.state.milePrice < 350) {
+                this.setState({
+                    milePrice: this.state.milePrice*3
+                }, ()=> {
+                    console.log(this.state.milePrice);
+                })
+            }  else if (this.state.milePrice > 175 && this.state.milePrice < 200) {
                 this.setState({
                     milePrice: this.state.milePrice*0.01
                 })

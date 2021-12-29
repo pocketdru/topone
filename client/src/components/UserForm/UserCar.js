@@ -39,8 +39,6 @@ export class UserCar extends Component {
 
     selectYear(e) {
         this.props.year(e.target.value);
-        console.log(this.state.carPrice);
-        console.log(this.props.year);
         // this.props.handleChange(year = year, e = e.target.value);
         this.setState({selectYear: e.target.value,
             selectModel: "",
@@ -143,7 +141,6 @@ selectModel(e) {
         })
 
     } else if (e.target.value.toLowerCase() === "bmw" || e.target.value.toLowerCase() === "cadillac" || e.target.value.toLowerCase() === "infiniti" || e.target.value.toLowerCase() === "jaguar" || e.target.value.toLowerCase() === "land rover" || e.target.value.toLowerCase() === "lexus" || e.target.value.toLowerCase() === "mercedes-benz" || e.target.value.toLowerCase() === "porsche") {
-        console.log(e.target.value); 
         this.setState({
             modelPrice: 70
         }, () => {
@@ -181,7 +178,6 @@ selectMake(e) {
         makePrice: null,
         carPrice: null
     });
-    console.log(e.target.value);
     if (e.target.value.toLowerCase() === "nsx" || e.target.value.toLowerCase() === "4c" || e.target.value.toLowerCase() === "8c competizione" || e.target.value.toLowerCase() === "atom" || e.target.value.toLowerCase() === "db7" || e.target.value.toLowerCase() === "db9" || e.target.value.toLowerCase() === "dbs" || e.target.value.toLowerCase() === "one-77" || e.target.value.toLowerCase() === "rapide" || e.target.value.toLowerCase() === "vanquish" || e.target.value.toLowerCase() === "vantage" || e.target.value.toLowerCase() === "r8" || e.target.value.toLowerCase() === "tt" || e.target.value.toLowerCase() === "r8" || e.target.value.toLowerCase() === "i8" || e.target.value.toLowerCase() === "m8" || e.target.value.toLowerCase() === "z3" || e.target.value.toLowerCase() === "z8" || e.target.value.toLowerCase() === "gt-r" || e.target.value.toLowerCase() === "gt-r" ) {
         console.log(e.target.value); 
         this.setState({
@@ -216,9 +212,7 @@ selectMake(e) {
         var newArray = trims.filter(function(elem, pos) {
             return trims.indexOf(elem) === pos;;
     });
-    this.setState({carTrims: newArray.sort()}, ()=> {
-        console.log(this.state.carTrims)
-    })
+    this.setState({carTrims: newArray.sort()})
 
 });
 }
@@ -231,10 +225,7 @@ selectTrim(e) {
         specificationCarPrice: null
 
     }, () => {
-        console.log(this.state.carPrice);
-        console.log(this.state.DDL4);
-        var trim = e.target.value.split(" ");
-        console.log(trim);
+         var trim = e.target.value.split(" ");
     
         for (var i = 0; i < trim.length; i++) {
             if (trim[i] === "Sedan") {
