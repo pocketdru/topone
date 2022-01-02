@@ -16,7 +16,8 @@ export class FormUserDetails extends Component {
         finalPrice: null,
         milePrice: null,
         loading: false, 
-        setLoading: false
+        setLoading: false,
+        delCalculator: null
         }  
     continue = e => {
         e.preventDefault();
@@ -36,7 +37,11 @@ export class FormUserDetails extends Component {
         var delAreaCode = delZipCodeToString.slice(0,3);
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
         this.milePriceApiCall(puAreaCode, delAreaCode);    
-        // this.emailjs(event);
+        this.setState({
+            delCalculator: delAreaCode
+        }, ()=> {
+            console.log(this.state.delCalculator)
+        })
         puZipCodeToString = null; 
         delZipCodeToString = null;
         puAreaCode = null; 
@@ -151,6 +156,7 @@ export class FormUserDetails extends Component {
          var extraCharge = null;
          var finalPrice;
          if (puPrice > delPrice) {
+             console.log(delAreaCode);
              extraCharge = (delPrice/100)*55;
             //  console.log("extra charge " + extraCharge);
              finalPrice = (puPrice*2 + delPrice + extraCharge)/15;
@@ -213,11 +219,19 @@ export class FormUserDetails extends Component {
                 })
              } else 
              if (this.state.milePrice > 300 && this.state.milePrice < 325) {
-                this.setState({
-                    milePrice: this.state.milePrice*1.9
-                }, () => {
-                   console.log(this.state.milePrice);
-               })
+                 if (this.state.delCalculator === "282") {
+                    this.setState({
+                        milePrice: this.state.milePrice*1.2
+                    }, () => {
+                       console.log(this.state.milePrice);
+                   })
+                 } else {
+                    this.setState({
+                        milePrice: this.state.milePrice*1.9
+                    }, () => {
+                    console.log(this.state.milePrice);
+                })
+                }
              } else 
              if (this.state.milePrice > 250 && this.state.milePrice < 300){
                 this.setState({
