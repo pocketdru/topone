@@ -319,7 +319,13 @@ export class FormUserDetails extends Component {
                 }, () => {
                    console.log(this.state.milePrice);
                })
-             } 
+             } else if (this.state.milePrice > 250 && this.state.milePrice < 300) {
+                this.setState({
+                    milePrice: this.state.milePrice*1.3
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+             }
              else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
                 this.setState({
                     milePrice: this.state.milePrice*0.08
