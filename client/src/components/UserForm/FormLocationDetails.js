@@ -206,7 +206,7 @@ export class FormUserDetails extends Component {
              } else
              if (this.state.milePrice > 350 && this.state.milePrice < 400) {
                 this.setState({
-                    milePrice: this.state.milePrice*1.7
+                    milePrice: this.state.milePrice*3
                 }, () => {
                    console.log(this.state.milePrice);
                })
