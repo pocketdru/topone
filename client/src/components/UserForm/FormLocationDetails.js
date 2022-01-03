@@ -17,7 +17,8 @@ export class FormUserDetails extends Component {
         milePrice: null,
         loading: false, 
         setLoading: false,
-        delCalculator: null
+        puCalculator: null,
+        delCalculator: null,
         }  
     continue = e => {
         e.preventDefault();
@@ -38,9 +39,8 @@ export class FormUserDetails extends Component {
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
         this.milePriceApiCall(puAreaCode, delAreaCode);    
         this.setState({
+            puCalculator: puAreaCode,
             delCalculator: delAreaCode
-        }, ()=> {
-            console.log(this.state.delCalculator)
         })
         puZipCodeToString = null; 
         delZipCodeToString = null;
@@ -178,7 +178,7 @@ export class FormUserDetails extends Component {
             }
             else if (this.state.milePrice > 600 && this.state.milePrice < 650) {
                 this.setState({
-                    milePrice: this.state.milePrice*2.1
+                    milePrice: this.state.milePrice*2.6
                 }, () => {
                    console.log(this.state.milePrice);
                })
@@ -237,6 +237,12 @@ export class FormUserDetails extends Component {
                     }, () => {
                        console.log(this.state.milePrice);
                    })
+                  } else if (this.state.delCalculator === "978") {
+                    this.setState({
+                        milePrice: this.state.milePrice*2.6
+                    }, () => {
+                       console.log(this.state.milePrice);
+                   })
                   } else {
                     this.setState({
                         milePrice: this.state.milePrice*1.9
@@ -253,7 +259,7 @@ export class FormUserDetails extends Component {
                })
              } else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
                 this.setState({
-                    milePrice: this.state.milePrice*3
+                    milePrice: this.state.milePrice*1.9
                 }, () => {
                    console.log(this.state.milePrice);
                })
@@ -311,6 +317,13 @@ export class FormUserDetails extends Component {
                 }, () => {
                    console.log(this.state.milePrice);
                })
+             } else if (this.state.milePrice > 450 && this.state.milePrice < 500) {
+                this.setState({
+                    milePrice: this.state.milePrice*2.9
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+
              } else if (this.state.milePrice > 370 && this.state.milePrice < 400) {
                 this.setState({
                     milePrice: this.state.milePrice*2.4
@@ -340,10 +353,11 @@ export class FormUserDetails extends Component {
              }
              else if (this.state.milePrice > 200 && this.state.milePrice < 250) {
                 this.setState({
-                    milePrice: this.state.milePrice*0.08
+                    milePrice: this.state.milePrice*0.02
                 }, () => {
                    console.log(this.state.milePrice);
-               } )
+                   finalPrice = finalPrice*0.75;
+               })
              } else if (this.state.milePrice > 190 && this.state.milePrice < 200) {
                 this.setState({
                     milePrice: this.state.milePrice*0.1

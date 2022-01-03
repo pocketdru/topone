@@ -25,8 +25,6 @@ export class Confirm extends Component {
       }
     render() {
         const {values, handleChange, state} = this.props;
-        console.log(values.date);
-        console.log(values.operable);
         var price = values.milePrice + values.carPrice;
         if (values.transportType === "enclosed") {
             price = price+530;
