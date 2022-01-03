@@ -231,7 +231,13 @@ export class FormUserDetails extends Component {
                     }, () => {
                        console.log(this.state.milePrice);
                    })
-                 } else {
+                 } else if (this.state.delCalculator === "810") {
+                    this.setState({
+                        milePrice: this.state.milePrice*4
+                    }, () => {
+                       console.log(this.state.milePrice);
+                   })
+                  } else {
                     this.setState({
                         milePrice: this.state.milePrice*1.9
                     }, () => {
