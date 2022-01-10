@@ -205,11 +205,26 @@ export class FormUserDetails extends Component {
                })
              } else
              if (this.state.milePrice > 350 && this.state.milePrice < 400) {
-                this.setState({
-                    milePrice: this.state.milePrice*3
-                }, () => {
-                   console.log(this.state.milePrice);
-               })
+                if (this.state.puCalculator === "973" && this.state.delCalculator === "927") {
+                    this.setState({
+                        milePrice: this.state.milePrice*2.2
+                    }, () => {
+                       console.log(this.state.milePrice);
+                   }) 
+                } else
+                if (this.state.puCalculator === "462" && this.state.delCalculator === "810") {
+                    this.setState({
+                        milePrice: this.state.milePrice*3.8
+                    }, () => {
+                       console.log(this.state.milePrice);
+                   }) 
+                } else {
+                    this.setState({
+                        milePrice: this.state.milePrice*3
+                    }, () => {
+                    console.log(this.state.milePrice);
+                }) 
+                }
              } else
              if (this.state.milePrice > 325 && this.state.milePrice < 350) {
                  this.setState({
@@ -237,9 +252,9 @@ export class FormUserDetails extends Component {
                     }, () => {
                        console.log(this.state.milePrice);
                    })
-                  } else if (this.state.delCalculator === "978") {
+                  } else if (this.state.puCalculator === "841" && this.state.delCalculator === "810" || this.state.delCalculator === "978") {
                     this.setState({
-                        milePrice: this.state.milePrice*2.6
+                        milePrice: this.state.milePrice*2.2
                     }, () => {
                        console.log(this.state.milePrice);
                    })
@@ -301,7 +316,7 @@ export class FormUserDetails extends Component {
                 })
              }  else if (this.state.milePrice > 630 && this.state.milePrice < 650) {
                 this.setState({
-                    milePrice: this.state.milePrice*1.25
+                    milePrice: this.state.milePrice*2.1
                 }, () => {
                    console.log(this.state.milePrice);
                })
@@ -311,9 +326,15 @@ export class FormUserDetails extends Component {
                 }, () => {
                    console.log(this.state.milePrice);
                })
-             } else if (this.state.milePrice > 500 && this.state.milePrice < 600) {
+             }else if (this.state.milePrice > 550 && this.state.milePrice < 600) {
                 this.setState({
                     milePrice: this.state.milePrice*1.5
+                }, () => {
+                   console.log(this.state.milePrice);
+               })
+             }  else if (this.state.milePrice > 500 && this.state.milePrice < 550) {
+                this.setState({
+                    milePrice: this.state.milePrice*2
                 }, () => {
                    console.log(this.state.milePrice);
                })
