@@ -61,25 +61,25 @@ export class FormUserDetails extends Component {
         myHeaders.append("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
          var raw = JSON.stringify({
             "carrier_ids": [
-              "se-656576"
-            ],
-            "from_country_code": "US",
-            "from_postal_code": this.props.state.puZip,
-            "to_country_code": "US",
-            "to_postal_code": this.props.state.delZip,
-            "weight": {
-              "value": 1,
-              "unit": "ounce"
-            },
-            "dimensions": {
-              "unit": "inch",
-              "length": 10,
-              "width": 10,
-              "height": 50
-            },
-            "confirmation": "none",
-            "address_residential_indicator": "no"
-          })
+                "se-656576"
+              ],
+              "from_country_code": "US",
+              "from_postal_code": this.props.state.puZip,
+              "to_country_code": "US",
+              "to_postal_code": this.props.state.delZip,
+              "weight": {
+                "value": 1,
+                "unit": "ounce"
+              },
+              "dimensions": {
+                "unit": "inch",
+                "length": 10,
+                "width": 10,
+                "height": 50
+              },
+              "confirmation": "none",
+              "address_residential_indicator": "no"
+            })
              
         var requestOptions = {
           method: 'POST',
@@ -91,6 +91,7 @@ export class FormUserDetails extends Component {
         fetch("/v1/rates/estimate", requestOptions)
         .then(response => response.text())
         .then(result => { 
+            console.log(result);
             console.log(JSON.parse(result));
             console.log(JSON.parse(result).length);
             const resultLenght = JSON.parse(result).length;
