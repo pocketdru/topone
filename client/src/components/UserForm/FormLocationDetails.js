@@ -9,6 +9,8 @@ import { json } from 'body-parser';
 export class FormUserDetails extends Component {
 
     state = {
+        puAreaCode: null,
+        delAreaCode: null,
         puZone: null,
         delZone: null,
         puPrice: null,
@@ -39,8 +41,12 @@ export class FormUserDetails extends Component {
         console.log( "Pick up area code is " + puAreaCode + ", delivery area code is " + delAreaCode);
         this.milePriceApiCall(puAreaCode, delAreaCode);    
         this.setState({
-            puCalculator: puAreaCode,
-            delCalculator: delAreaCode
+            puAreaCode: puAreaCode,
+            delAreaCode: delAreaCode,
+            puCalculator: puZipCodeToString.slice(0,4),
+            delCalculator: delZipCodeToString.slice(0,4)
+        }, () => {
+            console.log(this.state.puAreaCode, this.state.puCalculator)
         })
         puZipCodeToString = null; 
         delZipCodeToString = null;
@@ -91,7 +97,6 @@ export class FormUserDetails extends Component {
         fetch("/v1/rates/estimate", requestOptions)
         .then(response => response.text())
         .then(result => { 
-            console.log(result);
             console.log(JSON.parse(result));
             console.log(JSON.parse(result).length);
             const resultLenght = JSON.parse(result).length;
@@ -346,6 +351,20 @@ export class FormUserDetails extends Component {
                     }, () => {
                     console.log(this.state.milePrice);
                 })
+                } if (this.state.puAreaCode === "800" && this.state.delAreaCode === "362"){
+                   if (this.state.delCalculator === "3625" || this.state.delCalculator === "3628") {
+                        this.setState({
+                            milePrice: this.state.milePrice*1.05
+                        }, () => {
+                        console.log(this.state.milePrice);
+                        })
+                    } else {
+                        this.setState({
+                            milePrice: this.state.milePrice*1.2
+                        }, () => {
+                        console.log(this.state.milePrice);
+                        })
+                    }
                 } else {
                     this.setState({
                         milePrice: this.state.milePrice*1.5
