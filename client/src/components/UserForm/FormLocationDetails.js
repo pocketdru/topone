@@ -345,13 +345,51 @@ export class FormUserDetails extends Component {
                    console.log(this.state.milePrice);
                })
              } else if (this.state.milePrice > 450 && this.state.milePrice < 500) {
-                  if (this.state.puCalculator === "572" && this.state.delCalculator === "295"){
+                if (this.state.puCalculator === "572" && this.state.delCalculator === "295"){
                     this.setState({
                         milePrice: this.state.milePrice*2.9
                     }, () => {
                     console.log(this.state.milePrice);
                 })
-                } if (this.state.puAreaCode === "800" && this.state.delAreaCode === "362"){
+                } else 
+                if (this.state.puAreaCode === "800" && this.state.delAreaCode === "367") {
+                    if (this.state.delCalculator === "3679") {
+                        this.setState({
+                            milePrice: this.state.milePrice*1.2
+                        }, () => {
+                        console.log(this.state.milePrice);
+                        })
+                    } else {
+                    this.setState({
+                        milePrice: this.state.milePrice*1.6
+                    }, () => {
+                    console.log(this.state.milePrice);
+                })}
+                } else 
+                if (this.state.puAreaCode === "800" && this.state.delAreaCode === "365") {
+                    if (this.state.delCalculator === "3656") {
+                        this.setState({
+                            milePrice: this.state.milePrice*1.8
+                        }, () => {
+                        console.log(this.state.milePrice);
+                        })
+                    } else {
+                        this.setState({
+                            milePrice: this.state.milePrice*1.5
+                        }, () => {
+                        console.log(this.state.milePrice);
+                        })
+                    }
+                }
+                else  
+                if (this.state.puAreaCode === "800" && this.state.delAreaCode === "364") {
+                    this.setState({
+                        milePrice: this.state.milePrice*1.9
+                    }, () => {
+                    console.log(this.state.milePrice);
+                })
+                } else
+                if (this.state.puAreaCode === "800" && this.state.delAreaCode === "362"){
                    if (this.state.delCalculator === "3625" || this.state.delCalculator === "3628") {
                         this.setState({
                             milePrice: this.state.milePrice*1.05
