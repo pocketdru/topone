@@ -44798,32 +44798,28 @@
     "model_year": 2007
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1980
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1979
   },{"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 2006
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": 2.4,
+    "model_trim": "Sedan",
     "model_year": 2008
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "2.3 Hybrid",
+    "model_trim": "Sedan",
     "model_year": 2007
   },{"model_make_id": "toyota",
     "model_name": "Will",
     "model_trim": "VS",
     "model_year": 2002
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 GLi Automatic",
-    "model_year": 2008
   },{"model_make_id": "toyota",
     "model_name": "Starlet",
     "model_trim": 1.2,
@@ -44858,7 +44854,7 @@
     "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "Supra",
+    "model_trim": "Hatchback",
     "model_year": 1983
   },{"model_make_id": "toyota",
     "model_name": "4Runner",
@@ -44875,10 +44871,6 @@
   },{"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": "Prado 3.0DT GX",
-    "model_year": 2008
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 2.4 SLE",
     "model_year": 2008
   },{"model_make_id": "toyota",
     "model_name": "Crown",
@@ -44946,7 +44938,7 @@
     "model_year": 2006
   },{"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "Turbo",
+    "model_trim": "Coupe",
     "model_year": 1989
   },{"model_make_id": "toyota",
     "model_name": "Corona",
@@ -44958,7 +44950,7 @@
     "model_year": 1987
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "1.6 Liftback",
+    "model_trim": "Hatchback",
     "model_year": 1974
   },{"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -44972,10 +44964,6 @@
     "model_name": "Yaris",
     "model_trim": "",
     "model_year": 2002
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLE",
-    "model_year": 2008
   },{"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "2.0 D-4D",
@@ -45046,7 +45034,7 @@
     "model_year": 1974
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1983
   },{"model_make_id": "toyota",
     "model_name": "Avalon",
@@ -45058,7 +45046,7 @@
     "model_year": 1980
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "1.8 WTL-i TS",
+    "model_trim": "Hatchback",
     "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Paseo",
@@ -45109,10 +45097,6 @@
     "model_trim": 3.4,
     "model_year": 1974
   },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara Sport Convertible",
-    "model_year": 2008
-  },{"model_make_id": "toyota",
     "model_name": "Corolla",
     "model_trim": "Sedan",
     "model_year": 1983
@@ -45130,7 +45114,7 @@
     "model_year": 2003
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1991
   },{"model_make_id": "toyota",
     "model_name": "Avanza",
@@ -45162,12 +45146,8 @@
     "model_year": 1999
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "2.0 XT Coupe",
+    "model_trim": "Hatchback",
     "model_year": 1982
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.5 LE",
-    "model_year": 2008
   },{"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": 90,
@@ -45246,7 +45226,7 @@
     "model_year": 2009
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2001
   },{"model_make_id": "toyota",
     "model_name": "Corolla",
@@ -45262,7 +45242,7 @@
     "model_year": 1975
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "2000 GT Liftback",
+    "model_trim": "Hatchback",
     "model_year": 1978
   },{"model_make_id": "toyota",
     "model_name": "Tacoma",
@@ -45274,7 +45254,7 @@
     "model_year": 2008
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "LE",
+    "model_trim": "Sedan",
     "model_year": 2009
   },{"model_make_id": "toyota",
     "model_name": "Century",
@@ -45390,11 +45370,11 @@
     "model_year": 1996
   },{"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1998
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "2.0 D",
+    "model_trim": "Sedan",
     "model_year": 1987
   },{"model_make_id": "toyota",
     "model_name": "RunX",
@@ -45414,12 +45394,8 @@
     "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "GT Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1994
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE V6 Automatic",
-    "model_year": 2009
   },{"model_make_id": "toyota",
     "model_name": "Highlander",
     "model_trim": "Sport Long 4x4",
@@ -45444,10 +45420,6 @@
     "model_name": "Crown",
     "model_trim": 2.8,
     "model_year": 1979
-  },{"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "",
-    "model_year": 1978
   },{"model_make_id": "toyota",
     "model_name": "Yaris",
     "model_trim": "",
@@ -45494,7 +45466,7 @@
     "model_year": 2000
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "220 LE",
+    "model_trim": "Sedan",
     "model_year": 1992
   },{"model_make_id": "toyota",
     "model_name": "Highlander",
@@ -45534,7 +45506,7 @@
     "model_year": 1975
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1999
   },{"model_make_id": "toyota",
     "model_name": "ES 3",
@@ -45542,7 +45514,7 @@
     "model_year": 2002
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "LE",
+    "model_trim": "Sedan",
     "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Highlander",
@@ -45624,14 +45596,6 @@
     "model_name": "Century",
     "model_trim": "VG 20",
     "model_year": 1968
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.2 GL",
-    "model_year": 2008
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara",
-    "model_year": 2007
   },{"model_make_id": "toyota",
     "model_name": "Publica",
     "model_trim": "UP 10",
@@ -45809,10 +45773,6 @@
     "model_trim": 1800,
     "model_year": 2008
   },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Hybrid",
-    "model_year": 2008
-  },{"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": 90,
     "model_year": 2000
@@ -45910,7 +45870,7 @@
     "model_year": 1964
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "1.8 Wagon",
+    "model_trim": "Sedan",
     "model_year": 1989
   },{"model_make_id": "toyota",
     "model_name": "Starlet",
@@ -45977,12 +45937,8 @@
     "model_trim": "Sedan",
     "model_year": 1977
   },{"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Liftback",
-    "model_year": 1983
-  },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "Solara",
+    "model_trim": "Sedan",
     "model_year": 2006
   },{"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -46006,11 +45962,11 @@
     "model_year": 1984
   },{"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "1.8 SMT",
+    "model_trim": "Coupe",
     "model_year": 2004
   },{"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "Roadster Hardtop",
+    "model_trim": "Coupe",
     "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -46058,7 +46014,7 @@
     "model_year": 2001
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1988
   },{"model_make_id": "toyota",
     "model_name": "Avalon",
@@ -46102,7 +46058,7 @@
     "model_year": 1979
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "Station Wagon",
+    "model_trim": "Sedan",
     "model_year": 1997
   },{"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -46126,7 +46082,7 @@
     "model_year": 1969
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": 2,
+    "model_trim": "Hatchback",
     "model_year": 1996
   },{"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -46169,10 +46125,6 @@
     "model_trim": "Concept",
     "model_year": 2000
   },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 GLi Automatic",
-    "model_year": 2005
-  },{"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": 2,
     "model_year": 1997
@@ -46182,11 +46134,11 @@
     "model_year": 1988
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "Supra",
+    "model_trim": "Hatchback",
     "model_year": 1985
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "Solara 2.4 SLE",
+    "model_trim": "Sedan",
     "model_year": 2004
   },{"model_make_id": "toyota",
     "model_name": "4Runner",
@@ -46202,20 +46154,12 @@
     "model_year": 1972
   },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1999
-  },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 WT-i",
-    "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "RT 80",
     "model_year": 1970
-  },{"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "XX",
-    "model_year": 1983
   },{"model_make_id": "toyota",
     "model_name": "Hilux",
     "model_trim": "2.7 VVT-i 4X4 SRX",
@@ -46297,12 +46241,8 @@
     "model_trim": "Wagon 4.0 D",
     "model_year": 1989
   },{"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 2.4 SE Sport",
-    "model_year": 2004
-  },{"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": 1.8,
+    "model_trim": "Hatchback",
     "model_year": 2006
   },{"model_make_id": "toyota",
     "model_name": "Picnic",
@@ -46390,7 +46330,7 @@
     "model_year": 2005
   },{"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "2.0 D",
+    "model_trim": "Sedan",
     "model_year": 1985
   },{"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -46419,19 +46359,9 @@
     "model_year": 1999
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 SE Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "2.0 Advanced",
     "model_year": 2008
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara Convertible",
-    "model_year": 2004
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -46447,11 +46377,6 @@
     "model_name": "Avensis",
     "model_trim": "Verso 2.0",
     "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.5 D",
-    "model_year": 1987
   },
   {"model_make_id": "toyota",
     "model_name": "Caldina",
@@ -46490,7 +46415,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "TRD",
+    "model_trim": "Coupe",
     "model_year": 2001
   },
   {"model_make_id": "toyota",
@@ -46552,11 +46477,6 @@
     "model_name": "Avensis",
     "model_trim": "",
     "model_year": 2000
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "1.8 Wagon",
-    "model_year": 1987
   },
   {"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -46625,7 +46545,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "300 GLX Automatic",
+    "model_trim": "Sedan",
     "model_year": 2002
   },
   {"model_make_id": "toyota",
@@ -46664,13 +46584,8 @@
     "model_year": 2000
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 LE",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "Supra",
+    "model_trim": "Hatchback",
     "model_year": 1981
   },
   {"model_make_id": "toyota",
@@ -46702,11 +46617,6 @@
     "model_name": "Land Cruiser",
     "model_trim": 90,
     "model_year": 1996
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": 2.4,
-    "model_year": 1980
   },
   {"model_make_id": "toyota",
     "model_name": "Tazz",
@@ -46750,18 +46660,13 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "TRD",
+    "model_trim": "Hatchback",
     "model_year": 2000
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1994
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "XX",
-    "model_year": 1978
   },
   {"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -46782,11 +46687,6 @@
     "model_name": "Yaris",
     "model_trim": "1.0 Eco",
     "model_year": 2008
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE V6",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Supra",
@@ -46844,11 +46744,6 @@
     "model_year": 2007
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 2004
-  },
-  {"model_make_id": "toyota",
     "model_name": "Yaris",
     "model_trim": "1.4 D-4D C",
     "model_year": 2005
@@ -46889,11 +46784,6 @@
     "model_year": 2006
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 GLi Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "2.0 Advanced Automatic",
     "model_year": 2007
@@ -46922,11 +46812,6 @@
     "model_name": "Avensis",
     "model_trim": "2.0 D-4D",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Standard",
-    "model_year": 2004
   },
   {"model_make_id": "toyota",
     "model_name": "Supra",
@@ -47005,7 +46890,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "Station Wagon",
+    "model_trim": "Sedan",
     "model_year": 1986
   },
   {"model_make_id": "toyota",
@@ -47017,11 +46902,6 @@
     "model_name": "Century",
     "model_trim": 4,
     "model_year": 1984
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2600 XX",
-    "model_year": 1980
   },
   {"model_make_id": "toyota",
     "model_name": "Supra",
@@ -47070,7 +46950,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1999
   },
   {"model_make_id": "toyota",
@@ -47099,16 +46979,6 @@
     "model_year": 2006
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "V6 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "1.8 D",
-    "model_year": 1983
-  },
-  {"model_make_id": "toyota",
     "model_name": 105,
     "model_trim": "",
     "model_year": 2005
@@ -47127,11 +46997,6 @@
     "model_name": "Picnic",
     "model_trim": "",
     "model_year": 1998
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE Automatic",
-    "model_year": 2009
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -47175,7 +47040,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1998
   },
   {"model_make_id": "toyota",
@@ -47202,16 +47067,6 @@
     "model_name": "Highlander",
     "model_trim": "Limited V6 4x4",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2.6 XX",
-    "model_year": 1981
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -47255,7 +47110,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1991
   },
   {"model_make_id": "toyota",
@@ -47295,7 +47150,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": 2,
+    "model_trim": "Sedan",
     "model_year": 1982
   },
   {"model_make_id": "toyota",
@@ -47319,11 +47174,6 @@
     "model_year": 1978
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLi",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": "75 Pickup",
     "model_year": 1991
@@ -47335,7 +47185,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1977
   },
   {"model_make_id": "toyota",
@@ -47367,11 +47217,6 @@
     "model_name": "Yaris",
     "model_trim": "1.0 Eco",
     "model_year": 2006
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Hybrid",
-    "model_year": 2009
   },
   {"model_make_id": "toyota",
     "model_name": "Cressida",
@@ -47415,18 +47260,13 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1996
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "2.0 Advanced",
     "model_year": 2009
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 CE Automatic",
-    "model_year": 2008
   },
   {"model_make_id": "toyota",
     "model_name": "Lexcen",
@@ -47464,16 +47304,6 @@
     "model_year": 1987
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": 1.6,
-    "model_year": 1985
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.0 V6 Executive",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": "100 4.2 TD Executive",
     "model_year": 2004
@@ -47487,11 +47317,6 @@
     "model_name": "RunX",
     "model_trim": "1.8 Z Aerotourer Automatic",
     "model_year": 2001
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "1.8 Roadster SMT",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Sera",
@@ -47549,16 +47374,6 @@
     "model_year": 2000
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLi Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SE",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Regular Cab 4x4",
     "model_year": 2009
@@ -47592,11 +47407,6 @@
     "model_name": "Hi-Ace",
     "model_trim": "",
     "model_year": 1996
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2.8 Supra",
-    "model_year": 1981
   },
   {"model_make_id": "toyota",
     "model_name": "Highlander",
@@ -47647,11 +47457,6 @@
     "model_name": "Lite Ace",
     "model_trim": "",
     "model_year": 1987
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SLE",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Sienna",
@@ -47710,7 +47515,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 2002
   },
   {"model_make_id": "toyota",
@@ -47774,19 +47579,9 @@
     "model_year": 2009
   },
   {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "CI",
-    "model_year": 1996
-  },
-  {"model_make_id": "toyota",
     "model_name": "Caldina",
     "model_trim": "GT-T Automatic",
     "model_year": 1998
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "TS",
-    "model_year": 2000
   },
   {"model_make_id": "toyota",
     "model_name": "Condor",
@@ -47795,7 +47590,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": 1.8,
+    "model_trim": "Hatchback",
     "model_year": 2008
   },
   {"model_make_id": "toyota",
@@ -47829,11 +47624,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra",
-    "model_year": 1982
-  },
-  {"model_make_id": "toyota",
     "model_name": "Caldina",
     "model_trim": "G 4WD",
     "model_year": 1998
@@ -47864,11 +47654,6 @@
     "model_year": 1999
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1.8 WT-i S",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Crown",
     "model_trim": "",
     "model_year": 1967
@@ -47897,11 +47682,6 @@
     "model_name": "Avalon",
     "model_trim": "XLS",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.0 V6",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Condor",
@@ -47937,11 +47717,6 @@
     "model_name": "Carina",
     "model_trim": "Hardtop",
     "model_year": 1979
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 3.3 SLE Convertible",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Crown",
@@ -48065,23 +47840,18 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": 2,
+    "model_trim": "Hatchback",
     "model_year": 1976
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1987
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "2.0 D-4D Executive",
     "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 3.3 SE Convertible",
-    "model_year": 2008
   },
   {"model_make_id": "toyota",
     "model_name": "Crown",
@@ -48134,19 +47904,9 @@
     "model_year": 2009
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 SE",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "RunX",
     "model_trim": 160,
     "model_year": 2008
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara Convertible",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "4Runner",
@@ -48170,7 +47930,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1997
   },
   {"model_make_id": "toyota",
@@ -48190,12 +47950,12 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "1.8 Roadster",
+    "model_trim": "Coupe",
     "model_year": 2008
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1986
   },
   {"model_make_id": "toyota",
@@ -48217,11 +47977,6 @@
     "model_name": "Avensis",
     "model_trim": "2.0 D-4D Combi",
     "model_year": 2008
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Station Wagon",
-    "model_year": 1988
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -48247,11 +48002,6 @@
     "model_name": "Tundra",
     "model_trim": "",
     "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 G",
-    "model_year": 2001
   },
   {"model_make_id": "toyota",
     "model_name": "Corona",
@@ -48309,11 +48059,6 @@
     "model_year": 1992
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE Automatic",
-    "model_year": 2009
-  },
-  {"model_make_id": "toyota",
     "model_name": "Tazz",
     "model_trim": "130 XE",
     "model_year": 2006
@@ -48355,7 +48100,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1990
   },
   {"model_make_id": "toyota",
@@ -48529,11 +48274,6 @@
     "model_year": 1999
   },
   {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "Roadster Edition S",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "RunX",
     "model_trim": "180 RX",
     "model_year": 2006
@@ -48542,11 +48282,6 @@
     "model_name": "Prius",
     "model_trim": "",
     "model_year": 2009
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SE Convertible",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "RAV4",
@@ -48594,11 +48329,6 @@
     "model_year": 2007
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "GT Liftback",
-    "model_year": 1976
-  },
-  {"model_make_id": "toyota",
     "model_name": "Sienna",
     "model_trim": "LE",
     "model_year": 2009
@@ -48629,19 +48359,9 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SLE",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
     "model_name": "Caldina",
     "model_trim": "G 4WD Automatic",
     "model_year": 1998
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": 1.8,
-    "model_year": 1977
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -48695,7 +48415,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1995
   },
   {"model_make_id": "toyota",
@@ -48712,11 +48432,6 @@
     "model_name": "Sport 800",
     "model_trim": "",
     "model_year": 1968
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1600 ST",
-    "model_year": 1978
   },
   {"model_make_id": "toyota",
     "model_name": "Matrix",
@@ -48779,19 +48494,9 @@
     "model_year": 1997
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "1.8 Liftback",
-    "model_year": 1985
-  },
-  {"model_make_id": "toyota",
     "model_name": "Sequoia",
     "model_trim": "SR5 5.7 4x4",
     "model_year": 2008
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "GTS",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -48895,13 +48600,8 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1984
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Liftback 1.8",
-    "model_year": 1986
   },
   {"model_make_id": "toyota",
     "model_name": "Highlander",
@@ -48959,19 +48659,9 @@
     "model_year": 1990
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "GT",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": "Prado VX 4.0 V6 Automatic",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "XX",
-    "model_year": 1979
   },
   {"model_make_id": "toyota",
     "model_name": "Condor",
@@ -49005,13 +48695,8 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2003
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE",
-    "model_year": 2009
   },
   {"model_make_id": "toyota",
     "model_name": "Hilux",
@@ -49064,11 +48749,6 @@
     "model_year": 2006
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "200 Si",
-    "model_year": 1992
-  },
-  {"model_make_id": "toyota",
     "model_name": "Crown",
     "model_trim": "",
     "model_year": 1957
@@ -49089,11 +48769,6 @@
     "model_year": 2005
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SLE Convertible",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Hilux",
     "model_trim": "3.0 D-4D Double Cab",
     "model_year": 2008
@@ -49109,11 +48784,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE",
-    "model_year": 2004
-  },
-  {"model_make_id": "toyota",
     "model_name": "Model F",
     "model_trim": "",
     "model_year": 1989
@@ -49127,11 +48797,6 @@
     "model_name": "Altezza",
     "model_trim": "",
     "model_year": 2001
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Liftback",
-    "model_year": 1981
   },
   {"model_make_id": "toyota",
     "model_name": "Crown",
@@ -49224,11 +48889,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2.0 Supra",
-    "model_year": 1981
-  },
-  {"model_make_id": "toyota",
     "model_name": "4Runner",
     "model_trim": "Sport Edition V6 4x4",
     "model_year": 2005
@@ -49252,11 +48912,6 @@
     "model_name": "Corona",
     "model_trim": "RT 80",
     "model_year": 1973
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "1.8 Liftback",
-    "model_year": 1982
   },
   {"model_make_id": "toyota",
     "model_name": "Highlander",
@@ -49285,7 +48940,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1984
   },
   {"model_make_id": "toyota",
@@ -49312,16 +48967,6 @@
     "model_name": "Avensis",
     "model_trim": "1.8 Executive",
     "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": 1.8,
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SE Convertible",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Tacoma",
@@ -49389,11 +49034,6 @@
     "model_year": 2007
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLi",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "Verso 2.0 VVT-i Automatic",
     "model_year": 2001
@@ -49429,11 +49069,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Station Wagon",
-    "model_year": 1998
-  },
-  {"model_make_id": "toyota",
     "model_name": "AA",
     "model_trim": "",
     "model_year": 1941
@@ -49449,19 +49084,9 @@
     "model_year": 1986
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
     "model_name": "Previa",
     "model_trim": "",
     "model_year": 1991
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1.8 WT-i",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Bandeirante",
@@ -49479,16 +49104,6 @@
     "model_year": 2005
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "200i",
-    "model_year": 1992
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Standard",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "RT 40",
     "model_year": 1966
@@ -49499,19 +49114,9 @@
     "model_year": 1977
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Liftback",
-    "model_year": 1976
-  },
-  {"model_make_id": "toyota",
     "model_name": "Highlander",
     "model_trim": "Sport",
     "model_year": 2009
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "",
-    "model_year": 1976
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
@@ -49659,11 +49264,6 @@
     "model_year": 2004
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.0 D Station Wagon",
-    "model_year": 1986
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corsa",
     "model_trim": "",
     "model_year": 1982
@@ -49765,13 +49365,8 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "GT",
+    "model_trim": "Hatchback",
     "model_year": 1989
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": 2.3,
-    "model_year": 2007
   },
   {"model_make_id": "toyota",
     "model_name": "4Runner",
@@ -49889,11 +49484,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE",
-    "model_year": 2004
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "MK II Hard Top",
     "model_year": 1969
@@ -49912,11 +49502,6 @@
     "model_name": "Yaris",
     "model_trim": "Verso 1.3 C",
     "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Turbo Diesel",
-    "model_year": 1986
   },
   {"model_make_id": "toyota",
     "model_name": "Corona",
@@ -49952,11 +49537,6 @@
     "model_name": "Carina",
     "model_trim": "1.8 e Liftback",
     "model_year": 1996
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLE",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Starlet",
@@ -50019,16 +49599,6 @@
     "model_year": 2001
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.0 V6 GXi",
-    "model_year": 1992
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Ultimate",
-    "model_year": 2000
-  },
-  {"model_make_id": "toyota",
     "model_name": "Model F",
     "model_trim": "",
     "model_year": 1988
@@ -50047,11 +49617,6 @@
     "model_name": "Sequoia",
     "model_trim": "",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": 2,
-    "model_year": 1987
   },
   {"model_make_id": "toyota",
     "model_name": "Matrix",
@@ -50087,16 +49652,6 @@
     "model_name": "Cresta",
     "model_trim": "3.0 Exceed G",
     "model_year": 1996
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": 1.8,
-    "model_year": 2004
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "Spyder",
-    "model_year": 1999
   },
   {"model_make_id": "toyota",
     "model_name": "Hi-Ace",
@@ -50137,11 +49692,6 @@
     "model_name": "4Runner",
     "model_trim": "Limited V8",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 2.4 SE",
-    "model_year": 2008
   },
   {"model_make_id": "toyota",
     "model_name": "Crown",
@@ -50205,7 +49755,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1997
   },
   {"model_make_id": "toyota",
@@ -50295,18 +49845,13 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "2000 Supra",
+    "model_trim": "Hatchback",
     "model_year": 1984
   },
   {"model_make_id": "toyota",
     "model_name": "Century",
     "model_trim": 4,
     "model_year": 1994
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 2.4 Sport",
-    "model_year": 2008
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
@@ -50316,11 +49861,6 @@
   {"model_make_id": "toyota",
     "model_name": "Hilux",
     "model_trim": "2.5 D-4D SRX",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE V6",
     "model_year": 2006
   },
   {"model_make_id": "toyota",
@@ -50379,11 +49919,6 @@
     "model_year": 1996
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "toyota",
     "model_name": "Supra",
     "model_trim": "",
     "model_year": 1989
@@ -50437,11 +49972,6 @@
     "model_name": "Lite Ace",
     "model_trim": "",
     "model_year": 1990
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE V6",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
@@ -50519,11 +50049,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara 2.4",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Pod",
     "model_trim": "",
     "model_year": 2001
@@ -50544,11 +50069,6 @@
     "model_year": 1980
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "GT 4",
-    "model_year": 1987
-  },
-  {"model_make_id": "toyota",
     "model_name": "Altezza",
     "model_trim": "RS200 Automatic",
     "model_year": 2001
@@ -50559,11 +50079,6 @@
     "model_year": 1974
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "GT 4",
-    "model_year": 1989
-  },
-  {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
     "model_trim": "Prado VX 4.0 V6",
     "model_year": 2006
@@ -50571,11 +50086,6 @@
   {"model_make_id": "toyota",
     "model_name": "RunX",
     "model_trim": "1.8 RSi",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Standard",
     "model_year": 2006
   },
   {"model_make_id": "toyota",
@@ -50709,11 +50219,6 @@
     "model_year": 2003
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 1992
-  },
-  {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "CrewMax Limited 5.7L",
     "model_year": 2009
@@ -50722,11 +50227,6 @@
     "model_name": "Sprinter",
     "model_trim": "140i",
     "model_year": 2008
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "GLX",
-    "model_year": 2007
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -50764,11 +50264,6 @@
     "model_year": 1984
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "GT Convertible",
-    "model_year": 1987
-  },
-  {"model_make_id": "toyota",
     "model_name": "4Runner",
     "model_trim": "Limited 4x4 V6",
     "model_year": 2006
@@ -50785,7 +50280,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "LE",
+    "model_trim": "Sedan",
     "model_year": 1994
   },
   {"model_make_id": "toyota",
@@ -50819,11 +50314,6 @@
     "model_year": 1984
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLi Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Crown",
     "model_trim": "",
     "model_year": 1978
@@ -50840,7 +50330,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1998
   },
   {"model_make_id": "toyota",
@@ -50869,11 +50359,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.0 Liftback",
-    "model_year": 1982
-  },
-  {"model_make_id": "toyota",
     "model_name": "Avensis",
     "model_trim": "Wagon 2.0 DI Automatic",
     "model_year": 2003
@@ -50894,28 +50379,18 @@
     "model_year": 1997
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.5 Station Wagon",
-    "model_year": 1987
-  },
-  {"model_make_id": "toyota",
     "model_name": "4Runner",
     "model_trim": "Limited V8",
     "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "TS",
+    "model_trim": "Hatchback",
     "model_year": 2001
   },
   {"model_make_id": "toyota",
     "model_name": "Hilux",
     "model_trim": 2.5,
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE V6",
     "model_year": 2006
   },
   {"model_make_id": "toyota",
@@ -50934,16 +50409,6 @@
     "model_year": 1980
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "SS I",
-    "model_year": 1999
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SE Sport",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
     "model_name": "Cresta",
     "model_trim": "2.0 Super Lucent",
     "model_year": 1996
@@ -50952,11 +50417,6 @@
     "model_name": "Vitz",
     "model_trim": "1.5 RS Automatic",
     "model_year": 1999
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Liftback",
-    "model_year": 1977
   },
   {"model_make_id": "toyota",
     "model_name": "Tercel",
@@ -50977,11 +50437,6 @@
     "model_name": "Soarer",
     "model_trim": 2.8,
     "model_year": 1981
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "Spyder Convertible",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Yaris",
@@ -51074,11 +50529,6 @@
     "model_year": 1986
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 CE",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "1.6 Liftback",
     "model_year": 1980
@@ -51164,11 +50614,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.5 XLE",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Century",
     "model_trim": 4,
     "model_year": 1991
@@ -51184,11 +50629,6 @@
     "model_year": 2005
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SE Sport",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Crown",
     "model_trim": "Break",
     "model_year": 1979
@@ -51197,11 +50637,6 @@
     "model_name": "4Runner",
     "model_trim": "SR5 V8 4x4",
     "model_year": 2005
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "1.8 Roadster",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
@@ -51222,11 +50657,6 @@
     "model_name": "Tacoma",
     "model_trim": "",
     "model_year": 2007
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 1986
   },
   {"model_make_id": "toyota",
     "model_name": "4Runner",
@@ -51274,16 +50704,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "Liftback",
     "model_year": 1981
@@ -51329,11 +50749,6 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": 1.6,
-    "model_year": 1977
-  },
-  {"model_make_id": "toyota",
     "model_name": "4Runner",
     "model_trim": "",
     "model_year": 1992
@@ -51342,11 +50757,6 @@
     "model_name": "Yaris",
     "model_trim": "Verso 1.3 C",
     "model_year": 2004
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Coupe SE",
-    "model_year": 1994
   },
   {"model_make_id": "toyota",
     "model_name": "Corona",
@@ -51599,16 +51009,6 @@
     "model_year": 2005
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 1987
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Liftback",
-    "model_year": 1984
-  },
-  {"model_make_id": "toyota",
     "model_name": "Quantum",
     "model_trim": "2.5 D4-D Panel Van",
     "model_year": 2007
@@ -51647,11 +51047,6 @@
     "model_name": "Avensis",
     "model_trim": "2.0 SR D4-D",
     "model_year": 1999
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 1982
   },
   {"model_make_id": "toyota",
     "model_name": "Avensis",
@@ -51730,7 +51125,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "GT Action Package",
+    "model_trim": "Hatchback",
     "model_year": 2004
   },
   {"model_make_id": "toyota",
@@ -51760,7 +51155,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "Turbo",
+    "model_trim": "Coupe",
     "model_year": 1993
   },
   {"model_make_id": "toyota",
@@ -51777,11 +51172,6 @@
     "model_name": "Crown",
     "model_trim": "Royal 3.0",
     "model_year": 2003
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1.8 TS",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Mega Cruiser",
@@ -51807,11 +51197,6 @@
     "model_name": "Previa",
     "model_trim": "",
     "model_year": 1999
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE V6",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Lexcen",
@@ -51860,7 +51245,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1992
   },
   {"model_make_id": "toyota",
@@ -51895,7 +51280,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1995
   },
   {"model_make_id": "toyota",
@@ -51917,11 +51302,6 @@
     "model_name": "Carina",
     "model_trim": "Break",
     "model_year": 1979
-  },
-  {"model_make_id": "toyota",
-    "model_name": "MR2",
-    "model_trim": "",
-    "model_year": 1993
   },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
@@ -51947,11 +51327,6 @@
     "model_name": "Model F",
     "model_trim": "",
     "model_year": 1985
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "",
-    "model_year": 2005
   },
   {"model_make_id": "toyota",
     "model_name": "Tacoma",
@@ -52070,7 +51445,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "1600 ST",
+    "model_trim": "Hatchback",
     "model_year": 1972
   },
   {"model_make_id": "toyota",
@@ -52114,11 +51489,6 @@
     "model_year": 2000
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SE Convertible",
-    "model_year": 2004
-  },
-  {"model_make_id": "toyota",
     "model_name": "4Runner",
     "model_trim": "Limited",
     "model_year": 2004
@@ -52144,29 +51514,19 @@
     "model_year": 2005
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 1985
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "1.6Liftback",
     "model_year": 1978
   },
   {"model_make_id": "toyota",
     "model_name": "MR2",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 2002
   },
   {"model_make_id": "toyota",
     "model_name": "Corona",
     "model_trim": "RT 100",
     "model_year": 1978
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "XX",
-    "model_year": 1982
   },
   {"model_make_id": "toyota",
     "model_name": "Carina",
@@ -52189,34 +51549,14 @@
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1600 Liftback",
-    "model_year": 1985
-  },
-  {"model_make_id": "toyota",
     "model_name": "Tazz",
     "model_trim": 130,
     "model_year": 2008
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1600 Liftback",
-    "model_year": 1974
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Liftback",
-    "model_year": 1983
-  },
-  {"model_make_id": "toyota",
     "model_name": "Conquest",
     "model_trim": "180i RS",
     "model_year": 1996
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2000 XT Liftback Automatic",
-    "model_year": 1978
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -52254,11 +51594,6 @@
     "model_year": 1994
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE V6",
-    "model_year": 2005
-  },
-  {"model_make_id": "toyota",
     "model_name": "Previa",
     "model_trim": "",
     "model_year": 1993
@@ -52272,11 +51607,6 @@
     "model_name": "Hi-Ace",
     "model_trim": "",
     "model_year": 1997
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.0 V6 Automatic",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Will",
@@ -52344,19 +51674,9 @@
     "model_year": 2002
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Solara SLE Convertible",
-    "model_year": 2006
-  },
-  {"model_make_id": "toyota",
     "model_name": "Allion",
     "model_trim": "A15",
     "model_year": 2001
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "3.0 LE Estate",
-    "model_year": 1992
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -52377,11 +51697,6 @@
     "model_name": "Allion",
     "model_trim": "",
     "model_year": 2003
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra",
-    "model_year": 1986
   },
   {"model_make_id": "toyota",
     "model_name": "RunX",
@@ -52409,11 +51724,6 @@
     "model_year": 2005
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "4Runner",
     "model_trim": "Limited 4x4 V8",
     "model_year": 2009
@@ -52427,11 +51737,6 @@
     "model_name": "Land Cruiser",
     "model_trim": "3.0 D LWB",
     "model_year": 1975
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.4 XLi Automatic",
-    "model_year": 2006
   },
   {"model_make_id": "toyota",
     "model_name": "Sequoia",
@@ -52564,11 +51869,6 @@
     "model_year": 2004
   },
   {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1.8 TS",
-    "model_year": 2008
-  },
-  {"model_make_id": "toyota",
     "model_name": "Corolla",
     "model_trim": "Sedan",
     "model_year": 1994
@@ -52600,7 +51900,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1990
   },
   {"model_make_id": "toyota",
@@ -52624,11 +51924,6 @@
     "model_year": 1982
   },
   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE V6",
-    "model_year": 2004
-  },
-  {"model_make_id": "toyota",
     "model_name": "Coaster",
     "model_trim": "",
     "model_year": 1999
@@ -52637,11 +51932,6 @@
     "model_name": "Matrix",
     "model_trim": "XR 4x4",
     "model_year": 2006
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "2.0 Station Wagon",
-    "model_year": 1986
   },
   {"model_make_id": "toyota",
     "model_name": "Carina",
@@ -52760,7 +52050,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Celica",
-    "model_trim": "1600 Liftback",
+    "model_trim": "Hatchback",
     "model_year": 1975
   },
   {"model_make_id": "toyota",
@@ -52777,11 +52067,6 @@
     "model_name": "Crown",
     "model_trim": "",
     "model_year": 1983
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE V6 Automatic",
-    "model_year": 2009
   },
   {"model_make_id": "toyota",
     "model_name": "Land Cruiser",
@@ -73190,67 +72475,12 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "LE",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE V6",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE V6",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE V6",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "",
-    "model_year": 2011
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE",
-    "model_year": 2011
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE",
-    "model_year": 2011
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE",
-    "model_year": 2011
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Hybrid",
-    "model_year": 2010
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Hybrid",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "toyota",
@@ -79265,32 +78495,7 @@
   },
   {"model_make_id": "toyota",
     "model_name": "Camry",
-    "model_trim": "L",
-    "model_year": 2012
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "LE",
-    "model_year": 2012
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "SE",
-    "model_year": 2012
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE",
-    "model_year": 2012
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Hybrid LE",
-    "model_year": 2012
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Hybrid XLE",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "toyota",
@@ -85503,46 +84708,6 @@
     "model_trim": "2.4i Automatic",
     "model_year": 2008
   },
-   {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 1990
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 1991
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Camry",
-    "model_trim": "Automatic",
-    "model_year": 2004
-  },
   {"model_make_id": "toyota",
     "model_name": "Carina",
     "model_trim": "1600 Break Automatic",
@@ -85602,71 +84767,6 @@
     "model_name": "CC",
     "model_trim": "2.0 Sport Automatic",
     "model_year": 2012
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2.0 Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1.6 Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1.8 Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2.8 Supra Automatic",
-    "model_year": 1981
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Liftback Automatic",
-    "model_year": 1981
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra Automatic",
-    "model_year": 1981
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra Automatic",
-    "model_year": 1982
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Liftback Automatic",
-    "model_year": 1983
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra Automatic",
-    "model_year": 1983
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "2000 Supra Automatic",
-    "model_year": 1984
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "1600 Liftback Automatic",
-    "model_year": 1985
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra Automatic",
-    "model_year": 1985
-  },
-  {"model_make_id": "toyota",
-    "model_name": "Celica",
-    "model_trim": "Supra Automatic",
-    "model_year": 1986
   },
   {"model_make_id": "toyota",
     "model_name": "Century",
@@ -97015,72 +96115,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan w/Prod. End 11/13 (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE Sport 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan w/Prod. End 11/13 (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan w/Prod. End 11/13 (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "L 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "L 4dr Sedan w/Prod. End 11/13 (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE Sport 4dr Sedan w/Prod. End 11/13 (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan w/Prod. End 11/13 (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan w/Prod. End 11/13 (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Toyota",
@@ -100095,7 +99130,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Subaru",
@@ -103698,31 +102733,6 @@
     "model_trim": "Sedan",
     "model_year": 2015
   },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
     "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
@@ -107595,7 +106605,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Subaru",
@@ -111173,31 +110183,6 @@
     "model_trim": "Sedan",
     "model_year": 2016
   },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
     "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
@@ -115080,7 +114065,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Subaru",
@@ -118676,31 +117661,6 @@
   {"model_make_id": "Lincoln",
     "model_name": "MKS",
     "model_trim": "Sedan",
-    "model_year": 2017
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Infiniti",
@@ -122590,7 +121550,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Subaru",
@@ -126176,31 +125136,6 @@
   {"model_make_id": "Lincoln",
     "model_name": "MKS",
     "model_trim": "Sedan",
-    "model_year": 2018
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Infiniti",
@@ -130095,7 +129030,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Subaru",
@@ -133666,31 +132601,6 @@
   {"model_make_id": "Lincoln",
     "model_name": "MKS",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Infiniti",
@@ -137585,7 +136495,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Subaru",
@@ -141171,31 +140081,6 @@
   {"model_make_id": "Lincoln",
     "model_name": "MKS",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Infiniti",
@@ -145085,7 +143970,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Subaru",
@@ -148676,31 +147561,6 @@
   {"model_make_id": "Lincoln",
     "model_name": "MKS",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Infiniti",
@@ -152640,7 +151500,7 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "LE 4dr Sedan (2.5L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Subaru",
@@ -156395,28 +155255,8 @@
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "SE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XLE 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Toyota",
-    "model_name": "Camry",
-    "model_trim": "XSE 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
