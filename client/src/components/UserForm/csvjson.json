@@ -46905,154 +46905,49 @@
     "model_trim": "Sedan",
     "model_year": 2000
   },
-  {"model_make_id": "trabant",
-    "model_name": "P 70",
-    "model_trim": "",
-    "model_year": 1958
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 70",
-    "model_trim": "",
-    "model_year": 1955
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 70",
-    "model_trim": "",
-    "model_year": 1957
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 601",
-    "model_trim": "",
-    "model_year": 1967
-  },
-  {"model_make_id": "trabant",
-    "model_name": "Universal",
-    "model_trim": "",
-    "model_year": 1961
-  },
-  {"model_make_id": "trabant",
-    "model_name": "Universal",
-    "model_trim": "",
-    "model_year": 1960
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 601",
-    "model_trim": "",
-    "model_year": 1965
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 50",
-    "model_trim": "",
-    "model_year": 1958
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 70",
-    "model_trim": "",
-    "model_year": 1956
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 70",
-    "model_trim": "",
-    "model_year": 1959
-  },
-  {"model_make_id": "trabant",
-    "model_name": "Universal",
-    "model_trim": 600,
-    "model_year": 1965
-  },
-  {"model_make_id": "trabant",
-    "model_name": "Universal",
-    "model_trim": 600,
-    "model_year": 1963
-  },
-  {"model_make_id": "trabant",
-    "model_name": "Universal",
-    "model_trim": 600,
-    "model_year": 1964
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 601",
-    "model_trim": "",
-    "model_year": 1968
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 601",
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "trabant",
-    "model_name": "Universal",
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "trabant",
-    "model_name": "P 601",
-    "model_trim": "",
-    "model_year": 1966
-  },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": 2.5,
+    "model_trim": "Sedan",
     "model_year": 1970
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "Mk II Estate",
+    "model_trim": "Sedan",
     "model_year": 1969
   },
   {"model_make_id": "triumph",
-    "model_name": "Roadster",
-    "model_trim": "",
-    "model_year": 1946
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1977
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "1.5 1500",
+    "model_trim": "Convertible",
     "model_year": 1979
   },
   {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": "Cabriolet",
+    "model_trim": "Coupe",
     "model_year": 1979
   },
   {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1970
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1962
-  },
-  {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1966
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1971
   },
   {"model_make_id": "triumph",
@@ -47062,7 +46957,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": 2,
+    "model_trim": "Coupe",
     "model_year": 1975
   },
   {"model_make_id": "triumph",
@@ -47071,18 +46966,13 @@
     "model_year": 1952
   },
   {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": 2,
-    "model_year": 1973
-  },
-  {"model_make_id": "triumph",
     "model_name": 1500,
     "model_trim": "",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
@@ -47092,7 +46982,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": 1500,
+    "model_trim": "Convertible",
     "model_year": 1977
   },
   {"model_make_id": "triumph",
@@ -47111,13 +47001,8 @@
     "model_year": 1959
   },
   {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK IV",
+    "model_trim": "Convertible",
     "model_year": 1971
   },
   {"model_make_id": "triumph",
@@ -47131,11 +47016,6 @@
     "model_year": 1960
   },
   {"model_make_id": "triumph",
-    "model_name": 2000,
-    "model_trim": "",
-    "model_year": 1970
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR3",
     "model_trim": "",
     "model_year": 1959
@@ -47146,18 +47026,8 @@
     "model_year": 1967
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1967
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1975
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1981
   },
   {"model_make_id": "triumph",
@@ -47166,24 +47036,14 @@
     "model_year": 1956
   },
   {"model_make_id": "triumph",
-    "model_name": "GT6",
-    "model_trim": "Mk III",
-    "model_year": 1970
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR8",
     "model_trim": "",
     "model_year": 1980
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1968
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "Cabriolet",
-    "model_year": 1981
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
@@ -47192,18 +47052,13 @@
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": 2.5,
+    "model_trim": "Sedan",
     "model_year": 1963
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1970
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "Sprint",
-    "model_year": 1973
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
@@ -47217,13 +47072,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1968
-  },
-  {"model_make_id": "triumph",
-    "model_name": 2000,
-    "model_trim": "",
-    "model_year": 1963
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
@@ -47231,19 +47081,9 @@
     "model_year": 1960
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": 2,
-    "model_year": 1966
-  },
-  {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1970
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "",
-    "model_year": 1979
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
@@ -47254,11 +47094,6 @@
     "model_name": "Stag",
     "model_trim": "",
     "model_year": 1977
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1965
   },
   {"model_make_id": "triumph",
     "model_name": 1500,
@@ -47281,18 +47116,13 @@
     "model_year": 1970
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1961
-  },
-  {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1971
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK II",
+    "model_trim": "Convertible",
     "model_year": 1966
   },
   {"model_make_id": "triumph",
@@ -47307,7 +47137,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": "Cabriolet",
+    "model_trim": "Coupe",
     "model_year": 1977
   },
   {"model_make_id": "triumph",
@@ -47317,12 +47147,12 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK II",
+    "model_trim": "Convertible",
     "model_year": 1965
   },
   {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
@@ -47332,13 +47162,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1967
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1972
   },
   {"model_make_id": "triumph",
     "model_name": 1300,
@@ -47352,7 +47177,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1978
   },
   {"model_make_id": "triumph",
@@ -47367,7 +47192,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": 2.5,
+    "model_trim": "Convertible",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
@@ -47377,23 +47202,13 @@
   },
   {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1969
   },
   {"model_make_id": "triumph",
-    "model_name": "Roadster",
-    "model_trim": 2.1,
-    "model_year": 1948
-  },
-  {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1971
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1968
   },
   {"model_make_id": "triumph",
     "model_name": "TR5",
@@ -47402,13 +47217,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "1.5 1500",
+    "model_trim": "Convertible",
     "model_year": 1980
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Roadster",
-    "model_trim": "",
-    "model_year": 1948
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
@@ -47422,12 +47232,12 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK IV",
+    "model_trim": "Convertible",
     "model_year": 1974
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1964
   },
   {"model_make_id": "triumph",
@@ -47442,12 +47252,12 @@
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1974
   },
   {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1975
   },
   {"model_make_id": "triumph",
@@ -47467,7 +47277,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1976
   },
   {"model_make_id": "triumph",
@@ -47476,13 +47286,8 @@
     "model_year": 1961
   },
   {"model_make_id": "triumph",
-    "model_name": "Roadster",
-    "model_trim": "",
-    "model_year": 1947
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1976
   },
   {"model_make_id": "triumph",
@@ -47491,23 +47296,8 @@
     "model_year": 1960
   },
   {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": 1.5,
-    "model_year": 1976
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "",
-    "model_year": 1975
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1964
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": 1500,
+    "model_trim": "Convertible",
     "model_year": 1978
   },
   {"model_make_id": "triumph",
@@ -47517,33 +47307,23 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "1.5 1500",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "triumph",
     "model_name": "TR7",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1980
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK IV",
+    "model_trim": "Convertible",
     "model_year": 1970
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1963
-  },
-  {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "Mk I",
+    "model_trim": "Coupe",
     "model_year": 1966
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1979
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
@@ -47552,7 +47332,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "1.5 MK IV",
+    "model_trim": "Convertible",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
@@ -47564,11 +47344,6 @@
     "model_name": "Dove GTR4",
     "model_trim": "",
     "model_year": 1962
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "",
-    "model_year": 1977
   },
   {"model_make_id": "triumph",
     "model_name": 1500,
@@ -47587,7 +47362,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1965
   },
   {"model_make_id": "triumph",
@@ -47606,29 +47381,14 @@
     "model_year": 1962
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1967
-  },
-  {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1972
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Roadster",
-    "model_trim": "TRX",
-    "model_year": 1950
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK IV",
+    "model_trim": "Convertible",
     "model_year": 1972
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1962
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
@@ -47656,54 +47416,24 @@
     "model_year": 1983
   },
   {"model_make_id": "triumph",
-    "model_name": "Spitfire",
-    "model_trim": 1500,
-    "model_year": 1975
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "Cabriolet",
-    "model_year": 1976
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR6",
-    "model_trim": "",
-    "model_year": 1973
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1976
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "Cabriolet",
-    "model_year": 1980
-  },
-  {"model_make_id": "triumph",
     "model_name": "Acclaim",
     "model_trim": "",
     "model_year": 1984
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1972
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK III",
+    "model_trim": "Convertible",
     "model_year": 1968
   },
   {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1972
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Spitfire",
-    "model_trim": "MK III",
-    "model_year": 1970
   },
   {"model_make_id": "triumph",
     "model_name": 1300,
@@ -47712,7 +47442,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "GT6",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1972
   },
   {"model_make_id": "triumph",
@@ -47726,24 +47456,9 @@
     "model_year": 1967
   },
   {"model_make_id": "triumph",
-    "model_name": "Spitfire",
-    "model_trim": "MK IV",
-    "model_year": 1973
-  },
-  {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1975
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1974
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1966
   },
   {"model_make_id": "triumph",
     "model_name": "TR2",
@@ -47752,13 +47467,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1976
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1968
   },
   {"model_make_id": "triumph",
     "model_name": "TR2",
@@ -47767,18 +47477,13 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Toledo",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1974
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1969
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": 3.5,
-    "model_year": 1980
   },
   {"model_make_id": "triumph",
     "model_name": "Acclaim",
@@ -47792,13 +47497,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK I",
+    "model_trim": "Convertible",
     "model_year": 1964
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1973
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
@@ -47806,23 +47506,8 @@
     "model_year": 1955
   },
   {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "Cabriolet",
-    "model_year": 1963
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "Cabriolet",
-    "model_year": 1978
-  },
-  {"model_make_id": "triumph",
-    "model_name": "TR7",
-    "model_trim": "Automatic",
-    "model_year": 1975
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1971
   },
   {"model_make_id": "triumph",
@@ -47832,28 +47517,13 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
-    "model_trim": "MK I",
+    "model_trim": "Convertible",
     "model_year": 1963
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1966
   },
   {"model_make_id": "triumph",
     "model_name": 1500,
     "model_trim": "",
     "model_year": 1971
-  },
-  {"model_make_id": "triumph",
-    "model_name": 2000,
-    "model_trim": "",
-    "model_year": 1969
-  },
-  {"model_make_id": "triumph",
-    "model_name": "GT6",
-    "model_trim": "",
-    "model_year": 1966
   },
   {"model_make_id": "triumph",
     "model_name": "Mayflower",
@@ -47862,38 +47532,18 @@
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1967
   },
   {"model_make_id": "triumph",
-    "model_name": "Spitfire",
-    "model_trim": 1500,
-    "model_year": 1979
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "",
-    "model_year": 1965
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR6",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1974
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
     "model_trim": "",
     "model_year": 1975
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dolomite",
-    "model_trim": "",
-    "model_year": 1978
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Vitesse",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 1966
   },
   {"model_make_id": "tvr",
     "model_name": "Chimaera",
