@@ -47371,44 +47371,14 @@
     "model_year": 1975
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 4.5,
-    "model_year": 2003
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": "",
-    "model_year": 1984
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2002
   },
   {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "",
-    "model_year": 2008
-  },
-  {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "S",
+    "model_name": "3000S",
+    "model_trim": "Convertible",
     "model_year": 1978
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": 3.9,
-    "model_year": 1991
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4,
-    "model_year": 1994
   },
   {"model_make_id": "tvr",
     "model_name": "T 350",
@@ -47456,11 +47426,6 @@
     "model_year": 1962
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4,
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
     "model_trim": "",
     "model_year": 1994
@@ -47469,11 +47434,6 @@
     "model_name": "Tamora",
     "model_trim": "",
     "model_year": 2006
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": "",
-    "model_year": 1994
   },
   {"model_make_id": "tvr",
     "model_name": "M",
@@ -47501,11 +47461,6 @@
     "model_year": 1984
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": "",
-    "model_year": 1997
-  },
-  {"model_make_id": "tvr",
     "model_name": "S2",
     "model_trim": "",
     "model_year": 1988
@@ -47526,29 +47481,9 @@
     "model_year": 1971
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 3.9,
-    "model_year": 1993
-  },
-  {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "S",
+    "model_name": "3000S",
+    "model_trim": "Convertible",
     "model_year": 1979
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 1998
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "V8",
-    "model_year": 1969
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 2002
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
@@ -47566,24 +47501,9 @@
     "model_year": 2007
   },
   {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "S",
-    "model_year": 2007
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": 3.9,
-    "model_year": 1989
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
     "model_trim": "",
     "model_year": 1960
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 2004
   },
   {"model_make_id": "tvr",
     "model_name": "T 350",
@@ -47601,16 +47521,6 @@
     "model_year": 1963
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 2008
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": "",
-    "model_year": 1986
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan Speed Six",
     "model_trim": "",
     "model_year": 2000
@@ -47621,11 +47531,6 @@
     "model_year": 1976
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 1993
-  },
-  {"model_make_id": "tvr",
     "model_name": "S",
     "model_trim": "",
     "model_year": 1987
@@ -47634,11 +47539,6 @@
     "model_name": "Type S",
     "model_trim": "",
     "model_year": 1988
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 1997
   },
   {"model_make_id": "tvr",
     "model_name": "Speed Eight",
@@ -47666,23 +47566,13 @@
     "model_year": 1970
   },
   {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": 3.9,
-    "model_year": 1990
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
     "model_trim": 3.9,
     "model_year": 1991
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "S",
+    "model_name": "3000S",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "tvr",
@@ -47701,11 +47591,6 @@
     "model_year": 1985
   },
   {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "V8",
-    "model_year": 1968
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
     "model_trim": "II",
     "model_year": 1961
@@ -47716,34 +47601,9 @@
     "model_year": 1967
   },
   {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "",
-    "model_year": 1988
-  },
-  {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "T",
+    "model_name": "3000M",
+    "model_trim": "Convertible",
     "model_year": 1979
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.5,
-    "model_year": 1993
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "S",
-    "model_year": 2001
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 2000
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
@@ -47754,11 +47614,6 @@
     "model_name": "T 350",
     "model_trim": "C",
     "model_year": 2004
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "V8",
-    "model_year": 1967
   },
   {"model_make_id": "tvr",
     "model_name": "350i",
@@ -47776,33 +47631,18 @@
     "model_year": 2001
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 5,
-    "model_year": 2001
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": "",
-    "model_year": 1985
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2004
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 4.5,
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "T",
+    "model_name": "3000M",
+    "model_trim": "Convertible",
     "model_year": 1978
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2006
   },
   {"model_make_id": "tvr",
@@ -47812,18 +47652,8 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2001
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4,
-    "model_year": 2004
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
@@ -47836,14 +47666,9 @@
     "model_year": 1964
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "S",
+    "model_name":"3000S",
+    "model_trim": "Convertible",
     "model_year": 1977
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 1999
   },
   {"model_make_id": "tvr",
     "model_name": "Tasmin",
@@ -47856,8 +47681,8 @@
     "model_year": 1998
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "T 3.0",
+    "model_name": "3000M",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "tvr",
@@ -47867,7 +47692,7 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "SE",
+    "model_trim": "Convertible",
     "model_year": 1967
   },
   {"model_make_id": "tvr",
@@ -47881,11 +47706,6 @@
     "model_year": 1971
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 5,
-    "model_year": 1993
-  },
-  {"model_make_id": "tvr",
     "model_name": "Type S",
     "model_trim": "",
     "model_year": 1990
@@ -47894,16 +47714,6 @@
     "model_name": "Grantura",
     "model_trim": "",
     "model_year": 1959
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 5,
-    "model_year": 1994
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": "",
-    "model_year": 1996
   },
   {"model_make_id": "tvr",
     "model_name": "Tamora",
@@ -47931,38 +47741,18 @@
     "model_year": 1970
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 1995
-  },
-  {"model_make_id": "tvr",
     "model_name": "T 350",
     "model_trim": "Targa",
     "model_year": 2003
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "S",
+    "model_name": "3000S",
+    "model_trim": "Convertible",
     "model_year": 1976
   },
   {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 2001
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": "GT2",
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": 4.4,
-    "model_year": 1989
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "V8",
+    "model_trim": "Convertible",
     "model_year": 1970
   },
   {"model_make_id": "tvr",
@@ -47971,29 +47761,9 @@
     "model_year": 2008
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 1996
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.5,
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2003
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": 3.9,
-    "model_year": 1988
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": "",
-    "model_year": 2001
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
@@ -48017,18 +47787,13 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "V6",
+    "model_trim": "Convertible",
     "model_year": 1969
   },
   {"model_make_id": "tvr",
     "model_name": 1600,
     "model_trim": "M",
     "model_year": 1972
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 4.5,
-    "model_year": 2008
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
@@ -48066,11 +47831,6 @@
     "model_year": 1982
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "tvr",
     "model_name": "Type S",
     "model_trim": 4,
     "model_year": 1991
@@ -48081,19 +47841,9 @@
     "model_year": 1958
   },
   {"model_make_id": "tvr",
-    "model_name": "Tuscan",
-    "model_trim": "V6",
-    "model_year": 1970
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tasmin",
     "model_trim": "",
     "model_year": 1980
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 1999
   },
   {"model_make_id": "tvr",
     "model_name": "S2",
@@ -48101,29 +47851,9 @@
     "model_year": 1989
   },
   {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": "",
-    "model_year": 1987
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
     "model_trim": "",
     "model_year": 1999
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 1998
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": "",
-    "model_year": 1994
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
@@ -48161,11 +47891,6 @@
     "model_year": 1987
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 4.5,
-    "model_year": 2002
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
     "model_trim": 5,
     "model_year": 2002
@@ -48186,19 +47911,9 @@
     "model_year": 2005
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 4.5,
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2005
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 4.5,
-    "model_year": 1999
   },
   {"model_make_id": "tvr",
     "model_name": 390,
@@ -48207,7 +47922,7 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2000
   },
   {"model_make_id": "tvr",
@@ -48221,18 +47936,18 @@
     "model_year": 2003
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "T",
+    "model_name": "3000T",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "T",
+    "model_name": "3000T",
+    "model_trim": "Convertible",
     "model_year": 1980
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "T",
+    "model_name": "3000T",
+    "model_trim": "Convertible",
     "model_year": 1976
   },
   {"model_make_id": "tvr",
@@ -48241,14 +47956,9 @@
     "model_year": 1987
   },
   {"model_make_id": "tvr",
-    "model_name": 3000,
-    "model_trim": "S",
+    "model_name": "3000T",
+    "model_trim": "Convertible",
     "model_year": 1980
-  },
-  {"model_make_id": "tvr",
-    "model_name": "SE",
-    "model_trim": "",
-    "model_year": 1988
   },
   {"model_make_id": "tvr",
     "model_name": "Grantura",
@@ -48259,21 +47969,6 @@
     "model_name": "Griffith",
     "model_trim": 400,
     "model_year": 1964
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed 12",
-    "model_trim": "",
-    "model_year": 1997
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": "",
-    "model_year": 1993
   },
   {"model_make_id": "tvr",
     "model_name": "M",
@@ -48291,11 +47986,6 @@
     "model_year": 1966
   },
   {"model_make_id": "tvr",
-    "model_name": "Chimaera",
-    "model_trim": 5,
-    "model_year": 1994
-  },
-  {"model_make_id": "tvr",
     "model_name": "M",
     "model_trim": "",
     "model_year": 1977
@@ -48304,11 +47994,6 @@
     "model_name": "M",
     "model_trim": "",
     "model_year": 1974
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera",
-    "model_trim": 4.2,
-    "model_year": 2004
   },
   {"model_make_id": "tvr",
     "model_name": "Grantura",
