@@ -46952,7 +46952,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": 1150,
+    "model_trim": "Convertible",
     "model_year": 1963
   },
   {"model_make_id": "triumph",
@@ -46962,13 +46962,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Renown",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1952
-  },
-  {"model_make_id": "triumph",
-    "model_name": 1500,
-    "model_trim": "",
-    "model_year": 1973
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
@@ -46976,24 +46971,9 @@
     "model_year": 1973
   },
   {"model_make_id": "triumph",
-    "model_name": "Mayflower",
-    "model_trim": "",
-    "model_year": 1951
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
     "model_trim": "Convertible",
     "model_year": 1977
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": 1.1,
-    "model_year": 1963
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Mayflower",
-    "model_trim": "",
-    "model_year": 1953
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
@@ -47006,24 +46986,14 @@
     "model_year": 1971
   },
   {"model_make_id": "triumph",
-    "model_name": 1500,
-    "model_trim": "",
-    "model_year": 1970
-  },
-  {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1960
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1959
-  },
-  {"model_make_id": "triumph",
-    "model_name": 1300,
-    "model_trim": "",
-    "model_year": 1967
   },
   {"model_make_id": "triumph",
     "model_name": "TR7",
@@ -47031,24 +47001,14 @@
     "model_year": 1981
   },
   {"model_make_id": "triumph",
-    "model_name": "10 Break",
-    "model_trim": "",
-    "model_year": 1956
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR8",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1980
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
     "model_trim": "Sedan",
     "model_year": 1968
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": "Saloon",
-    "model_year": 1959
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
@@ -47062,12 +47022,12 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": "Cabriolet",
+    "model_trim": "Convertible",
     "model_year": 1961
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1973
   },
   {"model_make_id": "triumph",
@@ -47076,43 +47036,28 @@
     "model_year": 1968
   },
   {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": "Cabriolet 1100",
-    "model_year": 1960
-  },
-  {"model_make_id": "triumph",
     "model_name": "Toledo",
     "model_trim": "Sedan",
     "model_year": 1970
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1957
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1977
   },
   {"model_make_id": "triumph",
-    "model_name": 1500,
-    "model_trim": "",
-    "model_year": 1972
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR3",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1961
   },
   {"model_make_id": "triumph",
-    "model_name": 1300,
-    "model_trim": "",
-    "model_year": 1970
-  },
-  {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1970
   },
   {"model_make_id": "triumph",
@@ -47126,13 +47071,8 @@
     "model_year": 1966
   },
   {"model_make_id": "triumph",
-    "model_name": 1300,
-    "model_trim": 1.3,
-    "model_year": 1970
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR4",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1963
   },
   {"model_make_id": "triumph",
@@ -47142,7 +47082,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR2",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1953
   },
   {"model_make_id": "triumph",
@@ -47157,7 +47097,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR8",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1979
   },
   {"model_make_id": "triumph",
@@ -47166,13 +47106,8 @@
     "model_year": 1967
   },
   {"model_make_id": "triumph",
-    "model_name": 1300,
-    "model_trim": "",
-    "model_year": 1969
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR2",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1955
   },
   {"model_make_id": "triumph",
@@ -47181,13 +47116,8 @@
     "model_year": 1978
   },
   {"model_make_id": "triumph",
-    "model_name": "10 Break",
-    "model_trim": "",
-    "model_year": 1954
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR4",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1962
   },
   {"model_make_id": "triumph",
@@ -47197,7 +47127,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": 1.1,
+    "model_trim": "Convertible",
     "model_year": 1969
   },
   {"model_make_id": "triumph",
@@ -47212,7 +47142,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR5",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1967
   },
   {"model_make_id": "triumph",
@@ -47222,13 +47152,8 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1958
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Mayflower",
-    "model_trim": "",
-    "model_year": 1952
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
@@ -47239,16 +47164,6 @@
     "model_name": 2000,
     "model_trim": "Sedan",
     "model_year": 1964
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dove GTR4",
-    "model_trim": "",
-    "model_year": 1963
-  },
-  {"model_make_id": "triumph",
-    "model_name": 1800,
-    "model_trim": "",
-    "model_year": 1946
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
@@ -47262,18 +47177,13 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Renown",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1949
   },
   {"model_make_id": "triumph",
     "model_name": "Renown",
-    "model_trim": 2000,
+    "model_trim": "Sedan",
     "model_year": 1951
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dove GTR4",
-    "model_trim": "",
-    "model_year": 1961
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
@@ -47282,7 +47192,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR4",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1961
   },
   {"model_make_id": "triumph",
@@ -47291,19 +47201,9 @@
     "model_year": 1976
   },
   {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": "Cabriolet 1000",
-    "model_year": 1960
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
     "model_trim": "Convertible",
     "model_year": 1978
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": "",
-    "model_year": 1961
   },
   {"model_make_id": "triumph",
     "model_name": "Spitfire",
@@ -47327,7 +47227,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": 1.1,
+    "model_trim": "Convertible",
     "model_year": 1968
   },
   {"model_make_id": "triumph",
@@ -47337,27 +47237,17 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1976
   },
   {"model_make_id": "triumph",
-    "model_name": "Dove GTR4",
-    "model_trim": "",
-    "model_year": 1962
-  },
-  {"model_make_id": "triumph",
-    "model_name": 1500,
-    "model_trim": "TC",
-    "model_year": 1973
-  },
-  {"model_make_id": "triumph",
     "model_name": "TR4",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1964
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1972
   },
   {"model_make_id": "triumph",
@@ -47366,18 +47256,8 @@
     "model_year": 1965
   },
   {"model_make_id": "triumph",
-    "model_name": 1300,
-    "model_trim": "",
-    "model_year": 1968
-  },
-  {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": 1100,
-    "model_year": 1959
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": 1100,
+    "model_trim": "Convertible",
     "model_year": 1962
   },
   {"model_make_id": "triumph",
@@ -47392,33 +47272,13 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1974
   },
   {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": "",
-    "model_year": 1959
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Herald",
-    "model_trim": 1.1,
+    "model_trim": "Convertible",
     "model_year": 1970
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Dove GTR4",
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Acclaim",
-    "model_trim": "",
-    "model_year": 1983
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Acclaim",
-    "model_trim": "",
-    "model_year": 1984
   },
   {"model_make_id": "triumph",
     "model_name": "TR6",
@@ -47436,23 +47296,13 @@
     "model_year": 1972
   },
   {"model_make_id": "triumph",
-    "model_name": 1300,
-    "model_trim": "",
-    "model_year": 1966
-  },
-  {"model_make_id": "triumph",
     "model_name": "GT6",
     "model_trim": "Coupe",
     "model_year": 1972
   },
   {"model_make_id": "triumph",
-    "model_name": "Mayflower",
-    "model_trim": "",
-    "model_year": 1950
-  },
-  {"model_make_id": "triumph",
     "model_name": "Herald",
-    "model_trim": 1300,
+    "model_trim": "Convertible",
     "model_year": 1967
   },
   {"model_make_id": "triumph",
@@ -47462,7 +47312,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR2",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1952
   },
   {"model_make_id": "triumph",
@@ -47472,7 +47322,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "TR2",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1954
   },
   {"model_make_id": "triumph",
@@ -47486,23 +47336,13 @@
     "model_year": 1969
   },
   {"model_make_id": "triumph",
-    "model_name": "Acclaim",
-    "model_trim": "",
-    "model_year": 1981
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Acclaim",
-    "model_trim": "",
-    "model_year": 1982
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
     "model_trim": "Convertible",
     "model_year": 1964
   },
   {"model_make_id": "triumph",
     "model_name": "TR3",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1955
   },
   {"model_make_id": "triumph",
@@ -47511,24 +47351,9 @@
     "model_year": 1971
   },
   {"model_make_id": "triumph",
-    "model_name": 2.5,
-    "model_trim": "PI",
-    "model_year": 1968
-  },
-  {"model_make_id": "triumph",
     "model_name": "Spitfire",
     "model_trim": "Convertible",
     "model_year": 1963
-  },
-  {"model_make_id": "triumph",
-    "model_name": 1500,
-    "model_trim": "",
-    "model_year": 1971
-  },
-  {"model_make_id": "triumph",
-    "model_name": "Mayflower",
-    "model_trim": "",
-    "model_year": 1949
   },
   {"model_make_id": "triumph",
     "model_name": 2000,
@@ -47542,7 +47367,7 @@
   },
   {"model_make_id": "triumph",
     "model_name": "Stag",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "tvr",
