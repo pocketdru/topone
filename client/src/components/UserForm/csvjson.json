@@ -47381,103 +47381,53 @@
     "model_year": 1978
   },
   {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "C",
-    "model_year": 2002
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1994
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 400,
+    "model_trim": "Convertible",
     "model_year": 1966
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
-    "model_trim": "S2",
+    "model_trim": "Coupe",
     "model_year": 1969
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 5,
+    "model_trim": "Convertible",
     "model_year": 1991
   },
   {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "tvr",
     "model_name": "Vixen",
-    "model_trim": "S3",
+    "model_trim": "Coupe",
     "model_year": 1972
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 5,
+    "model_trim": "Convertible",
     "model_year": 2001
   },
   {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "III 1600",
+    "model_trim": "Coupe",
     "model_year": 1962
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1994
   },
   {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": 2.5,
-    "model_year": 1972
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1993
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": "",
-    "model_year": 1975
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": "",
-    "model_year": 1984
-  },
-  {"model_make_id": "tvr",
-    "model_name": "S2",
-    "model_trim": "",
-    "model_year": 1988
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "III",
+    "model_trim": "Coupe",
     "model_year": 1964
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1998
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
-    "model_trim": "S3",
+    "model_trim": "Coupe",
     "model_year": 1971
   },
   {"model_make_id": "tvr",
@@ -47487,88 +47437,28 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 500,
+    "model_trim": "Convertible",
     "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Cerbera Speed 12",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Sagaris",
-    "model_trim": "",
-    "model_year": 2007
   },
   {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1960
   },
   {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "C",
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 200,
+    "model_trim": "Convertible",
     "model_year": 1963
   },
   {"model_make_id": "tvr",
-    "model_name": "Tuscan Speed Six",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": "",
-    "model_year": 1976
-  },
-  {"model_make_id": "tvr",
-    "model_name": "S",
-    "model_trim": "",
-    "model_year": 1987
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1988
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Speed Eight",
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "tvr",
-    "model_name": 400,
-    "model_trim": "SE",
-    "model_year": 1989
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": "",
-    "model_year": 1983
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1995
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
-    "model_trim": "1.6 S3",
+    "model_trim": "Coupe",
     "model_year": 1970
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Griffith",
-    "model_trim": 3.9,
-    "model_year": 1991
   },
   {"model_make_id": "tvr",
     "model_name": "3000S",
@@ -47576,28 +47466,13 @@
     "model_year": 1975
   },
   {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": 3.5,
-    "model_year": 1985
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "II",
+    "model_trim": "Coupe",
     "model_year": 1961
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 400,
+    "model_trim": "Convertible",
     "model_year": 1967
   },
   {"model_make_id": "tvr",
@@ -47607,28 +47482,8 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1990
-  },
-  {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "C",
-    "model_year": 2004
-  },
-  {"model_make_id": "tvr",
-    "model_name": "350i",
-    "model_trim": "",
-    "model_year": 1983
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Grantura",
-    "model_trim": "II",
-    "model_year": 1960
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2001
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
@@ -47646,23 +47501,18 @@
     "model_year": 2006
   },
   {"model_make_id": "tvr",
-    "model_name": "V8 S",
-    "model_trim": "",
-    "model_year": 1990
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
     "model_trim": "Convertible",
     "model_year": 2001
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1997
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 200,
+    "model_trim": "Convertible",
     "model_year": 1964
   },
   {"model_make_id": "tvr",
@@ -47671,24 +47521,9 @@
     "model_year": 1977
   },
   {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": 3.5,
-    "model_year": 1983
-  },
-  {"model_make_id": "tvr",
-    "model_name": 7,
-    "model_trim": "",
-    "model_year": 1998
-  },
-  {"model_make_id": "tvr",
     "model_name": "3000M",
     "model_trim": "Convertible",
     "model_year": 1975
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": "",
-    "model_year": 1972
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
@@ -47696,54 +47531,9 @@
     "model_year": 1967
   },
   {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "Targa",
-    "model_year": 2005
-  },
-  {"model_make_id": "tvr",
-    "model_name": 2500,
-    "model_trim": "M",
-    "model_year": 1971
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1990
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1959
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2004
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Grantura",
-    "model_trim": "III 1300",
-    "model_year": 1962
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Griffith",
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Vixen",
-    "model_trim": "S3",
-    "model_year": 1970
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Vixen",
-    "model_trim": "S2",
-    "model_year": 1970
-  },
-  {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "Targa",
-    "model_year": 2003
   },
   {"model_make_id": "tvr",
     "model_name": "3000S",
@@ -47756,34 +47546,14 @@
     "model_year": 1970
   },
   {"model_make_id": "tvr",
-    "model_name": "T 440 R",
-    "model_trim": "",
-    "model_year": 2008
-  },
-  {"model_make_id": "tvr",
     "model_name": "Tuscan",
     "model_trim": "Convertible",
     "model_year": 2003
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
-    "model_trim": "S2",
+    "model_trim": "Coupe",
     "model_year": 1968
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": 3.5,
-    "model_year": 1986
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Grantura",
-    "model_trim": "II",
-    "model_year": 1962
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Trident",
-    "model_trim": "",
-    "model_year": 1965
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
@@ -47791,134 +47561,44 @@
     "model_year": 1969
   },
   {"model_make_id": "tvr",
-    "model_name": 1600,
-    "model_trim": "M",
-    "model_year": 1972
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 5,
-    "model_year": 2000
-  },
-  {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "Targa",
-    "model_year": 2004
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Taimar",
-    "model_trim": "",
-    "model_year": 1972
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1996
   },
   {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": 3.5,
-    "model_year": 1987
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1992
   },
   {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": "",
-    "model_year": 1982
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": 4,
-    "model_year": 1991
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1958
   },
   {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "tvr",
-    "model_name": "S2",
-    "model_trim": "C",
-    "model_year": 1989
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1999
   },
   {"model_make_id": "tvr",
-    "model_name": "Vixen",
-    "model_trim": "S1",
-    "model_year": 1968
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tasmin",
-    "model_trim": "Convertible",
-    "model_year": 1980
-  },
-  {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "C",
-    "model_year": 2006
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": "",
-    "model_year": 1973
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1993
   },
   {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Type S",
-    "model_trim": "",
-    "model_year": 1987
-  },
-  {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 5,
+    "model_trim": "Convertible",
     "model_year": 2002
   },
   {"model_make_id": "tvr",
     "model_name": "Vixen",
-    "model_trim": "S1",
+    "model_trim": "Coupe",
     "model_year": 1967
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Sagaris",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Tamora",
-    "model_trim": "",
-    "model_year": 2005
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
     "model_trim": "Convertible",
     "model_year": 2005
-  },
-  {"model_make_id": "tvr",
-    "model_name": 390,
-    "model_trim": "SE",
-    "model_year": 1985
   },
   {"model_make_id": "tvr",
     "model_name": "Tuscan",
@@ -47927,12 +47607,12 @@
   },
   {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "IV",
+    "model_trim": "Coupe",
     "model_year": 1967
   },
   {"model_make_id": "tvr",
     "model_name": "Griffith",
-    "model_trim": 5,
+    "model_trim": "Convertible",
     "model_year": 2003
   },
   {"model_make_id": "tvr",
@@ -47951,59 +47631,19 @@
     "model_year": 1976
   },
   {"model_make_id": "tvr",
-    "model_name": 420,
-    "model_trim": "SEAC",
-    "model_year": 1987
-  },
-  {"model_make_id": "tvr",
     "model_name": "3000T",
     "model_trim": "Convertible",
     "model_year": 1980
   },
   {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "III",
-    "model_year": 1962
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Griffith",
-    "model_trim": 400,
-    "model_year": 1964
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": 3,
-    "model_year": 1972
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Grantura",
-    "model_trim": "III 1800",
-    "model_year": 1962
-  },
-  {"model_make_id": "tvr",
-    "model_name": "Grantura",
-    "model_trim": "IV",
+    "model_trim": "Coupe",
     "model_year": 1966
   },
   {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": "",
-    "model_year": 1977
-  },
-  {"model_make_id": "tvr",
-    "model_name": "M",
-    "model_trim": "",
-    "model_year": 1974
-  },
-  {"model_make_id": "tvr",
     "model_name": "Grantura",
-    "model_trim": "III",
+    "model_trim": "Coupe",
     "model_year": 1963
-  },
-  {"model_make_id": "tvr",
-    "model_name": "T 350",
-    "model_trim": "C",
-    "model_year": 2008
   },
   {"model_make_id": "vauxhall",
     "model_name": "Frontera",
