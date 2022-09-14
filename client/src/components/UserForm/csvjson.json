@@ -47721,18 +47721,13 @@
     "model_year": 1967
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "Break",
+    "model_trim": "Sedan",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "4.0 W8 4Motion Variant",
+    "model_trim": "Sedan",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -47742,23 +47737,18 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1986
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1987
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
     "model_trim": "V6 Automatic",
     "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.8 Turbo",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
@@ -47797,7 +47787,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "1.9 D",
+    "model_trim": "Sedan",
     "model_year": 1988
   },
   {"model_make_id": "volkswagen",
@@ -47847,7 +47837,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "2.0 TDI Variant",
+    "model_trim": "Sedan",
     "model_year": 2003
   },
   {"model_make_id": "volkswagen",
@@ -47892,12 +47882,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "GLS Estate",
+    "model_trim": "Sedan",
     "model_year": 1980
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "1.5 D",
+    "model_trim": "Sedan",
     "model_year": 1973
   },
   {"model_make_id": "volkswagen",
@@ -47922,13 +47912,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Life",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": 1600,
@@ -47948,11 +47933,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
     "model_trim": "1.4 TDi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 TDi DPF",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -47996,11 +47976,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 D",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Bora",
     "model_trim": "1.9 TDi Highline Variant",
     "model_year": 2008
@@ -48024,11 +47999,6 @@
     "model_name": "Quantum",
     "model_trim": "",
     "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Sedan GL TDI",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -48121,13 +48091,8 @@
     "model_year": 1984
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 1.6",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "Variant",
+    "model_trim": "Sedan",
     "model_year": 1982
   },
   {"model_make_id": "volkswagen",
@@ -48158,11 +48123,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
     "model_trim": "1.6i Classic Comfortline",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Wagon GLX",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
@@ -48226,11 +48186,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.8,
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Multivan",
     "model_trim": "2.5 TDI 4Motion Comfortline",
     "model_year": 2006
@@ -48281,19 +48236,9 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.8 4Motion Comfortline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Fox",
     "model_trim": "1.4 TDi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.8 V6 4Motion Comfortline Variant",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Parati",
@@ -48372,7 +48317,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "2.0 FSi Comfortline Tiptronic",
+    "model_trim": "Sedan",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
@@ -48412,12 +48357,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "3.2 V6 Sportline DSG",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1975
   },
   {"model_make_id": "volkswagen",
@@ -48444,11 +48384,6 @@
     "model_name": "Caravelle",
     "model_trim": "",
     "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 Turbo",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -48512,7 +48447,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "Variant 2.0 FSI Trendline",
+    "model_trim": "Sedan",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -48576,18 +48511,13 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 4Motion",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Fox",
     "model_trim": 1.2,
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": 2.8,
+    "model_trim": "Sedan",
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
@@ -48617,13 +48547,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "Variant",
+    "model_trim": "Sedan",
     "model_year": 1985
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 2.0 SDI",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -48637,7 +48562,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "2.8 Variant",
+    "model_trim": "Sedan",
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
@@ -48671,11 +48596,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Lupo",
     "model_trim": "",
     "model_year": 2002
@@ -48707,7 +48627,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "1.8 TSI Comfortline Tiptronic",
+    "model_trim": "Sedan",
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
@@ -48736,11 +48656,6 @@
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "4.0 W8 4Motion",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Caravelle",
     "model_trim": "2.5 TDi 4Motion",
     "model_year": 2006
@@ -48754,11 +48669,6 @@
     "model_name": "Polo",
     "model_trim": "1.4 TDI Comfortline",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 D Variant",
-    "model_year": 1993
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48782,23 +48692,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "GLS TDI Sedan",
+    "model_trim": "Sedan",
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
     "model_trim": "3.0 V6 TDi",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 TDi Trendline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi Comfortline",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -48827,7 +48727,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "L Estate Diesel",
+    "model_trim": "Sedan",
     "model_year": 1979
   },
   {"model_make_id": "volkswagen",
@@ -48851,11 +48751,6 @@
     "model_year": 1964
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Variant 1.9 TDi",
     "model_year": 2007
@@ -48872,7 +48767,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "Variant",
+    "model_trim": "Sedan",
     "model_year": 1983
   },
   {"model_make_id": "volkswagen",
@@ -48974,11 +48869,6 @@
     "model_name": "Polo",
     "model_trim": "",
     "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1979
   },
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
@@ -49121,11 +49011,6 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 1.4",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Corrado",
     "model_trim": "",
     "model_year": 1991
@@ -49172,7 +49057,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1990
   },
   {"model_make_id": "volkswagen",
@@ -49232,18 +49117,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "1.5 D",
+    "model_trim": "Sedan",
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.6 C",
     "model_year": 1983
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI Comfortline",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -49271,21 +49151,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 FSi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 TFSi Comfortline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi DPF Comfortline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Transporter",
     "model_trim": "2.5 TDi Crew Bus Tiptronic",
     "model_year": 2007
@@ -49301,11 +49166,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0T FSi Sportline Tiptronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "Convertible 2.0",
     "model_year": 2003
@@ -49318,11 +49178,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "1.6 Comfortline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 FSI Trendline",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -49351,11 +49206,6 @@
     "model_year": 1983
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 FSI Trendline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touareg",
     "model_trim": "5.0 V10 TDi Tiptronic",
     "model_year": 2006
@@ -49376,29 +49226,19 @@
     "model_year": 1983
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Life",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "C Diesel Estate",
+    "model_trim": "Sedan",
     "model_year": 1984
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1992
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
     "model_trim": "V6",
     "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 D",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -49414,11 +49254,6 @@
     "model_name": "Phaeton",
     "model_trim": "4.9 D",
     "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI Highline DSG",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Eos",
@@ -49447,12 +49282,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "GL Sedan",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
@@ -49491,11 +49321,6 @@
     "model_year": 1963
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "LS Estate",
-    "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "1.9 TDI Conceptline",
     "model_year": 2006
@@ -49526,23 +49351,8 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2.3,
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "Convertible 2.5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "W8",
-    "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 FSi Trendline",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
@@ -49571,11 +49381,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2,
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Lupo",
     "model_trim": "",
     "model_year": 2001
@@ -49596,18 +49401,13 @@
     "model_year": 1991
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Lux",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Gol",
     "model_trim": "II",
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
@@ -49691,11 +49491,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.9 TDi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Transporter",
     "model_trim": "1.9 Crew Bus",
     "model_year": 2006
@@ -49721,11 +49516,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "2.0T FSI",
     "model_year": 2006
@@ -49734,16 +49524,6 @@
     "model_name": "Caravelle",
     "model_trim": "3.2 V6 4Motion",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 FSi Trendline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Variant",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
@@ -49816,16 +49596,6 @@
     "model_year": 1982
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 3.6,
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.6 VR6 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Lupo",
     "model_trim": "1.4 TDi",
     "model_year": 2008
@@ -49841,11 +49611,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.9 TDi CrossGolf",
     "model_year": 2008
@@ -49859,11 +49624,6 @@
     "model_name": "Golf",
     "model_trim": "L Diesel",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2,
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -50061,11 +49821,6 @@
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Panel Van",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.6 FSI Sportline",
     "model_year": 2005
@@ -50102,18 +49857,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": 1.8,
+    "model_trim": "Sedan",
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "2.0T FSi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 DSi Highline",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -50186,11 +49936,6 @@
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "TDI Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "S 1.8 L Turbo",
     "model_year": 2004
@@ -50209,11 +49954,6 @@
     "model_name": "Golf",
     "model_trim": "GL",
     "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GLS TDI Wagon",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
@@ -50256,11 +49996,6 @@
     "model_year": 1966
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2.2,
-    "model_year": 1986
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "V6",
     "model_year": 2002
@@ -50279,11 +50014,6 @@
     "model_name": "Lupo",
     "model_trim": "1.4 TDI",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 FSI Comfortline Tiptronic",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -50316,11 +50046,6 @@
     "model_year": 1944
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Transporter",
     "model_trim": "2.5 TDi Crew Bus",
     "model_year": 2007
@@ -50329,11 +50054,6 @@
     "model_name": "Golf",
     "model_trim": 1.4,
     "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2,
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -50367,7 +50087,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": 2.9,
+    "model_trim": "Sedan",
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
@@ -50404,11 +50124,6 @@
     "model_name": "New Beetle",
     "model_trim": "2.5 S",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi Life",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -50472,7 +50187,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "CL 1.8 Estate",
+    "model_trim": "Sedan",
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
@@ -50519,11 +50234,6 @@
     "model_name": "Polo",
     "model_trim": "1.4 TDI Highline",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 TFSI Comfortline",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -50601,29 +50311,14 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDi Highline DSG",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "",
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi Life",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Caravelle",
     "model_trim": "2.5 TDi 4-Motion",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.6 Wagon VR6 4Motion",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -50633,11 +50328,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "4.2 V8",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TFSI Comfortline",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -50741,24 +50431,9 @@
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.8,
-    "model_year": 1988
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Multivan",
     "model_trim": "3.2 4Motion Comfortline",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Wagon GL",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Automatic",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": 1600,
@@ -50779,11 +50454,6 @@
     "model_name": "Corrado",
     "model_trim": 1.8,
     "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.4 Life",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "T5",
@@ -50809,11 +50479,6 @@
     "model_name": "Sharan",
     "model_trim": "1.8 Turbo",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.5 D Variant",
-    "model_year": 1974
   },
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
@@ -50861,11 +50526,6 @@
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 1.6",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Plus 2.0 TDi Trendline",
     "model_year": 2007
@@ -50879,16 +50539,6 @@
     "model_name": "Jetta",
     "model_trim": "Wagon GLS 2.0",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Komfort",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
@@ -50917,7 +50567,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1996
   },
   {"model_make_id": "volkswagen",
@@ -50981,11 +50631,6 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1600,
     "model_trim": "L Variant",
     "model_year": 1970
@@ -50994,11 +50639,6 @@
     "model_name": "Touran",
     "model_trim": "2.0 EcoFuel",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.5 Variant",
-    "model_year": 1974
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -51019,21 +50659,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "1.3 Cabriolet",
     "model_year": 1959
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TFSi Comfortline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.6,
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi Comfortline",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Eos",
@@ -51079,11 +50704,6 @@
     "model_name": "Polo",
     "model_trim": "Classic 1.4 TDI Trendline",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Wagon GLS",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -51177,7 +50797,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1991
   },
   {"model_make_id": "volkswagen",
@@ -51189,11 +50809,6 @@
     "model_name": "Beetle",
     "model_trim": "2.0 Cabriolet",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 3.2 V6 FSI 4Motion",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
@@ -51271,11 +50886,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.6,
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "1.9 TDI Comfortline DSG",
     "model_year": 2006
@@ -51294,11 +50904,6 @@
     "model_name": "Lupo",
     "model_trim": "1.4 FSi",
     "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1990
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -51361,11 +50966,6 @@
     "model_year": 1969
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1985
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Caravelle",
     "model_trim": "",
     "model_year": 1996
@@ -51384,11 +50984,6 @@
     "model_name": "Polo",
     "model_trim": "Classic 1.6 Comfortline",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI Variant",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Eos",
@@ -51411,11 +51006,6 @@
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "VR5",
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1303,
     "model_trim": 1.5,
     "model_year": 1967
@@ -51424,11 +51014,6 @@
     "model_name": "AAC",
     "model_trim": "",
     "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 2.0 SDI",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -51467,7 +51052,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": 2.8,
+    "model_trim": "Sedan",
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
@@ -51491,19 +51076,9 @@
     "model_year": 1972
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 D",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "GTi",
     "model_year": 1986
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.0 Bluemotion",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
@@ -51526,11 +51101,6 @@
     "model_year": 1962
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.8,
-    "model_year": 1985
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 411,
     "model_trim": "",
     "model_year": 1968
@@ -51546,16 +51116,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 TSI Highline",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Turbo Diesel",
     "model_year": 1980
@@ -51564,11 +51124,6 @@
     "model_name": "Polo",
     "model_trim": "1.4 GT",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDi Highline",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "T5",
@@ -51622,7 +51177,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
@@ -51671,11 +51226,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.6 Sportline",
     "model_year": 2008
@@ -51704,11 +51254,6 @@
     "model_name": "Multivan",
     "model_trim": "2.5 TDI 4Motion Comfortline",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 FSi Trendline",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -51741,34 +51286,14 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.9 TDi Trendline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 Bluemotion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Microbus",
     "model_trim": "",
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI 4Motion Variant",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Plus 1.6 FSi Trendline",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 4Motion Variant",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -51784,11 +51309,6 @@
     "model_name": "Golf",
     "model_trim": "Cabriolet",
     "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 Turbo Tiptronic",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -51871,11 +51391,6 @@
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 D Variant",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Bora",
     "model_trim": 2,
     "model_year": 2005
@@ -51907,7 +51422,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
@@ -51939,11 +51454,6 @@
     "model_name": "Touareg",
     "model_trim": "",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -52051,11 +51561,6 @@
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "W8 Wagon",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "CC",
     "model_trim": "VR6 4Motion",
     "model_year": 2009
@@ -52064,11 +51569,6 @@
     "model_name": "Jetta",
     "model_trim": "2.5 Wolfsburg Edition",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2,
-    "model_year": 1980
   },
   {"model_make_id": "volkswagen",
     "model_name": "Iltis",
@@ -52106,11 +51606,6 @@
     "model_year": 1981
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI Highline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "",
     "model_year": 1982
@@ -52146,11 +51641,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Concept C",
     "model_trim": "",
     "model_year": 2004
@@ -52177,23 +51667,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 2.0 SDI",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": "",
     "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.3,
-    "model_year": 1973
   },
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
@@ -52237,7 +51717,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": 2.8,
+    "model_trim": "Sedan",
     "model_year": 2001
   },
   {"model_make_id": "volkswagen",
@@ -52301,18 +51781,8 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 3.2 FSi 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.9 4Motion TDi",
-    "model_year": 1998
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "",
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
@@ -52356,11 +51826,6 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0T FSi Sportline Tiptronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "1.6 FSI",
     "model_year": 2005
@@ -52369,11 +51834,6 @@
     "model_name": "Golf",
     "model_trim": "Variant 2.0 4Motion",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 V6 TDI Comfortline",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -52396,11 +51856,6 @@
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.9,
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "",
     "model_year": 1948
@@ -52409,11 +51864,6 @@
     "model_name": "Jetta",
     "model_trim": "",
     "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GL TDI Wagon",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -52429,11 +51879,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "Cabriolet Type 34",
     "model_year": 1962
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": 1.6,
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Microbus",
@@ -52471,11 +51916,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 1.9 TDi",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Citi",
     "model_trim": "Sport 1.6i",
     "model_year": 2009
@@ -52499,11 +51939,6 @@
     "model_name": "Derby",
     "model_trim": "",
     "model_year": 1979
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GLX Wagon",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Caravelle",
@@ -52536,11 +51971,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "Cabriolet Type 14",
     "model_year": 1973
@@ -52554,11 +51984,6 @@
     "model_name": "New Beetle",
     "model_trim": "2.5 S PZEV",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 V6 TDI 4Motion Comfortline",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -52591,24 +52016,9 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDi Highline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1988
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "1.6 Comfortline",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "",
-    "model_year": 1997
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -52631,11 +52041,6 @@
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "2.5 Convertible S",
     "model_year": 2008
@@ -52656,19 +52061,9 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1984
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": 1.3,
     "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1993
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -52771,11 +52166,6 @@
     "model_year": 1989
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.2 V6 Sportline DSG",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Wagon GL 2.0",
     "model_year": 2005
@@ -52806,19 +52196,9 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 TDI Variant Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": 1.5,
     "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 Trendline",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -52871,11 +52251,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2,
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Bora",
     "model_trim": "1.6 FSI Variant",
     "model_year": 2004
@@ -52884,11 +52259,6 @@
     "model_name": "Multivan",
     "model_trim": "2.5 TDI 4Motion",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 2.8,
-    "model_year": 1991
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -52901,11 +52271,6 @@
     "model_year": 1973
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Variant",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Cabriolet",
     "model_year": 1956
@@ -52914,11 +52279,6 @@
     "model_name": "T5",
     "model_trim": "California 2.5TDi 4Motion",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 T",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
@@ -52934,11 +52294,6 @@
     "model_name": "Caravelle",
     "model_trim": "2.5 TDi 4Motion",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1996
   },
   {"model_make_id": "volkswagen",
     "model_name": 181,
@@ -52981,19 +52336,9 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.0 TDi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touareg",
     "model_trim": 4.2,
     "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -53004,11 +52349,6 @@
     "model_name": "New Beetle",
     "model_trim": 1.6,
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.8 V6 Tiptronic",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Eos",
@@ -53086,21 +52426,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDi Highline",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.2 V6 FSI 4Motion",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1994
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "1.6 Trendline",
     "model_year": 2008
@@ -53119,11 +52444,6 @@
     "model_name": "Phaeton",
     "model_trim": "5.0 V10 TDi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Sedan GL",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
@@ -53176,11 +52496,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 TDi 4Motion Comfortline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "2.5 SE",
     "model_year": 2008
@@ -53194,16 +52509,6 @@
     "model_name": "Lupo",
     "model_trim": "1.7 SDI",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Wagon GL TDI",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.6 FSi Trendline",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -53251,11 +52556,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GLS Sedan",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "1.6 FSi Highline",
     "model_year": 2008
@@ -53291,11 +52591,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1987
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1600,
     "model_trim": "Karmann-Ghia Coupe",
     "model_year": 1970
@@ -53309,11 +52604,6 @@
     "model_name": "GTI",
     "model_trim": "",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GL",
-    "model_year": 1988
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -53391,11 +52681,6 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "6.0 W12",
     "model_year": 2005
@@ -53406,11 +52691,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 Variant",
-    "model_year": 1974
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Lupo",
     "model_trim": "1.7 D",
     "model_year": 1999
@@ -53419,11 +52699,6 @@
     "model_name": "Golf",
     "model_trim": "2.0 TDI",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1986
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -53441,19 +52716,9 @@
     "model_year": 1969
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 Variant",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touareg",
     "model_trim": "2.5 R5 TDi Triptronic",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "CL 1.9 TDi Estate",
-    "model_year": 1994
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -53479,11 +52744,6 @@
     "model_name": "New Beetle",
     "model_trim": "GLS 2.0 L Convertible",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 T",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Transporter",
@@ -53534,16 +52794,6 @@
     "model_name": "Polo",
     "model_trim": "1.9 TDi Highline",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Turbo",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GT G60 Syncro Variant",
-    "model_year": 1990
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
@@ -53609,11 +52859,6 @@
     "model_name": "Jetta",
     "model_trim": "2.0 FSi Sportline",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Comfort",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
@@ -53706,16 +52951,6 @@
     "model_year": 1981
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 Turbo",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1983
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "1.6 FSI Highline",
     "model_year": 2004
@@ -53726,19 +52961,9 @@
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Vento",
     "model_trim": "1.6 CL",
     "model_year": 1992
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0T",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Lupo",
@@ -53771,11 +52996,6 @@
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 FSI Comfortline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Polo",
     "model_trim": "Classic 1.6 Trendline",
     "model_year": 2006
@@ -53806,11 +53026,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI 4Motion",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Multivan",
     "model_trim": "2.5 TDI Comfortline",
     "model_year": 2005
@@ -53839,11 +53054,6 @@
     "model_name": "Polo",
     "model_trim": "1.9 SDi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 2000
   },
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
@@ -53916,11 +53126,6 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1984
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "2.5 S",
     "model_year": 2009
@@ -53944,11 +53149,6 @@
     "model_name": "Beetle",
     "model_trim": "1.8 T Automatic",
     "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDI",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Iltis",
@@ -53986,11 +53186,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.6 Trendline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Kombi",
     "model_trim": "1.9 TDi",
     "model_year": 2009
@@ -53999,11 +53194,6 @@
     "model_name": "Jetta",
     "model_trim": "1.6 Trendline",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "LS",
-    "model_year": 1975
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -54024,11 +53214,6 @@
     "model_name": "Golf",
     "model_trim": "",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6 Life",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
@@ -54074,16 +53259,6 @@
     "model_name": "Beetle",
     "model_trim": "",
     "model_year": 1957
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 Variant",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
@@ -54139,16 +53314,6 @@
     "model_name": "Fox",
     "model_trim": 1.2,
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1988
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 T Variant",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -54216,11 +53381,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 Variant",
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Multivan",
     "model_trim": "1.9 TDi Startline",
     "model_year": 2008
@@ -54251,29 +53411,14 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GLS Wagon",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "GT Automatic",
     "model_year": 1982
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.2 V6 FSI 4Motion",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": 1.4,
     "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.8 TSI Comfortline",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -54284,11 +53429,6 @@
     "model_name": "Phaeton",
     "model_trim": "3.0 V6 TDI",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI DSG",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -54311,11 +53451,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "2.0 SDi Life",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "GL 2.0",
     "model_year": 2004
@@ -54334,11 +53469,6 @@
     "model_name": "Jetta",
     "model_trim": "",
     "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1992
   },
   {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
@@ -54371,16 +53501,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "",
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "Cabriolet 14",
     "model_year": 1960
@@ -54389,11 +53509,6 @@
     "model_name": "Polo",
     "model_trim": "1.4 FSi Fun",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "W8",
-    "model_year": 2001
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -54412,7 +53527,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1989
   },
   {"model_make_id": "volkswagen",
@@ -54429,11 +53544,6 @@
     "model_name": "Golf",
     "model_trim": "2.0 GTi",
     "model_year": 1991
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TD",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -54461,11 +53571,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 D",
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.6 Trendline",
     "model_year": 2008
@@ -54481,11 +53586,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.8,
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Transporter",
     "model_trim": "1.9 TDI",
     "model_year": 2006
@@ -54494,11 +53594,6 @@
     "model_name": "Polo",
     "model_trim": 1.2,
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Variant",
-    "model_year": 1993
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -54541,16 +53636,6 @@
     "model_year": 1984
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.6",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GLS",
-    "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Bora",
     "model_trim": "Variant",
     "model_year": 2002
@@ -54559,11 +53644,6 @@
     "model_name": "Transporter",
     "model_trim": "1.9 TDi Crew Bus",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDi Highline DSG",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -54594,11 +53674,6 @@
     "model_name": "Jetta",
     "model_trim": "Sedan GLS 2.0 L",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 3.2 V6 FSi 4Motion",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -54636,29 +53711,14 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.6 Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": "1.8 Turbo Trendline",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.8 4Motion Comfortline Variant",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Citi",
     "model_trim": "Golf 1.8",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 D",
-    "model_year": 1985
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -54674,11 +53734,6 @@
     "model_name": "Lupo",
     "model_trim": "1.7 SDi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Lupo",
@@ -54706,16 +53761,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "C Turbo Diesel Estate",
-    "model_year": 1984
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 D",
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "1.5 CL",
     "model_year": 1975
@@ -54726,21 +53771,6 @@
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDi Comfortline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "TDI",
-    "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Transporter",
     "model_trim": 2.5,
     "model_year": 2006
@@ -54749,11 +53779,6 @@
     "model_name": "Lupo",
     "model_trim": "1.2 TDI",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI",
-    "model_year": 2003
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -54816,11 +53841,6 @@
     "model_year": 1982
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Sedan GLS",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "Coupe Type 34",
     "model_year": 1970
@@ -54829,11 +53849,6 @@
     "model_name": "Beetle",
     "model_trim": "Cabriolet",
     "model_year": 1957
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.5,
-    "model_year": 1973
   },
   {"model_make_id": "volkswagen",
     "model_name": "SP2",
@@ -54876,16 +53891,6 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.6,
-    "model_year": 1985
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Wagon GLS TDI",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": 2.8,
     "model_year": 2000
@@ -54894,11 +53899,6 @@
     "model_name": "Touran",
     "model_trim": "1.4 TSi",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.2 FSi 4Motion",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": 411,
@@ -54936,11 +53936,6 @@
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 Value Edition",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "1.6 Cabriolet",
     "model_year": 2008
@@ -54959,11 +53954,6 @@
     "model_name": "Jetta",
     "model_trim": "2.5 Value Edition",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1981
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -55091,16 +54081,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "GT G60 Syncro",
-    "model_year": 1990
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 1.9 TDi 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "2.0 Trendline",
     "model_year": 2009
@@ -55121,16 +54101,6 @@
     "model_year": 1981
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 V6 TDI Comfortline Variant",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.6,
-    "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Lupo",
     "model_trim": "1.4 TDi",
     "model_year": 2000
@@ -55146,24 +54116,9 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Life",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 2.0 Eco",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "2.0 TDi GT",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 FSI Highline",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Caravelle",
@@ -55213,11 +54168,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
     "model_trim": "S",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.5 TDi",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -55286,11 +54236,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": 1.6,
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Variant",
     "model_year": 2000
@@ -55299,11 +54244,6 @@
     "model_name": "Jetta",
     "model_trim": "Sedan GL TDI-PD",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 D Variant",
-    "model_year": 1988
   },
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
@@ -55401,11 +54341,6 @@
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "2.0 Eco Life",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.6 Trendline",
     "model_year": 2006
@@ -55421,19 +54356,9 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI 4Motion Variant",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "2.3 Variant",
     "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.0 TDI",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
@@ -55486,16 +54411,6 @@
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "3.2 V6 Sportline DSG",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.4 Life",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "",
     "model_year": 2005
@@ -55536,11 +54451,6 @@
     "model_year": 1969
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant",
-    "model_year": 1995
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "2.0 FSI Comfortline",
     "model_year": 2004
@@ -55549,11 +54459,6 @@
     "model_name": "Golf",
     "model_trim": "GL 1.9 TDI Sedan",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 1.4",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -55571,21 +54476,6 @@
     "model_year": 1991
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi Life",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.6 FSi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "Variant 2.5 TDi 4Motion",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "2.0 TDi Comfortline",
     "model_year": 2008
@@ -55594,11 +54484,6 @@
     "model_name": "Polo",
     "model_trim": "Classic 1.4 Trendline",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "",
-    "model_year": 1999
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -55641,19 +54526,9 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": 1.8,
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Parati",
     "model_trim": "",
     "model_year": 1998
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "1.9 TDI 4Motion",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -55684,11 +54559,6 @@
     "model_name": "Sharan",
     "model_trim": "1.9 TDI",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Passat",
-    "model_trim": "2.5 TDi Comfortline",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Caravelle",
@@ -55933,11 +54803,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Variant 2.0",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 2.0 EcoFuel",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -56301,11 +55166,6 @@
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life 1.9 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
     "model_trim": 3.6,
     "model_year": 2008
@@ -56406,11 +55266,6 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "Life",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "1.4 Variant",
     "model_year": 1999
@@ -56443,11 +55298,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Polo",
     "model_trim": "1.4 TDI-PD Limousine Comfortline",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "",
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
@@ -65370,36 +64220,6 @@
     "model_trim": 2.4,
     "model_year": 2011
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Life",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi Life",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Life",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi Life",
-    "model_year": 2011
-  },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
     "model_trim": 2.4,
@@ -71379,21 +70199,6 @@
     "model_name": "Venza",
     "model_trim": "Wagon",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.6i Life",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caddy",
-    "model_trim": "1.9 TDi Life",
-    "model_year": 2012
   },
   {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
