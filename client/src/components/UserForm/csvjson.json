@@ -47771,23 +47771,18 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": 2.8,
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 1988
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 1.4,
+    "model_trim": "Hatchback",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1200 Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1960
   },
   {"model_make_id": "volkswagen",
@@ -47826,8 +47821,8 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.5 Convertible",
+    "model_name": "New Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -47896,11 +47891,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.8,
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "K 70",
     "model_trim": "S",
     "model_year": 1970
@@ -47966,8 +47956,8 @@
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GLS 2.0 L",
+    "model_name": "New Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
@@ -47997,7 +47987,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": "GLS 1.8 T",
+    "model_trim": "Hatchback",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
@@ -48047,12 +48037,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": "1.9 TDi",
+    "model_trim": "Hatchback",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Diesel",
+    "model_trim": "Hatchback",
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
@@ -48236,13 +48226,8 @@
     "model_year": 2003
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1953
   },
   {"model_make_id": "volkswagen",
@@ -48259,11 +48244,6 @@
     "model_name": "Bora",
     "model_trim": 1.6,
     "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Highline Automatic",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Gol",
@@ -48287,7 +48267,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1200 Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1955
   },
   {"model_make_id": "volkswagen",
@@ -48301,8 +48281,8 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Cabriolet 1.4",
+    "model_name": "New Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
@@ -48367,12 +48347,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 2,
+    "model_trim": "Hatchback",
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Dune",
+    "model_trim": "Hatchback",
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
@@ -48416,11 +48396,6 @@
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi 4Motion",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 1974
@@ -48441,11 +48416,6 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2.5,
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 2004
@@ -48459,11 +48429,6 @@
     "model_name": "Phaeton",
     "model_trim": "6.0 W12 Long",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Cabriolet 1.6",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
@@ -48497,7 +48462,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "S Turbo",
+    "model_trim": "Hatchback",
     "model_year": 2001
   },
   {"model_make_id": "volkswagen",
@@ -48536,11 +48501,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2,
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "1500 Coupe 34",
     "model_year": 1965
@@ -48567,7 +48527,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.6 Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
@@ -48697,7 +48657,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": "1.4 Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -48727,7 +48687,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 1.8,
+    "model_trim": "Hatchback",
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
@@ -48761,8 +48721,8 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Convertible 2.0",
+    "model_name": "New Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2003
   },
   {"model_make_id": "volkswagen",
@@ -48891,11 +48851,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Convertible 2.5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Multivan",
     "model_trim": "2.0 Trendline",
     "model_year": 2008
@@ -48924,11 +48879,6 @@
     "model_name": "Rabbit",
     "model_trim": "",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2,
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Gol",
@@ -48966,11 +48916,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Highline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "1500 Coupe 14",
     "model_year": 1968
@@ -49004,11 +48949,6 @@
     "model_name": "Jetta",
     "model_trim": "2.0T FSI",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "3.2 V6 4Motion",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
@@ -49086,8 +49026,8 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GLS 1.8 L",
+    "model_name": "New Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
@@ -49107,7 +49047,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": 1.1,
+    "model_trim": "Hatchback",
     "model_year": 1948
   },
   {"model_make_id": "volkswagen",
@@ -49167,7 +49107,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1949
   },
   {"model_make_id": "volkswagen",
@@ -49196,8 +49136,8 @@
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.5 SE PZEV",
+    "model_name": "New Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -49221,11 +49161,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 D",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "6.0 W12",
     "model_year": 2006
@@ -49246,24 +49181,14 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 TDi",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Gol",
     "model_trim": "II",
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": "S 1.8 L Turbo",
+    "model_trim": "Hatchback",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2,
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -49297,7 +49222,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1966
   },
   {"model_make_id": "volkswagen",
@@ -49307,7 +49232,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1951
   },
   {"model_make_id": "volkswagen",
@@ -49356,11 +49281,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "3.2 V6",
     "model_year": 2004
@@ -49401,19 +49321,9 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.5 S",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": "1.9 TDI 4Motion",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.8 T",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
@@ -49422,7 +49332,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1956
   },
   {"model_make_id": "volkswagen",
@@ -49441,11 +49351,6 @@
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 1994
@@ -49454,16 +49359,6 @@
     "model_name": 411,
     "model_trim": 1.7,
     "model_year": 1970
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.8 5V",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.8 T Cabriolet",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -49516,11 +49411,6 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi 4-Motion",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "4.2 V8",
     "model_year": 2006
@@ -49571,11 +49461,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.3 V5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": 1.6,
     "model_year": 1984
@@ -49584,16 +49469,6 @@
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "TDI 2.5 TDI Trendline LWB",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1994
   },
   {"model_make_id": "volkswagen",
     "model_name": "Multivan",
@@ -49641,11 +49516,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.8T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Eos",
     "model_trim": "Lux",
     "model_year": 2009
@@ -49661,13 +49531,8 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1995
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1980
   },
   {"model_make_id": "volkswagen",
@@ -49687,7 +49552,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": 1200,
+    "model_trim": "Hatchback",
     "model_year": 1954
   },
   {"model_make_id": "volkswagen",
@@ -49712,23 +49577,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1959
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.3 V5",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
     "model_trim": "",
     "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "",
-    "model_year": 1959
   },
   {"model_make_id": "volkswagen",
     "model_name": "Citi",
@@ -49776,23 +49631,13 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 TDi Cabriolet",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 TDi Cabriolet",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Eos",
     "model_trim": "2.0 Turbo",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1979
   },
   {"model_make_id": "volkswagen",
@@ -49802,7 +49647,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 2.3,
+    "model_trim": "Hatchback",
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
@@ -49857,7 +49702,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "2.0 Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
@@ -49871,19 +49716,9 @@
     "model_year": 1968
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "2.0 FSi Highline",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -49936,11 +49771,6 @@
     "model_year": 1996
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": 1200,
-    "model_year": 1955
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "2.0 TDi Highline",
     "model_year": 2006
@@ -49959,11 +49789,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "Cabriolet",
     "model_year": 1969
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1996
   },
   {"model_make_id": "volkswagen",
     "model_name": "SP2",
@@ -49992,7 +49817,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
@@ -50021,16 +49846,6 @@
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Cabriolet 1.8",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "SP2",
     "model_trim": "",
     "model_year": 1972
@@ -50047,18 +49862,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1962
   },
   {"model_make_id": "volkswagen",
     "model_name": 411,
     "model_trim": "",
     "model_year": 1968
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2,
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Lupo",
@@ -50078,11 +49888,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Multivan",
     "model_trim": "1.9 TDI Comfortline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.4 Cabriolet",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -50162,7 +49967,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1950
   },
   {"model_make_id": "volkswagen",
@@ -50184,11 +49989,6 @@
     "model_name": "Jetta",
     "model_trim": "2.0 Comfortline",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2.3,
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Lupo",
@@ -50221,11 +50021,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Cabriolet 1.9 TDi",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
     "model_trim": 1.8,
     "model_year": 1982
@@ -50236,11 +50031,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GLS 1.9 L TDi",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
     "model_trim": "",
     "model_year": 1972
@@ -50248,11 +50038,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
     "model_trim": 2,
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GL 2.0 L Convertible",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
@@ -50309,11 +50094,6 @@
     "model_name": 1600,
     "model_trim": "TL",
     "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi Tiptronic",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
@@ -50406,11 +50186,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GLS 2.0 L Convertible",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Concept C",
     "model_trim": "",
     "model_year": 2004
@@ -50436,11 +50211,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Cabriolet",
-    "model_year": 1954
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "4.2 V8",
     "model_year": 2005
@@ -50461,11 +50231,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Highline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": 2.5,
     "model_year": 2007
@@ -50474,11 +50239,6 @@
     "model_name": "Bora",
     "model_trim": "1.9 TDi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GL 1.9 L TDi",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": 181,
@@ -50499,11 +50259,6 @@
     "model_name": "GLI",
     "model_trim": "2.0T",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Cabriolet",
-    "model_year": 1974
   },
   {"model_make_id": "volkswagen",
     "model_name": "Lupo",
@@ -50531,11 +50286,6 @@
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "",
-    "model_year": 1948
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "",
     "model_year": 1989
@@ -50557,12 +50307,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1958
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1964
   },
   {"model_make_id": "volkswagen",
@@ -50586,29 +50336,14 @@
     "model_year": 1992
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "1.9 D",
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Derby",
     "model_trim": "",
     "model_year": 1979
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Lupo",
     "model_trim": "",
     "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Highline Automatic",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -50619,16 +50354,6 @@
     "model_name": "Phaeton",
     "model_trim": "3.0 V6 TDi",
     "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.5 S PZEV",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GL 2.0 L Convertible",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -50666,16 +50391,6 @@
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.5 Convertible S",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "V8",
     "model_year": 2004
@@ -50684,11 +50399,6 @@
     "model_name": "Sharan",
     "model_trim": "1.8 Turbo",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 D",
-    "model_year": 2002
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -50704,11 +50414,6 @@
     "model_name": "Jetta",
     "model_trim": "",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.6,
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": 1500,
@@ -50732,7 +50437,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1947
   },
   {"model_make_id": "volkswagen",
@@ -50759,11 +50464,6 @@
     "model_name": "Bora",
     "model_trim": "2.3 Variant",
     "model_year": 2001
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2.5,
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
@@ -50816,19 +50516,9 @@
     "model_year": 1973
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Cabriolet",
-    "model_year": 1956
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "T5",
     "model_trim": "California 2.5TDi 4Motion",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi 4Motion",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": 181,
@@ -50852,12 +50542,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 1.4,
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Convertible",
+    "model_trim": "Hatchback",
     "model_year": 2003
   },
   {"model_make_id": "volkswagen",
@@ -50866,29 +50551,19 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.6,
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Eos",
     "model_trim": "2.0 TDi",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8 T",
+    "model_trim": "Hatchback",
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "1.9 TDi",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": 2,
-    "model_year": 1999
   },
   {"model_make_id": "volkswagen",
     "model_name": "Bora",
@@ -50899,11 +50574,6 @@
     "model_name": 1600,
     "model_trim": "TL",
     "model_year": 1972
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
@@ -50951,34 +50621,14 @@
     "model_year": 1955
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 TDi",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "5.0 TDI 4Motion Long",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": 2.8,
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.5 SE",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GL 1.8 L Convertible",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Lupo",
@@ -50989,11 +50639,6 @@
     "model_name": "Touran",
     "model_trim": "1.9 TDI Highline",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1998
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -51141,19 +50786,9 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Iltis",
     "model_trim": "",
     "model_year": 1979
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GLS 2.0 L Convertible",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Transporter",
@@ -51186,11 +50821,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.8 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Hac",
     "model_trim": "",
     "model_year": 2000
@@ -51206,11 +50836,6 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "",
-    "model_year": 1958
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "2.0T FSi DSG",
     "model_year": 2008
@@ -51224,11 +50849,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "",
     "model_year": 1956
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "",
-    "model_year": 2003
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -51331,16 +50951,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.4,
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Bora",
     "model_trim": 1.6,
     "model_year": 2004
@@ -51406,11 +51016,6 @@
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8 T Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Iltis",
     "model_trim": "",
     "model_year": 1980
@@ -51432,7 +51037,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1965
   },
   {"model_make_id": "volkswagen",
@@ -51454,11 +51059,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "1500 Coupe 34",
     "model_year": 1960
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1997
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -51486,13 +51086,8 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2,
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1957
   },
   {"model_make_id": "volkswagen",
@@ -51517,7 +51112,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
@@ -51534,11 +51129,6 @@
     "model_name": "GTI",
     "model_trim": "2.0T Coupe",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "",
-    "model_year": 1998
   },
   {"model_make_id": "volkswagen",
     "model_name": "Routan",
@@ -51661,11 +51251,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.6 Cabriolet",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Transporter",
     "model_trim": "1.9 TDI",
     "model_year": 2006
@@ -51721,11 +51306,6 @@
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.6 Cabriolet",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "2.5 SEL",
     "model_year": 2009
@@ -51739,11 +51319,6 @@
     "model_name": "Citi",
     "model_trim": "Golf 1.8",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Highline",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Citi",
@@ -51782,13 +51357,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 1.8,
+    "model_trim": "Hatchback",
     "model_year": 2001
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2.3,
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -51814,11 +51384,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "Coupe Type 34",
     "model_year": 1970
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Cabriolet",
-    "model_year": 1957
   },
   {"model_make_id": "volkswagen",
     "model_name": "SP2",
@@ -51867,7 +51432,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
@@ -51886,11 +51451,6 @@
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.6 Cabriolet",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Schwimmwagen",
     "model_trim": "",
     "model_year": 1945
@@ -51902,7 +51462,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1975
   },
   {"model_make_id": "volkswagen",
@@ -51941,11 +51501,6 @@
     "model_year": 1943
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi Tiptronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": 1.6,
     "model_year": 1977
@@ -51976,16 +51531,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "RSi",
-    "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.8,
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": "1.8 T Automatic",
     "model_year": 2005
@@ -51994,11 +51539,6 @@
     "model_name": "Iltis",
     "model_trim": "",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -52021,18 +51561,8 @@
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.4 D",
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 D",
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
@@ -52071,19 +51601,9 @@
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "",
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "GT",
     "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "VR5",
-    "model_year": 2000
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -52127,7 +51647,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "Cabriolet",
+    "model_trim": "Hatchback",
     "model_year": 1961
   },
   {"model_make_id": "volkswagen",
@@ -52161,11 +51681,6 @@
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Highline Automatic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "GTI",
     "model_trim": "2.0 T",
     "model_year": 2008
@@ -52182,18 +51697,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": 1100,
+    "model_trim": "Hatchback",
     "model_year": 1946
   },
   {"model_make_id": "volkswagen",
     "model_name": "Derby",
     "model_trim": 1.3,
     "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.9 TDi Cabriolet",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
@@ -52251,11 +51761,6 @@
     "model_year": 1969
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Convertible",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "1.6 FSI Highline",
     "model_year": 2005
@@ -52276,11 +51781,6 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Convertible 1.6",
-    "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Citi",
     "model_trim": "Storm 1.4i",
     "model_year": 2009
@@ -52296,19 +51796,9 @@
     "model_year": 1971
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "GLS 2.0 L",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": "1.9 TDI",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "3.2 V6 4-Motion",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -52329,16 +51819,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "Cabriolet Type 34",
     "model_year": 1974
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.3 V5",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.6,
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -52381,11 +51861,6 @@
     "model_year": 1965
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sharan",
     "model_trim": "",
     "model_year": 2001
@@ -52404,11 +51879,6 @@
     "model_name": 1600,
     "model_trim": "TL",
     "model_year": 1968
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 Automatic",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touran",
@@ -52496,11 +51966,6 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.4 Cabriolet",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Touran",
     "model_trim": "2.0 TDi Highline DSG",
     "model_year": 2009
@@ -52509,11 +51974,6 @@
     "model_name": "Schwimmwagen",
     "model_trim": "",
     "model_year": 1942
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "",
-    "model_year": 2001
   },
   {"model_make_id": "volkswagen",
     "model_name": "Sharan",
@@ -52577,7 +52037,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1952
   },
   {"model_make_id": "volkswagen",
@@ -52594,11 +52054,6 @@
     "model_name": "Multivan",
     "model_trim": "3.2 Comfortline Automatic",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "1.8 Cabriolet",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
@@ -52624,11 +52079,6 @@
     "model_name": "Scirocco",
     "model_trim": "",
     "model_year": 1986
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.5 Cabriolet",
-    "model_year": 1974
   },
   {"model_make_id": "volkswagen",
     "model_name": "Citi",
@@ -52662,7 +52112,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
-    "model_trim": 1.9,
+    "model_trim": "Hatchback",
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
@@ -52696,11 +52146,6 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 1.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "Cabriolet Type 34",
     "model_year": 1968
@@ -52721,11 +52166,6 @@
     "model_year": 1970
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Caravelle",
-    "model_trim": "2.5 TDi",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Corrado",
     "model_trim": "",
     "model_year": 1990
@@ -52739,11 +52179,6 @@
     "model_name": "Jetta",
     "model_trim": "2.0SportWagen SEL",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": 2,
-    "model_year": 1999
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
@@ -61517,22 +60952,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Highline",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Highline Automatic",
+    "model_trim": "Hatchback",
     "model_year": 2010
   },
    {"model_make_id": "cadillac",
@@ -66117,42 +65537,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": 2.5,
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5 PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0T PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0T",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0T Launch Edition PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0T Launch Edition",
+    "model_trim": "Hatchback",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
@@ -68637,22 +68022,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Cabriolet",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Highline",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0 Highline Automatic",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
@@ -68734,16 +68104,6 @@
     "model_name": "Touran",
     "model_trim": "1.4 TSI",
     "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.2 TSI",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.4 TSI",
-    "model_year": 2012
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
@@ -70695,16 +70055,6 @@
     "model_trim": "Automatic",
     "model_year": 1984
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0T Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5 Automatic",
-    "model_year": 2012
-  },
   {"model_make_id": "vauxhall",
     "model_name": "Belmont",
     "model_trim": "1.6 Automatic",
@@ -71354,31 +70704,6 @@
     "model_name": "Monaro",
     "model_trim": "Automatic",
     "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "New Beetle",
-    "model_trim": "2.0 Cabriolet Automatic",
-    "model_year": 2008
   },
   {"model_make_id": "vauxhall",
     "model_name": "Omega",
@@ -74572,112 +73897,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
-    "model_trim": "2.5L",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L w/ Sunroof",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L Fender Edition",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L w/ Sun. Sound & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo w/ Sun. & Sound",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo Fender Edition",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo w/ Sun. Sound & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/ Sunroof",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/ Sun. Sound & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L Convertible",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L Convertible with Technology",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L Convertible with Sound & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L Convertible 50's Edition",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L Convertible 70's Edition",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo Convertible",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo Convertible With Sound",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo Convertible with Sound & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "Turbo Convertible 60's Edition",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI Clean Diesl Convertible",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI Convertible w/ Sound & Nav.",
+    "model_trim": "Hatchback",
     "model_year": 2013
   },
   {"model_make_id": "volkswagen",
@@ -80427,162 +79647,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "GSR 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback w/Sunroof | Sound | Navigation (2.0L Turbo 4c",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L 2dr Hatchback w/Sunroof | Sound | Navigation (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback w/Sunroof | Sound | Navigation (2.0L Tur",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback w/Sunroof | Sound (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L PZEV 2dr Hatchback w/Sunroof (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L PZEV 2dr Hatchback w/Sunroof | Sound | Navigation (2.5L 5cyl",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L 2dr Hatchback (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "GSR 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback w/Sunroof | Sound | Navigation (2.0L Tur",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback w/Sunroof | Sound (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L 2dr Hatchback w/Sunroof (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "GSR PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback w/Sunroof | Sound | Navigation (2.0L 4cyl T",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback w/Sunroof | Sound (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L PZEV 2dr Hatchback w/Sunroof (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L PZEV 2dr Hatchback (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L 2dr Hatchback w/Sunroof (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L PZEV 2dr Hatchback (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L 2dr Hatchback (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L PZEV 2dr Hatchback w/Sunroof | Sound | Navigation (2.5L 5cyl",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.5L 2dr Hatchback w/Sunroof | Sound | Navigation (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "GSR PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback w/Sunroof | Sound | Navigation (2.0L 4cyl T",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback w/Sunroof | Sound | Navigation (2.0L Turbo 4c",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback w/Sunroof | Sound (2.0L Turbo 4cyl 6AM)",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
@@ -86377,147 +85442,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Infiniti",
@@ -87533,46 +86458,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2015
   },
   {"model_make_id": "Nissan",
@@ -93032,147 +91917,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2016
   },
   {"model_make_id": "Infiniti",
@@ -94198,46 +92943,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2016
   },
   {"model_make_id": "Nissan",
@@ -99722,147 +98427,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2017
   },
   {"model_make_id": "Infiniti",
@@ -100883,46 +99448,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -106402,147 +104927,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2018
   },
   {"model_make_id": "Infiniti",
@@ -107568,46 +105953,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -113072,147 +111417,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2019
   },
   {"model_make_id": "Infiniti",
@@ -114238,46 +112443,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -119757,147 +117922,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2020
   },
   {"model_make_id": "Infiniti",
@@ -120918,46 +118943,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -126442,147 +124427,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2021
   },
   {"model_make_id": "Infiniti",
@@ -127603,46 +125448,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -133472,148 +131277,13 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2022
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle",
-    "model_trim": "1.8T 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof 2dr Hatchback (1.8L 4cyl Turbo 5M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T w/Sunroof | Sound | Navigation 2dr Hatchback (1.8L 4cyl Turbo",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "TDI w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Turbod",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "2.0L TDI 2dr Hatchback (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Ha",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV 2dr Hatchback (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0L 4cy",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation | Prod. End 10/14 2dr Hatchba",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Prod. End 10/14 2dr Hatchback (2.0",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "1.8T Classic 2dr Hatchback (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
@@ -134668,46 +132338,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
     "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cyl Tur",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle",
-    "model_trim": "R-Line PZEV w/Sunroof | Sound | Navigation 2dr Hatchback (2.0L 4cy",
     "model_year": 2022
   },
   {"model_make_id": "Nissan",
