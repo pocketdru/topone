@@ -48331,19 +48331,9 @@
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
-    "model_name": 411,
-    "model_trim": 1.7,
-    "model_year": 1972
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
     "model_trim": "Hatchback",
     "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Eurovan",
-    "model_trim": "",
-    "model_year": 1999
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48471,11 +48461,6 @@
     "model_year": 1996
   },
   {"model_make_id": "volkswagen",
-    "model_name": 1303,
-    "model_trim": "",
-    "model_year": 1968
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1966
@@ -48494,11 +48479,6 @@
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 1984
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Schwimmwagen",
-    "model_trim": "",
-    "model_year": 1944
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
@@ -48529,11 +48509,6 @@
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 1994
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 411,
-    "model_trim": 1.7,
-    "model_year": 1970
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -48616,11 +48591,6 @@
     "model_year": 1973
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Schwimmwagen",
-    "model_trim": "",
-    "model_year": 1941
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1979
@@ -48651,11 +48621,6 @@
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Cabriolet",
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1978
@@ -48679,11 +48644,6 @@
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1962
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 411,
-    "model_trim": "",
-    "model_year": 1968
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -48727,23 +48687,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport",
+    "model_trim": "Sedan",
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
     "model_trim": "Sedan",
     "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "W12",
-    "model_trim": "Roadster",
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 4Motion",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -48754,11 +48704,6 @@
     "model_name": "Jetta",
     "model_trim": "Sedan",
     "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Concept C",
-    "model_trim": "",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
@@ -48774,11 +48719,6 @@
     "model_name": "181 Thing",
     "model_trim": "Convertible",
     "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GLI",
-    "model_trim": "2.0T",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -48911,19 +48851,9 @@
     "model_year": 1985
   },
   {"model_make_id": "volkswagen",
-    "model_name": "W12",
-    "model_trim": "Coupe",
-    "model_year": 2001
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Quantum",
     "model_trim": "Sedan",
     "model_year": 1990
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 411,
-    "model_trim": "LE Variant",
-    "model_year": 1970
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
@@ -48936,19 +48866,9 @@
     "model_year": 1980
   },
   {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 Sport",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "Hatchback",
     "model_year": 1974
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -49001,16 +48921,6 @@
     "model_year": 1971
   },
   {"model_make_id": "volkswagen",
-    "model_name": "SP2",
-    "model_trim": "",
-    "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 411,
-    "model_trim": 1.7,
-    "model_year": 1971
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
     "model_trim": "Hatchback",
     "model_year": 2000
@@ -49021,11 +48931,6 @@
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Schwimmwagen",
-    "model_trim": "",
-    "model_year": 1945
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1975
@@ -49034,11 +48939,6 @@
     "model_name": "181 Thing",
     "model_trim": "Convertible",
     "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Schwimmwagen",
-    "model_trim": "",
-    "model_year": 1943
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
@@ -49054,11 +48954,6 @@
     "model_name": "Rabbit",
     "model_trim": "Hatchback",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Type 3 Squareback",
-    "model_trim": "",
-    "model_year": 1970
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -49096,11 +48991,6 @@
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Karmann-Ghia",
-    "model_trim": "1200 Coupe",
-    "model_year": 1955
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "Hatchback",
     "model_year": 1980
@@ -49111,29 +49001,9 @@
     "model_year": 1987
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Sedan",
-    "model_trim": "",
-    "model_year": 1967
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "181 Thing",
     "model_trim": "Convertible",
     "model_year": 1979
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "W12",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Schwimmwagen",
-    "model_trim": "",
-    "model_year": 1942
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 411,
-    "model_trim": "LE",
-    "model_year": 1970
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -49156,19 +49026,9 @@
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
-    "model_name": "W12",
-    "model_trim": "Concept",
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Corrado",
     "model_trim": "Coupe",
     "model_year": 1990
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "W12",
-    "model_trim": "",
-    "model_year": 1999
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
@@ -57037,87 +56897,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
-    "model_trim": "2.0 Sport PZEV",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
-    "model_trim": "2.0 Sport",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury PZEV",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 Sport",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Sport PZEV",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Sport",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 R-Line",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 R-Line PZEV",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury PZEV",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Plus",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Plus PZEV",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Limited",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Limited PZEV",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 4Motion Executive",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
@@ -57819,41 +57604,6 @@
     "model_name": "Captiva",
     "model_trim": "SUV",
     "model_year": 2011
-  },
-   {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Rox 1.4i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Rox 1.6i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Sport 1.4i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Sport 1.6i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Storm 1.4i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Tena1.4i",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Wolf 1.4i",
-    "model_year": 2010
   },
   {"model_make_id": "geely",
     "model_name": "Ck1",
@@ -62147,57 +61897,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
-    "model_trim": "2.0 Sport PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Sport",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 R-Line",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 R-Line PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Plus",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Plus PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Limited",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Luxury Limited PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 4Motion",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
@@ -64286,16 +63986,6 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "1.8 TSI",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 TDI BlueMotion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "Sedan",
     "model_year": 2010
@@ -64303,26 +63993,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "1.8 TSI",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 TDI BlueMotion",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTD",
-    "model_trim": "5 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTD",
-    "model_trim": "3 Door",
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
@@ -64336,43 +64006,8 @@
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "1.8 TSI",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 TDI BlueMotion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTD",
-    "model_trim": "5 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTD",
-    "model_trim": "3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "Sedan",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "up",
-    "model_trim": "Take",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "up",
-    "model_trim": "Move",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "up",
-    "model_trim": "High",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
@@ -66360,16 +65995,6 @@
     "model_trim": "2.4i Automatic",
     "model_year": 2008
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 R-Line Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "2.0 Sport Automatic",
-    "model_year": 2012
-  },
   {"model_make_id": "dodge",
     "model_name": "Charger RT Concept",
     "model_trim": "Automatic",
@@ -67524,11 +67149,6 @@
     "model_name": "Tundra",
     "model_trim": "Regular Cab",
     "model_year": 2003
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Type 3 Squareback",
-    "model_trim": "Automatic",
-    "model_year": 1970
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
@@ -69402,37 +69022,17 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "Lux",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 Lux",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 4MOTION",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
+    "model_year": 2013
+  },
+  {"model_make_id": "volkswagen",
+    "model_name": "Beetle Convertible",
+    "model_trim": "Convertible",
     "model_year": 2013
   },
   {"model_make_id": "volkswagen",
@@ -70407,7 +70007,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Jetta SportWagen",
-    "model_trim": "4dr Wagon (1.8L 4cyl Turbo 6M)",
+    "model_trim": "Wagon",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
@@ -75007,167 +74607,12 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible w/Sound | Navigation (2.0L Turbo 4cyl",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible w/Sound | Navigation (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "2.5L 2dr Convertible w/Sound | Navigation (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "2.5L PZEV 2dr Convertible w/Technology (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "2.5L 2dr Convertible w/Technology (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible w/Sound (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "2.5L 2dr Convertible (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible w/Sound | Navigation (2.0L Turbo 4cyl",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible w/Sound | Navigation (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible w/Sound (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible w/Sound (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "2.5L PZEV 2dr Convertible (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible w/Sound | Navigation (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible w/Sound (2.0L Turbo 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible w/Sound | Navigation (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "2.5L PZEV 2dr Convertible w/Sound | Navigation (2.5L 5cyl 6A)",
+    "model_trim": "Convertible",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "VR6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
@@ -75192,152 +74637,17 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Jetta GLI",
-    "model_trim": "Autobahn 4dr Sedan w/Navigation (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn 4dr Sedan w/Navigation (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn PZEV 4dr Sedan w/Navigation (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta GLI",
-    "model_trim": "Autobahn PZEV 4dr Sedan w/Navigation (2.0L 4cyl Turbo 6AM)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Jetta Hybrid",
-    "model_trim": "SE 4dr Sedan (1.4L 4cyl Turbo gas/electric hybrid 7AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta Hybrid",
-    "model_trim": "SEL Premium 4dr Sedan (1.4L 4cyl Turbo gas/electric hybrid 7AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta Hybrid",
-    "model_trim": "SEL 4dr Sedan (1.4L 4cyl Turbo gas/electric hybrid 7AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta Hybrid",
-    "model_trim": "4dr Sedan (1.4L 4cyl Turbo gas/electric hybrid 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Jetta SportWagen",
-    "model_trim": "TDI 4dr Wagon w/Sunroof | Navigation (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "S 4dr Wagon (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "SE 4dr Wagon (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "SE PZEV 4dr Wagon w/Sunroof (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "SE 4dr Wagon w/Sunroof (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "TDI 4dr Wagon (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "S PZEV 4dr Wagon (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "TDI 4dr Wagon w/Sunroof | Navigation (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "TDI 4dr Wagon w/Sunroof (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "S PZEV 4dr Wagon (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "SE PZEV 4dr Wagon (2.5L 5cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "S 4dr Wagon (2.5L 5cyl 5M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "TDI 4dr Wagon (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Jetta SportWagen",
-    "model_trim": "TDI 4dr Wagon w/Sunroof (2.0L 4cyl Turbodiesel 6M)",
+    "model_trim": "Wagon",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
@@ -75462,7 +74772,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Audi",
@@ -75607,7 +74917,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Lincoln",
@@ -75622,7 +74932,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Mercedes-Benz",
@@ -77343,51 +76653,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -79192,57 +78457,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Honda",
@@ -80427,117 +79642,12 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
+    "model_trim": "Convertible",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Hatchback",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2015
   },
   {"model_make_id": "Lexus",
@@ -81727,7 +80837,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2016
   },
   {"model_make_id": "Audi",
@@ -81892,7 +81002,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2016
   },
   {"model_make_id": "Lincoln",
@@ -81907,7 +81017,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2016
   },
   {"model_make_id": "Mercedes-Benz",
@@ -83633,51 +82743,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
@@ -85452,57 +84517,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Honda",
@@ -86692,52 +85707,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
+    "model_trim": "Convertible",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
@@ -86748,66 +85718,6 @@
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Sedan",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2016
   },
   {"model_make_id": "Lexus",
@@ -88002,7 +86912,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2017
   },
   {"model_make_id": "Audi",
@@ -88172,7 +87082,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2017
   },
   {"model_make_id": "Lincoln",
@@ -88187,7 +87097,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2017
   },
   {"model_make_id": "Mercedes-Benz",
@@ -89913,51 +88823,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
@@ -91737,57 +90602,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Honda",
@@ -92992,52 +91807,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
+    "model_trim": "Convertible",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
@@ -93048,66 +91818,6 @@
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Sedan",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2017
   },
   {"model_make_id": "Lexus",
@@ -94297,7 +93007,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2018
   },
   {"model_make_id": "Audi",
@@ -94462,7 +93172,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2018
   },
   {"model_make_id": "Lincoln",
@@ -94477,7 +93187,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2018
   },
   {"model_make_id": "Mercedes-Benz",
@@ -96213,51 +94923,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
@@ -98032,57 +96697,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Honda",
@@ -99280,56 +97895,6 @@
     "model_trim": "Coupe",
     "model_year": 2018
   },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2018
-  },
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Hatchback",
@@ -99342,62 +97907,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
+    "model_trim": "Convertible",
     "model_year": 2018
   },
   {"model_make_id": "Lexus",
@@ -100592,7 +99102,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2019
   },
   {"model_make_id": "Audi",
@@ -100757,7 +99267,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2019
   },
   {"model_make_id": "Lincoln",
@@ -100772,7 +99282,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2019
   },
   {"model_make_id": "Mercedes-Benz",
@@ -102493,51 +101003,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
@@ -104312,57 +102777,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Honda",
@@ -105562,52 +103977,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
+    "model_trim": "Convertible",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
@@ -105618,66 +103988,6 @@
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2019
   },
   {"model_make_id": "Lexus",
@@ -106872,7 +105182,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2020
   },
   {"model_make_id": "Audi",
@@ -107037,7 +105347,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2020
   },
   {"model_make_id": "Lincoln",
@@ -107052,7 +105362,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2020
   },
   {"model_make_id": "Mercedes-Benz",
@@ -108788,51 +107098,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
@@ -110607,57 +108872,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Honda",
@@ -111857,52 +110072,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
+    "model_trim": "Convertible",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
@@ -111913,66 +110083,6 @@
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2020
   },
   {"model_make_id": "Lexus",
@@ -113162,7 +111272,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2021
   },
   {"model_make_id": "Audi",
@@ -113327,7 +111437,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2021
   },
   {"model_make_id": "Lincoln",
@@ -113342,7 +111452,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2021
   },
   {"model_make_id": "Mercedes-Benz",
@@ -115078,51 +113188,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
@@ -116892,57 +114957,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Honda",
@@ -118152,52 +116167,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
+    "model_trim": "Convertible",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
@@ -118208,66 +116178,6 @@
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2021
   },
   {"model_make_id": "Lexus",
@@ -119467,7 +117377,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2022
   },
   {"model_make_id": "Audi",
@@ -119565,6 +117475,11 @@
     "model_trim": "4dr Wagon (1.8L 4cyl Turbo 5M)",
     "model_year": 2022
   },
+  {"model_make_id": "Volkswagen",
+    "model_name": "Golf SportWagen",
+    "model_trim": "4dr Wagon (1.8L 4cyl Turbo 5M)",
+    "model_year": 2023
+  },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
     "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
@@ -119637,8 +117552,13 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
-    "model_trim": "SEL Premium 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2022
+  },
+  {"model_make_id": "Volkswagen",
+    "model_name": "e-Golf",
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Porsche",
     "model_name": "Macan",
@@ -119657,8 +117577,13 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf R",
-    "model_trim": "4dr Hatchback AWD (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2022
+  },
+  {"model_make_id": "Volkswagen",
+    "model_name": "Golf R",
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Subaru",
     "model_name": "WRX",
@@ -121457,48 +119382,8 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "S 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 2dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "SE 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Golf GTI",
-    "model_trim": "Autobahn 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
@@ -123422,58 +121307,13 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6AM)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
-    "model_trim": "Executive PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Executive 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "V6 4Motion Executive 4dr Sedan AWD (3.6L 6cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "R-Line PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport PZEV 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "CC",
-    "model_trim": "Sport 4dr Sedan (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Honda",
     "model_name": "Accord",
@@ -124812,53 +122652,13 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6A)",
+    "model_trim": "Convertible",
     "model_year": 2022
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV w/Sound | Navigation 2dr Convertible (1.8L 4cyl Turbo 6",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T PZEV 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T w/Technology 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "1.8T 2dr Convertible (1.8L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI 2dr Convertible (2.0L 4cyl Turbodiesel 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "TDI w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbodiesel 6",
-    "model_year": 2022
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Focus",
@@ -124868,66 +122668,6 @@
   {"model_make_id": "Ford",
     "model_name": "Focus",
     "model_trim": "Sedan",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line 2dr Convertible (2.0L Turbo 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV 2dr Convertible (2.0L Turbo 4cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Beetle Convertible",
-    "model_trim": "R-Line PZEV w/Sound | Navigation 2dr Convertible (2.0L 4cyl Turbo",
     "model_year": 2022
   },
   {"model_make_id": "Lexus",
