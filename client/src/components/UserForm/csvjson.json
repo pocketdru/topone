@@ -47887,27 +47887,17 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1975
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Microbus",
-    "model_trim": "2.6 Active",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
@@ -47919,11 +47909,6 @@
     "model_name": "Karmann-Ghia",
     "model_trim": "Convertible",
     "model_year": 1959
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Vento",
-    "model_trim": "2.0 GT",
-    "model_year": 1992
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -47947,7 +47932,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
@@ -47959,11 +47944,6 @@
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDI Trendline",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -47986,21 +47966,6 @@
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Pickup",
-    "model_trim": "1.6 Club",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi Trendline DSG",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Kombi",
-    "model_trim": "2.5 TDi Tiptronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Sedan",
     "model_year": 2006
@@ -48012,37 +47977,17 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 2007
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "2.5 TDI 4Motion Comfortline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "SP2",
-    "model_trim": 1.7,
-    "model_year": 1972
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Pickup",
-    "model_trim": "Sport 1.6",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Fox",
-    "model_trim": "1.4 TDi",
+    "model_trim": "Sedan",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Parati",
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1979
   },
   {"model_make_id": "volkswagen",
@@ -48051,19 +47996,9 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "3.2 4Motion Comfortline",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Sedan",
     "model_year": 1985
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Concept T",
-    "model_trim": "",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
@@ -48081,11 +48016,6 @@
     "model_year": 1971
   },
   {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 1.9 TDi Long",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 1991
@@ -48097,13 +48027,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Routan",
-    "model_trim": "SE",
+    "model_trim": "Minivan",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDI Highline",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Touareg",
@@ -48146,13 +48071,8 @@
     "model_year": 1960
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Golf Chico 1.4",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Fox",
-    "model_trim": 1.2,
+    "model_trim": "Sedan",
     "model_year": 2006
   },
   {"model_make_id": "volkswagen",
@@ -48161,24 +48081,14 @@
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
-    "model_name": "LT 35 HR Panel Van",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1984
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 1985
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 FSI Highline",
-    "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48202,12 +48112,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": 1.6,
+    "model_trim": "Hatchback",
     "model_year": 1968
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "S",
+    "model_trim": "Hatchback",
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
@@ -48219,11 +48129,6 @@
     "model_name": "Phaeton",
     "model_trim": "Sedan",
     "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Gol",
-    "model_trim": "II",
-    "model_year": 1997
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48244,11 +48149,6 @@
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi Highline",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
@@ -48276,21 +48176,6 @@
     "model_year": 2001
   },
   {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 1.9TDi",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Fusca",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
     "model_trim": "Convertible",
     "model_year": 1970
@@ -48299,11 +48184,6 @@
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Trendline",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -48341,13 +48221,13 @@
     "model_year": 1988
   },
   {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1980
   },
   {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1991
   },
   {"model_make_id": "volkswagen",
@@ -48357,17 +48237,17 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "1.8 T",
+    "model_trim": "Hatchback",
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
     "model_name": "Fox",
-    "model_trim": "1.4 TDI",
+    "model_trim": "Sedan",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1983
   },
   {"model_make_id": "volkswagen",
@@ -48387,7 +48267,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "2.0 SEL",
+    "model_trim": "SUV",
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
@@ -48451,18 +48331,13 @@
     "model_year": 1998
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "1.6 Ritz",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 411,
     "model_trim": 1.7,
     "model_year": 1972
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1975
   },
   {"model_make_id": "volkswagen",
@@ -48477,28 +48352,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Gol",
-    "model_trim": "II",
-    "model_year": 1994
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
     "model_trim": "Sedan",
     "model_year": 1974
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "3.2 Comfortline Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 FSI Trendline",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -48507,23 +48367,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "1.4 TSI",
+    "model_trim": "SUV",
     "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": 1.6,
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Santana",
-    "model_trim": "GX",
-    "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Transporter",
-    "model_trim": "1.9 Crew Bus",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48532,7 +48377,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1969
   },
   {"model_make_id": "volkswagen",
@@ -48542,23 +48387,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1988
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Iltis",
-    "model_trim": "",
-    "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Santana",
-    "model_trim": "LX",
-    "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDI Trendline DSG",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle Convertible",
@@ -48571,29 +48401,9 @@
     "model_year": 2004
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Santana",
-    "model_trim": "CX",
-    "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TSi",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1948
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Corrado",
-    "model_trim": 2.9,
-    "model_year": 1991
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "1.9 TDI",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -48602,12 +48412,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1988
   },
   {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": "VR6",
+    "model_trim": "Coupe",
     "model_year": 1992
   },
   {"model_make_id": "volkswagen",
@@ -48622,7 +48432,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": 2.9,
+    "model_trim": "Coupe",
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
@@ -48641,29 +48451,14 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "2.0 Comfortline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1994
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Sedan",
     "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Rhythm 1.4",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Gol",
-    "model_trim": "II",
-    "model_year": 1995
   },
   {"model_make_id": "volkswagen",
     "model_name": "New Beetle",
@@ -48676,19 +48471,9 @@
     "model_year": 1996
   },
   {"model_make_id": "volkswagen",
-    "model_name": "1 Litre",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1303,
     "model_trim": "",
     "model_year": 1968
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 1500,
-    "model_trim": "",
-    "model_year": 1963
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -48699,16 +48484,6 @@
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1951
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 FSI Trendline",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Magellan",
-    "model_trim": "",
-    "model_year": 2002
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -48747,7 +48522,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
@@ -48762,13 +48537,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1991
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Vento",
-    "model_trim": "1.8 GL",
-    "model_year": 1992
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48781,24 +48551,14 @@
     "model_year": 1982
   },
   {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1972
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "SP",
-    "model_trim": 2,
-    "model_year": 1974
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Pickup",
-    "model_trim": 1.6,
-    "model_year": 2007
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -48811,29 +48571,14 @@
     "model_year": 1981
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "3.2 4Motion Comfortline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Golf",
     "model_trim": "Hatchback",
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
-    "model_name": "K 70",
-    "model_trim": "",
-    "model_year": 1971
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": 1.8,
+    "model_trim": "Coupe",
     "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Fox",
-    "model_trim": "1.4 TDI",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -48842,7 +48587,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": 1.6,
+    "model_trim": "Hatchback",
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
@@ -48862,18 +48607,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Wolf 1.4i",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 EcoFuel",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -48896,8 +48631,8 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1974
   },
   {"model_make_id": "volkswagen",
@@ -48911,14 +48646,9 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Fox",
-    "model_trim": 1.2,
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Cabriolet",
@@ -48926,29 +48656,9 @@
     "model_year": 1996
   },
   {"model_make_id": "volkswagen",
-    "model_name": "SP2",
-    "model_trim": "",
-    "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 1303,
-    "model_trim": 1.5,
-    "model_year": 1967
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "AAC",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -48961,13 +48671,8 @@
     "model_year": 2000
   },
   {"model_make_id": "volkswagen",
-    "model_name": "SP2",
-    "model_trim": "",
-    "model_year": 1972
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1970
   },
   {"model_make_id": "volkswagen",
@@ -48981,24 +48686,9 @@
     "model_year": 1968
   },
   {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 2.5 TDi Long",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "1.9 TDI Comfortline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
@@ -49006,44 +48696,9 @@
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "3.2 Comfortline Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Golf 1.4i",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "2.5 TDI 4Motion Comfortline",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1950
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDI DSG",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Microbus",
-    "model_trim": "",
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi Trendline DSG",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -49052,33 +48707,18 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1995
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Chico 1.4",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "3.2 4Motion Comfortline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": 1.8,
+    "model_trim": "Hatchback",
     "model_year": 1982
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1972
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Fox",
-    "model_trim": 1.4,
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Passat",
@@ -49091,13 +48731,8 @@
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Santana",
-    "model_trim": "GX Turbodiesel",
-    "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
@@ -49106,34 +48741,9 @@
     "model_year": 1997
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Commercial",
-    "model_trim": "LT 2.5 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "",
-    "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Microbus",
-    "model_trim": "",
-    "model_year": 1998
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "CC",
     "model_trim": "VR6 4Motion",
     "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Iltis",
-    "model_trim": "",
-    "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 1500,
-    "model_trim": "Cabriolet",
-    "model_year": 1965
   },
   {"model_make_id": "volkswagen",
     "model_name": "Jetta",
@@ -49161,24 +48771,9 @@
     "model_year": 2001
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDI",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "2.5 TDI",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Parati",
-    "model_trim": "",
-    "model_year": 1997
   },
   {"model_make_id": "volkswagen",
     "model_name": "GLI",
@@ -49191,24 +48786,9 @@
     "model_year": 1972
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 FSI",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Sedan",
     "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Microbus",
-    "model_trim": "",
-    "model_year": 2001
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -49222,38 +48802,18 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1973
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Sport 1.6i",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": 2.9,
+    "model_trim": "Coupe",
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Vento",
-    "model_trim": "1.9 Turbodiesel CL",
-    "model_year": 1992
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Derby",
-    "model_trim": "",
-    "model_year": 1979
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2001
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 Conceptline",
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
@@ -49262,13 +48822,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": 2.9,
+    "model_trim": "Coupe",
     "model_year": 1994
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "3.2 Comfortline",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -49276,38 +48831,13 @@
     "model_year": 1947
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Corrado",
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Jetta",
     "model_trim": "Sedan",
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
-    "model_name": 1500,
-    "model_trim": "Cabriolet",
-    "model_year": 1961
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "1.4 TSi",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "2.5 TDI 4Motion",
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi 4Motion",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1971
   },
   {"model_make_id": "volkswagen",
@@ -49322,17 +48852,17 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1979
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1977
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1981
   },
   {"model_make_id": "volkswagen",
@@ -49351,23 +48881,8 @@
     "model_year": 2003
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": 1.6,
-    "model_year": 1976
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Corrado",
-    "model_trim": 2,
-    "model_year": 1994
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 SE",
+    "model_trim": "Hatchback",
     "model_year": 2009
   },
   {"model_make_id": "volkswagen",
@@ -49377,7 +48892,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "VR 6",
+    "model_trim": "Hatchback",
     "model_year": 2005
   },
   {"model_make_id": "volkswagen",
@@ -49396,33 +48911,13 @@
     "model_year": 1985
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Corrado",
-    "model_trim": "",
-    "model_year": 1992
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Santana",
-    "model_trim": "GX Automatic",
-    "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 FSI Highline",
-    "model_year": 2004
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Vento",
-    "model_trim": "1.6 CL",
-    "model_year": 1992
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "W12",
     "model_trim": "Coupe",
     "model_year": 2001
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1990
   },
   {"model_make_id": "volkswagen",
@@ -49432,18 +48927,13 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1978
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "1.6 D",
+    "model_trim": "Hatchback",
     "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Pickup",
-    "model_trim": 1.6,
-    "model_year": 2006
   },
   {"model_make_id": "volkswagen",
     "model_name": "CC",
@@ -49466,54 +48956,14 @@
     "model_year": 1965
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Kombi",
-    "model_trim": "1.9 TDi",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "K 70",
-    "model_trim": 1.6,
-    "model_year": 1970
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1957
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi Trendline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Fox",
-    "model_trim": 1.2,
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 1500,
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1976
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 FSi Trendline",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "2.0T Coupe",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "S RSE",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Karmann-Ghia",
@@ -49526,18 +48976,13 @@
     "model_year": 1989
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Fox",
-    "model_trim": 1.4,
-    "model_year": 2005
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1976
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1996
   },
   {"model_make_id": "volkswagen",
@@ -49552,7 +48997,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1971
   },
   {"model_make_id": "volkswagen",
@@ -49572,7 +49017,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1993
   },
   {"model_make_id": "volkswagen",
@@ -49586,19 +49031,9 @@
     "model_year": 1975
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "S",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 S",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Schwimmwagen",
@@ -49607,23 +49042,8 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Quantum",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1992
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Gol",
-    "model_trim": "II",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Iltis",
-    "model_trim": "",
-    "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": 1.7,
-    "model_year": 1981
   },
   {"model_make_id": "volkswagen",
     "model_name": "Beetle",
@@ -49632,7 +49052,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "S",
+    "model_trim": "Hatchback",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -49641,43 +49061,18 @@
     "model_year": 1970
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Microbus",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1961
   },
   {"model_make_id": "volkswagen",
-    "model_name": "SP2",
-    "model_trim": "",
-    "model_year": 1976
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1970
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Parati",
-    "model_trim": "",
-    "model_year": 1995
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "2.0 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Fox",
-    "model_trim": 1.4,
+    "model_trim": "Hatchback",
     "model_year": 2008
   },
   {"model_make_id": "volkswagen",
@@ -49686,34 +49081,14 @@
     "model_year": 1946
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Derby",
-    "model_trim": 1.3,
-    "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1967
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Parati",
-    "model_trim": "",
-    "model_year": 1994
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "2.0T Sedan",
-    "model_year": 2009
   },
   {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "Hatchback",
     "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.5 D",
-    "model_year": 1977
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -49726,44 +49101,9 @@
     "model_year": 1955
   },
   {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi 4Motion",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Storm 1.4i",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Parati",
-    "model_trim": "",
-    "model_year": 1998
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Parati",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Scirocco",
     "model_trim": "Hatchback",
     "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "2.0 Trendline",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 FSI Highline",
-    "model_year": 2005
   },
   {"model_make_id": "volkswagen",
     "model_name": "Golf",
@@ -49771,39 +49111,14 @@
     "model_year": 1987
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "1.8i R",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Sedan",
     "model_trim": "",
     "model_year": 1967
   },
   {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1979
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Citi",
-    "model_trim": "Velo1.6i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "K 70",
-    "model_trim": 1.8,
-    "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Multivan",
-    "model_trim": "1.9 TDi Comfortline",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": "W12",
@@ -49811,34 +49126,9 @@
     "model_year": 2002
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline DSG",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Schwimmwagen",
     "model_trim": "",
     "model_year": 1942
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Microbus",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Gol",
-    "model_trim": "II",
-    "model_year": 1998
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDI Trendline",
-    "model_year": 2006
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Transporter",
-    "model_trim": "2.5TDi",
-    "model_year": 2008
   },
   {"model_make_id": "volkswagen",
     "model_name": 411,
@@ -49846,28 +49136,18 @@
     "model_year": 1970
   },
   {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "2.0T Sedan PZEV",
-    "model_year": 2009
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "Beetle",
     "model_trim": "Hatchback",
     "model_year": 1952
   },
   {"model_make_id": "volkswagen",
-    "model_name": 1303,
-    "model_trim": "",
-    "model_year": 1973
-  },
-  {"model_make_id": "volkswagen",
     "model_name": 1302,
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 1980
   },
   {"model_make_id": "volkswagen",
-    "model_name": 181,
-    "model_trim": "",
+    "model_name": "181 Thing",
+    "model_trim": "Convertible",
     "model_year": 1969
   },
   {"model_make_id": "volkswagen",
@@ -49882,7 +49162,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Corrado",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1990
   },
   {"model_make_id": "volkswagen",
@@ -57862,32 +57142,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "PZEV",
+    "model_trim": "Hatchback",
     "model_year": 2010
   },
   {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "PZEV",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn PZEV",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
@@ -57907,122 +57167,22 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Routan",
-    "model_trim": "S",
+    "model_trim": "Minivan",
     "model_year": 2010
   },
   {"model_make_id": "volkswagen",
     "model_name": "Routan",
-    "model_trim": "SE",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL CARB",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL Premium",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL Premium CARB",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "S",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SE",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL Premium",
+    "model_trim": "Minivan",
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "S",
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "S 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "Wolfsburg Edition",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "Wolfsburg Edition 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion",
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
@@ -59472,12 +58632,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "S",
+    "model_trim": "Hatchback",
     "model_year": 2010
   },
   {"model_make_id": "volkswagen",
     "model_name": "Rabbit",
-    "model_trim": "S",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "chevrolet",
@@ -59735,76 +58895,6 @@
     "model_trim": "Hatchback",
     "model_year": 2011
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 1.9TDi",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi 4Motion",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 1.9 TDi Long",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 2.5 TDi Long",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 1.9TDi",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi 4Motion",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi 4Motion",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 1.9 TDi Long",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 2.5 TDi Long",
-    "model_year": 2011
-  },
   {"model_make_id": "toyota",
     "model_name": "Tacoma",
     "model_trim": "Crew Cab Long Bed",
@@ -59873,46 +58963,6 @@
   {"model_make_id": "nissan",
     "model_name": "Titan",
     "model_trim": "Extended Cab",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": 1.2,
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 TDi",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline DSG",
-    "model_year": 2010
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": 1.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 TDi",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline DSG",
     "model_year": 2011
   },
   {"model_make_id": "toyota",
@@ -63167,22 +62217,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "3 Door PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn 3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn 3 Door PZEV",
+    "model_trim": "Hatchback",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
@@ -63192,47 +62227,12 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Routan",
-    "model_trim": "S",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SE",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Routan",
-    "model_trim": "SEL Premium",
+    "model_trim": "Minivan",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "2.0 S 4Motion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 SE",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 SE 4Motion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 SEL",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 SEL 4Motion",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
@@ -64345,61 +63345,6 @@
     "model_trim": "Hatchback",
     "model_year": 2012
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 1.9TDi",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Beach 2.5TDi 4Motion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "California 2.5TDi 4Motion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 1.9 TDi Long",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "T5",
-    "model_trim": "Kombi 2.5 TDi Long",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": 1.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.6 TDi",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Highline DSG",
-    "model_year": 2012
-  },
   {"model_make_id": "zenvo",
     "model_name": "ST1",
     "model_trim": "",
@@ -65391,11 +64336,6 @@
     "model_year": 2011
   },
   {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.4 TSI",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
     "model_name": "CC",
     "model_trim": "1.8 TSI",
     "model_year": 2012
@@ -65403,36 +64343,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "CC",
     "model_trim": "2.0 TDI BlueMotion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Edition 35 5 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Edition 35 3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn 5 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn 5 Door PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "5 Door PZEV",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "5 Door",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
@@ -65448,11 +64358,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "Sedan",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.4 TSI",
     "model_year": 2012
   },
   {"model_make_id": "volkswagen",
@@ -65843,31 +64748,6 @@
   {"model_make_id": "volvo",
     "model_name": "XC90",
     "model_trim": "D5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 TDI 2WD",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "1.4 TSI 4Motion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 TDI 4Motion",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "1.4 TSI 2WD",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 S",
     "model_year": 2012
   },
   {"model_make_id": "ford",
@@ -67590,26 +66470,6 @@
     "model_trim": "Extended Cab",
     "model_year": 2005
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "3 Door Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "5 Door Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn 3 Door Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Autobahn 5 Door Automatic",
-    "model_year": 2012
-  },
   {"model_make_id": "talbot",
     "model_name": "Horizon",
     "model_trim": "1.4 Automatic",
@@ -67919,146 +66779,6 @@
     "model_name": "Q3",
     "model_trim": "2.0T Automatic",
     "model_year": 2012
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1988
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1989
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1990
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1991
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1992
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1993
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1994
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1995
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1996
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1997
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Quantum",
-    "model_trim": "Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1975
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.6 Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.5 D Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.6 Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1978
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1979
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.6 D Automatic",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1980
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.7 Automatic",
-    "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1981
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "1.8 Automatic",
-    "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1982
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1983
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Rabbit",
-    "model_trim": "Automatic",
-    "model_year": 1984
   },
   {"model_make_id": "dodge",
     "model_name": "Ram",
@@ -68770,16 +67490,6 @@
     "model_trim": "2.7 Automatic",
     "model_year": 1980
   },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S Automatic",
-    "model_year": 2011
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "2.0 S Automatic",
-    "model_year": 2012
-  },
   {"model_make_id": "seat",
     "model_name": "Toledo",
     "model_trim": "1.8 Automatic",
@@ -68808,26 +67518,6 @@
   {"model_make_id": "seat",
     "model_name": "Toledo",
     "model_trim": "2.0 TDi Stylance Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.4 TSi Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "1.9 TDi Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Touran",
-    "model_trim": "2.0 TDi Automatic",
     "model_year": 2008
   },
   {"model_make_id": "toyota",
@@ -70752,42 +69442,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "GTI",
-    "model_trim": "2-Door",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "4-Door",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "2-Door w/ Convenience& Sunroof",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "4-Door w/ Convenience & Sunroof",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "2-Door w/ Sunroof & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "4-Door w/ Sunroof & Nav.",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "2-Door Autobahn",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "GTI",
-    "model_trim": "4-Door Autobahn",
+    "model_trim": "Hatchback",
     "model_year": 2013
   },
   {"model_make_id": "volkswagen",
@@ -70807,27 +69462,7 @@
   },
   {"model_make_id": "volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "S",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S with Sunroof",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE with Sunroof & Nav",
-    "model_year": 2013
-  },
-  {"model_make_id": "volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "volkswagen",
@@ -71767,7 +70402,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "GTI",
-    "model_trim": "2dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Volkswagen",
@@ -76547,22 +75182,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "GTI",
-    "model_trim": "Wolfsburg Edition 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Wolfsburg Edition 4dr Hatchback (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Driver's Edition 4dr Hatchback (2.0L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "GTI",
-    "model_trim": "Driver's Edition 4dr Hatchback (2.0L 4cyl Turbo 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
@@ -76727,57 +75347,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Volkswagen",
@@ -80712,52 +79282,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "Kia",
@@ -87017,52 +85542,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "Kia",
@@ -93362,52 +91842,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "Kia",
@@ -99702,52 +98137,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "Kia",
@@ -106027,52 +104417,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "Kia",
@@ -112367,52 +110712,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "Kia",
@@ -118697,52 +116997,7 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "Kia",
@@ -125277,53 +123532,13 @@
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2022
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
-    "model_trim": "SEL 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "S 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4Motion 4dr SUV AWD w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "SE 4dr SUV w/Appearance (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volkswagen",
-    "model_name": "Tiguan",
-    "model_trim": "R-Line 4Motion 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Cadenza",
