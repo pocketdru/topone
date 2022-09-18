@@ -49421,11 +49421,6 @@
     "model_year": 2007
   },
   {"model_make_id": "volvo",
-    "model_name": "PV",
-    "model_trim": "",
-    "model_year": 1941
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
     "model_trim": "Sedan",
     "model_year": 1996
@@ -49444,11 +49439,6 @@
     "model_name": 240,
     "model_trim": "Sedan",
     "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "",
-    "model_year": 1977
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
@@ -49502,7 +49492,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": 3,
+    "model_trim": "Sedan",
     "model_year": 1972
   },
   {"model_make_id": "volvo",
@@ -49546,24 +49536,9 @@
     "model_year": 1996
   },
   {"model_make_id": "volvo",
-    "model_name": "SCC",
-    "model_trim": "Concept",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
     "model_name": 740,
     "model_trim": "Sedan",
     "model_year": 1983
-  },
-  {"model_make_id": "volvo",
-    "model_name": "PV 60",
-    "model_trim": "",
-    "model_year": 1948
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "",
-    "model_year": 1978
   },
   {"model_make_id": "volvo",
     "model_name": "P 1900",
@@ -49589,11 +49564,6 @@
     "model_name": 260,
     "model_trim": "Wagon",
     "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": 144,
-    "model_trim": "GL",
-    "model_year": 1966
   },
   {"model_make_id": "volvo",
     "model_name": 245,
@@ -49636,11 +49606,6 @@
     "model_year": 2005
   },
   {"model_make_id": "volvo",
-    "model_name": 140,
-    "model_trim": "",
-    "model_year": 1974
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
     "model_trim": "Sedan",
     "model_year": 2000
@@ -49651,16 +49616,6 @@
     "model_year": 1988
   },
   {"model_make_id": "volvo",
-    "model_name": 940,
-    "model_trim": "Turbo",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": 144,
-    "model_trim": "S",
-    "model_year": 1966
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
     "model_trim": "Sedan",
     "model_year": 1997
@@ -49669,11 +49624,6 @@
     "model_name": "S80",
     "model_trim": "Sedan",
     "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "Hatric",
-    "model_trim": "",
-    "model_year": 2001
   },
   {"model_make_id": "volvo",
     "model_name": 245,
@@ -49691,11 +49641,6 @@
     "model_year": 1980
   },
   {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
     "model_name": 245,
     "model_trim": "Wagon",
     "model_year": 1985
@@ -49707,7 +49652,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1971
   },
   {"model_make_id": "volvo",
@@ -49717,7 +49662,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": 1800,
-    "model_trim": "ES 2.0",
+    "model_trim": "Coupe",
     "model_year": 1972
   },
   {"model_make_id": "volvo",
@@ -49729,11 +49674,6 @@
     "model_name": 240,
     "model_trim": "Sedan",
     "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "",
-    "model_year": 1981
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
@@ -49762,7 +49702,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "TE",
+    "model_trim": "Sedan",
     "model_year": 1978
   },
   {"model_make_id": "volvo",
@@ -49774,11 +49714,6 @@
     "model_name": "S90",
     "model_trim": "Sedan",
     "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": 140,
-    "model_trim": 2.1,
-    "model_year": 1974
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
@@ -49796,18 +49731,13 @@
     "model_year": 1991
   },
   {"model_make_id": "volvo",
-    "model_name": 140,
-    "model_trim": "",
-    "model_year": 1970
-  },
-  {"model_make_id": "volvo",
     "model_name": 850,
     "model_trim": "Sedan",
     "model_year": 1993
   },
   {"model_make_id": "volvo",
     "model_name": 1800,
-    "model_trim": "ES",
+    "model_trim": "Coupe",
     "model_year": 1973
   },
   {"model_make_id": "volvo",
@@ -49832,18 +49762,13 @@
   },
   {"model_make_id": "volvo",
     "model_name": 264,
-    "model_trim": "GL",
+    "model_trim": "Sedan",
     "model_year": 1978
   },
   {"model_make_id": "volvo",
     "model_name": 265,
     "model_trim": "Wagon",
     "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "Automatic",
-    "model_year": 1974
   },
   {"model_make_id": "volvo",
     "model_name": 740,
@@ -49891,16 +49816,6 @@
     "model_year": 1999
   },
   {"model_make_id": "volvo",
-    "model_name": "PV 60",
-    "model_trim": "",
-    "model_year": 1947
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "",
-    "model_year": 1976
-  },
-  {"model_make_id": "volvo",
     "model_name": 760,
     "model_trim": "Sedan",
     "model_year": 1983
@@ -49909,16 +49824,6 @@
     "model_name": 240,
     "model_trim": "Sedan",
     "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": 2,
-    "model_year": 1981
-  },
-  {"model_make_id": "volvo",
-    "model_name": 140,
-    "model_trim": "",
-    "model_year": 1971
   },
   {"model_make_id": "volvo",
     "model_name": "S70",
@@ -49956,19 +49861,9 @@
     "model_year": 1991
   },
   {"model_make_id": "volvo",
-    "model_name": 140,
-    "model_trim": 2,
-    "model_year": 1974
-  },
-  {"model_make_id": "volvo",
     "model_name": "V70",
     "model_trim": "Wagon",
     "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": 1800,
-    "model_trim": "ES",
-    "model_year": 1972
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
@@ -49991,13 +49886,8 @@
     "model_year": 1963
   },
   {"model_make_id": "volvo",
-    "model_name": "YCC",
-    "model_trim": "Concept",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1974
   },
   {"model_make_id": "volvo",
@@ -50012,13 +49902,8 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1969
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": 1.4,
-    "model_year": 1979
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
@@ -50026,13 +49911,8 @@
     "model_year": 1999
   },
   {"model_make_id": "volvo",
-    "model_name": 264,
-    "model_trim": "GL Estate",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "TE",
+    "model_trim": "Sedan",
     "model_year": 1977
   },
   {"model_make_id": "volvo",
@@ -50047,7 +49927,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "TE",
+    "model_trim": "Sedan",
     "model_year": 1979
   },
   {"model_make_id": "volvo",
@@ -50062,27 +49942,12 @@
   },
   {"model_make_id": "volvo",
     "model_name": 264,
-    "model_trim": "GL",
+    "model_trim": "Sedan",
     "model_year": 1975
   },
   {"model_make_id": "volvo",
-    "model_name": "PV 60",
-    "model_trim": "",
-    "model_year": 1949
-  },
-  {"model_make_id": "volvo",
-    "model_name": 940,
-    "model_trim": "S",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": 343,
-    "model_trim": "",
-    "model_year": 1974
-  },
-  {"model_make_id": "volvo",
     "model_name": 1800,
-    "model_trim": "E",
+    "model_trim": "Coupe",
     "model_year": 1969
   },
   {"model_make_id": "volvo",
@@ -50106,21 +49971,6 @@
     "model_year": 2000
   },
   {"model_make_id": "volvo",
-    "model_name": "PV 544 1.8",
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "volvo",
-    "model_name": 122,
-    "model_trim": "S",
-    "model_year": 1965
-  },
-  {"model_make_id": "volvo",
-    "model_name": 242,
-    "model_trim": "",
-    "model_year": 1986
-  },
-  {"model_make_id": "volvo",
     "model_name": "S70",
     "model_trim": "Sedan",
     "model_year": 2000
@@ -50142,13 +49992,8 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1973
-  },
-  {"model_make_id": "volvo",
-    "model_name": 140,
-    "model_trim": "",
-    "model_year": 1972
   },
   {"model_make_id": "volvo",
     "model_name": 265,
@@ -50157,13 +50002,8 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1970
-  },
-  {"model_make_id": "volvo",
-    "model_name": "PV 60",
-    "model_trim": "",
-    "model_year": 1946
   },
   {"model_make_id": "volvo",
     "model_name": 240,
@@ -50177,7 +50017,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": 164,
-    "model_trim": "TE",
+    "model_trim": "Sedan",
     "model_year": 1980
   },
   {"model_make_id": "wartburg",
@@ -53892,37 +53732,12 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC60",
-    "model_trim": 3.2,
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "XC60",
-    "model_trim": "T6",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": 3.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 R-Design",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design",
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
@@ -58732,17 +58547,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC60",
-    "model_trim": 3.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
@@ -60748,51 +60553,6 @@
   {"model_make_id": "volkswagen",
     "model_name": "Phaeton",
     "model_trim": "Sedan",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "DRIVe",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "D3",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "D5",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "DRIVe",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "D5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "DRIVe",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "D5",
     "model_year": 2012
   },
   {"model_make_id": "ford",
@@ -64562,87 +64322,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC60",
-    "model_trim": 3.2,
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 Premier",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 AWD",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 AWD Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 AWD Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": 3.2,
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": "3.2 Premier",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": "3.2 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": "3.2 Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": "T6 AWD",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": "T6 AWD Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "X670",
-    "model_trim": "T6 AWD Platinum",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "volvo",
@@ -65142,7 +64822,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 4dr Wagon (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2015
   },
   {"model_make_id": "Acura",
@@ -69807,17 +69487,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV (3.2L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Volvo",
@@ -70010,11 +69680,6 @@
     "model_trim": "SUV",
     "model_year": 2015
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Honda",
     "model_name": "Fit",
     "model_trim": "Hatchback",
@@ -70157,32 +69822,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
@@ -70193,16 +69838,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
@@ -72303,11 +71938,6 @@
   {"model_make_id": "Audi",
     "model_name": "S5",
     "model_trim": "2dr Convertible AWD",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Audi",
@@ -73440,21 +73070,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2015
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -73513,26 +73128,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord",
     "model_trim": "Coupe",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Volkswagen",
@@ -75667,12 +75262,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2015
   },
   {"model_make_id": "Nissan",
@@ -76022,7 +75612,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2016
   },
   {"model_make_id": "Honda",
@@ -76172,32 +75762,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
@@ -76208,16 +75778,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Volvo",
@@ -78320,11 +77880,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2016
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -79425,21 +78980,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2016
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -79498,26 +79038,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord",
     "model_trim": "Coupe",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Volkswagen",
@@ -81667,12 +81187,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2016
   },
   {"model_make_id": "Nissan",
@@ -82027,7 +81542,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2017
   },
   {"model_make_id": "Honda",
@@ -82172,32 +81687,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
@@ -82208,16 +81703,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Volvo",
@@ -84325,11 +83810,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2017
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -85435,21 +84915,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2017
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -85523,26 +84988,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
     "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Volkswagen",
@@ -87687,12 +87132,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -88042,7 +87482,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2018
   },
   {"model_make_id": "Honda",
@@ -88192,32 +87632,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
@@ -88228,16 +87648,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Volvo",
@@ -90350,11 +89760,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2018
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -91455,21 +90860,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2018
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -91543,26 +90933,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
     "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Volkswagen",
@@ -93707,12 +93077,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -94062,7 +93427,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2019
   },
   {"model_make_id": "Honda",
@@ -94212,32 +93577,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
@@ -94248,16 +93593,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Volvo",
@@ -96355,11 +95690,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2019
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -97460,21 +96790,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2019
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -97548,26 +96863,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
     "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Volkswagen",
@@ -99712,12 +99007,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -100067,7 +99357,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2020
   },
   {"model_make_id": "Honda",
@@ -100217,32 +99507,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
@@ -100253,16 +99523,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Volvo",
@@ -102375,11 +101635,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2020
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -103480,21 +102735,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2020
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -103568,26 +102808,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
     "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Volkswagen",
@@ -105727,12 +104947,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -106082,7 +105297,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2021
   },
   {"model_make_id": "Honda",
@@ -106232,32 +105447,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
@@ -106268,16 +105463,6 @@
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
     "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Volvo",
@@ -108390,11 +107575,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2021
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -109490,21 +108670,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2021
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -109578,26 +108743,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
     "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Volkswagen",
@@ -111747,12 +110892,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -112122,7 +111262,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2022
   },
   {"model_make_id": "Honda",
@@ -112297,18 +111437,13 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2022
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "3.2 4dr SUV AWD w/Prod. End 6/14 (3.2L 6cyl 6A)",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
@@ -112319,16 +111454,6 @@
     "model_name": "S60",
     "model_trim": "Sedan",
     "model_year": 2023
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
@@ -112342,13 +111467,8 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
@@ -114575,11 +113695,6 @@
     "model_trim": "2dr Convertible AWD",
     "model_year": 2022
   },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 4dr SUV AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
     "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
@@ -115770,21 +114885,6 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2022
   },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "V60",
-    "model_trim": "T6 R-Design 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
     "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
@@ -115873,26 +114973,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
     "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T5 Drive-E 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 Drive-E 4dr SUV (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC60",
-    "model_trim": "T6 R-Design 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Volkswagen",
@@ -118222,13 +117302,13 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2022
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
-    "model_trim": "T5 Platinum 4dr Wagon AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
