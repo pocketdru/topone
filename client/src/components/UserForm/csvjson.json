@@ -49032,713 +49032,393 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "V8",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "T6 AWD Long",
+    "model_trim": "SUV",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "2.4i",
+    "model_trim": "Wagon",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "2.4i",
+    "model_trim": "Wagon",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": 2.4,
+    "model_trim": "Sedan",
     "model_year": 2001
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "2.0 T",
+    "model_trim": "Sedan",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "2.3 T5 Comfort",
+    "model_trim": "Sedan",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1987
-  },
-  {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "2.4 T",
+    "model_trim": "Wagon",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "3.0 T6 Geartronic",
+    "model_trim": "Sedan",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1960
   },
   {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1966
   },
   {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
     "model_name": "V90",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1997
   },
   {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": "2.4 D5 AWD Kinetic",
+    "model_trim": "Wagon",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": 145,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1968
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "2.5 T 4WD Kinetic",
+    "model_trim": "Sedan",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "2.5 T AWD Kinetic",
+    "model_trim": "Sedan",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
-    "model_name": "PV 801-10",
-    "model_trim": "",
-    "model_year": 1942
-  },
-  {"model_make_id": "volvo",
     "model_name": 850,
-    "model_trim": "Break 2.5 D",
+    "model_trim": "Sedan",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
     "model_name": 244,
-    "model_trim": "GLE Automatic",
+    "model_trim": "Sedan",
     "model_year": 1974
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "DRIVe",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5",
+    "model_trim": "Wagon",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "2.4 T5 Automatic",
+    "model_trim": "Sedan",
     "model_year": 2003
   },
   {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "2.5 D",
+    "model_trim": "Wagon",
     "model_year": 2000
   },
   {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": 1.6,
+    "model_trim": "Wagon",
     "model_year": 2000
   },
   {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": "Cross Country",
+    "model_trim": "Wagon",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "2.5 T 4WD",
+    "model_trim": "Sedan",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "2.4 Bi-Fuel CNG Automatic",
+    "model_trim": "Sedan",
     "model_year": 2000
   },
   {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1993
   },
   {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "GLE Estate",
+    "model_trim": "Wagon",
     "model_year": 1974
   },
   {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1975
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "2.4 D5 Kinetic",
+    "model_trim": "SUV",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "2.4 T",
+    "model_trim": "Convertible",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "2.4 T Cabriolet Comfort",
+    "model_trim": "Convertible",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "1.9 D",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1987
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "1.6 D",
+    "model_trim": "Wagon",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "R Automatic",
+    "model_trim": "Sedan",
     "model_year": 2002
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "2.5 T",
+    "model_trim": "Sedan",
     "model_year": 2006
+  },  
+  {"model_make_id": "volvo",
+    "model_name": "S80",
+    "model_trim": "Sedan",
+    "model_year": 2003
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2002
   },
   {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "2.5 T5 Geartronic",
+    "model_trim": "Convertible",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1958
-  },
-  {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "T6 Momentum",
+    "model_trim": "Sedan",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": "GLT",
+    "model_trim": "Sedan",
     "model_year": 1989
   },
   {"model_make_id": "volvo",
-    "model_name": 220,
-    "model_trim": "",
-    "model_year": 1965
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1981
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "2.0 D",
+    "model_trim": "Wagon",
     "model_year": 2003
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": 1.8,
+    "model_trim": "Sedan",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": 1.8,
+    "model_trim": "Hatchback",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": "2.0D",
+    "model_trim": "Hatchback",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1976
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "T5 Convertible",
+    "model_trim": "Convertible",
     "model_year": 2003
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "XC 2.4 D",
+    "model_trim": "Wagon",
     "model_year": 2003
   },
   {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "Turbo",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "volvo",
     "model_name": "S90",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1998
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4D5 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 760,
-    "model_trim": "2.4 D",
+    "model_trim": "Sedan",
     "model_year": 1988
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1988
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "T6 AWD",
+    "model_trim": "SUV",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.9 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "Duett",
-    "model_trim": "",
-    "model_year": 1957
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bifuel Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.4,
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "2.4D Kinetic",
+    "model_trim": "Wagon",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "P 1900",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1956
   },
   {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 T AWD Comfort",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1962
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "T5",
+    "model_trim": "Sedan",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "R",
+    "model_trim": "Wagon",
     "model_year": 2002
   },
   {"model_make_id": "volvo",
     "model_name": 760,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1984
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "2.5T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.0 D",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2,
+    "model_trim": "SUV",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "2.4 Bi-Fuel Kinetic",
+    "model_trim": "Wagon",
     "model_year": 2006
   },
   {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "1.9 D",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "T5 Convertible Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": 2.5,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 780,
-    "model_trim": "Coupe Turbo",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "D5 Geartronic",
+    "model_trim": "SUV",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": 2.4,
+    "model_trim": "Sedan",
     "model_year": 1998
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "2.4 D5 AWD Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.0 T6",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5 T5 AWD Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D",
+    "model_trim": "Wagon",
     "model_year": 2001
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1963
-  },
-  {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": 2,
+    "model_trim": "Wagon",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1990
   },
   {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1989
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "T6",
+    "model_trim": "Sedan",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": 1.7,
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break",
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "2.5 T",
+    "model_trim": "SUV",
     "model_year": 2002
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "GLTi",
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Momentum",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": 2.3,
+    "model_trim": "Sedan",
     "model_year": 1984
   },
   {"model_make_id": "volvo",
     "model_name": "S70",
-    "model_trim": 2,
+    "model_trim": "Sedan",
     "model_year": 1997
   },
   {"model_make_id": "volvo",
     "model_name": "V90",
-    "model_trim": 2.9,
+    "model_trim": "Wagon",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": 1.7,
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1990
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0 Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D5 AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1999
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.0 Exec",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": 1.8,
-    "model_year": 1968
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.4 D5 AWD Comfort",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": 850,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1994
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": 2.3,
+    "model_trim": "Sedan",
     "model_year": 1983
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5 T5 4WD",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.4,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.4,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 145,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1972
   },
   {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
     "model_name": "S70",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1998
   },
   {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "T5 R Estate",
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
-    "model_name": 244,
-    "model_trim": "GLE",
-    "model_year": 1974
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "2.5 T5",
+    "model_trim": "Sedan",
     "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": 2,
-    "model_year": 1982
   },
   {"model_make_id": "volvo",
     "model_name": "PV",
@@ -49746,109 +49426,24 @@
     "model_year": 1941
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "PCC",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 1.6,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T Cabriolet Comfort",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "1.6D",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.8,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": 2.8,
+    "model_trim": "Wagon",
     "model_year": 1980
   },
   {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": 760,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1989
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D5 DPF",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.0 T6 Momentum",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4 D5 Geartronic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1970
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D5 Geartronic",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 343,
@@ -49856,174 +49451,54 @@
     "model_year": 1977
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T AWD Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "2.4 D",
+    "model_trim": "Sedan",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1966
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "ES",
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": "S90",
-    "model_trim": 2.9,
+    "model_trim": "Sedan",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1991
   },
   {"model_make_id": "volvo",
     "model_name": 244,
-    "model_trim": "GLT",
+    "model_trim": "Sedan",
     "model_year": 1980
   },
   {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": "2.4 T",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.6,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1977
   },
   {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "2.4 D",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0D",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 T XC",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 3.2,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Automatic",
+    "model_trim": "Sedan",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "2.4 D",
+    "model_trim": "Sedan",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2001
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 4.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": 2.4,
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": 2.1,
-    "model_year": 1983
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 850,
-    "model_trim": "Break",
+    "model_trim": "Sedan",
     "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "R",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.5 T5 Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic",
-    "model_year": 2004
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "2.4i",
+    "model_trim": "Convertible",
     "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break",
-    "model_year": 1980
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -50032,87 +49507,42 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "4.4 Exec 4WD",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.0 D",
+    "model_trim": "SUV",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "Coupe Automatic",
+    "model_trim": "Convertible",
     "model_year": 1999
   },
   {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1997
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.4i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1966
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": "2.5 Kinetic AWD",
+    "model_trim": "Wagon",
     "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "xc",
+    "model_trim": "Wagon",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.4,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "2.5 T",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": "T4",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum",
+    "model_trim": "Wagon",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "T5 AWD",
+    "model_trim": "Sedan",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Turbo",
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
@@ -50121,28 +49551,8 @@
     "model_year": 2001
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "1.6 D",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": 1.7,
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": "GLE",
+    "model_trim": "Sedan",
     "model_year": 1983
   },
   {"model_make_id": "volvo",
@@ -50157,113 +49567,28 @@
   },
   {"model_make_id": "volvo",
     "model_name": "P 1900",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1957
   },
   {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "Break",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "",
-    "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "3.0 T6 AWD",
+    "model_trim": "Sedan",
     "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "DRIVe",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": 2.3,
-    "model_year": 1981
   },
   {"model_make_id": "volvo",
     "model_name": 145,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1970
   },
   {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1959
-  },
-  {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 2.4,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1965
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 T5 Momentum",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": 2.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": 2,
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Geartronic",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 144,
@@ -50271,168 +49596,43 @@
     "model_year": 1966
   },
   {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "",
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.8,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1967
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i Geartronic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1983
-  },
-  {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1967
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "ES",
-    "model_year": 1987
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1992
   },
   {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "R",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1968
   },
   {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.5 T5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1985
   },
   {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "T5",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
-    "model_name": 760,
-    "model_trim": 2.8,
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 1.6,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "",
-    "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": "2.5T",
+    "model_trim": "Wagon",
     "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1998
   },
   {"model_make_id": "volvo",
     "model_name": 850,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1992
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4 T5",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "T5 Kinetic",
+    "model_trim": "Wagon",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
@@ -50442,38 +49642,13 @@
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": 1.6,
+    "model_trim": "Sedan",
     "model_year": 2000
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "Break",
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.5 T5 4WD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "AWD Automatic",
-    "model_year": 2002
   },
   {"model_make_id": "volvo",
     "model_name": 940,
@@ -50481,144 +49656,19 @@
     "model_year": 1990
   },
   {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1982
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 3.2,
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
     "model_name": 144,
     "model_trim": "S",
     "model_year": 1966
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 1.8,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1997
   },
   {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "GLE",
-    "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2.4,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0 D",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "2.4 Bi-Fuel",
+    "model_trim": "Sedan",
     "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 960,
-    "model_trim": 2.9,
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0 D",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4D Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bi-Fuel Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.9,
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 Cross Country",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "T6 AWD",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "1.8 Geartronic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "1.8F FlexiFuel",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "1.6 D",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": 1.8,
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Kinetic",
-    "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": "Hatric",
@@ -50627,108 +49677,18 @@
   },
   {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": 2.7,
+    "model_trim": "Wagon",
     "model_year": 1979
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 2.4,
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": "2.4 D",
+    "model_trim": "Wagon",
     "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 D5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.5,
-    "model_year": 2003
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "Turbo",
+    "model_trim": "Sedan",
     "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "4WD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": 1.8,
-    "model_year": 1962
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.4,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.0T Exec Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.4 Kinetic 4WD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Geartronic",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 343,
@@ -50736,44 +49696,14 @@
     "model_year": 1980
   },
   {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.0 T6 AWD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1985
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.0D",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1988
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -50781,34 +49711,9 @@
     "model_year": 1971
   },
   {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 1.6,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 2.4,
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.6,
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 1800,
@@ -50817,48 +49722,13 @@
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6",
+    "model_trim": "Wagon",
     "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "T5",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": 740,
-    "model_trim": "",
-    "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "V8 Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5",
-    "model_year": 2000
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": 1.8,
-    "model_year": 2000
   },
   {"model_make_id": "volvo",
     "model_name": 343,
@@ -50867,98 +49737,28 @@
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 1998
   },
   {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 T XC Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 R",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1986
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 1.6,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "T5 Kinetic",
+    "model_trim": "Sedan",
     "model_year": 2005
   },
   {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": 3.2,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": 2,
+    "model_trim": "Wagon",
     "model_year": 2004
   },
   {"model_make_id": "volvo",
     "model_name": 760,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1987
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.3 T5 Premium",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.5 T5 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1986
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "T5 Premium",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0 D",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 T Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "",
-    "model_year": 1978
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -50967,63 +49767,13 @@
   },
   {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1969
   },
   {"model_make_id": "volvo",
     "model_name": "S90",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.4 Turbodiesel",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "R Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 2.4,
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 AWD",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.3 T5 Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "GLE",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i",
-    "model_year": 2003
   },
   {"model_make_id": "volvo",
     "model_name": 140,
@@ -51032,83 +49782,18 @@
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2002
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": "2.4i",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "1.8i",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.3,
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.0 Executive",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.0 T",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 T",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": 2.8,
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.5,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5",
+    "model_trim": "Hatchback",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "2.4 D",
+    "model_trim": "Wagon",
     "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 2.9,
-    "model_year": 2004
   },
   {"model_make_id": "volvo",
     "model_name": 140,
@@ -51117,48 +49802,8 @@
   },
   {"model_make_id": "volvo",
     "model_name": 850,
-    "model_trim": "Break 2.3",
+    "model_trim": "Sedan",
     "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T 4WD Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Bifuel Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "Turbo",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 3.2,
-    "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": 1800,
@@ -51166,108 +49811,23 @@
     "model_year": 1973
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": "T6",
+    "model_trim": "Wagon",
     "model_year": 2009
   },
   {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5T Kinetic AWD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1978
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.4,
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1961
   },
   {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Bi-Fuel",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0 T Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "Sedan",
-    "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.3 T T5 Cabriolet Comfort",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 740,
-    "model_trim": "Turbo",
-    "model_year": 1983
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "1.6 Diesel",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.6,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1975
   },
   {"model_make_id": "volvo",
@@ -51276,64 +49836,9 @@
     "model_year": 1978
   },
   {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "2.5 D",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": 2,
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 740,
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 4WD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1968
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 AWD",
-    "model_year": 2005
   },
   {"model_make_id": "volvo",
     "model_name": 343,
@@ -51341,214 +49846,49 @@
     "model_year": 1974
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "V8 Exec Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.0T Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic 4WD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 1.8,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 145,
-    "model_trim": 2,
-    "model_year": 1968
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "GLT 2.5",
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break",
-    "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0T Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2.5,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1988
   },
   {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.0T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1962
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5T Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2.4,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": 220,
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "1.8 Geartronic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": 1.9,
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic",
-    "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": 740,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1986
   },
   {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1964
   },
   {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": 2.8,
+    "model_trim": "Wagon",
     "model_year": 1981
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Executive",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1962
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 AWD Kinetic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "2.4 T Convertible Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.4,
+    "model_trim": "Convertible",
     "model_year": 1997
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": 2,
+    "model_trim": "Sedan",
     "model_year": 1989
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "XC AWD",
+    "model_trim": "Wagon",
     "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "V8",
-    "model_year": 2009
   },
   {"model_make_id": "volvo",
     "model_name": "PV 60",
@@ -51556,83 +49896,18 @@
     "model_year": 1947
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Premium",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1965
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": "2.4 D",
-    "model_year": 1983
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 T XC Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break 1.3",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "V8 Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 D Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
     "model_name": 343,
     "model_trim": "",
     "model_year": 1976
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 760,
-    "model_trim": "GLE",
+    "model_trim": "Sedan",
     "model_year": 1983
   },
   {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "T5",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2.4,
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1991
   },
   {"model_make_id": "volvo",
@@ -51641,239 +49916,44 @@
     "model_year": 1981
   },
   {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": 140,
     "model_trim": "",
     "model_year": 1971
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "1.6 D",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 T",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1963
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "4.4 Momentum",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "Duett",
-    "model_trim": "",
-    "model_year": 1954
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "2.0i GLE",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Convertible Automatic",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": 2,
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "Cross Country",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 1.6,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D5",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.4 D5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
     "model_name": "S70",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Geartronic",
-    "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1982
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "Executive",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bi-Fuel",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "T4",
+    "model_trim": "Sedan",
     "model_year": 1998
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T AWD Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "GL",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.8,
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Comfort",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": 245,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1980
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1985
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 2.4,
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1971
   },
   {"model_make_id": "volvo",
-    "model_name": 960,
-    "model_trim": 3,
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "V8 AWD",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
     "model_name": 145,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1973
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "1.8i",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 850,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5 T5 4WD",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": 140,
@@ -51881,143 +49961,8 @@
     "model_year": 1974
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 2.8,
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Edition",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.0 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "1.9 D",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D5 Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1960
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break",
-    "model_year": 1979
-  },
-  {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "T5",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.3 T T5 Cabriolet Comfort",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 Exec Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 D",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "T6 AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "Duett",
-    "model_trim": "",
-    "model_year": 1953
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0 D",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "LSE Sedan",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "PV 801-10",
-    "model_trim": "",
-    "model_year": 1943
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": "2.4 T5",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 BiFuel Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 LPT",
+    "model_trim": "Wagon",
     "model_year": 1996
   },
   {"model_make_id": "volvo",
@@ -52027,218 +49972,23 @@
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "2.5 T Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 4WD Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5T5 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2000
   },
   {"model_make_id": "volvo",
     "model_name": 145,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1971
   },
   {"model_make_id": "volvo",
     "model_name": "V90",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 D",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 T Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4 D5",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
-    "model_year": 1963
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.3,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 2.9,
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "Sedan",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": "",
-    "model_year": 1983
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.9 Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "V8",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 T5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": 2.4,
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": 960,
-    "model_trim": "2.4 D",
-    "model_year": 1990
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T5",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1969
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
     "model_trim": "Coupe",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bi-Fuel LPG Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5 T5",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": "2.0 Automatic",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1969
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible 2.0",
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": 2.4,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Geartronic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Premier",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": 2.4,
-    "model_year": 2005
+    "model_year": 1963
   },
   {"model_make_id": "volvo",
     "model_name": "YCC",
@@ -52246,104 +49996,19 @@
     "model_year": 2004
   },
   {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5T Geartronic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible",
-    "model_year": 1992
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "",
-    "model_year": 1979
-  },
-  {"model_make_id": "volvo",
     "model_name": 164,
     "model_trim": "",
     "model_year": 1974
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": 2.4,
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Convertible",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T Long",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": 2.7,
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.9 Executive",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1970
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": 1.7,
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.4,
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1979
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "",
-    "model_year": 1975
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -52351,48 +50016,13 @@
     "model_year": 1969
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "1.6D",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1956
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": "2.4 D",
-    "model_year": 1981
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "DRIVe",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
     "model_name": 343,
     "model_trim": 1.4,
     "model_year": 1979
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "1.8i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1999
   },
   {"model_make_id": "volvo",
@@ -52401,154 +50031,19 @@
     "model_year": 1978
   },
   {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": 3.2,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.3 T5 Premium",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": 164,
     "model_trim": "TE",
     "model_year": 1977
   },
   {"model_make_id": "volvo",
     "model_name": 244,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1989
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Premier",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 T5 Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "LPT",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": 780,
-    "model_trim": "Turbodiesel",
-    "model_year": 1985
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Coupe",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": 760,
-    "model_trim": 2.8,
-    "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": 2.1,
-    "model_year": 1981
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.9 Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.0 T",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": 1.8,
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 2.4,
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": 1.6,
-    "model_year": 1959
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T Convertible",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5T",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Kinetic AWD",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Edition Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": "2.0 LSE Wagon",
+    "model_trim": "Wagon",
     "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": "",
-    "model_year": 1997
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -52556,94 +50051,19 @@
     "model_year": 1979
   },
   {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1979
   },
   {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1967
-  },
-  {"model_make_id": "volvo",
-    "model_name": 460,
-    "model_trim": "1.6i",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Geartronic",
-    "model_year": 2006
   },
   {"model_make_id": "volvo",
     "model_name": 264,
     "model_trim": "GL",
     "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": 1.7,
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "Duett",
-    "model_trim": "",
-    "model_year": 1955
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "T5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "T6",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.0i",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 2.4,
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 2.5,
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "Cross Country",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0T Kinetic",
-    "model_year": 2007
   },
   {"model_make_id": "volvo",
     "model_name": "PV 60",
@@ -52656,69 +50076,9 @@
     "model_year": 1990
   },
   {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "V8",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 343,
     "model_trim": "",
     "model_year": 1974
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 2.4,
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": 1.7,
-    "model_year": 1994
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1961
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.0 D",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": 1.7,
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": "",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bi-Fuel",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0 T",
-    "model_year": 2005
   },
   {"model_make_id": "volvo",
     "model_name": 1800,
@@ -52727,133 +50087,23 @@
   },
   {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1992
   },
   {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1964
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 D5",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
     "model_name": 960,
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1994
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Geartronic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5 T5 Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "Convertible 1.7",
-    "model_year": 1988
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": 2,
-    "model_year": 1969
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 440,
-    "model_trim": 1.7,
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": 220,
-    "model_trim": "",
-    "model_year": 1962
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1978
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 3.2,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "3.0 4WD",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 D5",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 244,
-    "model_trim": "DL",
-    "model_year": 1974
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.4,
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break",
-    "model_year": 1976
   },
   {"model_make_id": "volvo",
     "model_name": "PV 544 1.8",
@@ -52861,24 +50111,9 @@
     "model_year": 1964
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
     "model_name": 122,
     "model_trim": "S",
     "model_year": 1965
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 BiFuel Kinetic",
-    "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": 242,
@@ -52887,203 +50122,23 @@
   },
   {"model_make_id": "volvo",
     "model_name": "S70",
-    "model_trim": 2.4,
+    "model_trim": "Sedan",
     "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T4",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": 240,
-    "model_trim": 2.1,
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bi-Fuel LPG",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.9 Executive",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 244,
-    "model_trim": "DL",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S70",
-    "model_trim": "2.5 D",
-    "model_year": 1997
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 3.2,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 Geartronic",
-    "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": 2.8,
+    "model_trim": "Wagon",
     "model_year": 1981
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T 4WD",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5T Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": 2.5,
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": 1.8,
-    "model_year": 1964
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "Duett",
-    "model_trim": "",
-    "model_year": 1956
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": "",
-    "model_year": 1957
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Momentum",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V90",
-    "model_trim": "",
-    "model_year": 1996
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": 3.2,
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": 740,
-    "model_trim": "2.4 D",
-    "model_year": 1984
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 R-Design",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
     "model_name": 260,
-    "model_trim": 2.8,
+    "model_trim": "Wagon",
     "model_year": 1982
   },
   {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.0 D",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": 1.6,
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "P 1800",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1972
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Exec Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Cross Country",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": 120,
-    "model_trim": 1.8,
-    "model_year": 1967
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "",
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Geartronic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": 760,
-    "model_trim": "2.4 D",
-    "model_year": 1987
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 2.4,
-    "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -53091,59 +50146,14 @@
     "model_year": 1973
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "2.0 SE Estate",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0T",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": 245,
-    "model_trim": "GLE Estate Automatic",
-    "model_year": 1974
-  },
-  {"model_make_id": "volvo",
     "model_name": 140,
     "model_trim": "",
     "model_year": 1972
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.3 T5 Comfort",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.0 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": 265,
-    "model_trim": 2.8,
+    "model_trim": "Wagon",
     "model_year": 1982
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 BiFuel",
-    "model_year": 2008
   },
   {"model_make_id": "volvo",
     "model_name": 164,
@@ -53151,179 +50161,24 @@
     "model_year": 1970
   },
   {"model_make_id": "volvo",
-    "model_name": 360,
-    "model_trim": "",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 Geartronic",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bi-Fuel CNG",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": 245,
-    "model_trim": "",
-    "model_year": 1991
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 AWD Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "V8",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.4 D5 AWD",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
     "model_name": "PV 60",
     "model_trim": "",
     "model_year": 1946
   },
   {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": 1.3,
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "",
-    "model_year": 1995
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T AWD Kinetic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
     "model_name": 240,
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1987
   },
   {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2009
-  },
-  {"model_make_id": "volvo",
     "model_name": "V40",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "Break",
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4i",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": 220,
-    "model_trim": "",
-    "model_year": 1961
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bifuel",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "P 210 Duett",
-    "model_trim": "",
-    "model_year": 1968
-  },
-  {"model_make_id": "volvo",
-    "model_name": 780,
-    "model_trim": "Coupe V6",
-    "model_year": 1985
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.0 D",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2.5,
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V40",
-    "model_trim": "1.9 Diesel",
-    "model_year": 1996
   },
   {"model_make_id": "volvo",
     "model_name": 164,
     "model_trim": "TE",
     "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC 2.4 AWD",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4i Kinetic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.5 T Kinetic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "HPT",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": 480,
-    "model_trim": "",
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Comfort",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": 850,
-    "model_trim": "T5",
-    "model_year": 1993
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": 2.4,
-    "model_year": 2005
   },
   {"model_make_id": "wartburg",
     "model_name": 311,
@@ -56982,102 +53837,57 @@
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": "T5",
+    "model_trim": "Hatchback",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": "R-Design",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "R-Design",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "T5",
+    "model_trim": "Convertible",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "T5",
+    "model_trim": "Convertible",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "2.4i",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "S40",
-    "model_trim": "T5 R-Design",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 R-Design",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "T6",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": 3.2,
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": "T6",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "V8",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": 3.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "2.4i",
+    "model_trim": "Wagon",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "V50",
-    "model_trim": "T5 R-Design",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 R-Design",
+    "model_trim": "Wagon",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
@@ -57117,52 +53927,22 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": 3.2,
+    "model_trim": "Wagon",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": "T6",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": 3.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "T6",
+    "model_trim": "Wagon",
     "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": 3.2,
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": "3.2 R-Design",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "V8",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": 3.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "V8",
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "pagani",
@@ -58437,7 +55217,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "T6",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "audi",
@@ -58757,22 +55537,12 @@
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": 3.2,
+    "model_trim": "Wagon",
     "model_year": 2010
   },
   {"model_make_id": "volvo",
     "model_name": "V70",
-    "model_trim": "",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": 3.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 2011
   },
   {"model_make_id": "jaguar",
@@ -61942,42 +58712,22 @@
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": "T5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 R-Design",
+    "model_trim": "Hatchback",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "T5",
+    "model_trim": "Convertible",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": 3.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
@@ -61997,22 +58747,12 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC70",
-    "model_trim": 3.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "T6",
+    "model_trim": "Wagon",
     "model_year": 2012
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": 3.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "bmw",
@@ -64011,76 +60751,6 @@
     "model_year": 2012
   },
   {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.0F",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D4",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D3",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D2",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "DRIVe",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 1.6,
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2,
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "D3",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "D4",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "DRIVe",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T4",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T4F",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D3",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D5",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC60",
     "model_trim": "DRIVe",
     "model_year": 2010
@@ -64094,121 +60764,6 @@
     "model_name": "XC60",
     "model_trim": "D5",
     "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "D3",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "D5",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D3",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D5",
-    "model_year": 2010
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.0F",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D4",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D2",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "DRIVe",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 1.6,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2,
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "D4",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "D5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T4F",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T4",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "DRIVe",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T4",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T4F",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D5",
-    "model_year": 2011
   },
   {"model_make_id": "volvo",
     "model_name": "XC60",
@@ -64226,126 +60781,6 @@
     "model_year": 2011
   },
   {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "D5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "DRIVe",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D3",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D5",
-    "model_year": 2011
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.0F",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D4",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "D2",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "DRIVe",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 1.6,
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": 2,
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "D4",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "DRIVe",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T4",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T4F",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "D5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T4F",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T4",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "D5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
     "model_name": "XC60",
     "model_trim": "DRIVe",
     "model_year": 2012
@@ -64357,31 +60792,6 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC60",
-    "model_trim": "D5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "DRIVe",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "D5",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D3",
-    "model_year": 2012
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
     "model_trim": "D5",
     "model_year": 2012
   },
@@ -65500,130 +61910,10 @@
     "model_trim": "Automatic",
     "model_year": 1980
   },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Automatic",
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break Automatic",
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "1.3 Automatic",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Automatic",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break 1.3 Automatic",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Automatic",
-    "model_year": 1979
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break Automatic",
-    "model_year": 1979
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Automatic",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": 66,
-    "model_trim": "Break Automatic",
-    "model_year": 1980
-  },
   {"model_make_id": "seat",
     "model_name": 131,
     "model_trim": "1.6 Automatic",
     "model_year": 1974
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "Automatic",
-    "model_year": 1975
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "Automatic",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "Automatic",
-    "model_year": 1979
-  },
-  {"model_make_id": "volvo",
-    "model_name": 260,
-    "model_trim": "Automatic",
-    "model_year": 1980
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": "Automatic",
-    "model_year": 1976
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": "Automatic",
-    "model_year": 1977
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": "Automatic",
-    "model_year": 1978
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": "Automatic",
-    "model_year": 1979
-  },
-  {"model_make_id": "volvo",
-    "model_name": 265,
-    "model_trim": "Automatic",
-    "model_year": 1980
   },
   {"model_make_id": "talbot",
     "model_name": 1510,
@@ -65814,186 +62104,6 @@
     "model_name": "Ambassador",
     "model_trim": "Automatic",
     "model_year": 1984
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "1.6 Automatic",
-    "model_year": 1985
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "1.6 D Automatic",
-    "model_year": 1985
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "Automatic",
-    "model_year": 1985
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "Automatic",
-    "model_year": 1986
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "Automatic",
-    "model_year": 1987
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "Automatic",
-    "model_year": 1988
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Belmont",
-    "model_trim": "Automatic",
-    "model_year": 1989
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.3 Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 1998
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.3 T T5 Cabriolet Comfort Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T Cabriolet Comfort Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.3 T T5 Cabriolet Comfort Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T Cabriolet Comfort Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "T5 Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.0T Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4 T Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2008
   },
   {"model_make_id": "dodge",
     "model_name": "Charger RT Concept",
@@ -66270,96 +62380,6 @@
     "model_trim": "1750 Automatic",
     "model_year": 1969
   },
-  {"model_make_id": "vauxhall",
-    "model_name": "Monaro",
-    "model_trim": "5.7 Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Monaro",
-    "model_trim": "Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Monaro",
-    "model_trim": "Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Monaro",
-    "model_trim": "Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Monaro",
-    "model_trim": "Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Omega",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 2005
-  },
   {"model_make_id": "chevrolet",
     "model_name": "Orlando",
     "model_trim": "2.0 Diesel Automatic",
@@ -66610,416 +62630,6 @@
     "model_trim": "Sedan",
     "model_year": 2003
   },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 AWD Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.5 T5 4WD Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "2.5 T5 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S40",
-    "model_trim": "T5 Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.3 T5 Premium Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bi-Fuel Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0T Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.3 T5 Comfort Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.3 T5 Premium Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T AWD Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.0 T Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Bifuel Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4D Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4D5 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 R Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic 4WD Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 BiFuel Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4 Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T 4WD Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "2.5 T Summum Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.9 Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bi-Fuel Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bi-Fuel Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bi-Fuel Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Bifuel Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 BiFuel Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2008
-  },
   {"model_make_id": "mcc",
     "model_name": "Silverpulse",
     "model_trim": "Automatic",
@@ -67150,360 +62760,15 @@
     "model_trim": "Regular Cab",
     "model_year": 2003
   },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 AWD Kinetic Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 Kinetic Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.4i Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "T5 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5 T5 AWD Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V50",
-    "model_trim": "2.5T5 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "Automatic",
-    "model_year": 2000
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "Automatic",
-    "model_year": 2001
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "XC Automatic",
-    "model_year": 2004
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0 T Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.3 T5 Comfort Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Bi-Fuel Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 4WD Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T AWD Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "R Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "T5 Premium Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "xc Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Bi-Fuel Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 AWD Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T AWD Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0T Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Bifuel Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 D5 Kinetic AWD Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 Momentum Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4D Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5T Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5T Kinetic AWD Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.0 T Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 BiFuel Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4 T5 Momentum Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.4i Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T 4WD Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "V70",
-    "model_trim": "2.5 T Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Vectra",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2002
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Vectra",
-    "model_trim": "2.2 Break Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Vectra",
-    "model_trim": "Break 1.8 Automatic",
-    "model_year": 2003
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Vectra",
-    "model_trim": "Break Automatic",
-    "model_year": 2004
-  },
   {"model_make_id": "hyundai",
     "model_name": "Veloster",
     "model_trim": "Automatic",
     "model_year": 2012
   },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 T AWD Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 T AWD Comfort Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 AWD Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 Kinetic AWD Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC70",
-    "model_trim": "2.5 4WD Kinetic Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "D5 AWD Automatic",
-    "model_year": 2005
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "2.4 D5 Kinetic Automatic",
-    "model_year": 2008
-  },
   {"model_make_id": "scion",
     "model_name": "xD",
     "model_trim": "Hatchback",
     "model_year": 2012
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Zafira",
-    "model_trim": "1.8 Automatic",
-    "model_year": 1999
-  },
-  {"model_make_id": "vauxhall",
-    "model_name": "Zafira",
-    "model_trim": "2.2 Automatic",
-    "model_year": 2001
   },
   {"model_make_id": "ford",
     "model_name": "E-Series",
@@ -69277,132 +64542,22 @@
   },
   {"model_make_id": "volvo",
     "model_name": "C30",
-    "model_trim": "T5",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 Premier",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 R-Design",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 R-Design Premier",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 R-Design Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C30",
-    "model_trim": "T5 R-Design Platinum",
+    "model_trim": "Hatchback",
     "model_year": 2013
   },
   {"model_make_id": "volvo",
     "model_name": "C70",
-    "model_trim": "T5",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "T5 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "C70",
-    "model_trim": "T5 Platinum",
+    "model_trim": "Convertible",
     "model_year": 2013
   },
   {"model_make_id": "volvo",
     "model_name": "S60",
-    "model_trim": "T5",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Premier",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6 AWD",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6 AWD Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6 AWD Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design Platinum",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "volvo",
     "model_name": "S80",
-    "model_trim": 3.2,
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "S80",
-    "model_trim": "T6 Platinum",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "volvo",
@@ -69492,32 +64647,7 @@
   },
   {"model_make_id": "volvo",
     "model_name": "XC90",
-    "model_trim": 3.2,
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 Platinum",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design Premier Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design Platinum",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "infiniti",
@@ -74667,27 +69797,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan (2.5L 5cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "3.2 4dr Sedan (3.2L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Volvo",
@@ -74707,22 +69822,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon (3.2L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Wagon",
     "model_year": 2014
   },
   {"model_make_id": "Volvo",
     "model_name": "XC90",
-    "model_trim": "3.2 4dr SUV (3.2L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC90",
-    "model_trim": "3.2 R-Design 4dr SUV (3.2L 6cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Audi",
@@ -75067,17 +70172,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
@@ -75088,11 +70183,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
@@ -75117,27 +70207,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -78215,26 +73290,6 @@
     "model_trim": "SUV",
     "model_year": 2015
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -78428,16 +73483,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Audi",
@@ -79053,21 +74098,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Lincoln",
@@ -81157,17 +76187,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Volvo",
@@ -81178,11 +76198,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
@@ -81207,27 +76222,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
@@ -84280,26 +79280,6 @@
     "model_trim": "SUV",
     "model_year": 2016
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -84488,16 +79468,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Audi",
@@ -85118,21 +80088,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Lincoln",
@@ -87232,17 +82187,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Volvo",
@@ -87253,11 +82198,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
@@ -87282,27 +82222,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
@@ -90365,26 +85290,6 @@
     "model_trim": "SUV",
     "model_year": 2017
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -90573,16 +85478,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Audi",
@@ -91218,21 +86113,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Lincoln",
@@ -93327,17 +88207,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Volvo",
@@ -93348,11 +88218,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
@@ -93377,27 +88242,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
@@ -96460,26 +91310,6 @@
     "model_trim": "SUV",
     "model_year": 2018
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -96668,16 +91498,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Audi",
@@ -97313,21 +92133,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Lincoln",
@@ -99422,17 +94227,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Volvo",
@@ -99443,11 +94238,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
@@ -99472,27 +94262,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
@@ -102540,26 +97315,6 @@
     "model_trim": "SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -102748,16 +97503,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Audi",
@@ -103393,21 +98138,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Lincoln",
@@ -105502,17 +100232,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Volvo",
@@ -105523,11 +100243,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
@@ -105552,27 +100267,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
@@ -108635,26 +103335,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -108843,16 +103523,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Audi",
@@ -109488,21 +104158,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Lincoln",
@@ -111592,17 +106247,7 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Volvo",
@@ -111613,11 +106258,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
@@ -111642,27 +106282,12 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
+    "model_trim": "Wagon",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
@@ -114720,26 +109345,6 @@
     "model_trim": "SUV",
     "model_year": 2021
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -114928,16 +109533,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Audi",
@@ -115583,21 +110178,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Rogue",
     "model_trim": "SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Lincoln",
@@ -117732,18 +112312,13 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Volvo",
     "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
@@ -117753,11 +112328,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC60",
     "model_trim": "T6 Drive-E 4dr SUV w/Prod. End 6/14 (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD w/Prod. End 6/14 (2.5L 5cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
@@ -117782,28 +112352,23 @@
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan w/Prod. End 6/14 (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Volvo",
     "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD w/Prod. End 6/14 (3.0L 6cyl Turbo 6A)",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Volvo",
+    "model_name": "XC70",
+    "model_trim": "Wagon",
     "model_year": 2022
   },
   {"model_make_id": "Volvo",
     "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon w/Prod. End 5/14 (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD w/Prod. End 5/14 (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD w/Prod. End 5/14 (3.2L 6cyl 6A)",
-    "model_year": 2022
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
@@ -121010,26 +115575,6 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 4dr Sedan AWD (2.5L 5cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 Drive-E 4dr Sedan (2.0L 4cyl Twincharger 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S60",
-    "model_trim": "T6 R-Design 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
@@ -121279,16 +115824,6 @@
     "model_name": "iQ",
     "model_trim": "Hatchback",
     "model_year": 2023
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T5 Drive-E 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "S80",
-    "model_trim": "T6 4dr Sedan AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
@@ -122009,21 +116544,6 @@
     "model_name": "Rogue",
     "model_trim": "SUV",
     "model_year": 2023
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "3.2 4dr Wagon AWD (3.2L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T5 Drive-E 4dr Wagon (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Volvo",
-    "model_name": "XC70",
-    "model_trim": "T6 4dr Wagon AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
   },
   {"model_make_id": "Lincoln",
     "model_name": "MKS",
