@@ -231,13 +231,11 @@
     "model_trim": "Bialbero 2 door coupe",
     "model_year": 1965
   },
-  {
-    "model_make_id": "abarth",
+  {"model_make_id": "abarth",
     "model_name": 750,
     "model_trim": "Zagato Sestriere Coupe",
     "model_year": 1959
-  },{
-    "model_make_id": "abarth",
+  },{"model_make_id": "abarth",
     "model_name": "A 112",
     "model_trim": "Hatchback",
     "model_year": 1973
@@ -890,11 +888,6 @@
     "model_year": 2001
   },
   {"model_make_id": "acura",
-    "model_name": "CL-X",
-    "model_trim": "Concept",
-    "model_year": 1995
-  },
-  {"model_make_id": "acura",
     "model_name": "CL",
     "model_trim": "Coupe",
     "model_year": 2001
@@ -1028,11 +1021,6 @@
     "model_name": "Integra",
     "model_trim": "Sedan / Coupe Type R",
     "model_year": 2001
-  },
-  {"model_make_id": "acura",
-    "model_name": "Integra",
-    "model_trim": "Sedan / Coupe",
-    "model_year": 1997
   },
   {"model_make_id": "acura",
     "model_name": "Integra",
@@ -2519,7 +2507,6 @@
     "model_trim": "Hatchback",
     "model_year": 2001
   },
-
   {"model_make_id": "alfa-romeo",
     "model_name": "GTV",
     "model_trim": "Coupe",
@@ -2716,19 +2703,9 @@
     "model_year": 1958
   },
   {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "",
-    "model_year": 2003
-  },
-  {"model_make_id": "alfa-romeo",
     "model_name": "SZ",
     "model_trim": "2 seater fixed-head coupé",
     "model_year": 1991
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Coupe",
-    "model_year": 2005
   },
   {"model_make_id": "alfa-romeo",
     "model_name": "GTV",
@@ -2769,11 +2746,6 @@
     "model_name": 2000,
     "model_trim": "Spider convertible",
     "model_year": 1989
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "Scighera",
-    "model_trim": "",
-    "model_year": 1997
   },
   {"model_make_id": "alfa-romeo",
     "model_name": "GT",
@@ -2829,11 +2801,6 @@
     "model_name": 164,
     "model_trim": "4/5 seater sedan/saloon",
     "model_year": 1992
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "Coupe",
-    "model_trim": 33,
-    "model_year": 1969
   },
   {"model_make_id": "alfa-romeo",
     "model_name": "Berlina",
@@ -3456,11 +3423,6 @@
     "model_year": 2007
   },
   {"model_make_id": "aston-martin",
-    "model_name": "DB4",
-    "model_trim": "Cabriolet GT",
-    "model_year": 1961
-  },
-  {"model_make_id": "aston-martin",
     "model_name": "V8 Volante",
     "model_trim": "Convertible",
     "model_year": 1988
@@ -3684,11 +3646,6 @@
     "model_name": "DB9",
     "model_trim": "Coupe / convertible",
     "model_year": 2007
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "DB4",
-    "model_trim": "Cabriolet",
-    "model_year": 1962
   },
   {"model_make_id": "aston-martin",
     "model_name": "Virage",
@@ -50072,12 +50029,12 @@
   },
   {"model_make_id": "acura",
     "model_name": "ZDX",
-    "model_trim": "",
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "acura",
     "model_name": "ZDX",
-    "model_trim": "",
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "aston-martin",
@@ -50112,22 +50069,12 @@
   },
   {"model_make_id": "aston-martin",
     "model_name": "Rapide",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "aston-martin",
     "model_name": "Rapide",
-    "model_trim": "",
-    "model_year": 2011
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "V12 Vantage",
-    "model_trim": "",
-    "model_year": 2011
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "V12 Vantage",
-    "model_trim": "Carbon Black",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "aston-martin",
@@ -54865,36 +54812,6 @@
     "model_trim": "Sedan",
     "model_year": 2010
   },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Coupe",
-    "model_year": 2007
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Coupe",
-    "model_year": 2008
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Spider",
-    "model_year": 2008
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Coupe",
-    "model_year": 2009
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Spider",
-    "model_year": 2009
-  },
-  {"model_make_id": "alfa-romeo",
-    "model_name": "8C Competizione",
-    "model_trim": "Spider",
-    "model_year": 2010
-  },
   {"model_make_id": "koenigsegg",
     "model_name": "CC8S",
     "model_trim": "",
@@ -54992,72 +54909,22 @@
   },
   {"model_make_id": "acura",
     "model_name": "CL",
-    "model_trim": 2.2,
+    "model_trim": "Coupe",
     "model_year": 1997
   },
   {"model_make_id": "acura",
     "model_name": "CL",
-    "model_trim": 3,
-    "model_year": 1997
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": 2.3,
+    "model_trim": "Coupe",
     "model_year": 1998
   },
   {"model_make_id": "acura",
     "model_name": "CL",
-    "model_trim": 3,
-    "model_year": 1998
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": 2.3,
+    "model_trim": "Coupe",
     "model_year": 1999
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": 3,
-    "model_year": 1999
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": "Type S",
-    "model_year": 2001
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": "Type S",
-    "model_year": 2002
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": "Type S",
-    "model_year": 2003
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": "Type S",
-    "model_year": 2004
-  },
-  {"model_make_id": "acura",
-    "model_name": "CL",
-    "model_trim": "Type S",
-    "model_year": 2005
   },
   {"model_make_id": "acura",
     "model_name": "EL",
     "model_trim": "Sedan",
-    "model_year": 1997
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Sport",
-    "model_year": 1997
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Premium",
     "model_year": 1997
   },
   {"model_make_id": "acura",
@@ -55067,147 +54934,32 @@
   },
   {"model_make_id": "acura",
     "model_name": "EL",
-    "model_trim": "Sport",
-    "model_year": 1998
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Premium",
-    "model_year": 1998
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
     "model_trim": "Sedan",
-    "model_year": 1999
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Sport",
-    "model_year": 1999
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Premium",
     "model_year": 1999
   },
   {"model_make_id": "acura",
     "model_name": "EL",
     "model_trim": "Sedan",
     "model_year": 2000
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Sport",
-    "model_year": 2000
-  },
-  {"model_make_id": "acura",
-    "model_name": "EL",
-    "model_trim": "Premium",
-    "model_year": 2000
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Manual",
-    "model_year": 2006
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Automatic",
-    "model_year": 2006
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Type-S",
-    "model_year": 2006
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Manual",
-    "model_year": 2007
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Automatic",
-    "model_year": 2007
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Type-S",
-    "model_year": 2007
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Manual",
-    "model_year": 2008
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Type-S",
-    "model_year": 2008
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Manual",
-    "model_year": 2009
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Automatic",
-    "model_year": 2009
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Type-S",
-    "model_year": 2009
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Manual",
-    "model_year": 2010
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Automatic",
-    "model_year": 2010
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Type-S",
-    "model_year": 2010
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Manual",
-    "model_year": 2011
-  },
-  {"model_make_id": "acura",
-    "model_name": "CSX",
-    "model_trim": "Automatic",
-    "model_year": 2011
   },
   {"model_make_id": "acura",
     "model_name": "Vigor",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1992
   },
   {"model_make_id": "acura",
     "model_name": "Vigor",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1993
   },
   {"model_make_id": "acura",
     "model_name": "Vigor",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1994
   },
   {"model_make_id": "acura",
     "model_name": "Vigor",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1995
   },
   {"model_make_id": "acura",
@@ -55232,17 +54984,7 @@
   },
   {"model_make_id": "acura",
     "model_name": "Integra",
-    "model_trim": "1.6 Sedan",
-    "model_year": 1990
-  },
-  {"model_make_id": "acura",
-    "model_name": "Integra",
     "model_trim": "Coupe",
-    "model_year": 1991
-  },
-  {"model_make_id": "acura",
-    "model_name": "Integra",
-    "model_trim": "Sedan",
     "model_year": 1991
   },
   {"model_make_id": "acura",
@@ -55252,17 +54994,7 @@
   },
   {"model_make_id": "acura",
     "model_name": "Integra",
-    "model_trim": "Sedan",
-    "model_year": 1992
-  },
-  {"model_make_id": "acura",
-    "model_name": "Integra",
     "model_trim": "Coupe",
-    "model_year": 1993
-  },
-  {"model_make_id": "acura",
-    "model_name": "Integra",
-    "model_trim": "Sedan",
     "model_year": 1993
   },
   {"model_make_id": "acura",
@@ -56405,21 +56137,6 @@
     "model_trim": "SUV",
     "model_year": 2004
   },
-  {"model_make_id": "aston-martin",
-    "model_name": "Cygnet",
-    "model_trim": "Manual",
-    "model_year": 2011
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "Cygnet",
-    "model_trim": "CVT",
-    "model_year": 2011
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "One-77",
-    "model_trim": "",
-    "model_year": 2010
-  },
   {"model_make_id": "acura",
     "model_name": "MDX",
     "model_trim": "SUV",
@@ -56447,7 +56164,7 @@
   },
   {"model_make_id": "acura",
     "model_name": "ZDX",
-    "model_trim": "",
+    "model_trim": "SUV",
     "model_year": 2012
   },
    {"model_make_id": "aston-martin",
@@ -56467,22 +56184,7 @@
   },
   {"model_make_id": "aston-martin",
     "model_name": "Rapide",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "Rapide",
-    "model_trim": "Luxury",
-    "model_year": 2012
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "V12 Vantage",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "V12 Vantage",
-    "model_trim": "Carbon Black",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "aston-martin",
@@ -58088,16 +57790,6 @@
   {"model_make_id": "alfa-romeo",
     "model_name": "MiTo",
     "model_trim": "3-doors, hatchback",
-    "model_year": 2012
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "Cygnet",
-    "model_trim": "CVT",
-    "model_year": 2012
-  },
-  {"model_make_id": "aston-martin",
-    "model_name": "Cygnet",
-    "model_trim": "Manual",
     "model_year": 2012
   },
   {"model_make_id": "audi",
@@ -62442,17 +62134,7 @@
   },
   {"model_make_id": "acura",
     "model_name": "ILX",
-    "model_trim": "Hybrid",
-    "model_year": 2013
-  },
-  {"model_make_id": "acura",
-    "model_name": "ILX",
-    "model_trim": "5AT",
-    "model_year": 2013
-  },
-  {"model_make_id": "acura",
-    "model_name": "ILX",
-    "model_trim": "6MT",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "acura",
@@ -62472,7 +62154,7 @@
   },
   {"model_make_id": "acura",
     "model_name": "ZDX",
-    "model_trim": "",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "acura",
@@ -64086,18 +63768,13 @@
     "model_year": 2013
   },
   {"model_make_id": "aston-martin",
-    "model_name": "Cygnet",
-    "model_trim": "Base",
-    "model_year": 2013
-  },
-  {"model_make_id": "aston-martin",
     "model_name": "DB9",
     "model_trim": "Coupe / convertible",
     "model_year": 2013
   },
   {"model_make_id": "aston-martin",
     "model_name": "Rapide",
-    "model_trim": "Base",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "aston-martin",
@@ -64327,32 +64004,12 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "4dr Sedan w/Premium Package (2.4L 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan w/Technology Package (2.0L 4cyl 5A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan w/Premium Package (2.0L 4cyl 5A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Acura",
     "model_name": "ILX Hybrid",
-    "model_trim": "4dr Sedan w/Technology Package (1.5L 4cyl gas/electric hybrid CV",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX Hybrid",
-    "model_trim": "4dr Sedan (1.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Acura",
@@ -64366,33 +64023,8 @@
     "model_year": 2014
   },
   {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "4dr SUV w/Technology Package",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan w/Navigation (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "4dr Sedan w/Advance Package (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "4dr Sedan w/Technology Package (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "4dr Sedan w/Krell Audio Package (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Acura",
@@ -69007,7 +68639,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "NSX",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "2dr Coupe",
     "model_year": 2015
   },
   {"model_make_id": "Porsche",
@@ -69197,7 +68829,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Volkswagen",
@@ -70248,11 +69880,6 @@
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
     "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
     "model_year": 2015
   },
   {"model_make_id": "Acura",
@@ -71317,22 +70944,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Rolls-Royce",
@@ -71618,36 +71230,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2015
   },
   {"model_make_id": "Audi",
@@ -72177,27 +71759,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Lexus",
@@ -75132,7 +74694,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Volkswagen",
@@ -76195,11 +75757,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2016
   },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
-    "model_year": 2016
-  },
   {"model_make_id": "Aston Martin",
     "model_name": "V12 Vantage S",
     "model_trim": "2dr Coupe (6.0L 12cyl 7AM)",
@@ -77257,22 +76814,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Rolls-Royce",
@@ -77558,36 +77100,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2016
   },
   {"model_make_id": "Audi",
@@ -78102,27 +77614,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Lexus",
@@ -81062,7 +80554,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Volkswagen",
@@ -82118,11 +81610,6 @@
   {"model_make_id": "Acura",
     "model_name": "RDX",
     "model_trim": "4dr SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
     "model_year": 2017
   },
   {"model_make_id": "Aston Martin",
@@ -83187,22 +82674,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Rolls-Royce",
@@ -83488,36 +82960,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2017
   },
   {"model_make_id": "Audi",
@@ -84032,27 +83474,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Lexus",
@@ -87002,7 +86424,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Volkswagen",
@@ -88075,11 +87497,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2018
   },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
-    "model_year": 2018
-  },
   {"model_make_id": "Aston Martin",
     "model_name": "V12 Vantage S",
     "model_trim": "2dr Coupe (6.0L 12cyl 7AM)",
@@ -89137,22 +88554,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Rolls-Royce",
@@ -89438,36 +88840,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2018
   },
   {"model_make_id": "Audi",
@@ -89977,27 +89349,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Lexus",
@@ -92737,7 +92089,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "NSX",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "Coupe",
     "model_year": 2019
   },
   {"model_make_id": "Porsche",
@@ -92947,7 +92299,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Volkswagen",
@@ -94020,11 +93372,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
-    "model_year": 2019
-  },
   {"model_make_id": "Aston Martin",
     "model_name": "V12 Vantage S",
     "model_trim": "2dr Coupe (6.0L 12cyl 7AM)",
@@ -95067,22 +94414,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Rolls-Royce",
@@ -95368,36 +94700,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2019
   },
   {"model_make_id": "Audi",
@@ -95907,27 +95209,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Lexus",
@@ -98667,7 +97949,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "NSX",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "Coupe",
     "model_year": 2020
   },
   {"model_make_id": "Porsche",
@@ -98877,7 +98159,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Volkswagen",
@@ -99950,11 +99232,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
-    "model_year": 2020
-  },
   {"model_make_id": "Aston Martin",
     "model_name": "V12 Vantage S",
     "model_trim": "2dr Coupe (6.0L 12cyl 7AM)",
@@ -101012,22 +100289,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Rolls-Royce",
@@ -101313,36 +100575,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2020
   },
   {"model_make_id": "Audi",
@@ -101852,27 +101084,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Lexus",
@@ -104607,7 +103819,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "NSX",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "Coupe",
     "model_year": 2021
   },
   {"model_make_id": "Porsche",
@@ -104817,7 +104029,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Volkswagen",
@@ -105890,11 +105102,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2021
   },
-  {"model_make_id": "Acura",
-    "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
-    "model_year": 2021
-  },
   {"model_make_id": "Aston Martin",
     "model_name": "V12 Vantage S",
     "model_trim": "2dr Coupe (6.0L 12cyl 7AM)",
@@ -106952,22 +106159,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Rolls-Royce",
@@ -107253,36 +106445,6 @@
   {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
     "model_year": 2021
   },
   {"model_make_id": "Audi",
@@ -107797,27 +106959,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Lexus",
@@ -110562,8 +109704,13 @@
   },
   {"model_make_id": "Acura",
     "model_name": "NSX",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "2dr Coupe",
     "model_year": 2022
+  },
+  {"model_make_id": "Acura",
+    "model_name": "NSX",
+    "model_trim": "2dr Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Porsche",
     "model_name": "Macan",
@@ -110619,6 +109766,11 @@
     "model_name": "S3",
     "model_trim": "4dr Sedan AWD",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "S3",
+    "model_trim": "4dr Sedan AWD",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "X4",
@@ -110715,6 +109867,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Audi",
+    "model_name": "A8",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Chevrolet",
     "model_name": "Silverado 2500HD",
     "model_trim": "Work Truck 2dr Regular Cab LB (6.0L 8cyl 6A)",
@@ -110739,6 +109896,16 @@
     "model_name": "A3",
     "model_trim": "2dr Convertible",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "A3",
+    "model_trim": "2dr Convertible",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "A3",
+   "model_trim": "Sedan",
+   "model_year": 2023
   },
   {"model_make_id": "McLaren",
     "model_name": "P1",
@@ -110792,7 +109959,7 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (2.4L 4cyl 8AM)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Volkswagen",
@@ -111279,6 +110446,16 @@
     "model_name": "TT",
     "model_trim": "2.0T quattro 2dr Convertible AWD (2.0L 4cyl Turbo 6AM)",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "TT",
+    "model_trim": "Convertible",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "TT",
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "TTS",
@@ -111922,8 +111099,8 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RDX",
-    "model_trim": "Technology Package 4dr SUV",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Aston Martin",
     "model_name": "V12 Vantage S",
@@ -112640,6 +111817,11 @@
     "model_trim": "4dr SUV AWD",
     "model_year": 2022
   },
+  {"model_make_id": "Acura",
+    "model_name": "MDX",
+    "model_trim": "4dr SUV AWD",
+    "model_year": 2023
+  },
   {"model_make_id": "Nissan",
     "model_name": "Altima",
     "model_trim": "Sedan",
@@ -113067,23 +112249,13 @@
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "Technology Package 4dr Sedan (2.0L 4cyl 5A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Acura",
     "model_name": "ILX",
-    "model_trim": "4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.0L 4cyl 5A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "ILX",
-    "model_trim": "Premium Package 4dr Sedan (2.4L 4cyl 6M)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Rolls-Royce",
     "model_name": "Ghost Series II",
@@ -113099,6 +112271,11 @@
     "model_name": "A4",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "A4",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Jaguar",
     "model_name": "XJ",
@@ -113224,6 +112401,11 @@
     "model_name": "A6",
     "model_trim": "4dr Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "A6",
+    "model_trim": "4dr Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "S6",
@@ -113377,33 +112559,8 @@
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "Technology Package 4dr Sedan (2.4L 4cyl 8AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Technology Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "TLX",
-    "model_trim": "SH-AWD w/Advance Package 4dr Sedan AWD (3.5L 6cyl 9A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "R8",
@@ -113937,28 +113094,13 @@
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "4dr Sedan (3.5L 6cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Acura",
     "model_name": "RLX",
-    "model_trim": "Krell Audio Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Technology Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Navigation 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Acura",
-    "model_name": "RLX",
-    "model_trim": "Advance Package 4dr Sedan (3.5L 6cyl 6A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Lexus",
     "model_name": "CT 200h",
