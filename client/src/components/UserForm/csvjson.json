@@ -68439,7 +68439,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Cadillac",
@@ -69342,11 +69342,6 @@
     "model_trim": "Wagon",
     "model_year": 2015
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -69882,26 +69877,6 @@
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2015
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
@@ -70295,11 +70270,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2015
   },
   {"model_make_id": "GMC",
@@ -73959,7 +73929,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Cadillac",
@@ -74862,11 +74832,6 @@
     "model_trim": "Wagon",
     "model_year": 2016
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -75402,26 +75367,6 @@
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2016
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
@@ -75815,11 +75760,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2016
   },
   {"model_make_id": "GMC",
@@ -79459,7 +79399,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Cadillac",
@@ -80362,11 +80302,6 @@
     "model_trim": "Wagon",
     "model_year": 2017
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -80907,26 +80842,6 @@
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2017
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
@@ -81320,11 +81235,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2017
   },
   {"model_make_id": "GMC",
@@ -84984,7 +84894,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Cadillac",
@@ -85897,11 +85807,6 @@
     "model_trim": "Wagon",
     "model_year": 2018
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -86437,26 +86342,6 @@
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2018
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
@@ -86850,11 +86735,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2018
   },
   {"model_make_id": "GMC",
@@ -90507,11 +90387,6 @@
     "model_trim": "Wagon",
     "model_year": 2019
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
     "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
@@ -91422,11 +91297,6 @@
     "model_trim": "Wagon",
     "model_year": 2019
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -91949,22 +91819,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Hyundai",
@@ -92360,11 +92215,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2019
   },
   {"model_make_id": "GMC",
@@ -96019,7 +95869,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Cadillac",
@@ -96932,11 +96782,6 @@
     "model_trim": "Wagon",
     "model_year": 2020
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -97472,26 +97317,6 @@
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2020
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
@@ -97885,11 +97710,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2020
   },
   {"model_make_id": "GMC",
@@ -101539,7 +101359,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Cadillac",
@@ -102452,11 +102272,6 @@
     "model_trim": "Wagon",
     "model_year": 2021
   },
-  {"model_make_id": "BMW",
-    "model_name": "X4",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
     "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -102992,26 +102807,6 @@
     "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2021
   },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
@@ -103405,11 +103200,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2021
   },
   {"model_make_id": "GMC",
@@ -107169,7 +106959,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Cadillac",
@@ -108155,7 +107945,7 @@
   {"model_make_id": "BMW",
     "model_name": "X4",
     "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
@@ -108577,6 +108367,11 @@
     "model_trim": "2dr Convertible (4.4L 8cyl Turbo 7AM)",
     "model_year": 2022
   },
+  {"model_make_id": "BMW",
+    "model_name": "M6",
+    "model_trim": "2dr Convertible (4.4L 8cyl Turbo 7AM)",
+    "model_year": 2023
+  },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "SLS AMG GT Final Edition",
     "model_trim": "2dr Coupe (6.2L 8cyl 7AM)",
@@ -108749,23 +108544,8 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "428i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf",
@@ -109187,6 +108967,16 @@
     "model_trim": "2dr Convertible (3.0L 6cyl Turbo 6M)",
     "model_year": 2022
   },
+  {"model_make_id": "BMW",
+    "model_name": "M4",
+    "model_trim": "2dr Convertible (3.0L 6cyl Turbo 6M)",
+    "model_year": 2023
+  },
+  {"model_make_id": "BMW",
+    "model_name": "M4",
+    "model_trim": "Coupe",
+    "model_year": 2023
+  },
   {"model_make_id": "FIAT",
     "model_name": "500e",
     "model_trim": "2dr Hatchback (electric DD)",
@@ -109205,11 +108995,6 @@
   {"model_make_id": "Buick",
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series Gran Coupe",
-    "model_trim": "435i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2022
   },
   {"model_make_id": "GMC",
@@ -111071,6 +110856,11 @@
     "model_name": "ALPINA B6 Gran Coupe",
     "model_trim": "xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2022
+  },
+  {"model_make_id": "BMW",
+    "model_name": "ALPINA B6 Gran Coupe",
+    "model_trim": "xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
+    "model_year": 2023
   },
   {"model_make_id": "Toyota",
     "model_name": "Sequoia",
