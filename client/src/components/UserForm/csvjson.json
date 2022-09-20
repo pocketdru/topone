@@ -53392,41 +53392,6 @@
     "model_trim": "Sedan",
     "model_year": 2011
   },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": 1.2,
-    "model_year": 2010
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": 1.4,
-    "model_year": 2010
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": "1.6 TDi",
-    "model_year": 2010
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": 1.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": 1.4,
-    "model_year": 2011
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": "1.6 TDi",
-    "model_year": 2011
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": "2.0 TDi",
-    "model_year": 2011
-  },
   {"model_make_id": "seat",
     "model_name": "Altea",
     "model_trim": "2.0 FSi",
@@ -55124,47 +55089,37 @@
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1973
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1974
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "GL",
+    "model_trim": "Sedan",
     "model_year": 1975
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "GLE",
-    "model_year": 1975
-  },
-  {"model_make_id": "audi",
-    "model_name": "Fox",
-    "model_trim": "LS",
-    "model_year": 1975
-  },
-  {"model_make_id": "audi",
-    "model_name": "Fox",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1976
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1977
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1978
   },
   {"model_make_id": "audi",
     "model_name": "Fox",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 1979
   },
   {"model_make_id": "audi",
@@ -56214,7 +56169,7 @@
   },
   {"model_make_id": "audi",
     "model_name": "A7",
-    "model_trim": "3.0 TSI",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "audi",
@@ -56254,7 +56209,7 @@
   },
   {"model_make_id": "audi",
     "model_name": "S7",
-    "model_trim": 4,
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "audi",
@@ -57792,26 +57747,6 @@
     "model_trim": "3-doors, hatchback",
     "model_year": 2012
   },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": 1.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": 1.4,
-    "model_year": 2012
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": "1.6 TDi",
-    "model_year": 2012
-  },
-  {"model_make_id": "audi",
-    "model_name": "A1",
-    "model_trim": "2.0 TDi",
-    "model_year": 2012
-  },
   {"model_make_id": "brilliance",
     "model_name": "BS4",
     "model_trim": 1.8,
@@ -58824,37 +58759,12 @@
   },
   {"model_make_id": "audi",
     "model_name": "A7",
-    "model_trim": "2.8 FSI",
+    "model_trim": "Sedan",
     "model_year": 2011
-  },
-  {"model_make_id": "audi",
-    "model_name": "A7",
-    "model_trim": "3.0 TDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "audi",
-    "model_name": "A7",
-    "model_trim": "3.0 TSI",
-    "model_year": 2011
-  },
- {"model_make_id": "audi",
-    "model_name": "A7",
-    "model_trim": "2.8 FSI",
-    "model_year": 2012
-  },
-  {"model_make_id": "audi",
-    "model_name": "A7",
-    "model_trim": "3.0 TDI",
-    "model_year": 2012
   },
   {"model_make_id": "audi",
     "model_name": "Q3",
-    "model_trim": "2.0T",
-    "model_year": 2012
-  },
-  {"model_make_id": "audi",
-    "model_name": "Q3",
-    "model_trim": "2.0 TDI",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "audi",
@@ -61367,16 +61277,6 @@
     "model_trim": "Sedan",
     "model_year": 1957
   },
-  {"model_make_id": "audi",
-    "model_name": "Q3",
-    "model_trim": "2.0 TDI Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "audi",
-    "model_name": "Q3",
-    "model_trim": "2.0T Automatic",
-    "model_year": 2012
-  },
   {"model_make_id": "dodge",
     "model_name": "Ram",
     "model_trim": "Wagon Passenger",
@@ -63389,17 +63289,7 @@
   },
   {"model_make_id": "audi",
     "model_name": "A7",
-    "model_trim": "Premium",
-    "model_year": 2013
-  },
-  {"model_make_id": "audi",
-    "model_name": "A7",
-    "model_trim": "Premium Plus",
-    "model_year": 2013
-  },
-  {"model_make_id": "audi",
-    "model_name": "A7",
-    "model_trim": "Prestige",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "audi",
@@ -64124,12 +64014,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2014
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Audi",
@@ -64144,7 +64029,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6AM)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Audi",
@@ -64199,7 +64084,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Audi",
@@ -64209,7 +64094,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Audi",
@@ -68634,7 +68519,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "Acura",
@@ -71069,12 +70954,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "Audi",
@@ -71089,27 +70969,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Mazda",
@@ -72160,21 +72025,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Volkswagen",
@@ -74479,7 +74329,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "Acura",
@@ -76939,12 +76789,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "Audi",
@@ -76959,27 +76804,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Mazda",
@@ -78000,21 +77830,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Volkswagen",
@@ -80334,7 +80149,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "Acura",
@@ -82799,12 +82614,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "Audi",
@@ -82819,27 +82629,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Mazda",
@@ -83865,21 +83660,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Volkswagen",
@@ -86209,7 +85989,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "Acura",
@@ -88679,12 +88459,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "Audi",
@@ -88699,27 +88474,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Mazda",
@@ -89740,21 +89500,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Volkswagen",
@@ -92084,7 +91829,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "Acura",
@@ -94539,12 +94284,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "Audi",
@@ -94559,27 +94299,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Mazda",
@@ -95600,21 +95325,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Volkswagen",
@@ -97944,7 +97654,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "Acura",
@@ -100414,12 +100124,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "Audi",
@@ -100434,27 +100139,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Mazda",
@@ -101475,21 +101165,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Volkswagen",
@@ -103814,7 +103489,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "Acura",
@@ -106284,12 +105959,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "Audi",
@@ -106304,27 +105974,12 @@
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Mazda",
@@ -107340,21 +106995,6 @@
   {"model_make_id": "Scion",
     "model_name": "iQ",
     "model_trim": "Hatchback",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Volkswagen",
@@ -109699,7 +109339,7 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Premium Plus 4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2022
   },
   {"model_make_id": "Acura",
@@ -109751,6 +109391,11 @@
     "model_name": "A3 e-tron",
     "model_trim": "4dr Hatchback (1.4L 4cyl gas/electric hybrid 6AM)",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "A3 e-tron",
+    "model_trim": "4dr Hatchback (1.4L 4cyl gas/electric hybrid 6AM)",
+    "model_year": 2023
   },
   {"model_make_id": "Alfa Romeo",
     "model_name": "4C",
@@ -110466,6 +110111,16 @@
     "model_name": "TTS",
     "model_trim": "quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6AM)",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "TTS",
+    "model_trim": "quattro 2dr Convertible AWD (2.0L 4cyl Turbo 6AM)",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "TTS",
+    "model_trim": "quattro 2dr Coupe AWD (2.0L 4cyl Turbo 6AM)",
+    "model_year": 2023
   },
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
@@ -111877,6 +111532,11 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2022
   },
+  {"model_make_id": "Audi",
+    "model_name": "S8",
+    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_year": 2023
+  },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
     "model_trim": "1LT 4dr Hatchback (electric DD)",
@@ -112343,9 +112003,19 @@
     "model_year": 2022
   },
   {"model_make_id": "Audi",
+    "model_name": "S4",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
     "model_name": "allroad",
     "model_trim": "4dr Wagon AWD",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "allroad",
+    "model_trim": "4dr Wagon AWD",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Escape",
@@ -112363,6 +112033,16 @@
     "model_year": 2022
   },
   {"model_make_id": "Audi",
+    "model_name": "A5",
+    "model_trim": "2dr Coupe AWD",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "A5",
+    "model_trim": "2dr Convertible AWD",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
     "model_name": "S5",
     "model_trim": "2dr Coupe AWD",
     "model_year": 2022
@@ -112371,6 +112051,16 @@
     "model_name": "S5",
     "model_trim": "2dr Convertible AWD",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "S5",
+    "model_trim": "2dr Coupe AWD",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "S5",
+    "model_trim": "2dr Convertible AWD",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "RS 5",
@@ -112383,19 +112073,34 @@
     "model_year": 2022
   },
   {"model_make_id": "Audi",
+    "model_name": "RS 5",
+    "model_trim": "quattro 2dr Coupe AWD (4.2L 8cyl 7AM)",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "RS 5",
+    "model_trim": "quattro 2dr Convertible AWD (4.2L 8cyl 7AM)",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
     "model_name": "Q5",
     "model_trim": "4dr SUV AWD",
     "model_year": 2022
   },
   {"model_make_id": "Audi",
+    "model_name": "Q5",
+    "model_trim": "4dr SUV AWD",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Premium Plus quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "SUV",
     "model_year": 2022
   },
   {"model_make_id": "Audi",
     "model_name": "SQ5",
-    "model_trim": "3.0T Prestige quattro 4dr SUV AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "A6",
@@ -112413,29 +112118,29 @@
     "model_year": 2022
   },
   {"model_make_id": "Audi",
+    "model_name": "S6",
+    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Audi",
     "model_name": "A7",
-    "model_trim": "Prestige quattro 4dr Sedan AWD (3.0L 6cyl S/C 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Premium Plus quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A",
-    "model_year": 2022
-  },
-  {"model_make_id": "Audi",
-    "model_name": "A7",
-    "model_trim": "TDI Prestige quattro 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_name": "S7",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Audi",
     "model_name": "S7",
-    "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 7AM)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Mazda",
     "model_name": "Mazda3",
@@ -112553,9 +112258,19 @@
     "model_year": 2022
   },
   {"model_make_id": "Audi",
+    "model_name": "RS 7",
+    "model_trim": "Prestige quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
     "model_name": "Q7",
     "model_trim": "4dr SUV AWD",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "Q7",
+    "model_trim": "4dr SUV AWD",
+    "model_year": 2023
   },
   {"model_make_id": "Acura",
     "model_name": "TLX",
@@ -112571,6 +112286,16 @@
     "model_name": "R8",
     "model_trim": "Coupe",
     "model_year": 2022
+  },
+  {"model_make_id": "Audi",
+    "model_name": "R8",
+    "model_trim": "Convertible",
+    "model_year": 2023
+  },
+  {"model_make_id": "Audi",
+    "model_name": "R8",
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "M-Class",
@@ -113569,18 +113294,8 @@
   },
   {"model_make_id": "Audi",
     "model_name": "Q3",
-    "model_trim": "Prestige 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Premium Plus quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Audi",
-    "model_name": "Q3",
-    "model_trim": "Prestige quattro 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Volkswagen",
     "model_name": "CC",
