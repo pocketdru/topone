@@ -7613,11 +7613,6 @@
     "model_year": 2009
   },
   {"model_make_id": "bmw",
-    "model_name": "S3",
-    "model_trim": 3.2,
-    "model_year": 1997
-  },
-  {"model_make_id": "bmw",
     "model_name": "7 series",
     "model_trim": "Cabriolet",
     "model_year": 1963
@@ -8101,11 +8096,6 @@
     "model_name": "7 series",
     "model_trim": "Sedan",
     "model_year": 1991
-  },
-  {"model_make_id": "bmw",
-    "model_name": "S3",
-    "model_trim": "Sport CLS Sedan",
-    "model_year": 1995
   },
   {"model_make_id": "bmw",
     "model_name": "6 Series",
@@ -50249,12 +50239,12 @@
   },
   {"model_make_id": "bentley",
     "model_name": "Continental Supersports",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2010
   },
   {"model_make_id": "bentley",
     "model_name": "Continental Supersports",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2011
   },
   {"model_make_id": "bentley",
@@ -56264,7 +56254,7 @@
   },
   {"model_make_id": "bmw",
     "model_name": "X1",
-    "model_trim": "xDrive30i",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "bmw",
@@ -58820,21 +58810,6 @@
   {"model_make_id": "bmw",
     "model_name": "7 series",
     "model_trim": "Sedan",
-    "model_year": 2012
-  },
-  {"model_make_id": "bmw",
-    "model_name": "X1",
-    "model_trim": "xDrive18d",
-    "model_year": 2012
-  },
-  {"model_make_id": "bmw",
-    "model_name": "X1",
-    "model_trim": "xDrive20d",
-    "model_year": 2012
-  },
-  {"model_make_id": "bmw",
-    "model_name": "X1",
-    "model_trim": "xDrive23d",
     "model_year": 2012
   },
   {"model_make_id": "chevrolet",
@@ -62069,212 +62044,52 @@
   },
   {"model_make_id": "bmw",
     "model_name": "3 Series",
-    "model_trim": "Sedan 328i",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "3 Series",
-    "model_trim": "Sedan 328i xDrive",
+    "model_trim": "Coupe",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "3 Series",
-    "model_trim": "Sedan 335i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Sedan 335i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Coupe 328i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Coupe 328i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Coupe 335i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Coupe 335is",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Coupe 335i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Convertible 328i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Convertible 335i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "3 Series",
-    "model_trim": "Convertible 335is",
+    "model_trim": "Convertible",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "5 Series",
-    "model_trim": "Sedan 528i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Sedan 528i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Sedan 535i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Sedan 535i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Sedan 550i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Sedan 550i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Gran Turismo 535i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Gran Turismo 535i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Gran Turismo 550i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "5 Series",
-    "model_trim": "Gran Turismo 550i xDrive",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "6 series",
-    "model_trim": "Gran Coupe 640i",
+    "model_trim": "Coupe",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "6 series",
-    "model_trim": "Gran Coupe 650i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Gran Coupe 650i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Coupe 640i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Coupe 650i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Coupe 650i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Convertible 640i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Convertible 650i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "6 series",
-    "model_trim": "Convertible 650i xDrive",
+    "model_trim": "Convertible",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "7 Series",
-    "model_trim": "Sedan 740i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 740Li",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 740Li xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 750i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 750i xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 750Li",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 750Li xDrive",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "7 Series",
-    "model_trim": "Sedan 760Li",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "ActiveHybrid 3",
-    "model_trim": "Base",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "ActiveHybrid 5",
-    "model_trim": "Base",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
     "model_name": "ActiveHybrid 7",
-    "model_trim": "Base",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
@@ -62294,17 +62109,7 @@
   },
   {"model_make_id": "bmw",
     "model_name": "X1",
-    "model_trim": "xDrive351i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "X1",
-    "model_trim": "sDrive28i",
-    "model_year": 2013
-  },
-  {"model_make_id": "bmw",
-    "model_name": "X1",
-    "model_trim": "xDrive28i",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
@@ -64124,297 +63929,67 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
-    "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 7",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
@@ -64434,17 +64009,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "BMW",
@@ -68869,7 +68434,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -69694,22 +69259,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -69749,22 +69304,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Acura",
@@ -69949,42 +69489,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "GMC",
@@ -70349,12 +69859,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
@@ -71109,67 +70614,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Lincoln",
@@ -71249,62 +70699,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2015
   },
   {"model_make_id": "smart",
@@ -71354,17 +70754,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Ram",
@@ -71372,39 +70762,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2015
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2015
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2015
   },
   {"model_make_id": "Ram",
@@ -71440,46 +70805,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2015
   },
   {"model_make_id": "Hyundai",
@@ -71729,17 +71054,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Land Rover",
@@ -71779,32 +71094,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "Hyundai",
@@ -71999,22 +71289,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Toyota",
@@ -72414,7 +71689,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Ram",
@@ -72422,19 +71697,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2015
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2015
   },
   {"model_make_id": "Ram",
@@ -72450,11 +71715,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2015
   },
   {"model_make_id": "Ram",
@@ -74187,16 +73447,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2015
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Nissan",
     "model_name": "Juke",
     "model_trim": "NISMO 4dr Hatchback (1.6L 4cyl Turbo 6M)",
@@ -74704,7 +73954,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
@@ -75524,22 +74774,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
@@ -75579,22 +74819,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Hyundai",
@@ -75784,42 +75009,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2016
   },
   {"model_make_id": "GMC",
@@ -76184,12 +75379,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
@@ -76944,67 +76134,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Lincoln",
@@ -77084,62 +76219,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2016
   },
   {"model_make_id": "smart",
@@ -77184,17 +76269,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Ram",
@@ -77202,39 +76277,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2016
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2016
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2016
   },
   {"model_make_id": "Ram",
@@ -77270,46 +76320,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2016
   },
   {"model_make_id": "Hyundai",
@@ -77539,17 +76549,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2016
   },
   {"model_make_id": "Land Rover",
@@ -77589,32 +76589,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2016
   },
   {"model_make_id": "Hyundai",
@@ -77804,22 +76779,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2016
   },
   {"model_make_id": "Toyota",
@@ -78219,7 +77179,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Ram",
@@ -78227,19 +77187,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2016
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2016
   },
   {"model_make_id": "Ram",
@@ -78255,11 +77205,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2016
   },
   {"model_make_id": "Ram",
@@ -80007,16 +78952,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2016
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Nissan",
     "model_name": "Juke",
     "model_trim": "NISMO 4dr Hatchback (1.6L 4cyl Turbo 6M)",
@@ -80520,11 +79455,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC70",
     "model_trim": "Wagon",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
@@ -81344,22 +80274,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "GMC",
@@ -81399,22 +80319,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Hyundai",
@@ -81604,42 +80509,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
@@ -82009,12 +80884,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
@@ -82769,67 +81639,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Lincoln",
@@ -82909,62 +81724,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2017
   },
   {"model_make_id": "smart",
@@ -83009,17 +81774,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Ram",
@@ -83027,39 +81782,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2017
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2017
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2017
   },
   {"model_make_id": "Ram",
@@ -83095,46 +81825,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2017
   },
   {"model_make_id": "Hyundai",
@@ -83369,17 +82059,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2017
   },
   {"model_make_id": "Land Rover",
@@ -83419,32 +82099,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2017
   },
   {"model_make_id": "Hyundai",
@@ -83634,22 +82294,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2017
   },
   {"model_make_id": "Toyota",
@@ -84064,7 +82709,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Ram",
@@ -84072,19 +82717,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2017
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2017
   },
   {"model_make_id": "Ram",
@@ -84100,11 +82735,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2017
   },
   {"model_make_id": "Ram",
@@ -85847,16 +84477,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2017
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Nissan",
     "model_name": "Juke",
     "model_trim": "NISMO 4dr Hatchback (1.6L 4cyl Turbo 6M)",
@@ -86360,11 +84980,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC70",
     "model_trim": "Wagon",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
@@ -87194,22 +85809,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "GMC",
@@ -87249,22 +85854,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Hyundai",
@@ -87454,42 +86044,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2018
   },
   {"model_make_id": "GMC",
@@ -87854,12 +86414,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
@@ -88614,67 +87169,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Lincoln",
@@ -88754,62 +87254,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2018
   },
   {"model_make_id": "smart",
@@ -88854,17 +87304,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Ram",
@@ -88872,39 +87312,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2018
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2018
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2018
   },
   {"model_make_id": "Ram",
@@ -88940,46 +87355,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2018
   },
   {"model_make_id": "Hyundai",
@@ -89209,17 +87584,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2018
   },
   {"model_make_id": "Land Rover",
@@ -89259,32 +87624,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2018
   },
   {"model_make_id": "Hyundai",
@@ -89474,22 +87819,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2018
   },
   {"model_make_id": "Toyota",
@@ -89904,7 +88234,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Ram",
@@ -89912,19 +88242,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2018
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2018
   },
   {"model_make_id": "Ram",
@@ -89940,11 +88260,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2018
   },
   {"model_make_id": "Ram",
@@ -91687,16 +90002,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2018
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Nissan",
     "model_name": "Juke",
     "model_trim": "NISMO 4dr Hatchback (1.6L 4cyl Turbo 6M)",
@@ -92200,11 +90505,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC70",
     "model_trim": "Wagon",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
@@ -93034,22 +91334,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "GMC",
@@ -93089,22 +91379,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Hyundai",
@@ -93294,42 +91569,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2019
   },
   {"model_make_id": "GMC",
@@ -93679,12 +91924,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Chevrolet",
@@ -94439,67 +92679,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Lincoln",
@@ -94579,62 +92764,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2019
   },
   {"model_make_id": "smart",
@@ -94679,17 +92814,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Ram",
@@ -94697,39 +92822,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2019
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2019
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2019
   },
   {"model_make_id": "Ram",
@@ -94765,46 +92865,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2019
   },
   {"model_make_id": "Hyundai",
@@ -95034,17 +93094,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2019
   },
   {"model_make_id": "Land Rover",
@@ -95084,32 +93134,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2019
   },
   {"model_make_id": "Hyundai",
@@ -95299,22 +93329,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2019
   },
   {"model_make_id": "Toyota",
@@ -95729,7 +93744,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Ram",
@@ -95737,19 +93752,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2019
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2019
   },
   {"model_make_id": "Ram",
@@ -95765,11 +93770,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2019
   },
   {"model_make_id": "Ram",
@@ -97512,16 +95512,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2019
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Nissan",
     "model_name": "Juke",
     "model_trim": "NISMO 4dr Hatchback (1.6L 4cyl Turbo 6M)",
@@ -98025,11 +96015,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC70",
     "model_trim": "Wagon",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
@@ -98859,22 +96844,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "GMC",
@@ -98914,22 +96889,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Hyundai",
@@ -99119,42 +97079,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2020
   },
   {"model_make_id": "GMC",
@@ -99519,12 +97449,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Chevrolet",
@@ -100279,67 +98204,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Lincoln",
@@ -100419,62 +98289,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2020
   },
   {"model_make_id": "smart",
@@ -100519,17 +98339,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Ram",
@@ -100537,39 +98347,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2020
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2020
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Ram",
@@ -100605,46 +98390,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Hyundai",
@@ -100874,17 +98619,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2020
   },
   {"model_make_id": "Land Rover",
@@ -100924,32 +98659,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2020
   },
   {"model_make_id": "Hyundai",
@@ -101139,22 +98854,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2020
   },
   {"model_make_id": "Toyota",
@@ -101569,7 +99269,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Ram",
@@ -101577,19 +99277,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2020
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Ram",
@@ -101605,11 +99295,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Ram",
@@ -103347,16 +101032,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2020
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Nissan",
     "model_name": "Juke",
     "model_trim": "NISMO 4dr Hatchback (1.6L 4cyl Turbo 6M)",
@@ -103860,11 +101535,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC70",
     "model_trim": "Wagon",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
@@ -104694,22 +102364,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "GMC",
@@ -104749,22 +102409,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Hyundai",
@@ -104954,42 +102599,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2021
   },
   {"model_make_id": "GMC",
@@ -105354,12 +102969,7 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Bentley",
-    "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Chevrolet",
@@ -106119,67 +103729,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Lincoln",
@@ -106259,62 +103814,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2021
   },
   {"model_make_id": "smart",
@@ -106359,17 +103864,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Ram",
@@ -106377,39 +103872,14 @@
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2021
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2021
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Ram",
@@ -106445,46 +103915,6 @@
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
     "model_trim": "4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Hyundai",
@@ -106704,17 +104134,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2021
   },
   {"model_make_id": "Land Rover",
@@ -106754,32 +104174,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2021
   },
   {"model_make_id": "Hyundai",
@@ -106969,22 +104369,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2021
   },
   {"model_make_id": "Toyota",
@@ -107399,7 +104784,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Ram",
@@ -107407,19 +104792,9 @@
     "model_trim": "Lone Star 4dr Crew Cab 4WD LB (5.7L 8cyl 6A)",
     "model_year": 2021
   },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Ram",
@@ -107435,11 +104810,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Ram",
@@ -109187,16 +106557,6 @@
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
     "model_year": 2021
   },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Toyota",
     "model_name": "Prius v",
     "model_trim": "Wagon",
@@ -109361,6 +106721,11 @@
     "model_name": "M3",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo 6M)",
     "model_year": 2022
+  },
+  {"model_make_id": "BMW",
+    "model_name": "M3",
+    "model_trim": "4dr Sedan (3.0L 6cyl Turbo 6M)",
+    "model_year": 2023
   },
   {"model_make_id": "Porsche",
     "model_name": "918 Spyder",
@@ -109803,11 +107168,6 @@
     "model_year": 2023
   },
   {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
     "model_trim": "428i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
     "model_year": 2022
@@ -110086,6 +107446,11 @@
     "model_name": "X3",
     "model_trim": "4dr SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "BMW",
+    "model_name": "X3",
+    "model_trim": "4dr SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "TT",
@@ -110668,29 +108033,24 @@
     "model_year": 2022
   },
   {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Ld xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
+    "model_name": "X1",
+    "model_trim": "SUV",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "X1",
-    "model_trim": "sDrive28i 4dr SUV (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "X1",
-    "model_trim": "xDrive35i 4dr SUV AWD (3.0L 6cyl Turbo 6A)",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "Z4",
     "model_trim": "2dr Convertible",
     "model_year": 2022
+  },
+  {"model_make_id": "BMW",
+    "model_name": "Z4",
+    "model_trim": "2dr Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 2500HD",
@@ -110724,23 +108084,13 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "650i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series Gran Coupe",
-    "model_trim": "640i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Hyundai",
     "model_name": "Genesis",
@@ -110949,43 +108299,23 @@
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Convertible AWD (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i 2dr Coupe (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
-    "model_trim": "650i 2dr Coupe (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i xDrive 2dr Coupe AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "640i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "6 Series",
-    "model_trim": "650i 2dr Convertible (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 3500HD",
@@ -111262,6 +108592,11 @@
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
     "model_year": 2022
   },
+  {"model_make_id": "BMW",
+    "model_name": "M6 Gran Coupe",
+    "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
+    "model_year": 2023
+  },
   {"model_make_id": "Lincoln",
     "model_name": "MKZ",
     "model_trim": "Sedan",
@@ -111286,6 +108621,16 @@
     "model_name": "Continental GT",
     "model_trim": "2dr Convertible AWD",
     "model_year": 2022
+  },
+  {"model_make_id": "Bentley",
+    "model_name": "Continental GT",
+    "model_trim": "2dr Coupe AWD",
+    "model_year": 2023
+  },
+  {"model_make_id": "Bentley",
+    "model_name": "Continental GT",
+    "model_trim": "2dr Convertible AWD",
+    "model_year": 2023
   },
   {"model_make_id": "Scion",
     "model_name": "FR-S",
@@ -111369,13 +108714,13 @@
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (6.0L 12cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
-    "model_trim": "4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Impala",
@@ -112304,68 +109649,23 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Wagon",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "320i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "328i 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series",
-    "model_trim": "328i SULEV 4dr Sedan (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive SULEV 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d 4dr Sedan (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Sedan AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "335i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "ActiveHybrid 3 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328i xDrive 4dr Wagon AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series",
-    "model_trim": "328d xDrive 4dr Wagon AWD (2.0L 4cyl Turbodiesel 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Lincoln",
     "model_name": "MKX",
@@ -112444,63 +109744,23 @@
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i 2dr Coupe (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
-    "model_trim": "428i 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Convertible (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i 2dr Convertible (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "435i xDrive 2dr Convertible AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "4 Series",
-    "model_trim": "428i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "smart",
     "model_name": "fortwo",
@@ -112554,27 +109814,17 @@
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i 4dr Sedan (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series",
-    "model_trim": "528i xDrive 4dr Sedan AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "1500 Low Roof 3dr Van w/118\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535i xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
     "model_year": 2022
   },
   {"model_make_id": "Ram",
@@ -112582,29 +109832,9 @@
     "model_trim": "1500 Low Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
     "model_year": 2022
   },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d 4dr Sedan (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "535d xDrive 4dr Sedan AWD (3.0L 6cyl Turbodiesel 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
     "model_trim": "2500 High Roof 3dr Van w/136\" Wheelbase (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series",
-    "model_trim": "550i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2022
   },
   {"model_make_id": "Ram",
@@ -112644,43 +109874,13 @@
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740i 4dr Sedan (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
-    "model_trim": "740Li xDrive 4dr Sedan AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750Li xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "750i xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "7 Series",
-    "model_trim": "760Li 4dr Sedan (6.0L 12cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Hyundai",
     "model_name": "Tucson",
@@ -112817,6 +110017,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "BMW",
+    "model_name": "X5",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Acura",
     "model_name": "RLX",
     "model_trim": "Sedan",
@@ -112919,18 +110124,13 @@
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
-    "model_trim": "328i xDrive SULEV 4dr Hatchback AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "3 Series Gran Turismo",
-    "model_trim": "335i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover",
@@ -112979,33 +110179,23 @@
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Convertible",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i SULEV 2dr Coupe (2.0L 4cyl Turbo 8A)",
+    "model_trim": "Coupe",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i xDrive SULEV 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Coupe AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Coupe (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i xDrive 2dr Coupe AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
@@ -113061,6 +110251,11 @@
     "model_name": "ActiveHybrid 5",
     "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
     "model_year": 2022
+  },
+  {"model_make_id": "BMW",
+    "model_name": "ActiveHybrid 5",
+    "model_trim": "4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
+    "model_year": 2023
   },
   {"model_make_id": "Alfa Romeo",
     "model_name": "4C",
@@ -113192,6 +110387,11 @@
     "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
     "model_year": 2022
   },
+  {"model_make_id": "BMW",
+    "model_name": "ActiveHybrid 7",
+    "model_trim": "740Li 4dr Sedan (3.0L 6cyl Turbo gas/electric hybrid 8A)",
+    "model_year": 2023
+  },
   {"model_make_id": "Chevrolet",
     "model_name": "Equinox",
     "model_trim": "SUV",
@@ -113253,24 +110453,19 @@
     "model_year": 2022
   },
   {"model_make_id": "BMW",
+    "model_name": "M5",
+    "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
+    "model_year": 2023
+  },
+  {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i 4dr Hatchback (3.0L 6cyl Turbo 8A)",
+    "model_trim": "Hatchback",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "5 Series Gran Turismo",
-    "model_trim": "535i xDrive 4dr Hatchback AWD (3.0L 6cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i 4dr Hatchback (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "5 Series Gran Turismo",
-    "model_trim": "550i xDrive 4dr Hatchback AWD (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Toyota",
     "model_name": "Venza",
@@ -113734,7 +110929,7 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "SWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Ram",
@@ -113744,17 +110939,12 @@
   },
   {"model_make_id": "BMW",
     "model_name": "ALPINA B7",
-    "model_trim": "LWB 4dr Sedan (4.4L 8cyl Turbo 8A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Big Horn 4dr Crew Cab LB (5.7L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "SWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2022
   },
   {"model_make_id": "Ram",
@@ -113770,11 +110960,6 @@
   {"model_make_id": "Ram",
     "model_name": 3500,
     "model_trim": "Tradesman 4dr Crew Cab SB (5.7L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "ALPINA B7",
-    "model_trim": "LWB xDrive 4dr Sedan AWD (4.4L 8cyl Turbo 8A)",
     "model_year": 2022
   },
   {"model_make_id": "Ram",
@@ -114656,6 +111841,11 @@
     "model_name": "Mulsanne",
     "model_trim": "4dr Sedan (6.8L 8cyl Turbo 8A)",
     "model_year": 2022
+  },
+  {"model_make_id": "Bentley",
+    "model_name": "Mulsanne",
+    "model_trim": "4dr Sedan (6.8L 8cyl Turbo 8A)",
+    "model_year": 2023
   },
   {"model_make_id": "Lexus",
     "model_name": "GS 450h",
@@ -115675,16 +112865,6 @@
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 SL 4dr Hatchback (1.6L 4cyl CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "228i xDrive 2dr Convertible AWD (2.0L 4cyl Turbo 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "BMW",
-    "model_name": "2 Series",
-    "model_trim": "M235i 2dr Convertible (3.0L 6cyl Turbo 8A)",
     "model_year": 2022
   },
   {"model_make_id": "Toyota",
