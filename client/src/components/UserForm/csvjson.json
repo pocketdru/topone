@@ -8277,11 +8277,6 @@
     "model_trim": "Sedan",
     "model_year": 1998
   },
-  {"model_make_id": "brilliance",
-    "model_name": "BS4",
-    "model_trim": "Coupe",
-    "model_year": 2009
-  },
   {"model_make_id": "buick",
     "model_name": "LaCrosse",
     "model_trim": "Sedan",
@@ -8996,11 +8991,6 @@
     "model_name": "Riviera",
     "model_trim": "Coupe",
     "model_year": 1999
-  },
-  {"model_make_id": "buick",
-    "model_name": "Centieme",
-    "model_trim": "Concept",
-    "model_year": 2003
   },
   {"model_make_id": "buick",
     "model_name": "GS",
@@ -10576,11 +10566,6 @@
     "model_name": "Seville",
     "model_trim": "Sedan",
     "model_year": 1977
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "Park Avenue",
-    "model_trim": "",
-    "model_year": 1963
   },
   {"model_make_id": "cadillac",
     "model_name": "Catera",
@@ -53472,36 +53457,6 @@
     "model_trim": "3-doors, coupe",
     "model_year": 2010
   },
-  {"model_make_id": "brilliance",
-    "model_name": "BS4",
-    "model_trim": 1.8,
-    "model_year": 2010
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS4",
-    "model_trim": 1.8,
-    "model_year": 2011
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS6",
-    "model_trim": "2.0 Comfort",
-    "model_year": 2010
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS6",
-    "model_trim": 2.4,
-    "model_year": 2010
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS6",
-    "model_trim": "2.0 Comfort",
-    "model_year": 2011
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS6",
-    "model_trim": 2.4,
-    "model_year": 2011
-  },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
     "model_trim": 2.4,
@@ -55442,16 +55397,6 @@
     "model_trim": "Sedan",
     "model_year": 2011
   },
-  {"model_make_id": "cadillac",
-    "model_name": "Park Avenue",
-    "model_trim": "",
-    "model_year": 1961
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "Park Avenue",
-    "model_trim": "",
-    "model_year": 1962
-  },
   {"model_make_id": "chevrolet",
     "model_name": "Astro",
     "model_trim": "Van",
@@ -56294,17 +56239,7 @@
   },
   {"model_make_id": "buick",
     "model_name": "Verano",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "buick",
-    "model_name": "Verano",
-    "model_trim": "Convenience Package",
-    "model_year": 2012
-  },
-  {"model_make_id": "buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Package",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "cadillac",
@@ -57735,21 +57670,6 @@
   {"model_make_id": "alfa-romeo",
     "model_name": "MiTo",
     "model_trim": "3-doors, hatchback",
-    "model_year": 2012
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS4",
-    "model_trim": 1.8,
-    "model_year": 2012
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS6",
-    "model_trim": 2.4,
-    "model_year": 2012
-  },
-  {"model_make_id": "brilliance",
-    "model_name": "BS6",
-    "model_trim": "2.0 Comfort",
     "model_year": 2012
   },
   {"model_make_id": "chevrolet",
@@ -62124,7 +62044,7 @@
   },
   {"model_make_id": "bmw",
     "model_name": "X5 M",
-    "model_trim": "Base",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "bmw",
@@ -62134,123 +62054,48 @@
   },
   {"model_make_id": "bmw",
     "model_name": "X6 M",
-    "model_trim": "Base",
+    "model_trim": "SUV",
     "model_year": 2013
   },
   {"model_make_id": "cadillac",
     "model_name": "ATS",
-    "model_trim": "Sedan 2.5L Standard",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo AWD Standard",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo RWD Standard",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.5L Luxury",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo  RWD Luxury",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo  AWD Luxury",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 3.6L RWD Luxury",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 3.6L AWD Luxury",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo RWD Performance",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo AWD Performance",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 3.6 L AWD Performance",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 3.6L RWD  Performance",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo AWD  Premium",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 2.0L Turbo RWD Premium",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 3.6L AWD PREMIUM",
-    "model_year": 2013
-  },
-  {"model_make_id": "cadillac",
-    "model_name": "ATS",
-    "model_trim": "Sedan 3.6L RWD PREMIUM",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan (Standard)",
+    "model_trim": "Sedan",
     "model_year": 2013
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan Luxury AWD",
-    "model_year": 2013
+    "model_trim": "Sedan",
+    "model_year": 2014
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan Luxury FWD",
-    "model_year": 2013
+    "model_trim": "Sedan",
+    "model_year": 2015
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan Premium AWD",
-    "model_year": 2013
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan Premium FWD",
-    "model_year": 2013
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan Platinum AWD",
-    "model_year": 2013
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "cadillac",
     "model_name": "XTS",
-    "model_trim": "Sedan Platinum FWD",
-    "model_year": 2013
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "cadillac",
     "model_name": "CTS",
@@ -64049,42 +63894,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Buick",
@@ -64099,102 +63909,12 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Premium Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Cadillac",
@@ -64203,83 +63923,8 @@
     "model_year": 2014
   },
   {"model_make_id": "Cadillac",
-    "model_name": "CTS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Coupe",
-    "model_trim": "2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Coupe",
-    "model_trim": "2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Wagon",
-    "model_trim": "Premium 4dr Wagon (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Wagon",
-    "model_trim": "Premium 4dr Wagon AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Wagon",
-    "model_trim": "Luxury 4dr Wagon AWD (3.0L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Wagon",
-    "model_trim": "Performance 4dr Wagon (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Wagon",
-    "model_trim": "Performance 4dr Wagon AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS Wagon",
-    "model_trim": "Luxury 4dr Wagon (3.0L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "CTS-V",
     "model_trim": "4dr Sedan",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Wagon",
-    "model_trim": "4dr Wagon (6.2L 8cyl S/C 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ELR",
-    "model_trim": "2dr Coupe (1.4L 4cyl gas/electric hybrid 1DD)",
     "model_year": 2014
   },
   {"model_make_id": "Cadillac",
@@ -64289,43 +63934,43 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
+    "model_trim": "Large SUV",
     "model_year": 2014
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "Platinum Edition 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "Platinum Edition 4dr SUV AWD (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV AWD (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV AWD (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV AWD (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Large SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Cadillac",
     "model_name": "SRX",
@@ -64334,48 +63979,23 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Cadillac",
     "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Cadillac",
     "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Cadillac",
     "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Camaro",
@@ -68163,11 +67783,6 @@
     "model_year": 2015
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2015
@@ -68180,11 +67795,6 @@
   {"model_make_id": "GMC",
     "model_name": "Canyon",
     "model_trim": "Crew Cab Long Bed",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Jaguar",
@@ -68444,7 +68054,7 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Jeep",
@@ -68739,28 +68349,13 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Large SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Large SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
@@ -69922,11 +69517,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2015
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2015
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -70104,68 +69694,48 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2016
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2017
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2018
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2019
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2020
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2021
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2022
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "SLK",
@@ -70825,81 +70395,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Kia",
@@ -71979,22 +71474,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
@@ -72307,26 +71787,6 @@
     "model_trim": "4dr Sedan",
     "model_year": 2015
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -72340,31 +71800,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Regular Cab",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
@@ -73207,46 +72642,6 @@
     "model_trim": "Sedan",
     "model_year": 2015
   },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
     "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
@@ -73628,11 +73023,6 @@
     "model_year": 2016
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2016
@@ -73640,11 +73030,6 @@
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Jaguar",
@@ -73934,7 +73319,7 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Jeep",
@@ -74225,31 +73610,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
@@ -75412,11 +74772,6 @@
     "model_trim": "4dr SUV AWD",
     "model_year": 2016
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2016
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -75590,71 +74945,6 @@
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Mercedes-Benz",
@@ -76300,81 +75590,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Kia",
@@ -77444,22 +76659,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
@@ -77772,26 +76972,6 @@
     "model_trim": "4dr Sedan",
     "model_year": 2016
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -77805,31 +76985,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Regular Cab",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
@@ -78684,42 +77839,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "Land Rover",
@@ -79108,11 +78228,6 @@
     "model_year": 2017
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2017
@@ -79120,11 +78235,6 @@
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Jaguar",
@@ -79404,7 +78514,7 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Jeep",
@@ -79695,31 +78805,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
@@ -80887,11 +79972,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2017
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2017
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -81065,71 +80145,6 @@
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Mercedes-Benz",
@@ -81779,78 +80794,33 @@
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Cadillac",
     "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Rio",
@@ -82944,22 +81914,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
@@ -83272,26 +82227,6 @@
     "model_trim": "4dr Sedan",
     "model_year": 2017
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -83305,31 +82240,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Regular Cab",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
@@ -84179,42 +83089,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "Land Rover",
@@ -84598,11 +83473,6 @@
     "model_year": 2018
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2018
@@ -84610,11 +83480,6 @@
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Jaguar",
@@ -84895,11 +83760,6 @@
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
     "model_trim": "Sedan",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Jeep",
@@ -85190,31 +84050,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
@@ -86387,11 +85222,6 @@
     "model_trim": "4dr SUV AWD",
     "model_year": 2018
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2018
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -86565,71 +85395,6 @@
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Mercedes-Benz",
@@ -87270,81 +86035,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Kia",
@@ -88439,22 +87129,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
@@ -88767,26 +87442,6 @@
     "model_trim": "4dr Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -88795,31 +87450,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Short Bed",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
@@ -89674,42 +88304,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "Land Rover",
@@ -90093,11 +88688,6 @@
     "model_year": 2019
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2019
@@ -90105,11 +88695,6 @@
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Jaguar",
@@ -90385,11 +88970,6 @@
   {"model_make_id": "Volvo",
     "model_name": "XC70",
     "model_trim": "Wagon",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Jeep",
@@ -90680,31 +89260,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
@@ -91867,11 +90422,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2019
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -92045,71 +90595,6 @@
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Mercedes-Benz",
@@ -92750,81 +91235,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Kia",
@@ -93919,22 +92329,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Chevrolet",
@@ -94247,26 +92642,6 @@
     "model_trim": "4dr Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -94275,31 +92650,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Short Bed",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Chevrolet",
@@ -95154,42 +93504,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "Land Rover",
@@ -95573,11 +93888,6 @@
     "model_year": 2020
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2020
@@ -95585,11 +93895,6 @@
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Jaguar",
@@ -95870,11 +94175,6 @@
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Jeep",
@@ -96165,31 +94465,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
@@ -97362,11 +95637,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2020
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -97540,71 +95810,6 @@
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Mercedes-Benz",
@@ -98245,81 +96450,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Kia",
@@ -99414,22 +97544,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Chevrolet",
@@ -99742,26 +97857,6 @@
     "model_trim": "4dr Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -99770,31 +97865,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Short Bed",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Chevrolet",
@@ -100644,42 +98714,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "Land Rover",
@@ -101063,11 +99098,6 @@
     "model_year": 2021
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
     "model_year": 2021
@@ -101075,11 +99105,6 @@
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Jaguar",
@@ -101360,11 +99385,6 @@
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Jeep",
@@ -101655,31 +99675,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
@@ -102852,11 +100847,6 @@
     "model_trim": "4dr SUV",
     "model_year": 2021
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2021
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -103030,71 +101020,6 @@
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Mercedes-Benz",
@@ -103740,81 +101665,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Kia",
@@ -104909,22 +102759,7 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Chevrolet",
@@ -105237,26 +103072,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Long Bed",
@@ -105265,31 +103080,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Crew Cab Short Bed",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Chevrolet",
@@ -106139,43 +103929,18 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Buick",
     "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
@@ -106588,23 +104353,18 @@
     "model_year": 2022
   },
   {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV (6.2L 8cyl 6A)",
+    "model_name": "Escalade",
+    "model_trim": "Large SUV",
     "model_year": 2022
   },
   {"model_make_id": "Cadillac",
     "model_name": "Escalade",
     "model_trim": "Large SUV",
-    "model_year": 2022
+    "model_year": 2023
   },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4MATIC 4dr SUV AWD (2.0L 4cyl Turbo 7AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (2.0L 4cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Jaguar",
@@ -106962,11 +104722,6 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Jeep",
     "model_name": "Renegade",
     "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
@@ -107285,31 +105040,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV 4WD (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Luxury 4dr SUV (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "Escalade ESV",
-    "model_trim": "Premium 4dr SUV 4WD (6.2L 8cyl 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
@@ -108607,11 +106337,6 @@
     "model_trim": "Sedan",
     "model_year": 2023
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "CTS-V Coupe",
-    "model_trim": "2dr Coupe (6.2L 8cyl S/C 6M)",
-    "model_year": 2022
-  },
   {"model_make_id": "Nissan",
     "model_name": "Versa Note",
     "model_trim": "1.6 S 4dr Hatchback (1.6L 4cyl 5M)",
@@ -108817,71 +106542,6 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Luxury 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Performance 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Premium 2dr Coupe (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS Coupe",
-    "model_trim": "Standard 2dr Coupe (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "SLK",
     "model_trim": "Convertible",
@@ -108996,6 +106656,11 @@
     "model_name": "Enclave",
     "model_trim": "4dr SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Buick",
+    "model_name": "Enclave",
+    "model_trim": "4dr SUV",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Acadia",
@@ -109517,6 +107182,11 @@
     "model_trim": "4dr SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Cadillac",
+    "model_name": "SRX",
+    "model_trim": "4dr SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GL-Class",
     "model_trim": "SUV",
@@ -109648,9 +107318,19 @@
     "model_year": 2022
   },
   {"model_make_id": "Buick",
+    "model_name": "LaCrosse",
+    "model_trim": "4dr Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Buick",
     "model_name": "Regal",
     "model_trim": "4dr Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Buick",
+    "model_name": "Regal",
+    "model_trim": "4dr Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Ram",
     "model_name": "CV Tradesman",
@@ -109710,81 +107390,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Equus",
     "model_trim": "Sedan",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.5L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Performance 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "ATS",
-    "model_trim": "Standard 4dr Sedan (2.0L 4cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Kia",
@@ -111114,23 +108719,13 @@
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Convenience Group 4dr Sedan (2.4L 4cyl 6A)",
+    "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "Buick",
     "model_name": "Verano",
-    "model_trim": "Leather Group 4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "Premium Turbo Group 4dr Sedan (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Verano",
-    "model_trim": "4dr Sedan (2.4L 4cyl 6A)",
-    "model_year": 2022
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Silverado 1500",
@@ -111448,24 +109043,9 @@
     "model_year": 2022
   },
   {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Luxury 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
+    "model_name": "CTS",
+    "model_trim": "4dr Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "toyota",
     "model_name": "Tundra",
@@ -111485,31 +109065,6 @@
   {"model_make_id": "toyota",
     "model_name": "Tundra",
     "model_trim": "Extended Cab Short Bed",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Premium 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Platinum 4dr Sedan AWD (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Premium 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Cadillac",
-    "model_name": "XTS",
-    "model_trim": "Vsport Platinum 4dr Sedan AWD (3.6L 6cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "toyota",
@@ -112430,46 +109985,6 @@
   {"model_make_id": "lexus",
     "model_name": "LS 500h",
     "model_trim": "Sedan",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Premium 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Convenience 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "Leather 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Buick",
-    "model_name": "Encore",
-    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Land Rover",
