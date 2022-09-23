@@ -14119,12 +14119,12 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2007
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2008
   },
   {"model_make_id": "chrysler",
@@ -14159,7 +14159,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2001
   },
   {"model_make_id": "chrysler",
@@ -14244,7 +14244,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2005
   },
   {"model_make_id": "chrysler",
@@ -14409,7 +14409,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1988
   },
   {"model_make_id": "chrysler",
@@ -14489,7 +14489,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2004
   },
   {"model_make_id": "chrysler",
@@ -14699,7 +14699,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2006
   },
   {"model_make_id": "chrysler",
@@ -14759,7 +14759,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1990
   },
   {"model_make_id": "chrysler",
@@ -14814,7 +14814,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1991
   },
   {"model_make_id": "chrysler",
@@ -14914,7 +14914,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2009
   },
   {"model_make_id": "chrysler",
@@ -14934,7 +14934,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1993
   },
   {"model_make_id": "chrysler",
@@ -14944,7 +14944,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2003
   },
   {"model_make_id": "chrysler",
@@ -14969,7 +14969,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2002
   },
   {"model_make_id": "chrysler",
@@ -14979,7 +14979,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1994
   },
   {"model_make_id": "chrysler",
@@ -15129,7 +15129,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1992
   },
   {"model_make_id": "chrysler",
@@ -15179,7 +15179,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1989
   },
   {"model_make_id": "chrysler",
@@ -15249,7 +15249,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2000
   },
   {"model_make_id": "chrysler",
@@ -15279,7 +15279,7 @@
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 1995
   },
   {"model_make_id": "chrysler",
@@ -15406,16 +15406,6 @@
     "model_name": "LHS",
     "model_trim": "Sedan",
     "model_year": 2000
-  },
-  {"model_make_id": "daimler",
-    "model_name": "DK",
-    "model_trim": "400 Limousine",
-    "model_year": 1956
-  },
-  {"model_make_id": "daimler",
-    "model_name": "Super Eight",
-    "model_trim": "Sedan", 
-    "model_year": 2006
   },
   {"model_make_id": "daimler",
     "model_name": "Conquest",
@@ -59078,73 +59068,13 @@
     "model_year": 2012
   },
   {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "1.4 T-Jet",
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "1.6 Multijet",
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "2.0 Multijet",
+    "model_name": "Voyager",
+    "model_trim": "Minivan",
     "model_year": 2011
   },
   {"model_make_id": "chrysler",
     "model_name": "Voyager",
-    "model_trim": "Passenger Van",
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Ypsilon",
-    "model_trim": 0.9,
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Ypsilon",
-    "model_trim": 1.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Ypsilon",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "1.4 T-Jet",
-    "model_year": 2012
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "1.6 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "2.0 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Voyager",
-    "model_trim": "Passenger Van",
-    "model_year": 2012
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Ypsilon",
-    "model_trim": 0.9,
-    "model_year": 2012
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Ypsilon",
-    "model_trim": 1.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Ypsilon",
-    "model_trim": "1.3 Multijet",
+    "model_trim": "Minivan",
     "model_year": 2012
   },
   {"model_make_id": "Land Rover",
@@ -60394,22 +60324,22 @@
   },
   {"model_make_id": "datsun",
     "model_name": "240Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1970
   },
   {"model_make_id": "datsun",
     "model_name": "240Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1971
   },
   {"model_make_id": "datsun",
     "model_name": "240Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1972
   },
   {"model_make_id": "datsun",
     "model_name": "240Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1973
   },
   {"model_make_id": "datsun",
@@ -60434,42 +60364,22 @@
   },
   {"model_make_id": "datsun",
     "model_name": "280Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1975
   },
   {"model_make_id": "datsun",
     "model_name": "280Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1976
   },
   {"model_make_id": "datsun",
     "model_name": "280Z",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 1977
   },
   {"model_make_id": "datsun",
     "model_name": "280Z",
-    "model_trim": "",
-    "model_year": 1978
-  },
-  {"model_make_id": "datsun",
-    "model_name": "280Z",
-    "model_trim": "2+2",
-    "model_year": 1975
-  },
-  {"model_make_id": "datsun",
-    "model_name": "280Z",
-    "model_trim": "2+2",
-    "model_year": 1976
-  },
-  {"model_make_id": "datsun",
-    "model_name": "280Z",
-    "model_trim": "2+2",
-    "model_year": 1977
-  },
-  {"model_make_id": "datsun",
-    "model_name": "280Z",
-    "model_trim": "2+2",
+    "model_trim": "Coupe",
     "model_year": 1978
   },
   {"model_make_id": "Land Rover",
@@ -60727,11 +60637,6 @@
     "model_trim": "Automatic",
     "model_year": 1984
   },
-  {"model_make_id": "dodge",
-    "model_name": "Charger RT Concept",
-    "model_trim": "Automatic",
-    "model_year": 2007
-  },
   {"model_make_id": "ford",
     "model_name": "Contour SVT",
     "model_trim": "Sedan",
@@ -60771,16 +60676,6 @@
     "model_name": "Cutlass Supreme",
     "model_trim": "Sedan",
     "model_year": 1991
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "1.6 Multijet Automatic",
-    "model_year": 2011
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "Delta",
-    "model_trim": "1.6 Multijet Automatic",
-    "model_year": 2012
   },
   {"model_make_id": "ford",
     "model_name": "F-150",
@@ -62218,21 +62113,6 @@
     "model_year": 2013
   },
   {"model_make_id": "chrysler",
-    "model_name": "200 CONVERTIBLE",
-    "model_trim": "Touring",
-    "model_year": 2013
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "200 CONVERTIBLE",
-    "model_trim": "Limited",
-    "model_year": 2013
-  },
-  {"model_make_id": "chrysler",
-    "model_name": "200 CONVERTIBLE",
-    "model_trim": "200S Convertible",
-    "model_year": 2013
-  },
-  {"model_make_id": "chrysler",
     "model_name": 300,
     "model_trim": "Sedan",
     "model_year": 2013
@@ -62274,7 +62154,7 @@
   },
   {"model_make_id": "dodge",
     "model_name": "GRAND CARAVAN",
-    "model_trim": "Passenger",
+    "model_trim": "Minivan",
     "model_year": 2013
   },
   {"model_make_id": "hyundai",
@@ -64539,13 +64419,13 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
     "model_name": "SS",
@@ -64609,23 +64489,23 @@
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
+    "model_trim": "Minivan",
     "model_year": 2014
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Minivan",
+    "model_year": 2015
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Minivan",
+    "model_year": 2016
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Minivan",
+    "model_year": 2017
   },
   {"model_make_id": "Dodge",
     "model_name": "Avenger",
@@ -64664,13 +64544,13 @@
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
+    "model_trim": "Coupe",
     "model_year": 2014
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Coupe",
+    "model_year": 2015
   },
   {"model_make_id": "FIAT",
     "model_name": "500c",
@@ -69499,13 +69379,13 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2015
+    "model_trim": "Hatchback",
+    "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2015
+    "model_trim": "Hatchback",
+    "model_year": 2017
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
@@ -70139,28 +70019,33 @@
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Minivan",
+    "model_year": 2018
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Minivan",
+    "model_year": 2019
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Minivan",
+    "model_year": 2020
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Minivan",
+    "model_year": 2021
   },
   {"model_make_id": "Chrysler",
     "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Minivan",
+    "model_year": 2022
+  },
+  {"model_make_id": "Chrysler",
+    "model_name": "Town and Country",
+    "model_trim": "Minivan",
+    "model_year": 2023
   },
   {"model_make_id": "Cadillac",
     "model_name": "SRX",
@@ -72362,11 +72247,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2015
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -72449,18 +72329,18 @@
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2016
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2017
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2018
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
@@ -72474,33 +72354,33 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Hyundai",
     "model_name": "Azera",
@@ -74024,13 +73904,13 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2016
+    "model_trim": "Hatchback",
+    "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2016
+    "model_trim": "Hatchback",
+    "model_year": 2019
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
@@ -74615,31 +74495,6 @@
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander Sport",
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Cadillac",
@@ -76832,11 +76687,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2016
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -76919,18 +76769,18 @@
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2019
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2020
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2021
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
@@ -76944,33 +76794,18 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Hyundai",
     "model_name": "Azera",
@@ -78494,13 +78329,13 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2017
+    "model_trim": "Hatchback",
+    "model_year": 2020
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2017
+    "model_trim": "Hatchback",
+    "model_year": 2021
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
@@ -79085,31 +78920,6 @@
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander Sport",
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Cadillac",
@@ -81397,11 +81207,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2017
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -81484,18 +81289,13 @@
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2022
   },
   {"model_make_id": "Dodge",
     "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
@@ -81505,36 +81305,6 @@
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Hyundai",
@@ -83059,13 +82829,13 @@
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2018
+    "model_trim": "Hatchback",
+    "model_year": 2022
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2018
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
@@ -83650,31 +83420,6 @@
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander Sport",
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Cadillac",
@@ -85942,11 +85687,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2018
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -86027,21 +85767,6 @@
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
     "model_year": 2018
   },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2018
-  },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
@@ -86050,36 +85775,6 @@
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Hyundai",
@@ -87587,16 +87282,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2019
   },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2019
-  },
   {"model_make_id": "Kia",
     "model_name": "Forte",
     "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
@@ -88180,31 +87865,6 @@
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander Sport",
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Cadillac",
@@ -90392,11 +90052,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2019
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -90477,21 +90132,6 @@
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
     "model_year": 2019
   },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2019
-  },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
@@ -90500,36 +90140,6 @@
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Hyundai",
@@ -92052,16 +91662,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2020
   },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2020
-  },
   {"model_make_id": "Kia",
     "model_name": "Forte",
     "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
@@ -92645,31 +92245,6 @@
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander Sport",
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Cadillac",
@@ -94852,11 +94427,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2020
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -94937,21 +94507,6 @@
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
     "model_year": 2020
   },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2020
-  },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
@@ -94960,36 +94515,6 @@
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Hyundai",
@@ -96512,16 +96037,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2021
   },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2021
-  },
   {"model_make_id": "Kia",
     "model_name": "Forte",
     "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
@@ -97110,31 +96625,6 @@
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander Sport",
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Cadillac",
@@ -99327,11 +98817,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2021
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -99417,21 +98902,6 @@
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
     "model_year": 2021
   },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2021
-  },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
@@ -99445,36 +98915,6 @@
   {"model_make_id": "Toyota",
     "model_name": "Prius c",
     "model_trim": "Hatchback",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Hyundai",
@@ -101072,6 +100512,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Dodge",
+    "model_name": "Charger",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Ram",
     "model_name": "ProMaster City",
     "model_trim": "4dr Minivan",
@@ -101106,6 +100551,11 @@
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
     "model_year": 2022
+  },
+  {"model_make_id": "Chevrolet",
+    "model_name": "City Express",
+    "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
@@ -101292,16 +100742,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2023
   },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "1LT 4dr Hatchback (electric DD)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Spark EV",
-    "model_trim": "2LT 4dr Hatchback (electric DD)",
-    "model_year": 2022
-  },
   {"model_make_id": "Kia",
     "model_name": "Forte",
     "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
@@ -101471,6 +100911,11 @@
     "model_name": "Journey",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Dodge",
+    "model_name": "Journey",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Jeep",
     "model_name": "Cherokee",
@@ -102062,31 +101507,6 @@
     "model_trim": "ES 4dr SUV (2.0L 4cyl CVT)",
     "model_year": 2022
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "LX 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "S 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Touring-L 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited Platinum 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Cadillac",
     "model_name": "SRX",
     "model_trim": "4dr SUV",
@@ -102106,6 +101526,11 @@
     "model_name": "Dart",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Dodge",
+    "model_name": "Dart",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "4 Series",
@@ -102142,6 +101567,11 @@
     "model_trim": "Minivan",
     "model_year": 2022
   },
+  {"model_make_id": "Dodge",
+    "model_name": "Grand Caravan",
+    "model_trim": "Minivan",
+    "model_year": 2023
+  },
   {"model_make_id": "Ford",
     "model_name": "C-Max Energi",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
@@ -102171,6 +101601,11 @@
     "model_name": "Challenger",
     "model_trim": "Coupe",
     "model_year": 2022
+  },
+  {"model_make_id": "Dodge",
+    "model_name": "Challenger",
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Ram",
     "model_name": "Promaster Cargo Van",
@@ -103877,6 +103312,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Dodge",
+    "model_name": "Durango",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
     "model_trim": "4dr SUV (2.4L 4cyl 6A)",
@@ -104712,11 +104152,6 @@
     "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2022
   },
-  {"model_make_id": "Chrysler",
-    "model_name": "Town and Country",
-    "model_trim": "Limited 4dr Minivan (3.6L 6cyl 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
     "model_trim": "Wagon",
@@ -104817,21 +104252,6 @@
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
     "model_year": 2022
   },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GTS 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Dodge",
-    "model_name": "SRT Viper",
-    "model_trim": "GT 2dr Coupe (8.4L 10cyl 6M)",
-    "model_year": 2022
-  },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
     "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
@@ -104856,36 +104276,6 @@
     "model_name": "tC",
     "model_trim": "Hatchback",
     "model_year": 2023
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Chevrolet",
-    "model_name": "Trax",
-    "model_trim": "LTZ 4dr SUV (1.4L 4cyl Turbo 6A)",
-    "model_year": 2022
   },
   {"model_make_id": "Hyundai",
     "model_name": "Azera",
