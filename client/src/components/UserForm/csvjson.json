@@ -50679,12 +50679,12 @@
   },
   {"model_make_id": "ferrari",
     "model_name": "458 Italia",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 2010
   },
   {"model_make_id": "ferrari",
     "model_name": "458 Italia",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 2011
   },
   {"model_make_id": "ferrari",
@@ -50699,12 +50699,12 @@
   },
   {"model_make_id": "ferrari",
     "model_name": "612 Scaglietti",
-    "model_trim": "",
+    "model_trim": "Coupe",
     "model_year": 2010
   },
   {"model_make_id": "ferrari",
     "model_name": "California",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2010
   },
   {"model_make_id": "ford",
@@ -53667,46 +53667,6 @@
     "model_trim": "Hatchback",
     "model_year": 2010
   },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": 1.4,
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "Qubo 1.3 Multijet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "Qubo 1.4",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": 1.4,
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "Qubo 1.3 Multijet",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "Qubo 1.4",
-    "model_year": 2011
-  },
   {"model_make_id": "kia",
     "model_name": "Forte",
     "model_trim": "EX",
@@ -53790,96 +53750,6 @@
   {"model_make_id": "alfa-romeo",
     "model_name": "Giulietta",
     "model_trim": "5-doors, hatchback",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": 1.2,
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": 1.4,
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Abarth",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Active",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Dynamic",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Natural Power",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 T-Jet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.6 Multijet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": 1.2,
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": 1.4,
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Abarth",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Active",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Dynamic",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Natural Power",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 T-Jet",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.6 Multijet",
     "model_year": 2011
   },
   {"model_make_id": "alfa-romeo",
@@ -54145,16 +54015,6 @@
   {"model_make_id": "seat",
     "model_name": "Leon",
     "model_trim": "2.0 TFSi FR",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Linea",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Linea",
-    "model_trim": "1.3 Multijet",
     "model_year": 2011
   },
   {"model_make_id": "Land Rover",
@@ -54457,29 +54317,9 @@
     "model_trim": "Convertible",
     "model_year": 2010
   },
-  {"model_make_id": "fiat",
-    "model_name": "Sedici",
-    "model_trim": 1.6,
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Sedici",
-    "model_trim": "1.9 Multijet",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Sedici",
-    "model_trim": 1.6,
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Sedici",
-    "model_trim": "1.9 Multijet",
-    "model_year": 2011
-  },
   {"model_make_id": "mercedes-benz",
-  "model_name": "SL-Class",
-  "model_trim": "Convertible",
+    "model_name": "SL-Class",
+    "model_trim": "Convertible",
     "model_year": 2010
   },
   {"model_make_id": "mercedes-benz",
@@ -56359,7 +56199,7 @@
   },
   {"model_make_id": "ferrari",
     "model_name": "FF",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 2012
   },
   {"model_make_id": "fiat",
@@ -57932,121 +57772,6 @@
     "model_trim": "Hatchback",
     "model_year": 2011
   },
-  {"model_make_id": "fiat",
-    "model_name": "Albea",
-    "model_trim": "",
-    "model_year": 2007
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Albea",
-    "model_trim": "",
-    "model_year": 2008
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Albea",
-    "model_trim": "",
-    "model_year": 2009
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Albea",
-    "model_trim": "",
-    "model_year": 2010
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Albea",
-    "model_trim": "",
-    "model_year": 2011
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Albea",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": 1.4,
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "Qubo 1.3 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Fiorino",
-    "model_trim": "Qubo 1.4",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Freemont",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": 1.2,
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": 1.4,
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Abarth",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Active",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Dynamic",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 Natural Power",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.4 T-Jet",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Grande Punto",
-    "model_trim": "1.6 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Linea",
-    "model_trim": "1.3 Multijet",
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Sedici",
-    "model_trim": 1.6,
-    "model_year": 2012
-  },
-  {"model_make_id": "fiat",
-    "model_name": "Sedici",
-    "model_trim": "1.9 Multijet",
-    "model_year": 2012
-  },
   {"model_make_id": "ford",
     "model_name": "F-350",
     "model_trim": "Crew Cab Long Bed",
@@ -58679,12 +58404,12 @@
   },
   {"model_make_id": "ferrari",
     "model_name": "California",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2011
   },
   {"model_make_id": "ferrari",
     "model_name": "California",
-    "model_trim": "",
+    "model_trim": "convertible",
     "model_year": 2012
   },
   {"model_make_id": "ferrari",
@@ -59879,7 +59604,7 @@
   },
   {"model_make_id": "ferrari",
     "model_name": "California",
-    "model_trim": "",
+    "model_trim": "Convertible",
     "model_year": 2009
   },
   {"model_make_id": "fisker",
@@ -63124,22 +62849,22 @@
   },
   {"model_make_id": "ferrari",
     "model_name": 458,
-    "model_trim": "Italia",
+    "model_trim": "Coupe",
     "model_year": 2013
   },
   {"model_make_id": "ferrari",
     "model_name": 458,
-    "model_trim": "Spider",
+    "model_trim": "Coupe",
     "model_year": 2013
   },
   {"model_make_id": "ferrari",
     "model_name": "California",
-    "model_trim": "V8",
+    "model_trim": "Convertible",
     "model_year": 2013
   },
   {"model_make_id": "ferrari",
     "model_name": "FF HELE",
-    "model_trim": "V12",
+    "model_trim": "Wagon",
     "model_year": 2013
   },
   {"model_make_id": "fiat",
@@ -64569,22 +64294,7 @@
   },
   {"model_make_id": "FIAT",
     "model_name": "500L",
-    "model_trim": "Pop 4dr Wagon (1.4L 4cyl Turbo 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "FIAT",
-    "model_name": "500L",
-    "model_trim": "Lounge 4dr Wagon (1.4L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "FIAT",
-    "model_name": "500L",
-    "model_trim": "Trekking 4dr Wagon (1.4L 4cyl Turbo 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "FIAT",
-    "model_name": "500L",
-    "model_trim": "Easy 4dr Wagon (1.4L 4cyl Turbo 6AM)",
+    "model_trim": "Wagon",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
@@ -100993,14 +100703,29 @@
     "model_year": 2022
   },
   {"model_make_id": "FIAT",
+    "model_name": "500e",
+    "model_trim": "2dr Hatchback (electric DD)",
+    "model_year": 2023
+  },
+  {"model_make_id": "FIAT",
     "model_name": "500c",
+    "model_trim": "Hatchback",
+    "model_year": 2022
+  },
+  {"model_make_id": "FIAT",
+    "model_name": "500c",
+    "model_trim": "Hatchback",
+    "model_year": 2023
+  },
+  {"model_make_id": "FIAT",
+    "model_name": 500,
     "model_trim": "Hatchback",
     "model_year": 2022
   },
   {"model_make_id": "FIAT",
     "model_name": 500,
     "model_trim": "Hatchback",
-    "model_year": 2022
+    "model_year": 2023
   },
   {"model_make_id": "Buick",
     "model_name": "Enclave",
