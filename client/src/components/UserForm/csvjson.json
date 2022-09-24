@@ -20154,7 +20154,7 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2008
   },
   {"model_make_id": "ford",
@@ -20589,12 +20589,12 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2005
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2006
   },
   {"model_make_id": "ford",
@@ -20749,7 +20749,7 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2004
   },
   {"model_make_id": "ford",
@@ -21024,7 +21024,7 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2009
   },
   {"model_make_id": "ford",
@@ -21299,7 +21299,7 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2009
   },
   {"model_make_id": "ford",
@@ -22679,7 +22679,7 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 1999
   },
   {"model_make_id": "ford",
@@ -23104,7 +23104,7 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2003
   },
   {"model_make_id": "ford",
@@ -23254,18 +23254,13 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2007
   },
   {"model_make_id": "ford",
     "model_name": "Cortina",
     "model_trim": "Sedan",
     "model_year": 1975
-  },
-  {"model_make_id": "ford",
-    "model_name": "Lotus Cortina",
-    "model_trim": "",
-    "model_year": 1966
   },
   {"model_make_id": "ford",
     "model_name": "F-150",
@@ -23286,11 +23281,6 @@
     "model_name": "Fiesta",
     "model_trim": "Hatchback",
     "model_year": 1987
-  },
-  {"model_make_id": "ford",
-    "model_name": "Kuga",
-    "model_trim": "2.0 TDCi",
-    "model_year": 2009
   },
   {"model_make_id": "ford",
     "model_name": "Zephyr",
@@ -50759,22 +50749,22 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2010
   },
   {"model_make_id": "ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2010
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2011
   },
   {"model_make_id": "ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2011
   },
   {"model_make_id": "ford",
@@ -53947,16 +53937,6 @@
     "model_trim": "SW GLX",
     "model_year": 2011
   },
-  {"model_make_id": "ford",
-    "model_name": "Kuga",
-    "model_trim": "2.0 TDCi",
-    "model_year": 2010
-  },
-  {"model_make_id": "ford",
-    "model_name": "Kuga",
-    "model_trim": "2.0 TDCi",
-    "model_year": 2011
-  },
   {"model_make_id": "chevrolet",
     "model_name": "Lacetti",
     "model_trim": "Sedan",
@@ -56249,12 +56229,12 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2012
   },
   {"model_make_id": "ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2012
   },
   {"model_make_id": "ford",
@@ -57847,11 +57827,6 @@
     "model_trim": "Crew Cab",
     "model_year": 2012
   },
-  {"model_make_id": "ford",
-    "model_name": "Kuga",
-    "model_trim": "2.0 TDCi",
-    "model_year": 2012
-  },
   {"model_make_id": "geely",
     "model_name": "CK",
     "model_trim": "1.3 gb",
@@ -58415,16 +58390,6 @@
   {"model_make_id": "ferrari",
     "model_name": 599,
     "model_trim": "Coupe",
-    "model_year": 2012
-  },
-  {"model_make_id": "ford",
-    "model_name": "Kuga",
-    "model_trim": "2.5 Duratec",
-    "model_year": 2011
-  },
-  {"model_make_id": "ford",
-    "model_name": "Kuga",
-    "model_trim": "2.5 Duratec",
     "model_year": 2012
   },
   {"model_make_id": "Honda",
@@ -59104,202 +59069,52 @@
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 1,
+    "model_trim": "SUV",
     "model_year": 2003
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 1.6,
-    "model_year": 2003
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2003
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2003
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2003
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1,
+    "model_trim": "SUV",
     "model_year": 2004
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 1.6,
-    "model_year": 2004
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2004
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2004
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2004
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1,
+    "model_trim": "SUV",
     "model_year": 2005
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 1.6,
-    "model_year": 2005
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2005
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2005
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2005
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1.6,
+    "model_trim": "SUV",
     "model_year": 2006
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2006
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2006
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2006
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1.6,
+    "model_trim": "SUV",
     "model_year": 2007
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2007
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2007
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2007
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1.6,
+    "model_trim": "SUV",
     "model_year": 2008
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2008
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2008
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2008
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1.6,
+    "model_trim": "SUV",
     "model_year": 2009
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2009
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2009
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2009
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1.6,
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2010
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2010
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2010
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1.6,
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "ford",
     "model_name": "Ecosport",
-    "model_trim": 2,
-    "model_year": 2011
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "1.4 Diesel",
-    "model_year": 2011
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": "2.0 4x4",
-    "model_year": 2011
-  },
-  {"model_make_id": "ford",
-    "model_name": "Ecosport",
-    "model_trim": 1,
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "Honda",
@@ -61069,12 +60884,12 @@
   },
   {"model_make_id": "ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2013
   },
   {"model_make_id": "ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2013
   },
   {"model_make_id": "ford",
@@ -64310,7 +64125,7 @@
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Edge",
@@ -64324,72 +64139,47 @@
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Van",
-    "model_trim": "E-150 3dr Ext Van (4.6L 8cyl 4A)",
+    "model_trim": "E-150",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Van",
-    "model_trim": "E-150 3dr Van (4.6L 8cyl 4A)",
+    "model_trim": "E-250",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Van",
-    "model_trim": "E-250 3dr Van (4.6L 8cyl 4A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Ford",
-    "model_name": "E-Series Van",
-    "model_trim": "E-250 3dr Ext Van (4.6L 8cyl 4A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Ford",
-    "model_name": "E-Series Van",
-    "model_trim": "E-350 Super Duty 3dr Van (5.4L 8cyl 4A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Ford",
-    "model_name": "E-Series Van",
-    "model_trim": "E-350 Super Duty 3dr Ext Van (5.4L 8cyl 4A)",
+    "model_trim": "E-350",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Wagon",
-    "model_trim": "E-150 XLT 3dr Van (4.6L 8cyl 4A)",
+    "model_trim": "E-150 XLT",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Wagon",
-    "model_trim": "E-350 Super Duty XLT 3dr Ext Van (5.4L 8cyl 4A)",
+    "model_trim": "E-350 Super Duty XLT 3dr Ext Van",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Wagon",
-    "model_trim": "E-350 Super Duty XL 3dr Van (5.4L 8cyl 4A)",
+    "model_trim": "E-350 Super Duty XL 3dr Van",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "E-Series Wagon",
-    "model_trim": "E-350 Super Duty XLT 3dr Van (5.4L 8cyl 4A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Ford",
-    "model_name": "E-Series Wagon",
-    "model_trim": "E-350 Super Duty XL 3dr Ext Van (5.4L 8cyl 4A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Ford",
-    "model_name": "E-Series Wagon",
-    "model_trim": "E-150 XL 3dr Van (4.6L 8cyl 4A)",
+    "model_trim": "E-150 XL 3dr Van",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
@@ -64429,443 +64219,853 @@
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
+    "model_trim": "Crew Cab Long Bed",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
+    "model_trim": "Crew Cab Short Bed",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
+    "model_trim": "Extended Cab Long Bed",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
+    "model_trim": "Extended Short Long Bed",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
+    "model_trim": "Regular Cab",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2020
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2020
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Extended Short Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-250 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
+    "model_trim": "Crew Cab Long Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
+    "model_trim": "Crew Cab Short Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
+    "model_trim": "Crew Cab Short Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
+    "model_trim": "Extended Cab Long Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
+    "model_trim": "Extended Cab Long Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
+    "model_trim": "Extended Cab Short Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
+    "model_trim": "Extended Cab Short Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
+    "model_trim": "Regular Cab Long Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
+    "model_trim": "Regular Cab Short Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
+    "model_trim": "Regular Cab Long Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
+    "model_trim": "Regular Cab Short Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed DRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2016
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2017
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed SRW",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Crew Cab Short Bed SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Long Bed SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Extended Cab Short Bed SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Long Bed DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-350 Super Duty",
+    "model_trim": "Regular Cab Short Bed SRW",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
@@ -67957,446 +68157,6 @@
     "model_trim": "SUV",
     "model_year": 2015
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -69029,12 +68789,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2015
   },
   {"model_make_id": "Nissan",
@@ -69805,12 +69565,12 @@
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_year": 2017
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Passat",
@@ -72762,446 +72522,6 @@
     "model_trim": "SUV",
     "model_year": 2016
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -73554,12 +72874,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2016
   },
   {"model_make_id": "Nissan",
@@ -74250,12 +73570,12 @@
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_year": 2019
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Passat",
@@ -77182,446 +76502,6 @@
     "model_trim": "SUV",
     "model_year": 2017
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -77979,12 +76859,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -78675,12 +77555,12 @@
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
+    "model_year": 2021
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Passat",
@@ -81677,446 +80557,6 @@
     "model_trim": "SUV",
     "model_year": 2018
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -82479,12 +80919,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -83175,12 +81615,12 @@
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_year": 2023
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Passat",
@@ -86142,446 +84582,6 @@
     "model_trim": "SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -86934,12 +84934,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -87614,16 +85614,6 @@
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Energi",
-    "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
-    "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2019
   },
@@ -90512,446 +88502,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -91314,12 +88864,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -91994,16 +89544,6 @@
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Energi",
-    "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
-    "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2020
   },
@@ -94887,446 +92427,6 @@
     "model_trim": "SUV",
     "model_year": 2021
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -95689,12 +92789,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -96374,16 +93474,6 @@
   },
   {"model_make_id": "Ford",
     "model_name": "C-Max Energi",
-    "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
-    "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2021
   },
@@ -99432,446 +96522,6 @@
    "model_trim": "SUV",
    "model_year": 2023
   },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-350 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB DRW (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 2dr Regular Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr SuperCab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "XL 2dr Regular Cab 4WD LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr SuperCab LB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-250 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab SB (6.2L 8cyl 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Subaru",
     "model_name": "Forester",
     "model_trim": "SUV",
@@ -99956,6 +96606,11 @@
     "model_name": "Fiesta",
     "model_trim": "Hatchback",
     "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Fiesta",
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series Gran Coupe",
@@ -100292,6 +96947,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Ford",
+    "model_name": "Fusion",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Bentley",
     "model_name": "Flying Spur",
     "model_trim": "Sedan",
@@ -100374,13 +97034,23 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
-    "model_trim": "SUV",
+    "model_trim": "Large SUV",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Expedition",
+    "model_trim": "Large SUV",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Expedition EL",
+    "model_trim": "Large SUV",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition EL",
-    "model_trim": "SUV",
-    "model_year": 2022
+    "model_trim": "Large SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Altima",
@@ -100542,6 +97212,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Ford",
+    "model_name": "Taurus",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Jeep",
     "model_name": "Compass",
     "model_trim": "SUV",
@@ -100577,6 +97252,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Ford",
+    "model_name": "Explorer",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "SL-Class",
     "model_trim": "Convertible",
@@ -100592,6 +97272,16 @@
     "model_trim": "Convertible",
     "model_year": 2022
   },
+  {"model_make_id": "Ford",
+    "model_name": "Mustang",
+    "model_trim": "Coupe",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Mustang",
+    "model_trim": "Convertible",
+    "model_year": 2023
+},
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
@@ -100891,6 +97581,11 @@
     "model_name": "Escape",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Escape",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "A5",
@@ -101303,14 +97998,9 @@
     "model_year": 2022
   },
   {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
-    "model_trim": "SE 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "C-Max Hybrid",
+    "model_name": "C-Max Energi",
     "model_trim": "SEL 4dr Wagon (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
+    "model_year": 2023
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Passat",
@@ -101541,6 +98231,36 @@
     "model_name": "F-150",
     "model_trim": "Regular Cab Short Bed",
     "model_year": 2022
+  },
+  {"model_make_id": "ford",
+    "model_name": "F-150",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "ford",
+    "model_name": "F-150",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "ford",
+    "model_name": "F-150",
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "ford",
+    "model_name": "F-150",
+    "model_trim": "Extended Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "ford",
+    "model_name": "F-150",
+    "model_trim": "Regular Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "ford",
+    "model_name": "F-150",
+    "model_trim": "Regular Cab Short Bed",
+    "model_year": 2023
   },
   {"model_make_id": "Toyota",
     "model_name": "Highlander",
@@ -102937,6 +99657,16 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Ford",
+    "model_name": "Focus",
+    "model_trim": "Hatchback",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Focus",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Lexus",
     "model_name": "LX 570",
     "model_trim": "4dr SUV 4WD (5.7L 8cyl 6A)",
@@ -102951,6 +99681,11 @@
     "model_name": "Flex",
     "model_trim": "Wagon",
     "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Flex",
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
@@ -103726,6 +100461,11 @@
     "model_name": "Edge",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Edge",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
