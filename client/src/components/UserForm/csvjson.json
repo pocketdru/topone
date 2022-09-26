@@ -57844,32 +57844,12 @@
   },
   {"model_make_id": "infiniti",
     "model_name": "G25",
-    "model_trim": "Journey",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "infiniti",
     "model_name": "G25",
-    "model_trim": "x",
-    "model_year": 2011
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G25",
-    "model_trim": "",
-    "model_year": 2011
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G25",
-    "model_trim": "Journey",
-    "model_year": 2012
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G25",
-    "model_trim": "x",
-    "model_year": 2012
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G25",
-    "model_trim": "",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "mazda",
@@ -61998,71 +61978,6 @@
     "model_year": 2013
   },
   {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37 Convertible",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37 Convertible Sport 6MT",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37 Coupe Journey",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37x Coupe AWD",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37 Coupe Sport 6MT",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37 Sedan Journey",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37x Sedan AWD",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "G",
-    "model_trim": "37 Sedan Sport 6MT",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "IPL",
-    "model_trim": "G Coupe",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "IPL",
-    "model_trim": "G Coupe 6MT",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "IPL",
-    "model_trim": "G Convertible",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "JX",
-    "model_trim": 35,
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "JX",
-    "model_trim": "35 AWD",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
     "model_name": "M35h",
     "model_trim": "Sedan",
     "model_year": 2013
@@ -62075,16 +61990,6 @@
   {"model_make_id": "infiniti",
     "model_name": "M56",
     "model_trim": "Sedan",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "QX",
-    "model_trim": "56 2WD",
-    "model_year": 2013
-  },
-  {"model_make_id": "infiniti",
-    "model_name": "QX",
-    "model_trim": "56 4WD",
     "model_year": 2013
   },
   {"model_make_id": "jaguar",
@@ -65189,158 +65094,138 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Infiniti",
+    "model_name": "Q60 Convertible",
+    "model_trim": "Convertible",
     "model_year": 2014
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Convertible",
+    "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Convertible",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
+    "model_name": "Q60 Coupe",
+    "model_trim": "Coupe",
     "model_year": 2014
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "IPL 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Coupe",
+    "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Coupe",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "IPL 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Coupe",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "Coupe",
+    "model_year": 2018
   },
   {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
+    "model_name": "QX50",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
+    "model_name": "QX70",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (5.0L 8cyl 7A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
+    "model_name": "QX80",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Jaguar",
     "model_name": "F-Type",
@@ -68174,13 +68059,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
@@ -68189,23 +68074,33 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2021
+  },
+  {"model_make_id": "Infiniti",
+    "model_name": "QX50",
+    "model_trim": "SUV",
+    "model_year": 2022
+  },
+  {"model_make_id": "Infiniti",
+    "model_name": "QX50",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
@@ -69969,48 +69864,48 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
@@ -70084,13 +69979,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Honda",
     "model_name": "Civic",
@@ -70129,13 +70024,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Bentley",
     "model_name": "Mulsanne",
@@ -70602,26 +70497,6 @@
     "model_trim": "SUV",
     "model_year": 2015
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2015
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -70670,56 +70545,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
@@ -70834,43 +70659,43 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Convertible",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Convertible",
+    "model_year": 2018
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2015
+    "model_trim": "Convertible",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2020
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2021
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2022
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Quest",
@@ -71929,37 +71754,17 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
@@ -73622,51 +73427,6 @@
     "model_trim": "Sedan",
     "model_year": 2016
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -73739,13 +73499,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Honda",
     "model_name": "Civic",
@@ -73789,13 +73549,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Bentley",
     "model_name": "Mulsanne",
@@ -74242,26 +74002,6 @@
     "model_trim": "SUV",
     "model_year": 2016
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2016
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -74310,56 +74050,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
@@ -74484,43 +74174,23 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2016
+    "model_trim": "Convertible",
+    "model_year": 2020
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2016
+    "model_trim": "Convertible",
+    "model_year": 2021
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2016
+    "model_trim": "Convertible",
+    "model_year": 2022
   },
   {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2016
+    "model_name": "Q60 Convertible",
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Quest",
@@ -75544,37 +75214,22 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2022
+  },
+  {"model_make_id": "Infiniti",
+    "model_name": "QX70",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
@@ -77292,51 +76947,6 @@
     "model_trim": "Sedan",
     "model_year": 2017
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -77409,13 +77019,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Honda",
     "model_name": "Civic",
@@ -77459,13 +77069,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Bentley",
     "model_name": "Mulsanne",
@@ -77912,26 +77522,6 @@
     "model_trim": "SUV",
     "model_year": 2017
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2017
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -77980,56 +77570,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
@@ -78190,46 +77730,6 @@
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -79232,39 +78732,9 @@
     "model_trim": "Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
@@ -80957,51 +80427,6 @@
     "model_trim": "Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -81069,13 +80494,18 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2022
+  },
+  {"model_make_id": "Infiniti",
+    "model_name": "Q40",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Honda",
     "model_name": "Civic",
@@ -81119,13 +80549,13 @@
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2018
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Infiniti",
     "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
-    "model_year": 2018
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Bentley",
     "model_name": "Mulsanne",
@@ -81572,26 +81002,6 @@
     "model_trim": "SUV",
     "model_year": 2018
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2018
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -81640,56 +81050,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
@@ -81870,46 +81230,6 @@
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -82872,16 +82192,6 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
   {"model_make_id": "BMW",
     "model_name": "4 Series Gran Coupe",
     "model_trim": "Sedan",
@@ -82890,26 +82200,6 @@
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
@@ -84547,51 +83837,6 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -84657,16 +83902,6 @@
     "model_trim": "Hatchback",
     "model_year": 2019
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Honda",
     "model_name": "Civic",
     "model_trim": "Sedan",
@@ -84705,16 +83940,6 @@
   {"model_make_id": "Ford",
     "model_name": "Flex",
     "model_trim": "Wagon",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
     "model_year": 2019
   },
   {"model_make_id": "Bentley",
@@ -85162,26 +84387,6 @@
     "model_trim": "SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2019
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -85230,56 +84435,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
@@ -85380,46 +84535,6 @@
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -86402,39 +85517,9 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
@@ -88072,51 +87157,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -88182,16 +87222,6 @@
     "model_trim": "Hatchback",
     "model_year": 2020
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Honda",
     "model_name": "Civic",
     "model_trim": "Sedan",
@@ -88230,16 +87260,6 @@
   {"model_make_id": "Ford",
     "model_name": "Flex",
     "model_trim": "Wagon",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
     "model_year": 2020
   },
   {"model_make_id": "Bentley",
@@ -88682,26 +87702,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2020
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -88750,56 +87750,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
@@ -88900,46 +87850,6 @@
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -89922,39 +88832,9 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
@@ -91597,51 +90477,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -91707,16 +90542,6 @@
     "model_trim": "Hatchback",
     "model_year": 2021
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Honda",
     "model_name": "Civic",
     "model_trim": "Sedan",
@@ -91755,16 +90580,6 @@
   {"model_make_id": "Ford",
     "model_name": "Flex",
     "model_trim": "Wagon",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
     "model_year": 2021
   },
   {"model_make_id": "Bentley",
@@ -92207,26 +91022,6 @@
     "model_trim": "SUV",
     "model_year": 2021
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2021
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -92275,56 +91070,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
@@ -92435,46 +91180,6 @@
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -93932,16 +92637,6 @@
     "model_trim": "Sedan",
     "model_year": 2023
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX70",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Volkswagen",
     "model_name": "Golf GTI",
     "model_trim": "Hatchback",
@@ -93966,26 +92661,6 @@
     "model_name": "Sonata",
     "model_trim": "Sedan",
     "model_year": 2023
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "Journey 4dr SUV (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX50",
-    "model_trim": "4dr SUV AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Expedition",
@@ -96272,51 +94947,6 @@
     "model_trim": "Sedan",
     "model_year": 2023
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "Hybrid 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan (5.6L 8cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q70",
-    "model_trim": "L 4dr Sedan AWD (5.6L 8cyl 7A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Toyota",
     "model_name": "Camry Hybrid",
     "model_trim": "Sedan",
@@ -96462,16 +95092,6 @@
     "model_trim": "Hatchback",
     "model_year": 2023
   },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q40",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Honda",
     "model_name": "Civic",
     "model_trim": "Sedan",
@@ -96541,16 +95161,6 @@
     "model_name": "Flex",
     "model_trim": "Wagon",
     "model_year": 2023
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV 4WD (5.6L 8cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX80",
-    "model_trim": "4dr SUV (5.6L 8cyl 7A)",
-    "model_year": 2022
   },
   {"model_make_id": "Bentley",
     "model_name": "Mulsanne",
@@ -97036,26 +95646,6 @@
     "model_name": "Pathfinder",
     "model_trim": "SUV",
     "model_year": 2023
-},
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "Hybrid 4dr SUV AWD (2.5L 4cyl S/C gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV AWD (3.5L 6cyl CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "QX60",
-    "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2022
   },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
@@ -97120,56 +95710,6 @@
   {"model_make_id": "Lamborghini",
     "model_name": "Aventador",
     "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Premium 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Hybrid Sport 4dr Sedan AWD (3.5L 6cyl gas/electric hybrid 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Premium 4dr Sedan AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q50",
-    "model_trim": "Sport 4dr Sedan AWD (3.7L 6cyl 7A)",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
@@ -97311,46 +95851,6 @@
     "model_name": "Edge",
     "model_trim": "SUV",
     "model_year": 2023
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "IPL 2dr Convertible (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Convertible",
-    "model_trim": "Sport 2dr Convertible (3.7L 6cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "2dr Coupe AWD (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport Limited 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Journey 2dr Coupe (3.7L 6cyl 7A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Infiniti",
-    "model_name": "Q60 Coupe",
-    "model_trim": "Sport 2dr Coupe (3.7L 6cyl 6M)",
-    "model_year": 2022
   },
   {"model_make_id": "Nissan",
     "model_name": "Quest",
