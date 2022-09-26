@@ -66969,7 +66969,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
@@ -71034,7 +71034,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
@@ -74519,7 +74519,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
@@ -78034,7 +78034,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
@@ -81524,7 +81524,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2019
   },
   {"model_make_id": "Chevrolet",
@@ -84829,7 +84829,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2020
   },
   {"model_make_id": "Chevrolet",
@@ -88144,7 +88144,7 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2021
   },
   {"model_make_id": "Chevrolet",
@@ -91514,8 +91514,13 @@
   },
   {"model_make_id": "Jaguar",
     "model_name": "XS",
-    "model_trim": "4dr Sedan (2.0L 4cyl 8A)",
+    "model_trim": "Sedan",
     "model_year": 2022
+  },
+    {"model_make_id": "Jaguar",
+    "model_name": "XS",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Chevrolet",
     "model_name": "City Express",
@@ -91887,6 +91892,16 @@
     "model_trim": "Convertible",
     "model_year": 2022
   },
+  {"model_make_id": "Jaguar",
+    "model_name": "F-TYPE",
+    "model_trim": "Coupe",
+    "model_year": 2023
+  },
+  {"model_make_id": "Jaguar",
+    "model_name": "F-TYPE",
+    "model_trim": "Convertible",
+    "model_year": 2023
+  },
   {"model_make_id": "Nissan",
     "model_name": "GT-R",
     "model_trim": "Coupe",
@@ -92116,6 +92131,16 @@
     "model_name": "XK-series",
     "model_trim": "Convertible",
     "model_year": 2022
+  },
+  {"model_make_id": "Jaguar",
+    "model_name": "XK-series",
+    "model_trim": "Coupe",
+    "model_year": 2023
+  },
+  {"model_make_id": "Jaguar",
+    "model_name": "XK-series",
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Murano",
@@ -92941,6 +92966,11 @@
     "model_name": "XF",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Jaguar",
+    "model_name": "XF",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "C-Class",
