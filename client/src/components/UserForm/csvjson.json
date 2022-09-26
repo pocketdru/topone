@@ -51094,43 +51094,43 @@
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-1",
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-2",
-    "model_year": 2010
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1",
-    "model_year": 2010
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2",
-    "model_year": 2010
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1",
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-2",
-    "model_year": 2011
+    "model_trim": "SUV",
+    "model_year": 2012
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLT-1",
-    "model_year": 2011
+    "model_trim": "SUV",
+    "model_year": 2013
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLT-2",
-    "model_year": 2011
+    "model_trim": "SUV",
+    "model_year": 2014
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Terrain",
+    "model_trim": "SUV",
+    "model_year": 2015
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Terrain",
+    "model_trim": "SUV",
+    "model_year": 2016
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Terrain",
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "GMC",
     "model_name": "Yukon",
@@ -51164,22 +51164,12 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Crosstour",
-    "model_trim": "EX",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Crosstour",
-    "model_trim": "EX-L",
-    "model_year": 2010
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Crosstour",
-    "model_trim": "EX",
-    "model_year": 2011
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Crosstour",
-    "model_trim": "EX-L",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "Honda",
@@ -51204,13 +51194,13 @@
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX",
-    "model_year": 2011
+    "model_trim": "Hatchback",
+    "model_year": 2012
   },
   {"model_make_id": "Honda",
     "model_name": "Element",
@@ -56434,23 +56424,23 @@
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-1",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-2",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLT-1",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLT-2",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "GMC",
     "model_name": "Yukon",
@@ -56479,23 +56469,18 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Crosstour",
-    "model_trim": "EX",
-    "model_year": 2012
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Crosstour",
-    "model_trim": "EX-L",
+    "model_trim": "Sedan",
     "model_year": 2012
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "",
-    "model_year": 2012
+    "model_trim": "Hatchback",
+    "model_year": 2013
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX",
-    "model_year": 2012
+    "model_trim": "Hatchback",
+    "model_year": 2014
   },
   {"model_make_id": "Honda",
     "model_name": "Fit",
@@ -59117,16 +59102,6 @@
     "model_trim": "SUV",
     "model_year": 2012
   },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Crosstour",
-    "model_trim": "EX-L AWD",
-    "model_year": 2010
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Crosstour",
-    "model_trim": "EX-L AWD",
-    "model_year": 2011
-  },
   {"model_make_id": "lincoln",
     "model_name": "Mark VIII",
     "model_trim": "Coupe",
@@ -60974,28 +60949,13 @@
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-1",
-    "model_year": 2013
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "GMC",
     "model_name": "Terrain",
-    "model_trim": "SLE-2",
-    "model_year": 2013
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1",
-    "model_year": 2013
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2",
-    "model_year": 2013
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali",
-    "model_year": 2013
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
@@ -61139,23 +61099,23 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX",
+    "model_trim": "Hatchback",
     "model_year": 2013
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L",
-    "model_year": 2013
+    "model_trim": "Hatchback",
+    "model_year": 2014
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX V-6",
-    "model_year": 2013
+    "model_trim": "Hatchback",
+    "model_year": 2015
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L V-6",
-    "model_year": 2013
+    "model_trim": "Hatchback",
+    "model_year": 2016
   },
   {"model_make_id": "Honda",
     "model_name": "CR-V",
@@ -61164,13 +61124,13 @@
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "CR-Z",
-    "model_year": 2013
+    "model_trim": "Hatchback",
+    "model_year": 2015
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX",
-    "model_year": 2013
+    "model_trim": "Hatchback",
+    "model_year": 2016
   },
   {"model_make_id": "Honda",
     "model_name": "Fit",
@@ -65069,28 +65029,78 @@
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
+    "model_trim": "Crew Cab",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2014
+    "model_trim": "Crew Cab",
+    "model_year": 2018
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Crew Cab",
+    "model_year": 2019
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2019
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Crew Cab",
+    "model_year": 2020
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2020
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Crew Cab",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2021
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Crew Cab",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Crew Cab",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "F-450 Super Duty",
+    "model_trim": "Regular Cab",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Fiesta",
@@ -65119,28 +65129,28 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "Sedan",
+    "model_year": 2015
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Fusion Hybrid",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Mustang",
@@ -65258,56 +65268,6 @@
     "model_year": 2014
   },
   {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "GMC",
     "model_name": "Yukon",
     "model_trim": "Large SUV",
     "model_year": 2014
@@ -65329,18 +65289,18 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "Sedan",
     "model_year": 2014
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2015
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Plug-In Hybrid",
@@ -65359,43 +65319,38 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2017
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback AWD w/Navigation (3.5L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2018
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2019
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2020
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback w/Navigation (2.4L 4cyl 5A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2021
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback w/Navigation (3.5L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2022
   },
   {"model_make_id": "Honda",
     "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Honda",
     "model_name": "CR-V",
@@ -65404,33 +65359,38 @@
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2017
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback w/Navigation (1.5L 4cyl gas/electric hybrid CVT",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2018
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback w/Navigation (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2019
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2020
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2021
   },
   {"model_make_id": "Honda",
     "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2022
+  },
+  {"model_make_id": "Honda",
+    "model_name": "CR-Z",
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Honda",
     "model_name": "Insight",
@@ -67794,12 +67754,12 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
@@ -67849,167 +67809,47 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2015
   },
   {"model_make_id": "GMC",
@@ -68024,67 +67864,42 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "150 XLT Low Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -68126,31 +67941,6 @@
     "model_name": "Escalade ESV",
     "model_trim": "Large SUV",
     "model_year": 2023
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2015
   },
   {"model_make_id": "Nissan",
     "model_name": "Murano",
@@ -68654,13 +68444,13 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
@@ -68714,18 +68504,18 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Kia",
     "model_name": "Optima",
@@ -69992,56 +69782,6 @@
     "model_trim": "SUV",
     "model_year": 2015
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -70692,46 +70432,6 @@
     "model_trim": "Sedan",
     "model_year": 2015
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -71335,36 +71035,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2015
   },
   {"model_make_id": "Lincoln",
@@ -72169,12 +71839,7 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Volvo",
@@ -72224,167 +71889,52 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2016
   },
   {"model_make_id": "GMC",
@@ -72399,67 +71949,42 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
@@ -72490,31 +72015,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Nissan",
@@ -72739,13 +72239,13 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
@@ -72799,18 +72299,23 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Fusion Hybrid",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Optima",
@@ -73972,56 +73477,6 @@
     "model_trim": "SUV",
     "model_year": 2016
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -74677,46 +74132,6 @@
     "model_trim": "Sedan",
     "model_year": 2016
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -75325,36 +74740,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2016
   },
   {"model_make_id": "Lincoln",
@@ -76152,16 +75537,6 @@
     "model_trim": "Sedan",
     "model_year": 2017
   },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2017
-  },
   {"model_make_id": "Volvo",
     "model_name": "S80",
     "model_trim": "Sedan",
@@ -76203,168 +75578,48 @@
     "model_year": 2017
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2017
   },
   {"model_make_id": "GMC",
@@ -76379,67 +75634,52 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
@@ -76470,31 +75710,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -76724,13 +75939,13 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
@@ -76780,21 +75995,6 @@
   {"model_make_id": "Chevrolet",
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2017
   },
   {"model_make_id": "Kia",
@@ -77997,56 +77197,6 @@
     "model_trim": "SUV",
     "model_year": 2017
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -78084,18 +77234,18 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "Sedan",
     "model_year": 2017
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Eos",
@@ -78717,46 +77867,6 @@
     "model_trim": "Sedan",
     "model_year": 2017
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -79365,36 +78475,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2017
   },
   {"model_make_id": "Lincoln",
@@ -80212,16 +79292,6 @@
     "model_trim": "Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2018
-  },
   {"model_make_id": "Volvo",
     "model_name": "S80",
     "model_trim": "Sedan",
@@ -80258,168 +79328,48 @@
     "model_year": 2018
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2018
   },
   {"model_make_id": "GMC",
@@ -80434,67 +79384,52 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
@@ -80525,31 +79460,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -80784,13 +79694,13 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
@@ -80840,21 +79750,6 @@
   {"model_make_id": "Chevrolet",
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2018
   },
   {"model_make_id": "Kia",
@@ -82022,56 +80917,6 @@
     "model_trim": "SUV",
     "model_year": 2018
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -82109,18 +80954,23 @@
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Honda",
     "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2022
+  },
+  {"model_make_id": "Honda",
+    "model_name": "Accord Hybrid",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Eos",
@@ -82742,46 +81592,6 @@
     "model_trim": "Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -83385,36 +82195,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2018
   },
   {"model_make_id": "Lincoln",
@@ -84242,16 +83022,6 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2019
-  },
   {"model_make_id": "Volvo",
     "model_name": "S80",
     "model_trim": "Sedan",
@@ -84283,168 +83053,48 @@
     "model_year": 2019
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2019
   },
   {"model_make_id": "GMC",
@@ -84459,67 +83109,52 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
@@ -84550,31 +83185,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -84792,16 +83402,6 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
     "model_trim": "2dr Coupe AWD",
@@ -84850,21 +83450,6 @@
   {"model_make_id": "Chevrolet",
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2019
   },
   {"model_make_id": "Kia",
@@ -86017,56 +84602,6 @@
     "model_trim": "SUV",
     "model_year": 2019
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -86100,21 +84635,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord",
     "model_trim": "Coupe",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2019
   },
   {"model_make_id": "Volkswagen",
@@ -86737,46 +85257,6 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -87380,36 +85860,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2019
   },
   {"model_make_id": "Lincoln",
@@ -88157,16 +86607,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2020
-  },
   {"model_make_id": "Volvo",
     "model_name": "S80",
     "model_trim": "Sedan",
@@ -88203,168 +86643,48 @@
     "model_year": 2020
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2020
   },
   {"model_make_id": "GMC",
@@ -88379,67 +86699,52 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
@@ -88470,31 +86775,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -88727,16 +87007,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
     "model_trim": "2dr Coupe",
@@ -88785,21 +87055,6 @@
   {"model_make_id": "Chevrolet",
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2020
   },
   {"model_make_id": "Kia",
@@ -89947,56 +88202,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -90030,21 +88235,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord",
     "model_trim": "Coupe",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2020
   },
   {"model_make_id": "Volkswagen",
@@ -90667,46 +88857,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -91305,36 +89455,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2020
   },
   {"model_make_id": "Lincoln",
@@ -92082,16 +90202,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2021
-  },
   {"model_make_id": "Volvo",
     "model_name": "S80",
     "model_trim": "Sedan",
@@ -92128,168 +90238,48 @@
     "model_year": 2021
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
+    "model_trim": "250 High Roof 3dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "350 High Roof 3dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2021
   },
   {"model_make_id": "GMC",
@@ -92304,67 +90294,52 @@
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
@@ -92395,31 +90370,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -92652,16 +90602,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
   {"model_make_id": "Bentley",
     "model_name": "Continental GT",
     "model_trim": "2dr Coupe AWD",
@@ -92710,21 +90650,6 @@
   {"model_make_id": "Chevrolet",
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2021
   },
   {"model_make_id": "Kia",
@@ -93867,56 +91792,6 @@
     "model_trim": "SUV",
     "model_year": 2021
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -93950,21 +91825,6 @@
   {"model_make_id": "Honda",
     "model_name": "Accord",
     "model_trim": "Coupe",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2021
   },
   {"model_make_id": "Volkswagen",
@@ -94597,46 +92457,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -95235,36 +93055,6 @@
   {"model_make_id": "Infiniti",
     "model_name": "QX60",
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
     "model_year": 2021
   },
   {"model_make_id": "Lincoln",
@@ -95962,6 +93752,11 @@
     "model_trim": "Hatchback",
     "model_year": 2022
   },
+    {"model_make_id": "Honda",
+    "model_name": "Fit",
+    "model_trim": "Hatchback",
+    "model_year": 2023
+  },
   {"model_make_id": "Volkswagen",
     "model_name": "e-Golf",
     "model_trim": "Hatchback",
@@ -96128,13 +93923,48 @@
     "model_year": 2023
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
+    "model_trim": "250 Low Roof 3dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "350 Low Roof 3dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "250 High Roof 3dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "350 High Roof 3dr Cargo Van",
+    "model_year": 2022
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Van",
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
     "model_year": 2022
   },
   {"model_make_id": "Volvo",
@@ -96193,169 +94023,49 @@
     "model_year": 2023
   },
   {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Wagon",
-    "model_trim": "150 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2022
+    "model_name": "Transit Van",
+    "model_trim": "150 Low Roof 3dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
-    "model_year": 2022
+    "model_trim": "250 Low Roof 3dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
-    "model_year": 2022
+    "model_trim": "350 Low Roof 3dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
-    "model_year": 2022
+    "model_trim": "350 Medium Roof 4dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side Doo",
-    "model_year": 2022
+    "model_trim": "150 Medium Roof 4dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "150 Low Roof 3dr Cargo Van w/130\" WB | 60/40 Passenger Side Door",
-    "model_year": 2022
+    "model_trim": "250 Medium Roof 4dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | 60/40 Passenger Side Door",
-    "model_year": 2022
+    "model_trim": "250 High Roof 3dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "250 Low Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side Doo",
-    "model_year": 2022
+    "model_trim": "350 High Roof 3dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/60/40 Passenger Side Door (3.7L 6cy",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Low Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L 6",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 Medium Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/148\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 3dr Cargo Van w/130\" WB | Sliding Passenger Side",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "150 Medium Roof 3dr Cargo Van w/148\" WB | Sliding Passenger Side",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 Medium Roof 4dr Cargo Van w/130\" WB | Dual Sliding Doors (3.7",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Dual Sliding Doors (3.7L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 3dr Cargo Van w/Extended Length | Sliding Passenger",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.7L",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "250 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 High Roof 4dr Cargo Van w/Extended Length | Dual Sliding Door",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van DRW w/Dual Sliding Doors (3.5L 6c",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van DRW w/Sliding Passenger Side Door",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 4dr Cargo Van w/Dual Sliding Doors (3.5L 6cyl T",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Transit Van",
-    "model_trim": "350 HD High Roof 3dr Cargo Van w/Sliding Passenger Side Door (3.",
-    "model_year": 2022
+    "model_trim": "350 HD High Roof 4dr Cargo Van",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Yukon",
@@ -96363,74 +94073,119 @@
     "model_year": 2022
   },
   {"model_make_id": "GMC",
+    "model_name": "Yukon",
+    "model_trim": "Large SUV",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
     "model_name": "Yukon XL",
     "model_trim": "Large SUV",
     "model_year": 2022
   },
+  {"model_make_id": "GMC",
+    "model_name": "Yukon XL",
+    "model_trim": "Large SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (3",
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XL High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XL High Roof 3dr Passenger Van DRW w/Extended Length (3.5",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "150 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/60/40 Passenger Side Door (",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Low Roof 3dr Passenger Van w/Sliding Passenger Side Door",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
     "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT Medium Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2022
+    "model_trim": "150 XL Low Roof 3dr Passenger Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 XLT High Roof 3dr Passenger Van (3.7L 6cyl 6A)",
-    "model_year": 2022
+    "model_trim": "150 XL Medium Roof 3dr Passenger Van",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Wagon",
-    "model_trim": "350 HD XLT High Roof 3dr Passenger Van DRW w/Extended Length (3.",
-    "model_year": 2022
+    "model_trim": "350 XL Low Roof 3dr Passenger Van",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "350 XL Medium Roof 3dr Passenger Van",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "350 XL High Roof 3dr Passenger Van",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "150 XLT Low Roof 3dr Passenger",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "150 XLT Medium Roof 3dr Passenger Van",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "350 XLT Low Roof 3dr Passenger Van",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "350 XLT Medium Roof 3dr Passenger Van",
+    "model_year": 2023
+  },
+  {"model_make_id": "Ford",
+    "model_name": "Transit Wagon",
+    "model_trim": "350 XLT High Roof 3dr Passenger Van",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "X3",
@@ -96485,31 +94240,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XK-series",
     "model_trim": "Convertible",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XLT 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "XL 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "King Ranch 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Lariat 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "F-450 Super Duty",
-    "model_trim": "Platinum 4dr Crew Cab 4WD LB DRW (6.7L 8cyl Turbodiesel 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Nissan",
@@ -96601,6 +94331,31 @@
     "model_name": "Sierra 2500HD",
     "model_trim": "Regular Cab",
     "model_year": 2022
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 2500HD",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 2500HD",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 2500HD",
+    "model_trim": "Extended Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 2500HD",
+    "model_trim": "Extended Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 2500HD",
+    "model_trim": "Regular Cab",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Fiesta",
@@ -96748,6 +94503,41 @@
     "model_year": 2022
   },
   {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Crew Cab DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Crew Cab Long Bed SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Extended Cab DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Extended Cab SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Regular Cab DRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD",
+    "model_trim": "Regular Cab SRW",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
     "model_name": "Sierra 3500HD CC",
     "model_trim": "Crew Cab",
     "model_year": 2022
@@ -96756,6 +94546,16 @@
     "model_name": "Sierra 3500HD CC",
     "model_trim": "Regular Cab",
     "model_year": 2022
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD CC",
+    "model_trim": "Crew Cab",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 3500HD CC",
+    "model_trim": "Regular Cab",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR2",
@@ -96815,16 +94615,6 @@
   {"model_make_id": "Lincoln",
     "model_name": "MKZ",
     "model_trim": "Sedan",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "SE Luxury 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Energi",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
     "model_year": 2022
   },
   {"model_make_id": "Bentley",
@@ -96921,21 +94711,6 @@
     "model_name": "City Express",
     "model_trim": "LS 4dr Cargo Minivan (2.0L 4cyl CVT)",
     "model_year": 2023
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "S 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "SE 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Ford",
-    "model_name": "Fusion Hybrid",
-    "model_trim": "Titanium 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
   },
   {"model_make_id": "Kia",
     "model_name": "Optima",
@@ -97101,6 +94876,11 @@
     "model_name": "Pilot",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Honda",
+    "model_name": "Pilot",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Porsche",
     "model_name": "Cayman",
@@ -97431,6 +95211,11 @@
     "model_name": "Acadia",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+    {"model_make_id": "GMC",
+    "model_name": "Acadia",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Jeep",
     "model_name": "Grand Cherokee",
@@ -98417,6 +96202,11 @@
     "model_trim": "Minivan",
     "model_year": 2022
   },
+  {"model_make_id": "Honda",
+    "model_name": "Odyssey",
+    "model_trim": "Minivan",
+    "model_year": 2023
+  },
   {"model_make_id": "Kia",
     "model_name": "Sportage",
     "model_trim": "SUV",
@@ -98582,56 +96372,6 @@
     "model_trim": "SUV",
     "model_year": 2023
   },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "Denali 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-1 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-1 4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLE-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "GMC",
-    "model_name": "Terrain",
-    "model_trim": "SLT-2 4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "BMW",
     "model_name": "M5",
     "model_trim": "4dr Sedan (4.4L 8cyl Turbo 7AM)",
@@ -98698,19 +96438,14 @@
     "model_year": 2022
   },
   {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "EX-L 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
+    "model_name": "Accord",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "Touring 4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Accord Hybrid",
-    "model_trim": "4dr Sedan (2.0L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
+    "model_name": "Accord",
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Volkswagen",
     "model_name": "Eos",
@@ -99462,46 +97197,6 @@
     "model_trim": "Sedan",
     "model_year": 2023
   },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback AWD (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L w/Navigation 4dr Hatchback (2.4L 4cyl 5A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX V6 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "Crosstour",
-    "model_trim": "EX-L V6 w/Navigation 4dr Hatchback (3.5L 6cyl 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Lexus",
     "model_name": "ES 300h",
     "model_trim": "Sedan",
@@ -99637,6 +97332,16 @@
     "model_trim": "Coupe",
     "model_year": 2022
   },
+  {"model_make_id": "Honda",
+    "model_name": "Civic",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Honda",
+    "model_name": "Civic",
+    "model_trim": "Coupe",
+    "model_year": 2023
+  },
   {"model_make_id": "Volkswagen",
     "model_name": "Beetle Convertible",
     "model_trim": "Convertible",
@@ -99736,6 +97441,26 @@
     "model_name": "Sierra 1500",
     "model_trim": "Regular Cab",
     "model_year": 2022
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 1500",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 1500",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 1500",
+    "model_trim": "Extended Cab",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Sierra 1500",
+    "model_trim": "Regular Cab",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500 Limited",
@@ -100027,6 +97752,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Honda",
+    "model_name": "CR-V",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Express 2dr Regular Cab 4WD SB (3.6L 6cyl 8A)",
@@ -100207,36 +97937,6 @@
     "model_trim": "4dr SUV (3.5L 6cyl CVT)",
     "model_year": 2022
   },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Honda",
-    "model_name": "CR-Z",
-    "model_trim": "EX w/Navigation 2dr Hatchback (1.5L 4cyl gas/electric hybrid CVT",
-    "model_year": 2022
-  },
   {"model_make_id": "Lincoln",
     "model_name": "MKC",
     "model_trim": "Black Label 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -100357,6 +98057,11 @@
     "model_trim": "4dr Hatchback w/EcoBoost (2.0L 4cyl Turbo 6M)",
     "model_year": 2022
   },
+  {"model_make_id": "Ford",
+    "model_name": "Focus ST",
+    "model_trim": "4dr Hatchback w/EcoBoost (2.0L 4cyl Turbo 6M)",
+    "model_year": 2023
+  },
   {"model_make_id": "Toyota",
     "model_name": "Avalon",
     "model_trim": "Sedan",
@@ -100431,6 +98136,21 @@
     "model_name": "Canyon",
     "model_trim": "Crew Cab Short Bed",
     "model_year": 2022
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Canyon",
+    "model_trim": "Crew Cab Long Bed",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Canyon",
+    "model_trim": "Extended Cab",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Canyon",
+    "model_trim": "Crew Cab Short Bed",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Armada",
@@ -100551,6 +98271,16 @@
     "model_name": "Savana Cargo",
     "model_trim": "Extended Length Cargo",
     "model_year": 2022
+  },
+    {"model_make_id": "GMC",
+    "model_name": "Savana Cargo",
+    "model_trim": "Cargo",
+    "model_year": 2023
+  },
+  {"model_make_id": "GMC",
+    "model_name": "Savana Cargo",
+    "model_trim": "Extended Length Cargo",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Savana Passenger",
