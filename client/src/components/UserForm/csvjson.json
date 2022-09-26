@@ -56528,11 +56528,6 @@
     "model_year": 2012
   },
   {"model_make_id": "hyundai",
-    "model_name": "HED-5",
-    "model_trim": "",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
     "model_name": "Santa Fe",
     "model_trim": "SUV",
     "model_year": 2012
@@ -56549,7 +56544,7 @@
   },
   {"model_make_id": "hyundai",
     "model_name": "Veloster",
-    "model_trim": "",
+    "model_trim": "Hatchback",
     "model_year": 2012
   },
   {"model_make_id": "hyundai",
@@ -58382,291 +58377,6 @@
     "model_trim": "SUV",
     "model_year": 2012
   },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 3 Door",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 3 Door",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 5 Door",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 5 Door",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 3 Door",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 3 Door",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 5 Door",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 5 Door",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 3 Door",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 3 Door",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 5 Door",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 5 Door",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": 1.4,
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": 1.6,
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": "1.4 CRDI",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": "1.6 CRDI",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": 1.6,
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": "1.7 CRDI",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": "2.0 CRDI",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 3 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 3 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 5 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 5 Door",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": 1.4,
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": 1.6,
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": "1.4 CRDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": "1.6 CRDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i40",
-    "model_trim": "1.6 GDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i40",
-    "model_trim": "2.0 GDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i40",
-    "model_trim": "1.7 CRDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": 1.6,
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": "1.7 CRDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": "2.0 CRDI",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 3 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.2 5 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 CRDI 5 Door",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": 1.4,
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": 1.6,
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": "1.4 CRDI",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix20",
-    "model_trim": "1.6 CRDI",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i40",
-    "model_trim": "1.6 GDI",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i40",
-    "model_trim": "2.0 GDI",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i40",
-    "model_trim": "1.7 CRDI",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": 1.6,
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": "1.7 CRDI",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "ix35",
-    "model_trim": "2.0 CRDI",
-    "model_year": 2012
-  },
   {"model_make_id": "kia",
     "model_name": "Venga",
     "model_trim": 1.4,
@@ -60242,56 +59952,6 @@
     "model_trim": "1.4 Automatic",
     "model_year": 1977
   },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door Automatic",
-    "model_year": 2008
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door Automatic",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door Automatic",
-    "model_year": 2009
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door Automatic",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door Automatic",
-    "model_year": 2010
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door Automatic",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door Automatic",
-    "model_year": 2011
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 3 Door Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "i20",
-    "model_trim": "1.4 5 Door Automatic",
-    "model_year": 2012
-  },
   {"model_make_id": "nissan",
     "model_name": "Juke",
     "model_trim": "S AWD",
@@ -60751,11 +60411,6 @@
     "model_name": "Tundra",
     "model_trim": "Regular Cab",
     "model_year": 2003
-  },
-  {"model_make_id": "hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Automatic",
-    "model_year": 2012
   },
   {"model_make_id": "scion",
     "model_name": "xD",
@@ -61704,13 +61359,13 @@
   },
   {"model_make_id": "hyundai",
     "model_name": "Veloster",
-    "model_trim": "Veloster (Standard)",
+    "model_trim": "Hatchback",
     "model_year": 2013
   },
   {"model_make_id": "hyundai",
     "model_name": "Veloster",
-    "model_trim": "Turbo",
-    "model_year": 2013
+    "model_trim": "Hatchback",
+    "model_year": 2014
   },
   {"model_make_id": "lincoln",
     "model_name": "MKZ",
@@ -65429,22 +65084,7 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Elantra GT",
-    "model_trim": "4dr Hatchback w/Blue Interior (2.0L 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Elantra GT",
-    "model_trim": "4dr Hatchback w/Blue Interior (2.0L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Elantra GT",
-    "model_trim": "4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Elantra GT",
-    "model_trim": "4dr Hatchback (2.0L 4cyl 6M)",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "Hyundai",
@@ -65464,33 +65104,33 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
+    "model_trim": "SUV",
     "model_year": 2014
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata",
@@ -65504,58 +65144,48 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Red Interior (1.6L 4cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2015
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2016
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Gray Interior (1.6L 4cyl 6AM)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2017
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2018
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Blue Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2019
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2020
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2021
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2022
   },
   {"model_make_id": "Hyundai",
     "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Blue Interior (1.6L 4cyl Turbo 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Gray Interior (1.6L 4cyl 6M)",
-    "model_year": 2014
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Infiniti",
     "model_name": "Q50",
@@ -69509,13 +69139,13 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
@@ -69622,44 +69252,9 @@
     "model_trim": "Sedan",
     "model_year": 2015
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2015
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2015
   },
   {"model_make_id": "Nissan",
@@ -70614,33 +70209,23 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Hyundai",
     "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Ram",
     "model_name": 1500,
@@ -73219,13 +72804,13 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
@@ -73322,44 +72907,9 @@
     "model_trim": "Sedan",
     "model_year": 2016
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2016
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Nissan",
@@ -74315,36 +73865,6 @@
   {"model_make_id": "Dodge",
     "model_name": "Durango",
     "model_trim": "SUV",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Ram",
@@ -76929,13 +76449,13 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
@@ -77037,26 +76557,6 @@
     "model_trim": "Sedan",
     "model_year": 2017
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2017
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Convertible",
@@ -77065,21 +76565,6 @@
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -78050,36 +77535,6 @@
   {"model_make_id": "Dodge",
     "model_name": "Durango",
     "model_trim": "SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Ram",
@@ -80649,13 +80104,18 @@
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Hyundai",
     "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2022
+  },
+  {"model_make_id": "Hyundai",
+    "model_name": "Sonata Hybrid",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
@@ -80757,26 +80217,6 @@
     "model_trim": "Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2018
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Convertible",
@@ -80785,21 +80225,6 @@
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -81770,36 +81195,6 @@
   {"model_make_id": "Dodge",
     "model_name": "Durango",
     "model_trim": "SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Ram",
@@ -84332,16 +83727,6 @@
     "model_trim": "4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT)",
     "model_year": 2019
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
     "model_trim": "SUV",
@@ -84442,26 +83827,6 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2019
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Convertible",
@@ -84470,21 +83835,6 @@
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -85437,36 +84787,6 @@
     "model_trim": "SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Tradesman 2dr Regular Cab 4WD LB (3.6L 6cyl 8A)",
@@ -87932,16 +87252,6 @@
     "model_trim": "4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT)",
     "model_year": 2020
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
     "model_trim": "SUV",
@@ -88042,26 +87352,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2020
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Convertible",
@@ -88070,21 +87360,6 @@
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -89032,36 +88307,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Tradesman 2dr Regular Cab 4WD LB (3.6L 6cyl 8A)",
@@ -91532,16 +90777,6 @@
     "model_trim": "4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT)",
     "model_year": 2021
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
     "model_trim": "SUV",
@@ -91632,26 +90867,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2021
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Convertible",
@@ -91660,21 +90875,6 @@
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Coupe",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -92630,36 +91830,6 @@
   {"model_make_id": "Dodge",
     "model_name": "Durango",
     "model_trim": "SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Ram",
@@ -94382,6 +93552,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Hyundai",
+    "model_name": "Genesis",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Acura",
     "model_name": "RDX",
     "model_trim": "4dr SUV",
@@ -94787,6 +93962,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Hyundai",
+    "model_name": "Sonata",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Infiniti",
     "model_name": "QX50",
     "model_trim": "4dr SUV (3.7L 6cyl 7A)",
@@ -95076,6 +94256,11 @@
     "model_name": "Elantra",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Hyundai",
+    "model_name": "Elantra",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Jaguar",
     "model_name": "XF",
@@ -95897,6 +95082,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Hyundai",
+    "model_name": "Tucson",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Mitsubishi",
     "model_name": "Lancer",
     "model_trim": "Sedan",
@@ -95937,6 +95127,11 @@
     "model_trim": "Sedan",
     "model_year": 2022
   },
+  {"model_make_id": "Hyundai",
+    "model_name": "Equus",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
   {"model_make_id": "Kia",
     "model_name": "Rio",
     "model_trim": "Hatchback",
@@ -95970,16 +95165,6 @@
   {"model_make_id": "Lexus",
     "model_name": "CT 200h",
     "model_trim": "4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Sonata Hybrid",
-    "model_trim": "Limited 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Land Rover",
@@ -96122,26 +95307,6 @@
     "model_trim": "Sedan",
     "model_year": 2023
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Black Interior (1.6L 4cyl 6AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "RE:FLEX 3dr Hatchback w/Red Interior (1.6L 4cyl 6AM)",
-    "model_year": 2022
-  },
   {"model_make_id": "BMW",
     "model_name": "2 Series",
     "model_trim": "Convertible",
@@ -96161,21 +95326,6 @@
     "model_name": "2 Series",
     "model_trim": "Coupe",
     "model_year": 2023
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo R-Spec 3dr Hatchback w/Red Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Veloster",
-    "model_trim": "Turbo 3dr Hatchback w/Black Interior (1.6L 4cyl Turbo 6A)",
-    "model_year": 2022
   },
   {"model_make_id": "Nissan",
     "model_name": "370Z",
@@ -97502,36 +96652,6 @@
     "model_trim": "SUV",
     "model_year": 2023
   },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "4dr SUV AWD (2.4L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Hyundai",
-    "model_name": "Santa Fe Sport",
-    "model_trim": "2.0T 4dr SUV AWD w/Saddle Interior (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Tradesman 2dr Regular Cab 4WD LB (3.6L 6cyl 8A)",
@@ -98087,6 +97207,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Hyundai",
+    "model_name": "Santa Fe",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Maserati",
     "model_name": "Ghibli",
     "model_trim": "Sedan",
@@ -98317,6 +97442,16 @@
     "model_trim": "Hatchback",
     "model_year": 2022
   },
+  {"model_make_id": "Hyundai",
+    "model_name": "Accent",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Hyundai",
+    "model_name": "Accent",
+    "model_trim": "Hatchback",
+    "model_year": 2023
+  },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
     "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
@@ -98476,6 +97611,11 @@
     "model_name": "Azera",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Hyundai",
+    "model_name": "Azera",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Sentra",
