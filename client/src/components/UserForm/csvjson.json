@@ -27678,6 +27678,11 @@
     "model_year": 2022
   },
   {"model_make_id": "jeep",
+    "model_name": "Wrangler Unlimited",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
+  {"model_make_id": "jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
     "model_year": 2009
@@ -28404,7 +28409,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2006
   },
   {"model_make_id": "kia",
@@ -28424,7 +28429,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2007
   },
   {"model_make_id": "kia",
@@ -28474,7 +28479,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2005
   },
   {"model_make_id": "kia",
@@ -28564,7 +28569,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2009
   },
   {"model_make_id": "kia",
@@ -28574,7 +28579,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2008
   },
   {"model_make_id": "kia",
@@ -28669,7 +28674,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2004
   },
   {"model_make_id": "kia",
@@ -51464,52 +51469,12 @@
   },
   {"model_make_id": "kia",
     "model_name": "Forte",
-    "model_trim": "LX",
+    "model_trim": "Hatchback",
     "model_year": 2010
   },
   {"model_make_id": "kia",
     "model_name": "Forte",
-    "model_trim": "EX",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "SX",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "LX",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "EX",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "SX",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "kia",
@@ -51534,12 +51499,12 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2010
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2011
   },
   {"model_make_id": "kia",
@@ -51549,43 +51514,43 @@
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 2010
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "+",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Soul",
-    "model_trim": "!",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Soul",
-    "model_trim": "Sport",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Soul",
-    "model_trim": "",
+    "model_trim": "Wagon",
     "model_year": 2011
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "+",
-    "model_year": 2011
+    "model_trim": "Wagon",
+    "model_year": 2012
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "!",
-    "model_year": 2011
+    "model_trim": "Wagon",
+    "model_year": 2013
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "Sport",
-    "model_year": 2011
+    "model_trim": "Wagon",
+    "model_year": 2014
+  },
+  {"model_make_id": "kia",
+    "model_name": "Soul",
+    "model_trim": "Wagon",
+    "model_year": 2015
+  },
+  {"model_make_id": "kia",
+    "model_name": "Soul",
+    "model_trim": "Wagon",
+    "model_year": 2016
+  },
+  {"model_make_id": "kia",
+    "model_name": "Soul",
+    "model_trim": "Wagon",
+    "model_year": 2017
   },
   {"model_make_id": "kia",
     "model_name": "Sportage",
@@ -51624,12 +51589,12 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "V8",
+    "model_trim": "SUV",
     "model_year": 2010
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "V8",
+    "model_trim": "SUV",
     "model_year": 2011
   },
   {"model_make_id": "Land Rover",
@@ -51654,13 +51619,13 @@
   },
   {"model_make_id": "lexus",
     "model_name": "CT",
-    "model_trim": "200h",
+    "model_trim": "Hatchback",
     "model_year": 2011
   },
   {"model_make_id": "lexus",
     "model_name": "CT",
-    "model_trim": "200h Premium",
-    "model_year": 2011
+    "model_trim": "Hatchback",
+    "model_year": 2012
   },
   {"model_make_id": "lexus",
     "model_name": "ES 350",
@@ -51714,23 +51679,18 @@
   },
   {"model_make_id": "lexus",
     "model_name": "HS",
-    "model_trim": "250h",
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "lexus",
     "model_name": "HS",
-    "model_trim": "250h Premium",
-    "model_year": 2010
-  },
-  {"model_make_id": "lexus",
-    "model_name": "HS",
-    "model_trim": "250h",
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "lexus",
     "model_name": "HS",
-    "model_trim": "250h Premium",
-    "model_year": 2011
+    "model_trim": "Sedan",
+    "model_year": 2012
   },
   {"model_make_id": "lexus",
     "model_name": "IS 250",
@@ -51791,11 +51751,6 @@
     "model_name": "LS 600h L",
     "model_trim": "Sedan",
     "model_year": 2010
-  },
-  {"model_make_id": "lexus",
-    "model_name": "LS",
-    "model_trim": 460,
-    "model_year": 2011
   },
   {"model_make_id": "lexus",
     "model_name": "LS 460",
@@ -53409,53 +53364,53 @@
   },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
-    "model_trim": 2.4,
+    "model_trim": "Sedan",
     "model_year": 2010
   },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
-    "model_trim": 2.7,
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Cadenza",
-    "model_trim": 3,
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Cadenza",
-    "model_trim": 3.3,
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Cadenza",
-    "model_trim": 3.5,
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Cadenza",
-    "model_trim": 2.4,
+    "model_trim": "Sedan",
     "model_year": 2011
   },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
-    "model_trim": 2.7,
-    "model_year": 2011
+    "model_trim": "Sedan",
+    "model_year": 2012
   },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
-    "model_trim": 3,
-    "model_year": 2011
+    "model_trim": "Sedan",
+    "model_year": 2013
   },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
-    "model_trim": 3.3,
-    "model_year": 2011
+    "model_trim": "Sedan",
+    "model_year": 2014
   },
   {"model_make_id": "kia",
     "model_name": "Cadenza",
-    "model_trim": 3.5,
-    "model_year": 2011
+    "model_trim": "Sedan",
+    "model_year": 2015
+  },
+  {"model_make_id": "kia",
+    "model_name": "Cadenza",
+    "model_trim": "Sedan",
+    "model_year": 2016
+  },
+  {"model_make_id": "kia",
+    "model_name": "Cadenza",
+    "model_trim": "Sedan",
+    "model_year": 2017
+  },
+  {"model_make_id": "kia",
+    "model_name": "Cadenza",
+    "model_trim": "Sedan",
+    "model_year": 2018
+  },
+  {"model_make_id": "kia",
+    "model_name": "Cadenza",
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "GMC",
     "model_name": "Canyon",
@@ -53649,27 +53604,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Forte",
-    "model_trim": "EX",
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX",
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX",
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "LX",
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "SX",
+    "model_trim": "Hatchback",
     "model_year": 2009
   },
   {"model_make_id": "nissan",
@@ -55407,11 +55342,6 @@
     "model_trim": "Sedan",
     "model_year": 2008
   },
-  {"model_make_id": "lexus",
-    "model_name": "LFA",
-    "model_trim": "",
-    "model_year": 2011
-  },
   {"model_make_id": "mg",
     "model_name": "MGA",
     "model_trim": "Sedan",
@@ -56644,27 +56574,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Forte",
-    "model_trim": "LX",
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "EX",
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "SX",
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX",
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX",
+    "model_trim": "Hatchback",
     "model_year": 2012
   },
   {"model_make_id": "kia",
@@ -56674,7 +56584,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Sedona",
-    "model_trim": "Passenger Van",
+    "model_trim": "Minivan",
     "model_year": 2012
   },
   {"model_make_id": "kia",
@@ -56684,18 +56594,18 @@
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "",
-    "model_year": 2012
+    "model_trim": "Wagon",
+    "model_year": 2018
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "+",
-    "model_year": 2012
+    "model_trim": "Wagon",
+    "model_year": 2019
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "!",
-    "model_year": 2012
+    "model_trim": "Wagon",
+    "model_year": 2020
   },
   {"model_make_id": "kia",
     "model_name": "Sportage",
@@ -56704,33 +56614,23 @@
   },
   {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4",
+    "model_trim": "Convertible",
     "model_year": 2012
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "V8",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure",
+    "model_trim": "SUV",
     "model_year": 2012
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus",
-    "model_year": 2012
-  },
-  {"model_make_id": "lexus",
-    "model_name": "CT",
-    "model_trim": "200h",
-    "model_year": 2012
-  },
-  {"model_make_id": "lexus",
-    "model_name": "CT",
-    "model_trim": "200h Premium",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2013
   },
   {"model_make_id": "lexus",
     "model_name": "ES 350",
@@ -56740,16 +56640,6 @@
   {"model_make_id": "lexus",
     "model_name": "GX 460",
     "model_trim": "SUV",
-    "model_year": 2012
-  },
-  {"model_make_id": "lexus",
-    "model_name": "HS",
-    "model_trim": "250h",
-    "model_year": 2012
-  },
-  {"model_make_id": "lexus",
-    "model_name": "HS",
-    "model_trim": "250h Premium",
     "model_year": 2012
   },
   {"model_make_id": "lexus",
@@ -56775,11 +56665,6 @@
   {"model_make_id": "lexus",
     "model_name": "IS F",
     "model_trim": "Sedan",
-    "model_year": 2012
-  },
-  {"model_make_id": "lexus",
-    "model_name": "LFA",
-    "model_trim": "",
     "model_year": 2012
   },
   {"model_make_id": "lexus",
@@ -58357,66 +58242,6 @@
     "model_trim": "SUV",
     "model_year": 2012
   },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.4,
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.6,
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": "1.4 CRDi",
-    "model_year": 2009
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.4,
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.6,
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": "1.4 CRDi",
-    "model_year": 2010
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.4,
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.6,
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": "1.4 CRDi",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.4,
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": 1.6,
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Venga",
-    "model_trim": "1.4 CRDi",
-    "model_year": 2012
-  },
   {"model_make_id": "koenigsegg",
     "model_name": "Agera",
     "model_trim": "R",
@@ -59479,33 +59304,33 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2014
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Coupe Pure",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Coupe Dynamic",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "HSE",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2013
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "HSE LUX",
-    "model_year": 2012
+    "model_trim": "SUV",
+    "model_year": 2014
   },
   {"model_make_id": "lexus",
     "model_name": "LS 460",
@@ -59601,16 +59426,6 @@
     "model_name": "Grand Cherokee",
     "model_trim": "SUV",
     "model_year": 1995
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX Automatic",
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX Automatic",
-    "model_year": 2012
   },
   {"model_make_id": "xedos",
     "model_name": 6,
@@ -59911,16 +59726,6 @@
     "model_name": "Fiero",
     "model_trim": "Coupe",
     "model_year": 1988
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX Automatic",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX Automatic",
-    "model_year": 2011
   },
   {"model_make_id": "nissan",
     "model_name": "Frontier",
@@ -60324,33 +60129,18 @@
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "#NAME?",
-    "model_year": 2010
+    "model_trim": "Wagon",
+    "model_year": 2021
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "Automatic",
-    "model_year": 2010
+    "model_trim": "Wagon",
+    "model_year": 2022
   },
   {"model_make_id": "kia",
     "model_name": "Soul",
-    "model_trim": "#NAME?",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Soul",
-    "model_trim": "Automatic",
-    "model_year": 2011
-  },
-  {"model_make_id": "kia",
-    "model_name": "Soul",
-    "model_trim": "#NAME?",
-    "model_year": 2012
-  },
-  {"model_make_id": "kia",
-    "model_name": "Soul",
-    "model_trim": "Automatic",
-    "model_year": 2012
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "talbot",
     "model_name": "Tagora",
@@ -61759,37 +61549,7 @@
   },
   {"model_make_id": "kia",
     "model_name": "Forte",
-    "model_trim": "2.0L LX",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "2.0L EX",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "2.4L SX",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "5-DOOR 2.0L EX",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "5-DOOR 2.4L SX",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup 2.0L EX",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "Forte",
-    "model_trim": "Koup 2.4L SX",
+    "model_trim": "Hatchback",
     "model_year": 2013
   },
   {"model_make_id": "kia",
@@ -61805,21 +61565,6 @@
   {"model_make_id": "kia",
     "model_name": "Sorento",
     "model_trim": "SUV",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "SOUL",
-    "model_trim": "BASE",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "SOUL",
-    "model_trim": "SOUL +",
-    "model_year": 2013
-  },
-  {"model_make_id": "kia",
-    "model_name": "SOUL",
-    "model_trim": "SOUL !",
     "model_year": 2013
   },
   {"model_make_id": "kia",
@@ -62209,12 +61954,12 @@
   },
   {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4",
+    "model_trim": "Convertible",
     "model_year": 2013
   },
   {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 ROADSTER",
+    "model_trim": "Coupe",
     "model_year": 2013
   },
   {"model_make_id": "lamborghini",
@@ -65279,32 +65024,22 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2014
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Kia",
     "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
+    "model_trim": "Sedan",
+    "model_year": 2021
+  },
+  {"model_make_id": "Kia",
+    "model_name": "Forte",
+    "model_trim": "Hatchback",
     "model_year": 2014
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
+    "model_trim": "Coupe",
     "model_year": 2014
   },
   {"model_make_id": "Kia",
@@ -65323,26 +65058,6 @@
     "model_year": 2014
   },
   {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2014
-  },
-  {"model_make_id": "Kia",
     "model_name": "Sportage",
     "model_trim": "SUV",
     "model_year": 2014
@@ -65354,8 +65069,8 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2014
+    "model_trim": "SUV",
+    "model_year": 2015
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover",
@@ -66984,12 +66699,12 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -67004,7 +66719,7 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "Land Rover",
@@ -68174,53 +67889,33 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
+    "model_trim": "Hatchback",
     "model_year": 2015
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2015
+    "model_trim": "Hatchback",
+    "model_year": 2016
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2016
   },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
@@ -68499,58 +68194,48 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Audi",
     "model_name": "S4",
@@ -69107,26 +68792,6 @@
     "model_trim": "Wagon",
     "model_year": 2015
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2015
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -69319,13 +68984,13 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Kia",
     "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Nissan",
     "model_name": "Xterra",
@@ -70044,8 +69709,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2015
+    "model_trim": "Coupe",
+    "model_year": 2016
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
@@ -70527,24 +70192,24 @@
     "model_trim": "Sedan",
     "model_year": 2015
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+    "model_trim": "Convertible",
+    "model_year": 2014
+  },
+  {"model_make_id": "lamborghini",
+    "model_name": "Aventador",
+    "model_trim": "Coupe",
+    "model_year": 2014
+  },
+  {"model_make_id": "lamborghini",
+    "model_name": "Aventador",
+    "model_trim": "Convertible",
     "model_year": 2015
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
+    "model_trim": "Coupe",
     "model_year": 2015
   },
   {"model_make_id": "Chevrolet",
@@ -70645,11 +70310,6 @@
   {"model_make_id": "lexus",
     "model_name": "LS 600h L",
     "model_trim": "Sedan",
-    "model_year": 2015
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
     "model_year": 2015
   },
   {"model_make_id": "Ford",
@@ -70774,27 +70434,22 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2015
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2015
   },
   {"model_make_id": "Volvo",
@@ -70894,13 +70549,13 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
+    "model_trim": "Sedan",
     "model_year": 2015
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2015
+    "model_trim": "Sedan",
+    "model_year": 2016
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
@@ -71049,12 +70704,12 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2016
   },
   {"model_make_id": "Subaru",
@@ -71074,8 +70729,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2017
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque Convertible",
@@ -71839,53 +71494,63 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2016
+    "model_trim": "Hatchback",
+    "model_year": 2017
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2017
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2016
+    "model_trim": "Hatchback",
+    "model_year": 2018
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2018
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2016
+    "model_trim": "Hatchback",
+    "model_year": 2019
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2019
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2020
+  },
+  {"model_make_id": "Kia",
+    "model_name": "Forte",
+    "model_trim": "Hatchback",
+    "model_year": 2020
+  },
+  {"model_make_id": "Kia",
+    "model_name": "Forte",
+    "model_trim": "Coupe",
+    "model_year": 2020
   },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
@@ -72118,59 +71783,19 @@
     "model_year": 2016
   },
   {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
+    "model_name": "LR4",
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Audi",
     "model_name": "S4",
@@ -72672,26 +72297,6 @@
     "model_trim": "Wagon",
     "model_year": 2016
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2016
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -72875,16 +72480,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
     "model_trim": "SUV",
-    "model_year": 2016
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
     "model_year": 2016
   },
   {"model_make_id": "Nissan",
@@ -73569,8 +73164,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2018
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
@@ -74032,25 +73627,25 @@
     "model_trim": "Sedan",
     "model_year": 2016
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
+    "model_trim": "Convertible",
     "model_year": 2016
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
+    "model_trim": "Coupe",
     "model_year": 2016
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2016
+    "model_trim": "Convertible",
+    "model_year": 2017
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2016
+    "model_trim": "Coupe",
+    "model_year": 2017
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Express Cargo",
@@ -74162,11 +73757,6 @@
     "model_trim": "SUV",
     "model_year": 2016
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
@@ -74269,27 +73859,27 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2022
+  },
+  {"model_make_id": "Lexus",
+    "model_name": "NX 200t",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2016
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2016
   },
   {"model_make_id": "Volvo",
@@ -74389,13 +73979,13 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2017
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2016
+    "model_trim": "Sedan",
+    "model_year": 2018
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Trax",
@@ -74533,13 +74123,8 @@
     "model_year": 2017
   },
   {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2017
   },
   {"model_make_id": "Subaru",
@@ -74559,8 +74144,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2019
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque Convertible",
@@ -75304,53 +74889,48 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Hatchback",
+    "model_year": 2021
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2021
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2022
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2017
+    "model_trim": "Hatchback",
+    "model_year": 2022
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2022
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Hatchback",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
@@ -75583,59 +75163,14 @@
     "model_year": 2017
   },
   {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
+    "model_name": "LR4",
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Land Rover",
     "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "S4",
@@ -76172,26 +75707,6 @@
     "model_trim": "Wagon",
     "model_year": 2017
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -76395,16 +75910,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
     "model_trim": "SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
     "model_year": 2017
   },
   {"model_make_id": "Nissan",
@@ -77089,8 +76594,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2020
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
@@ -77552,25 +77057,25 @@
     "model_trim": "Sedan",
     "model_year": 2017
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2017
+    "model_trim": "Convertible",
+    "model_year": 2018
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2018
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2017
+    "model_trim": "Convertible",
+    "model_year": 2019
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2017
+    "model_trim": "Coupe",
+    "model_year": 2019
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Express Cargo",
@@ -77722,11 +77227,6 @@
     "model_trim": "SUV",
     "model_year": 2017
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
@@ -77807,29 +77307,9 @@
     "model_trim": "Hatchback",
     "model_year": 2017
   },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2017
-  },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2017
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2017
   },
   {"model_make_id": "Volvo",
@@ -77924,13 +77404,13 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2019
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2017
+    "model_trim": "Sedan",
+    "model_year": 2020
   },
   {"model_make_id": "Hyundai",
     "model_name": "Azera",
@@ -78048,13 +77528,8 @@
     "model_year": 2018
   },
   {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2018
   },
   {"model_make_id": "Subaru",
@@ -78074,8 +77549,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
-    "model_year": 2018
+    "model_trim": "Coupe",
+    "model_year": 2021
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque Convertible",
@@ -78807,56 +78282,6 @@
     "model_trim": "Hatchback",
     "model_year": 2023
   },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
     "model_trim": "Coupe",
@@ -79085,61 +78510,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XJ",
     "model_trim": "Sedan",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
     "model_year": 2018
   },
   {"model_make_id": "Audi",
@@ -79647,26 +79017,6 @@
     "model_trim": "Wagon",
     "model_year": 2018
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -79875,16 +79225,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
     "model_trim": "SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
     "model_year": 2018
   },
   {"model_make_id": "Nissan",
@@ -80569,8 +79909,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2018
+    "model_trim": "Coupe",
+    "model_year": 2022
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
@@ -81032,25 +80372,25 @@
     "model_trim": "Sedan",
     "model_year": 2018
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2018
+    "model_trim": "Convertible",
+    "model_year": 2020
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2018
+    "model_trim": "Coupe",
+    "model_year": 2020
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2018
+    "model_trim": "Convertible",
+    "model_year": 2021
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2018
+    "model_trim": "Coupe",
+    "model_year": 2021
   },
   {"model_make_id": "Chevrolet",
     "model_name": "Express Cargo",
@@ -81222,11 +80562,6 @@
     "model_trim": "SUV",
     "model_year": 2018
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
@@ -81307,29 +80642,9 @@
     "model_trim": "Hatchback",
     "model_year": 2018
   },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2018
-  },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2018
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2018
   },
   {"model_make_id": "Volvo",
@@ -81414,13 +80729,18 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2021
   },
   {"model_make_id": "Kia",
     "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2018
+    "model_trim": "Sedan",
+    "model_year": 2022
+  },
+  {"model_make_id": "Kia",
+    "model_name": "Optima Hybrid",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Hyundai",
     "model_name": "Azera",
@@ -81538,13 +80858,8 @@
     "model_year": 2019
   },
   {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2019
   },
   {"model_make_id": "Subaru",
@@ -81564,8 +80879,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
-    "model_year": 2019
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque Convertible",
@@ -82262,56 +81577,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2019
   },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
     "model_trim": "Coupe",
@@ -82540,61 +81805,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XJ",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
     "model_year": 2019
   },
   {"model_make_id": "Audi",
@@ -83077,26 +82287,6 @@
     "model_trim": "Wagon",
     "model_year": 2019
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -83285,16 +82475,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
     "model_trim": "SUV",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Nissan",
@@ -83950,11 +83130,6 @@
   {"model_make_id": "Lexus",
     "model_name": "GS 450h",
     "model_trim": "Sedan",
-    "model_year": 2019
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
     "model_year": 2019
   },
   {"model_make_id": "GMC",
@@ -84417,25 +83592,25 @@
     "model_trim": "Sedan",
     "model_year": 2019
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2019
+    "model_trim": "Convertible",
+    "model_year": 2022
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2019
+    "model_trim": "Coupe",
+    "model_year": 2022
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2019
+    "model_trim": "Convertible",
+    "model_year": 2023
   },
-  {"model_make_id": "Lamborghini",
+  {"model_make_id": "lamborghini",
     "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2019
+    "model_trim": "Coupe",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Focus ST",
@@ -84527,11 +83702,6 @@
     "model_trim": "SUV",
     "model_year": 2019
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
@@ -84612,29 +83782,9 @@
     "model_trim": "Hatchback",
     "model_year": 2019
   },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2019
-  },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2019
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2019
   },
   {"model_make_id": "Volvo",
@@ -84715,16 +83865,6 @@
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
     "model_year": 2019
   },
   {"model_make_id": "Hyundai",
@@ -84843,13 +83983,8 @@
     "model_year": 2020
   },
   {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2020
   },
   {"model_make_id": "Subaru",
@@ -84865,11 +84000,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Golf SportWagen",
     "model_trim": "4dr Wagon (1.8L 4cyl Turbo 5M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Land Rover",
@@ -85582,56 +84712,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2020
   },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
     "model_trim": "Coupe",
@@ -85860,61 +84940,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XJ",
     "model_trim": "Sedan",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
     "model_year": 2020
   },
   {"model_make_id": "Audi",
@@ -86397,26 +85422,6 @@
     "model_trim": "Wagon",
     "model_year": 2020
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -86605,16 +85610,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
     "model_trim": "SUV",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Nissan",
@@ -87272,11 +86267,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
     "model_trim": "Crew Cab Long Bed",
@@ -87732,26 +86722,6 @@
     "model_trim": "Sedan",
     "model_year": 2020
   },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2020
-  },
   {"model_make_id": "Ford",
     "model_name": "Focus ST",
     "model_trim": "4dr Hatchback w/EcoBoost (2.0L 4cyl Turbo 6M)",
@@ -87842,11 +86812,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
@@ -87927,29 +86892,9 @@
     "model_trim": "Hatchback",
     "model_year": 2020
   },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2020
-  },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2020
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2020
   },
   {"model_make_id": "Volvo",
@@ -88030,16 +86975,6 @@
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
     "model_year": 2020
   },
   {"model_make_id": "Hyundai",
@@ -88158,13 +87093,8 @@
     "model_year": 2021
   },
   {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2021
   },
   {"model_make_id": "Subaru",
@@ -88180,11 +87110,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Golf SportWagen",
     "model_trim": "4dr Wagon (1.8L 4cyl Turbo 5M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Land Rover",
@@ -88897,56 +87822,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2021
   },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
     "model_trim": "Coupe",
@@ -89175,61 +88050,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XJ",
     "model_trim": "Sedan",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
     "model_year": 2021
   },
   {"model_make_id": "Audi",
@@ -89707,26 +88527,6 @@
     "model_trim": "Hatchback",
     "model_year": 2021
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
     "model_trim": "Hatchback",
@@ -89915,16 +88715,6 @@
   {"model_make_id": "Volkswagen",
     "model_name": "Tiguan",
     "model_trim": "SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Nissan",
@@ -90592,11 +89382,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
     "model_trim": "Crew Cab Long Bed",
@@ -91052,26 +89837,6 @@
     "model_trim": "Sedan",
     "model_year": 2021
   },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2021
-  },
   {"model_make_id": "Ford",
     "model_name": "Focus ST",
     "model_trim": "4dr Hatchback w/EcoBoost (2.0L 4cyl Turbo 6M)",
@@ -91172,11 +89937,6 @@
     "model_trim": "SUV",
     "model_year": 2023
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Ford",
     "model_name": "Edge",
     "model_trim": "SUV",
@@ -91257,29 +90017,9 @@
     "model_trim": "Hatchback",
     "model_year": 2021
   },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2021
-  },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
-    "model_year": 2021
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
     "model_year": 2021
   },
   {"model_make_id": "Volvo",
@@ -91365,16 +90105,6 @@
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
     "model_year": 2021
   },
   {"model_make_id": "Toyota",
@@ -91533,13 +90263,8 @@
     "model_year": 2022
   },
   {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV (2.5L 4cyl gas/electric hybrid CVT)",
+    "model_trim": "SUV",
     "model_year": 2022
   },
   {"model_make_id": "Subaru",
@@ -91562,15 +90287,15 @@
     "model_trim": "4dr Wagon (1.8L 4cyl Turbo 5M)",
     "model_year": 2023
   },
-  {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe (3.5L 6cyl 8A)",
+  {"model_make_id": "Land Rover",
+    "model_name": "Range Rover Evoque Convertible",
+    "model_trim": "2dr SUV AWD (2.0L 4cyl Turbo 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Evoque Convertible",
     "model_trim": "2dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "A8",
@@ -91717,6 +90442,11 @@
     "model_trim": "Minivan",
     "model_year": 2022
   },
+  {"model_make_id": "Kia",
+    "model_name": "Sedona",
+    "model_trim": "Minivan",
+    "model_year": 2023
+  },
   {"model_make_id": "Mazda",
     "model_name": "CX-5",
     "model_trim": "Touring 4dr SUV AWD (2.5L 4cyl 6A)",
@@ -91767,10 +90497,20 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Kia",
+    "model_name": "Sorento",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Lexus",
     "model_name": "RC F",
     "model_trim": "2dr Coupe (5.0L 8cyl 8A)",
     "model_year": 2022
+  },
+  {"model_make_id": "Lexus",
+    "model_name": "RC F",
+    "model_trim": "2dr Coupe (5.0L 8cyl 8A)",
+    "model_year": 2023
   },
   {"model_make_id": "Audi",
     "model_name": "TT",
@@ -91781,6 +90521,11 @@
     "model_name": "K900",
     "model_trim": "Luxury 4dr Sedan (5.0L 8cyl 8A)",
     "model_year": 2022
+  },
+  {"model_make_id": "Kia",
+    "model_name": "K900",
+    "model_trim": "Luxury 4dr Sedan (5.0L 8cyl 8A)",
+    "model_year": 2023
   },
   {"model_make_id": "Volvo",
     "model_name": "XC60",
@@ -91881,6 +90626,11 @@
     "model_name": "Renegade",
     "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
     "model_year": 2022
+  },
+  {"model_make_id": "Jeep",
+    "model_name": "Renegade",
+    "model_trim": "4dr SUV (1.4L 4cyl Turbo 6A)",
+    "model_year": 2023
   },
   {"model_make_id": "Jaguar",
     "model_name": "F-TYPE",
@@ -92168,9 +90918,19 @@
     "model_year": 2022
   },
   {"model_make_id": "lexus",
+    "model_name": "RX 350",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
+  {"model_make_id": "lexus",
     "model_name": "RX 350L",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "lexus",
+    "model_name": "RX 350L",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "lexus",
     "model_name": "RX 450h",
@@ -92178,9 +90938,19 @@
     "model_year": 2022
   },
   {"model_make_id": "lexus",
+    "model_name": "RX 450h",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
+  {"model_make_id": "lexus",
     "model_name": "RX 450hL",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "lexus",
+    "model_name": "RX 450hL",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
@@ -92467,6 +91237,11 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Land Rover",
+    "model_name": "LR2",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Mazda",
     "model_name": "MX-5 Miata",
     "model_trim": "Convertible",
@@ -92621,6 +91396,11 @@
     "model_name": "Optima",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Kia",
+    "model_name": "Optima",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Fusion",
@@ -92782,56 +91562,6 @@
     "model_trim": "quattro 4dr Sedan AWD (4.0L 8cyl Turbo 8A)",
     "model_year": 2023
   },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "LX 4dr Sedan (1.8L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "EX 4dr Sedan (2.0L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 EX 4dr Hatchback (2.0L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Forte5 SX 4dr Hatchback (1.6L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup EX 2dr Coupe (2.0L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Forte",
-    "model_trim": "Koup SX 2dr Coupe (1.6L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Subaru",
     "model_name": "BRZ",
     "model_trim": "Coupe",
@@ -92881,6 +91611,11 @@
     "model_name": "Compass",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Jeep",
+    "model_name": "Compass",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Mitsubishi",
     "model_name": "Mirage",
@@ -92941,11 +91676,16 @@
     "model_name": "Mustang",
     "model_trim": "Convertible",
     "model_year": 2023
-},
+  },
   {"model_make_id": "Jeep",
     "model_name": "Patriot",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Jeep",
+    "model_name": "Patriot",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "SLK",
@@ -92991,6 +91731,11 @@
     "model_name": "Cherokee",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Jeep",
+    "model_name": "Cherokee",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Transit Cargo",
@@ -93113,9 +91858,19 @@
     "model_year": 2022
   },
   {"model_make_id": "Jeep",
+    "model_name": "Grand Cherokee",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
+  {"model_make_id": "Jeep",
     "model_name": "Grand Cherokee SRT",
     "model_trim": "4dr SUV 4WD (6.4L 8cyl 8A)",
     "model_year": 2022
+  },
+  {"model_make_id": "Jeep",
+    "model_name": "Grand Cherokee SRT",
+    "model_trim": "4dr SUV 4WD (6.4L 8cyl 8A)",
+    "model_year": 2023
   },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLK",
@@ -93131,6 +91886,11 @@
     "model_name": "Wrangler",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Jeep",
+    "model_name": "Wrangler",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Mitsubishi",
     "model_name": "Outlander",
@@ -93175,61 +91935,6 @@
   {"model_make_id": "Jaguar",
     "model_name": "XJ",
     "model_trim": "Sedan",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 2dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Plus 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Pure Premium 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Dynamic 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Prestige 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "LR4",
-    "model_trim": "HSE LUX 4dr SUV 4WD (3.0L 6cyl S/C 8A)",
     "model_year": 2022
   },
   {"model_make_id": "Audi",
@@ -93803,14 +92508,29 @@
     "model_year": 2022
   },
   {"model_make_id": "lexus",
+    "model_name": "IS 300",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "lexus",
     "model_name": "IS 350",
+    "model_trim": "Sedan",
+    "model_year": 2022
+  },
+  {"model_make_id": "lexus",
+    "model_name": "IS 350",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "lexus",
+    "model_name": "IS 500",
     "model_trim": "Sedan",
     "model_year": 2022
   },
   {"model_make_id": "lexus",
     "model_name": "IS 500",
     "model_trim": "Sedan",
-    "model_year": 2022
+    "model_year": 2023
   },
   {"model_make_id": "Toyota",
     "model_name": "Yaris",
@@ -93842,6 +92562,11 @@
     "model_trim": "Hatchback",
     "model_year": 2022
   },
+  {"model_make_id": "Kia",
+    "model_name": "Rio",
+    "model_trim": "Hatchback",
+    "model_year": 2023
+  },
   {"model_make_id": "Mercedes-Benz",
     "model_name": "GLA-Class",
     "model_trim": "GLA250 4dr SUV (2.0L 4cyl Turbo 7AM)",
@@ -93872,11 +92597,21 @@
     "model_trim": "4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT)",
     "model_year": 2022
   },
+  {"model_make_id": "Lexus",
+    "model_name": "CT 200h",
+    "model_trim": "4dr Hatchback (1.8L 4cyl gas/electric hybrid CVT)",
+    "model_year": 2023
+  },
   {"model_make_id": "Land Rover",
     "model_name": "Range Rover Sport",
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Land Rover",
+    "model_name": "Range Rover Sport",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "ford",
     "model_name": "F-150",
     "model_trim": "Crew Cab Long Bed",
@@ -93956,26 +92691,6 @@
     "model_name": "Prius",
     "model_trim": "Hatchback",
     "model_year": 2023
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6M)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "4dr Wagon (1.6L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "+ 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul",
-    "model_trim": "! 4dr Wagon (2.0L 4cyl 6A)",
-    "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "3 Series Gran Turismo",
@@ -93991,6 +92706,11 @@
     "model_name": "Range Rover",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Land Rover",
+    "model_name": "Range Rover",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Porsche",
     "model_name": "Cayenne",
@@ -94067,10 +92787,20 @@
     "model_trim": "SUV",
     "model_year": 2022
   },
+  {"model_make_id": "Kia",
+    "model_name": "Sportage",
+    "model_trim": "SUV",
+    "model_year": 2023
+  },
   {"model_make_id": "Lexus",
     "model_name": "GX 460",
     "model_trim": "SUV",
     "model_year": 2022
+  },
+  {"model_make_id": "Lexus",
+    "model_name": "GX 460",
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "BMW",
     "model_name": "ActiveHybrid 5",
@@ -94321,16 +93051,6 @@
     "model_name": "Tiguan",
     "model_trim": "SUV",
     "model_year": 2023
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Premium 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Cadenza",
-    "model_trim": "Limited 4dr Sedan (3.3L 6cyl 6A)",
-    "model_year": 2022
   },
   {"model_make_id": "Nissan",
     "model_name": "Xterra",
@@ -95013,9 +93733,19 @@
     "model_year": 2022
   },
   {"model_make_id": "Lexus",
+    "model_name": "ES 300h",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "Lexus",
     "model_name": "ES 350",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Lexus",
+    "model_name": "ES 350",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Toyota",
     "model_name": "Sienna",
@@ -95178,9 +93908,19 @@
     "model_year": 2022
   },
   {"model_make_id": "Lexus",
+    "model_name": "LX 570",
+    "model_trim": "4dr SUV 4WD (5.7L 8cyl 6A)",
+    "model_year": 2023
+  },
+  {"model_make_id": "Lexus",
     "model_name": "GS 350",
     "model_trim": "Sedan",
     "model_year": 2022
+  },
+  {"model_make_id": "Lexus",
+    "model_name": "GS 350",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Flex",
@@ -95208,9 +93948,9 @@
     "model_year": 2022
   },
   {"model_make_id": "Lexus",
-    "model_name": "RC 350",
-    "model_trim": "2dr Coupe AWD (3.5L 6cyl 6A)",
-    "model_year": 2022
+    "model_name": "GS 450h",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Sierra 1500",
@@ -95692,6 +94432,11 @@
     "model_trim": "LP 610-4 2dr Coupe AWD (5.2L 10cyl 7AM)",
     "model_year": 2022
   },
+  {"model_make_id": "Lamborghini",
+    "model_name": "Huracan",
+    "model_trim": "LP 610-4 2dr Coupe AWD (5.2L 10cyl 7AM)",
+    "model_year": 2023
+  },
   {"model_make_id": "Subaru",
     "model_name": "Impreza",
     "model_trim": "Hatchback",
@@ -95721,26 +94466,6 @@
     "model_name": "Cruze",
     "model_trim": "Sedan",
     "model_year": 2023
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 700-4 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 700-4 Roadster 2dr Convertible AWD (6.5L 12cyl 7AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 50 Anniversario 2dr Coupe AWD (6.5L 12cyl 7AM)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Lamborghini",
-    "model_name": "Aventador",
-    "model_trim": "LP 720-4 Roadster 50 Anniversario 2dr Convertible AWD (6.5L 12cy",
-    "model_year": 2022
   },
   {"model_make_id": "Ford",
     "model_name": "Focus ST",
@@ -95863,14 +94588,19 @@
     "model_year": 2022
   },
   {"model_make_id": "lexus",
+    "model_name": "LS 500",
+    "model_trim": "Sedan",
+    "model_year": 2023
+  },
+  {"model_make_id": "lexus",
     "model_name": "LS 500h",
     "model_trim": "Sedan",
     "model_year": 2022
   },
-  {"model_make_id": "Land Rover",
-    "model_name": "Range Rover Evoque",
-    "model_trim": "Autobiography 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
+  {"model_make_id": "lexus",
+    "model_name": "LS 500h",
+    "model_trim": "Sedan",
+    "model_year": 2023
   },
   {"model_make_id": "Ford",
     "model_name": "Edge",
@@ -95906,6 +94636,11 @@
     "model_name": "Soul EV",
     "model_trim": "+ 4dr Wagon (electric DD)",
     "model_year": 2022
+  },
+  {"model_make_id": "Kia",
+    "model_name": "Soul EV",
+    "model_trim": "+ 4dr Wagon (electric DD)",
+    "model_year": 2023
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
@@ -95982,21 +94717,6 @@
     "model_trim": "Hatchback",
     "model_year": 2023
   },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Lexus",
-    "model_name": "NX 200t",
-    "model_trim": "F SPORT 4dr SUV AWD (2.0L 4cyl Turbo 6A)",
-    "model_year": 2022
-  },
   {"model_make_id": "Subaru",
     "model_name": "XV Crosstrek",
     "model_trim": "SUV",
@@ -96009,8 +94729,8 @@
   },
   {"model_make_id": "Lexus",
     "model_name": "NX 300h",
-    "model_trim": "4dr SUV AWD (2.5L 4cyl gas/electric hybrid CVT)",
-    "model_year": 2022
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "Volvo",
     "model_name": "V60 Cross Country",
@@ -96110,16 +94830,6 @@
   {"model_make_id": "Ram",
     "model_name": 1500,
     "model_trim": "Outdoorsman 4dr Crew Cab 6.3 ft SB (5.7L 8cyl 8A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "LX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Optima Hybrid",
-    "model_trim": "EX Hybrid 4dr Sedan (2.4L 4cyl gas/electric hybrid 6A)",
     "model_year": 2022
   },
   {"model_make_id": "Toyota",
