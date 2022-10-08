@@ -65634,7 +65634,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2015
   },
   {"model_make_id": "BMW",
@@ -65724,7 +65724,7 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
+    "model_trim": "SUV",
     "model_year": 2015
   },
   {"model_make_id": "chevrolet",
@@ -67862,20 +67862,15 @@
     "model_trim": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
     "model_year": 2015
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2015
+  {"model_make_id": "Land Rover",
+    "model_name": "Discovery Sport",
+    "model_trim": "SUV",
+    "model_year": 2016
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2015
+    "model_trim": "SUV",
+    "model_year": 2017
   },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
@@ -68474,7 +68469,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2016
   },
   {"model_make_id": "BMW",
@@ -68569,8 +68564,8 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2018
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
@@ -70162,20 +70157,15 @@
     "model_trim": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
     "model_year": 2016
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2016
+  {"model_make_id": "Land Rover",
+    "model_name": "Discovery Sport",
+    "model_trim": "SUV",
+    "model_year": 2019
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2016
+    "model_trim": "SUV",
+    "model_year": 2020
   },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
@@ -70734,7 +70724,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2017
   },
   {"model_make_id": "BMW",
@@ -70829,8 +70819,8 @@
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2021
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
@@ -72442,20 +72432,15 @@
     "model_trim": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
     "model_year": 2017
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2017
+  {"model_make_id": "Land Rover",
+    "model_name": "Discovery Sport",
+    "model_trim": "SUV",
+    "model_year": 2022
   },
   {"model_make_id": "Land Rover",
     "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2017
+    "model_trim": "SUV",
+    "model_year": 2023
   },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
@@ -72964,7 +72949,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
@@ -73055,11 +73040,6 @@
   {"model_make_id": "Subaru",
     "model_name": "Outback",
     "model_trim": "Wagon",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
     "model_year": 2018
   },
   {"model_make_id": "BMW",
@@ -74547,21 +74527,6 @@
     "model_trim": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
     "model_year": 2018
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2018
-  },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
     "model_trim": "Cargo",
@@ -75049,7 +75014,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
@@ -75140,11 +75105,6 @@
   {"model_make_id": "Subaru",
     "model_name": "Outback",
     "model_trim": "Wagon",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
     "model_year": 2019
   },
   {"model_make_id": "BMW",
@@ -76442,21 +76402,6 @@
     "model_trim": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
     "model_year": 2019
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2019
-  },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
     "model_trim": "Cargo",
@@ -76922,11 +76867,6 @@
     "model_trim": "SUV",
     "model_year": 2020
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
-    "model_year": 2020
-  },
   {"model_make_id": "BMW",
     "model_name": "7 Series",
     "model_trim": "Sedan",
@@ -77015,11 +76955,6 @@
   {"model_make_id": "Subaru",
     "model_name": "Outback",
     "model_trim": "Wagon",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
     "model_year": 2020
   },
   {"model_make_id": "BMW",
@@ -78304,17 +78239,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2020
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
+    "model_trim": "Wagon",
     "model_year": 2020
   },
   {"model_make_id": "GMC",
@@ -78784,7 +78709,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
@@ -78875,11 +78800,6 @@
   {"model_make_id": "Subaru",
     "model_name": "Outback",
     "model_trim": "Wagon",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
     "model_year": 2021
   },
   {"model_make_id": "BMW",
@@ -80177,21 +80097,6 @@
     "model_trim": "2dr Coupe (3.8L 8cyl Turbo 7AM)",
     "model_year": 2021
   },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2021
-  },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
     "model_trim": "Cargo",
@@ -81014,7 +80919,7 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2022
   },
   {"model_make_id": "BMW",
@@ -81176,11 +81081,6 @@
     "model_name": "X4",
     "model_trim": "xDrive28i 4dr SUV AWD (2.0L 4cyl Turbo 8A)",
     "model_year": 2023
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "SE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
   },
   {"model_make_id": "BMW",
     "model_name": "6 Series",
@@ -82387,6 +82287,11 @@
     "model_trim": "2500 High Roof 3dr Van (3.6L 6cyl 6A)",
     "model_year": 2022
   },
+  {"model_make_id": "Ram",
+    "model_name": "Promaster Window Van",
+    "model_trim": "2500 High Roof 3dr Van (3.6L 6cyl 6A)",
+    "model_year": 2023
+  },
   {"model_make_id": "Buick",
     "model_name": "LaCrosse",
     "model_trim": "4dr Sedan",
@@ -82803,9 +82708,19 @@
     "model_year": 2022
   },
   {"model_make_id": "MINI",
+    "model_name": "Cooper Countryman",
+    "model_trim": "Wagon",
+    "model_year": 2023
+  },
+  {"model_make_id": "MINI",
     "model_name": "Cooper Countryman Plug-In-Hybrid",
     "model_trim": "Wagon",
     "model_year": 2022
+  },
+  {"model_make_id": "MINI",
+    "model_name": "Cooper Countryman Plug-In-Hybrid",
+    "model_trim": "Wagon",
+    "model_year": 2023
   },
   {"model_make_id": "MINI",
    "model_name": "Cooper Convertible",
@@ -82838,9 +82753,9 @@
   "model_year": 2023
 },
 {"model_make_id": "MINI",
-"model_name": "Cooper Countryman Plug-In-Hybrid",
-"model_trim": "Wagon",
-"model_year": 2023
+  "model_name": "Cooper Countryman Plug-In-Hybrid",
+  "model_trim": "Wagon",
+  "model_year": 2023
 },
 {"model_make_id": "MINI",
  "model_name": "Cooper Convertible",
@@ -83774,23 +83689,8 @@
   },
   {"model_make_id": "Kia",
     "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Kia",
-    "model_name": "Soul EV",
-    "model_trim": "+ 4dr Wagon (electric DD)",
+    "model_trim": "Wagon",
     "model_year": 2023
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
-  },
-  {"model_make_id": "Land Rover",
-    "model_name": "Discovery Sport",
-    "model_trim": "HSE LUX 4dr SUV AWD (2.0L 4cyl Turbo 9A)",
-    "model_year": 2022
   },
   {"model_make_id": "GMC",
     "model_name": "Savana Cargo",
